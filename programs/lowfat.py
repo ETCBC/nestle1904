@@ -32,70 +32,75 @@ def convertTaskCustom(self):
     otext = {
         "fmt:text-orig-full": "{text}{after}",
         "sectionTypes": "book,chapter,verse",
-        "sectionFeatures": "book_short,chapter,verse",
+        "sectionFeatures": "book,chapter,verse",
     }
     intFeatures = {
+        "appositioncontainer",
+        "articular",
         "chapter",
-        "verse",
-        "book_num",
-        "sentence_number",
+        "discontinuous",
         "nodeId",
+        "num",
         "strong",
-        "word_in_verse",
-        "empty",
+        "verse",
     }
-    featureMeta = dict(
-        book_num=dict(
-            description="NT book number (Matthew=1, Mark=2, ..., Revelation=27)"
+    monoAtts = {"appositioncontainer", "articular", "discontinuous"}
+    featureMeta = (
+        ("after", "material after the end of the word"),
+        ("appositioncontainer", "1 if it is an apposition container"),
+        ("articular", "1 if the wg has an article"),
+        ("book", "book name (abbreviated), from ref attribute in xml"),
+        ("case", "grammatical case"),
+        ("chapter", "chapter number, from ref attribute in xml"),
+        ("class", "morphological class (on w); syntactical class (on wg)"),
+        ("clauseType", "clause type"),
+        ("cltype", "clause type"),
+        ("crule", "clause rule (from xml attribute Rule)"),
+        ("degree", "grammatical degree"),
+        ("discontinuous", "1 if the word is out of sequence in the xml"),
+        ("domain", "domain"),
+        ("frame", "frame"),
+        ("gender", "grammatical gender"),
+        ("gloss", "short translation"),
+        ("id", "xml id"),
+        ("junction", "type of junction"),
+        ("lang", "language the text is in"),
+        ("lemma", "lexical lemma"),
+        ("ln", "ln"),
+        ("mood", "verbal mood"),
+        ("morph", "morphological code"),
+        ("nodeId", "node id (as in the XML source data"),
+        ("normalized", "lemma normalized"),
+        (
+            "num",
+            (
+                "generated number (not in xml): "
+                "book: (Matthew=1, Mark=2, ..., Revelation=27); "
+                "sentence: numbered per chapter; "
+                "word: numbered per verse."
+            ),
         ),
-        book_short=dict(description="Book name (abbreviated)"),
-        sentence_number=dict(description="Sentence number (counted per chapter)"),
-        Rule=dict(description="Clause rule"),
-        appositioncontainer=dict(description="Apposition container"),
-        articular=dict(description="Articular"),
-        class_wg=dict(description="Syntactical class"),
-        clauseType=dict(description="Type of clause"),
-        cltype=dict(description="Type of clause"),
-        junction=dict(description="Type of junction"),
-        nodeId=dict(description="Node ID (as in the XML source data"),
-        role_wg=dict(description="Role"),
-        rule=dict(description="Syntactical rule"),
-        type_wg=dict(description="Syntactical type"),
-        text=dict(description="the text of a word"),
-        after=dict(description="After the end of the word"),
-        book=dict(description="Book name (abbreviated)"),
-        case=dict(description="Type of case"),
-        chapter=dict(description="Number of the chapter"),
-        class_w=dict(description="Morphological class"),
-        degree=dict(description="Degree"),
-        discontinuous=dict(description="Discontinuous"),
-        domain=dict(description="domain"),
-        frame=dict(description="frame"),
-        gender=dict(description="gender"),
-        gloss=dict(description="gloss"),
-        id=dict(description="xml iD"),
-        lemma=dict(description="lemma"),
-        ln=dict(description="ln"),
-        mood=dict(description="verbal mood"),
-        morph=dict(description="morph"),
-        normalized=dict(description="lemma normalized"),
-        number=dict(description="number"),
-        person=dict(description="person"),
-        ref=dict(description="biblical reference with word counting"),
-        referent=dict(description="number of referent"),
-        role_w=dict(description="role"),
-        strong=dict(description="strong number"),
-        subjref=dict(description="number"),
-        tense=dict(description="Verbal tense"),
-        type_w=dict(description="Morphological type"),
-        unicode=dict(description="lemma in unicode characters"),
-        verse=dict(description="verse"),
-        voice=dict(description="Verbal voice"),
-        word_in_verse=dict(description="number of word"),
-        empty=dict(description="whether a slot has been inserted in an empty element"),
+        ("number", "grammatical number"),
+        ("note", "annotation of linguistic nature"),
+        ("person", "grammatical person"),
+        ("ref", "biblical reference with word counting"),
+        ("referent", "number of referent"),
+        ("strong", "strong number"),
+        ("subjref", "number of subject referent"),
+        ("role", "role"),
+        ("rule", "syntactical rule"),
+        ("text", "the text of a word"),
+        ("tense", "verbal tense"),
+        ("type", "morphological type (on w), syntactical type (on wg)"),
+        ("unicode", "word in unicode characters plus material after it"),
+        ("verse", "verse number, from ref attribute in xml"),
+        ("voice", "verbal voice"),
     )
+    featureMeta = {k: dict(description=v) for (k, v) in featureMeta}
+
     self.intFeatures = intFeatures
     self.featureMeta = featureMeta
+    self.monoAtts = monoAtts
 
     tfVersion = self.tfVersion
     xmlVersion = self.xmlVersion
@@ -154,6 +159,8 @@ def getDirector(self):
     xmlPath = self.xmlPath
     featureMeta = self.featureMeta
     transform = self.transform
+    renameAtts = self.renameAtts
+    monoAtts = self.monoAtts
 
     transformFunc = (
         (lambda x: BytesIO(x.encode("utf-8")))
@@ -211,6 +218,10 @@ def getDirector(self):
             return
 
         atts = {etree.QName(k).localname: v for (k, v) in node.attrib.items()}
+        atts = {renameAtts.get(k, k): v for (k, v) in atts.items()}
+        for m in monoAtts:
+            if atts.get(m, None) == "true":
+                atts[m] = 1
 
         if tag == "w":
             # atts["text"] = atts["unicode"]
@@ -221,7 +232,7 @@ def getDirector(self):
             atts["book"] = bRef
             atts["chapter"] = chRef
             atts["verse"] = vRef
-            atts["word_num"] = wRef
+            atts["num"] = wRef
             thisChapterNum = atts["chapter"]
             thisVerseNum = atts["verse"]
             if thisChapterNum != cv.get("chapter", cur["chapter"]):
@@ -253,13 +264,13 @@ def getDirector(self):
         else:
             if tag == "book":
                 cur["bookNum"] += 1
-                atts["book_num"] = cur["bookNum"]
-                atts["book_short"] = atts["id"]
+                atts["num"] = cur["bookNum"]
+                atts["book"] = atts["id"]
                 del atts["id"]
 
             elif tag == "sentence":
                 cur["sentNum"] += 1
-                atts["sent_num"] = cur["sentNum"]
+                atts["num"] = cur["sentNum"]
 
             curNode = cv.node(tag)
             cur["elems"].append(curNode)

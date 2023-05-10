@@ -19,7 +19,7 @@ provenanceSpec:
   corpus: '{org} - {repo}{relative}'
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
-  version: 0.3.0
+  version: 0.3.1
   webBase: https://public.{org}.org/{repo}
   webHint: Show this on the website
   webLang: en
@@ -29,5 +29,5 @@ typeDisplay:
   sentence:
     condense: true
   w:
-    featuresBare: word_num
+    featuresBare: num
 writing: grc

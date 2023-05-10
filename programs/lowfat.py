@@ -7,6 +7,8 @@ from tf.core.files import initTree, unexpanduser as ux
 
 from tf.convert.helpers import NEST
 
+demoMode = False
+
 
 def convertTaskCustom(self):
     """Implementation of the "convert" task.
@@ -258,6 +260,11 @@ def getDirector(self):
                 cv.feature(curVerse, verse=thisVerseNum)
 
             key = f"B{cur['bookNum']:>03}-C{chRef:>03}-V{vRef:>03}-W{wRef:>04}"
+
+            if demoMode:
+                if cur["sentNum"] == 1:
+                    key = None
+
             s = cv.slot(key=key)
             cv.feature(s, **atts)
 

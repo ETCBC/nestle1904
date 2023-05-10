@@ -7,6 +7,9 @@ from tf.core.files import initTree, unexpanduser as ux
 
 from tf.convert.helpers import NEST
 
+# set this to true if you want to create demo data on the oldest
+# xml version with the first sentence of Jude twice:
+# once without and once with slot reordering
 demoMode = False
 
 
@@ -225,6 +228,9 @@ def getDirector(self):
             if atts.get(m, None) == "true":
                 atts[m] = 1
 
+        if tag == "error":
+            tag = "wg"
+
         if tag == "w":
             # atts["text"] = atts["unicode"]
             atts["text"] = node.text
@@ -302,6 +308,9 @@ def getDirector(self):
         tag: string
             The tag of the lxml node.
         """
+        if tag == "error":
+            tag = "wg"
+
         if tag not in PASS_THROUGH:
             if tag == "book":
                 cv.terminate(cur["verse"])

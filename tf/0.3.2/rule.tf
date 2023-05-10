@@ -1,0 +1,93248 @@
+@node
+@author=Evangelists and apostles
+@converters=Tony Jorg, Saulo Oliveira de Cantanhêde, Dirk Roorda
+@description=syntactical rule
+@institute=ETCBC (Eep Talstra Centre for Bible and Computer)
+@sourceDescription=Nestle 1904 edition
+@sourceFormat=XML
+@title=Greek New Testament
+@valueType=str
+@version=0.3.2
+@xmlVersion=2022-11-01
+@writtenBy=Text-Fabric
+@dateWritten=2023-05-10T21:46:52Z
+
+154023	P2CL
+NPofNP
+NPofNP
+Np-Appos
+Np-Appos
+Np-Appos
+NPofNP
+NPofNP
+154032	Conj13CL
+S-V-O
+DetNP
+154036	S-V-O
+DetNP
+154039	S-V-O
+NpaNp
+DetNP
+154043	DetNP
+NPofNP
+154046	S-V-O-ADV
+NpaNp
+DetNP
+154050	DetNP
+PrepNp
+DetNP
+154054	S-V-O
+DetNP
+154057	S-V-O
+DetNP
+154060	S-V-O
+DetNP
+154063	S-V-O
+DetNP
+154066	S-V-O
+DetNP
+154069	S-V-O-ADV
+DetNP
+PrepNp
+DetNP
+154074	S-V-O-ADV
+DetNP
+PrepNp
+DetNP
+154079	S-V-O
+DetNP
+154082	S-V-O
+Np-Appos
+DetNP
+DetNP
+154087	Conj-CL
+Conj14CL
+S-V-O-ADV
+DetNP
+PrepNp
+NPofNP
+DetNP
+154095	S-V-O
+DetNP
+154098	S-V-O
+DetNP
+154101	S-V-O
+DetNP
+154104	S-V-O
+DetNP
+154107	S-V-O
+DetNP
+154110	S-V-O
+DetNP
+154113	S-V-O
+DetNP
+154116	S-V-O
+DetNP
+154119	S-V-O
+DetNP
+154122	S-V-O
+DetNP
+154125	S-V-O
+DetNP
+154128	S-V-O
+DetNP
+154131	S-V-O-ADV
+NpaNp
+DetNP
+154135	DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+154141	Conj-CL
+Conj12CL
+ADV-S-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+154149	S-V-O
+DetNP
+154152	S-V-O
+DetNP
+154155	S-V-O
+DetNP
+154158	S-V-O
+DetNP
+154161	S-V-O
+DetNP
+154164	S-V-O
+DetNP
+154167	S-V-O
+DetNP
+154170	S-V-O
+DetNP
+154173	S-V-O
+DetNP
+154176	S-V-O
+DetNP
+154179	S-V-O
+Np-Appos
+DetNP
+DetNP
+NPofNP
+NP-CL
+ADV-V-S
+PrepNp
+Np-Appos
+DetCL
+VC-P
+154191	Conj-CL
+Conj3CL
+S-P
+All-NP
+DetNP
+NpPp
+2Pp
+PrepNp
+PrepNp
+NpAdjp
+154202	S-P
+2Pp
+PrepNp
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+154210	S-P
+2Pp
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NpAdjp
+154219	Conj-CL
+S-P-VC
+ofNPNP
+DetNP
+Np-Appos
+DetNP
+154226	ClCl2
+V-S-IO
+Np-Appos
+DetNP
+NPofNP
+DetNP
+ADV-V-O
+AdvpCL
+sub-CL
+V-S
+ADV-V-ADV
+PrepNp
+PrepNp
+NpAdjp
+154241	Conj-CL
+S-ADV-V-O
+Np-Appos
+DetNP
+NPofNP
+CLaCL
+P-VC
+154249	ADV-V-O
+O-V
+ADV-V-O
+154253	Conj-CL
+154255	O-S-V
+NPofNP
+PrepNp
+154259	CLaCL
+ClCl
+154262	Np2CL
+Np-Appos
+NPofNP
+V-O-O2
+DetNP
+NPofNP
+sub-CL
+S-P-VC
+DetCL
+ADV-V
+PrepNp
+PrepNp
+NpAdjp
+154276	CLaCL
+V-O
+154280	DetNP
+NPofNP
+sub-CL
+S-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+154290	Conj-CL
+ClCl
+S-V
+NP-all
+sub-CL
+V-S
+DetCL
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+154303	S-ADV-V
+DetNP
+PrepNp
+154307	V-O
+154309	V-O-O2
+DetNP
+NPofNP
+NP-CL
+S-VC-P
+BeVerb
+P-S
+PrepNp
+DetNP
+154319	Conj-CL
+CLaCL
+CLaCL
+ClCl
+S-ADV-V
+V-ADV
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-O-S
+DetNP
+NPofNP
+154333	CLaCL
+V-O
+DetNP
+NPofNP
+154338	ADV-V-O-ADV
+PrepNp
+ADV-V-O
+154342	V-O-O2
+DetNP
+NPofNP
+154346	Conj-CL
+ClCl2
+S-V-ADV-ADV
+DetNP
+PrepNp
+NPofNP
+DetNP
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+154358	PrepNp
+PrepNp
+154361	ClCl
+P-VC-S
+DetNP
+AdjpNp
+V2CL
+NPofNP
+DetAdj
+Conj-CL
+CLaCL
+V-O-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+154376	V-ADV
+V-O
+154379	Conj-CL
+CLaCL
+CLaCL
+ADV-S-V
+V2CL
+Np-Appos
+DetNP
+154387	S-ADV
+All-NP
+PrepNp
+154391	ADV-V-ADV-O
+V-O
+All-NP
+DetNP
+NpaNp
+154397	NPofNP
+DetNP
+PrepNp
+ADV-S-V
+DetNP
+154403	Conj-CL
+154405	ClCl
+ADV2CL
+PrepNp
+NPofNP
+DetNP
+Conj-CL
+154412	PrepNp
+DetNP
+Conj-CL
+ClCl
+154417	Np2CL
+Np-Appos
+NPofNP
+PrepNp
+DetNP
+NPofNP
+Conj-CL
+ADV-V-S
+PrepNp
+NP-CL
+V2CL
+S-V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+154434	CLaCL
+ADV-S-ADV-V-ADV-O
+ADV-V-O
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+AdjpNp
+V2CL
+154446	V-O-ADV
+PrepNp
+CLaCL
+ADV-V-ADV-ADV
+V2CL
+PrepNp
+DetNP
+154454	ClCl
+ClCl2
+sub-CL
+V2CL
+V-IO
+sub-CL
+S-ADV-V-O
+V2CL
+154463	Conj-CL
+CLaCL
+S-ADV-V
+V-O
+DetNP
+154470	S-V-O
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+DetNP
+ADV-V-ADV
+V2CL
+PrepNp
+P-VC-S
+DetNP
+154482	Conj-CL
+ADV-V-ADV-ADV
+V-O
+DetNP
+NpAdjp
+154488	Conj-CL
+Conj3CL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+DetNP
+NpPp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+154501	ADV-V-O
+V2CL
+154504	ADV-V-IO-O
+V-O
+DetNP
+NPofNP
+Np-Appos
+Conj3Np
+154513	Conj-CL
+ADV-ADV-V-ADV
+V-ADV-O
+PrepNp
+ADV-V-ADV
+PrepNp
+PrepNp
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+154525	Conj-CL
+ClCl2
+V-S
+154529	NPofNP
+PrepNp
+DetNP
+154533	ClCl
+Conj3CL
+ADV-V-O
+V2CL
+NpaNp
+DetNP
+154540	DetNP
+NPofNP
+154543	V-ADV
+PrepNp
+154546	ClCl
+V-ADV
+sub-CL
+PtclCL
+V-IO
+Conj-CL
+V-S-O
+V-O-ADV
+DetNP
+DetCL
+V-O
+154558	Conj-CL
+ClCl
+Conj3CL
+S-ADV-V-O-ADV
+V2CL
+NpaNp
+DetNP
+154566	DetNP
+NPofNP
+154569	V-ADV
+PrepNp
+154572	VC-P-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+V-S
+DetCL
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+154584	ADV-V-O
+PrepNp
+DetNP
+NPofNP
+154589	CLaCL
+ADV-S-ADV-V-ADV
+154592	V2CL
+V-ADV
+PrepNp
+DetNP
+154597	ADV-V-O-ADV
+V2CL
+All-NP
+Np-Appos
+DetNP
+NpPp
+2Pp
+Conj2Pp
+PrepNp
+154607	PrepNp
+All-NP
+DetNP
+NPofNP
+Conj2Pp
+PrepNp
+154614	PrepNp
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+DetNP
+154621	ADV-V-S
+DetCL
+V-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+154629	Np-Appos
+PrepNp
+NpaNp
+154633	NpAdjp
+CLaCL
+S-V-ADV
+DetNP
+NPofNP
+154640	V2CL
+sub-CL
+ADV-V
+154644	Conj-CL
+ClCl2
+V-S
+DetNP
+154649	NPofNP
+PrepNp
+DetNP
+PrepNp
+154654	ClCl
+CLaCL
+ADV-V-O
+V2CL
+NpaNp
+DetNP
+154661	DetNP
+NPofNP
+154664	V-ADV
+PrepNp
+NPofNP
+sub-CL
+V-S
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+154675	Conj-CL
+CLaCL
+S-ADV-V-O
+V2CL
+NpaNp
+DetNP
+154682	DetNP
+NPofNP
+154685	V-ADV
+PrepNp
+NPofNP
+154689	Conj-CL
+ADV-V-O
+154692	that-VP
+S-V-ADV-ADV
+DetNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+ADV-V
+154701	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+154712	V2CL
+PrepNp
+NpAdjp
+VC-P
+sub-CL
+V-S
+DetCL
+V-ADV-S
+PrepNp
+DetNP
+that-VP
+P-VC
+154725	Conj-CL
+ADV-V-S-ADV
+PrepNp
+NP-Demo
+DetNP
+Np-Appos
+DetNP
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+154738	ClCl
+V2CL
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+154746	Conj-CL
+S-VC-P
+DetCL
+V-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+154754	S2CL
+NPofNP
+154757	PrepNp
+DetAdj
+ClCl
+V-O
+DetNP
+NPofNP
+O2-V-O
+DetNP
+NPofNP
+154767	Conj-CL
+CLaCL
+CLaCL
+S-V-O-ADV
+PronNP
+DetNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+154778	O-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+154784	S-VC-P
+DetNP
+NPofNP
+NpaNp
+154789	NpAdjp
+154791	CLaCL
+ADV-V-ADV-S
+PrepNp
+Conj3Np
+154796	All-NP
+DetNP
+154799	All-NP
+DetNP
+NPofNP
+DetNP
+154804	V-ADV-ADV-ADV
+PrepNp
+DetNP
+Np-Appos
+PrepNp
+V-O
+DetNP
+NPofNP
+154813	Conj-CL
+154815	V-O
+NpAdjp
+NPofNP
+DetNP
+NpaNp
+154821	V-ADV
+PrepNp
+DetNP
+154825	Np2CL
+NPofNP
+V-ADV
+PrepNp
+DetNP
+AdjpNp
+V2CL
+154833	Conj-CL
+V-O
+NpAdjp
+AdjpAdvp
+DetNP
+154839	Conj-CL
+154842	PrepNp
+O2-V-O
+DetNP
+sub-CL
+154847	that-VP
+V-S-O
+DetNP
+ADV-V-O-IO
+PrepNp
+NP-Demo
+DetNP
+DetNP
+154856	Conj-CL
+ADV-S-ADV-V
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+154864	Conj-CL
+CLaCL
+S-V
+All-NP
+NpAdjp
+ADV-V-O
+NpAdjp
+154872	ADV-V
+PrepNp
+154875	aCLaCL
+154877	S-O-V-ADV-ADV
+PrepNp
+PrepNp
+154882	DetCL
+ADV-V
+PrepNp
+ADV-ADV-VC-P-ADV
+O-V
+DetNP
+154889	S-O-V-ADV
+PrepNp
+NpaNp
+NpAdjp
+154895	Conj3CL
+S-P
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+154903	V-O
+DetNP
+NPofNP
+154907	CLaCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+154914	O-V-ADV
+DetNP
+NpAdjp
+154918	ADV-V-S-ADV-ADV-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+DetCL
+V-ADV
+PrepNp
+154930	Conj-CL
+S-V-O-ADV
+154933	CLaCL
+S-O-V-ADV
+ADV-V
+PrepNp
+154938	S-V-ADV
+PrepNp
+154941	Conj-CL
+154943	V2CL
+DetNP
+ClCl
+V-ADV
+sub-CL
+ADV-P-VC-ADV-S
+V2CL
+V-O
+All-NP
+154953	ADV-V-O
+154955	Conj-CL
+ADV-S-ADV-V-ADV
+V2CL
+DetNP
+PrepNp
+DetNP
+154962	Conj-CL
+CLaCL
+154965	DetNP
+154967	V-O
+S-V-ADV-ADV
+NPofNP
+PrepNp
+V-ADV
+PrepNp
+154974	Conj-CL
+154976	PrepNp
+DetNP
+154980	Np-Appos
+DetNP
+NPofNP
+DetAdj
+ADV-V
+PrepNp
+154987	ADV-S-V-ADV-ADV-ADV
+DetNP
+PrepNp
+DetAdj
+PrepNp
+DetNP
+V-ADV
+PrepNp
+DetAdj
+154997	Conj-CL
+ADV-ADV-V
+V-ADV
+NpaNp
+NpNump
+155003	NumpNP
+155005	Conj-CL
+155007	V2CL
+DetCL
+V2CL
+ClCl2
+sub-CL
+VC-P
+NPofNP
+DetNP
+155016	that-VP
+S-P-VC
+NP-Demo
+DetNP
+155021	Conj-CL
+155023	V2CL
+155025	notCLbutCL2CL
+ADV-V-S
+PrepNp
+NpAdjp
+DetNP
+ADV2CL
+PrepNp
+All-NP
+NpAdjp
+V-ADV
+PrepNp
+NPofNP
+155038	CLaCL
+ADV-V-O-S-ADV
+DetAdj
+PrepNp
+DetNP
+AdjpNp
+155045	CLaCL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+155053	ClCl2
+sub-CL
+VC-P
+NPofNP
+DetNP
+V-O-ADV
+155060	Conj-CL
+155062	that-VP
+CLaCL
+IO-V-ADV
+DetNP
+NPofNP
+PrepNp
+155069	ClCl
+ADV-V-O
+PrepNp
+ADV-ADV-V-ADV-O
+PrepNp
+DetNP
+NPofNP
+155078	DetNP
+155080	ADV-V-O
+Np-Appos
+DetNP
+NPofNP
+155085	CLaCL
+ADV-V-O-S-ADV
+DetAdj
+PrepNp
+NpAdjp
+AdjpAdvp
+155092	CLaCL
+V-IO-O
+NpaNp
+All-NP
+DetNP
+NPofNP
+DetNP
+155100	DetNP
+NPofNP
+155104	ClCl
+O-IO-V
+NP-all
+sub-CL
+ADV-V-O
+V2CL
+155112	DetNP
+155114	Np2CL
+155116	Conj-CL
+155118	CLaCL
+O-V
+Np-Appos
+DetNP
+NPofNP
+155124	O-V
+NpAdjp
+155127	CLaCL
+ADV-V-O-S
+DetAdj
+155132	S-V
+155134	V-O
+155136	Conj-CL
+ADV-V-ADV
+155139	that-VP
+S-V
+PrepNp
+DetNP
+155144	Conj-CL
+ClCl
+ADV-ADV-V-ADV
+V-O
+DetNP
+V2CL
+PrepNp
+Np-Appos
+NpPp
+DetAdj
+PrepNp
+NPofNP
+NpaNp
+155158	sub-CL
+V-S
+DetCL
+V-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+155167	Np2CL
+Np-Appos
+NpPp
+NpAdvp
+NpaNp
+NPofNP
+155174	NPofNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+S-O-V
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+NpAdjp
+155189	Np2CL
+DetCL
+V-ADV
+PrepNp
+NPofNP
+NpaNp
+155197	ADV-V-S-O
+PrepNp
+DetNP
+CLaCL
+V2CL
+155204	ClCl
+V2CL
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+155212	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+S-V-O-ADV
+Np-Appos
+NumpNP
+NpaNp
+Np-Appos
+DetCL
+VC-P
+155227	Np-Appos
+DetNP
+NPofNP
+PrepNp
+DetNP
+155233	Conj-CL
+VC-P
+155236	Conj-CL
+155238	CLaCL
+V-ADV
+PrepNp
+155242	V-O-O2
+NPofNP
+155245	Conj-CL
+S-ADV-ADV-V-O
+V-O
+DetNP
+155250	Conj-CL
+ADV-V-O
+V-ADV
+S-ADV-ADV-V-O
+Np-Appos
+AdjpNp
+NumpNP
+NpaNp
+Np-Appos
+NPofNP
+DetNP
+155262	Np-Appos
+DetNP
+NPofNP
+PrepNp
+DetNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+155274	Conj-CL
+V-O
+155277	Conj-CL
+S-ADV-ADV-V-O
+V-O
+NpaNp
+DetNP
+155283	DetNP
+NPofNP
+155286	Conj-CL
+V-ADV-ADV
+PrepNp
+All-NP
+DetNP
+Conj3CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+155297	V-O
+DetNP
+NPofNP
+DetNP
+155302	V-O-ADV
+NpaNp
+All-NP
+155306	All-NP
+PrepNp
+DetNP
+155310	Conj-CL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+All-NP
+DetNP
+155318	Conj-CL
+CLaCL
+V-IO-O
+Np-Appos
+All-NP
+DetCL
+ADV-V
+2NpaNpaNp
+ADV-V
+AdjpNp
+NpaNp
+155330	V2CL
+155332	V2CL
+155335	V-O
+155337	Conj-CL
+V-O-S
+NpPp
+NpAdjp
+Conj2Pp
+PrepNp
+DetNP
+Conj4Np
+155349	PrepNp
+DetNP
+155352	Conj-CL
+ADV-V-ADV
+V-O
+DetNP
+PrepNp
+DetNP
+155359	Conj-CL
+ClCl2
+V-S
+V-ADV-S
+DetNP
+NPofNP
+155366	Conj-CL
+ADV-V-O-ADV
+V-O
+DetNP
+NPofNP
+V2CL
+155374	DetNP
+NpAdvp
+DetNP
+sub-CL
+P-VC-S
+DetNP
+NPofNP
+DetNP
+155384	DetCL
+V2CL
+sub-CL
+S-V
+155390	DetAdj
+sub-CL
+S-V-O
+DetNP
+155396	DetCL
+V-O
+Conj2VP
+155400	DetNP
+sub-CL
+S-V
+155405	DetAdj
+sub-CL
+S-V
+155410	DetNP
+NpAdvp
+DetNP
+sub-CL
+S-O-V
+DetNP
+155417	ClCl
+P-S
+DetAdj
+sub-CL
+S-P-VC
+NPofNP
+155425	DetCL
+V-ADV
+PrepNp
+sub-CL
+P-VC-S
+DetNP
+NPofNP
+DetNP
+155434	ClCl
+P-VC
+sub-CL
+Conj3CL
+V-O
+155440	V2CL
+155442	V-O-ADV-ADV-ADV
+All-NP
+PrepNp
+V2CL
+PrepNp
+155449	V2CL
+155451	V2CL
+sub-CL
+S-P-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+155459	Conj-CL
+ADV-V-O
+Np-Appos
+DetNP
+NpPp
+PrepNp
+155466	S-VC-P
+DetNP
+NPofNP
+DetNP
+155471	Conj-CL
+155473	sub-CL
+S-V
+DetNP
+PrepNp
+155478	ADV-V-ADV-ADV
+PrepNp
+sub-CL
+ADV-ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+155486	S-VC-P
+DetNP
+NPofNP
+DetNP
+155491	ADV-V-S-O-ADV
+V2CL
+ADV-V
+PrepNp
+155496	notCLbutCL2CL
+CLaCL
+V-O
+155500	V-O-ADV
+PrepNp
+DetNP
+CLaCL
+ADV2CL
+PrepNp
+DetNP
+155508	V-ADV
+All-NP
+NpPp
+PrepNp
+DetNP
+155515	DetNP
+NPofNP
+PrepNp
+DetNP
+sub-CL
+CLaCL
+V-O
+ofNPNP
+DetNP
+AdjpNp
+155526	V-O
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+155535	that-VP
+V-ADV
+V-O
+NpaNp
+DetNP
+155541	DetNP
+155543	notCLbutCL2CL
+V-ADV
+V2CL
+V2CL
+155548	Conj-CL
+ClCl
+PtclCL
+V-IO
+ClCl2
+sub-CL
+PtclCL
+V-S
+NpaNp
+DetNP
+155559	DetNP
+155561	NpaNp
+NpAdjp
+155564	AdjpNp
+2Advp_h1
+PrepNp
+DetNP
+sub-CL
+PtclCL
+S-V
+155572	Conj-CL
+S-P-VC-ADV
+PtclCL
+CLaCL
+S-V-O
+NPofNP
+ofNPNP
+NP-Demo
+DetNP
+DetAdj
+155583	V-ADV-O
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+155590	Conj-CL
+ClCl2
+PtclCL
+CLaCL
+S-V
+155596	V2CL
+S-P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+155603	Conj-CL
+155605	that-VP
+155607	sub-CL
+ADV-V-S-ADV-ADV
+ofNPNP
+DetNP
+DetNP
+NpaNp
+155614	2Advp_h1
+PrepNp
+DetNP
+NPofNP
+DetNP
+155621	that-VP
+155623	DetAdj
+CLaCL
+ADV-V
+155627	S-P-VC-ADV
+PtclCL
+S-V
+DetNP
+155632	Conj-CL
+155634	that-VP
+Conj3CL
+S-P-VC-ADV
+All-NP
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+155644	S-P-VC-ADV
+PtclCL
+155647	DetNP
+NPofNP
+Np2CL
+DetNP
+155652	S-P-VC-ADV
+PtclCL
+155655	Np2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+155661	Conj-CL
+155663	sub-CL
+ClCl
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+155671	that-VP
+S-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+V-ADV-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+155682	ClCl
+V2CL
+ADV-V-ADV
+DetNP
+NPofNP
+155688	ADV-ADV-V-O
+V2CL
+DetNP
+NPofNP
+155694	BeVerb
+DetNP
+NPofNP
+PrepNp
+ADV-VC-P-ADV
+PrepNp
+PrepNp
+DetNP
+Conj3CL
+ADV-ADV-O-V-S-IO
+DetNP
+DetNP
+155707	S-IO
+DetNP
+DetNP
+155711	ADV-V
+PrepNp
+155714	ClCl
+PtclCL
+V-IO
+ClCl
+ADV-V-ADV
+2Advp_h1
+sub-CL
+PtclCL
+V-O
+DetNP
+AdjpNp
+155727	that-VP
+155729	ADV-V
+155731	Conj-CL
+155733	that-VP
+S-ADV-V-O-ADV
+All-NP
+DetCL
+V-O-ADV
+PrepNp
+DetCL
+V-O
+PrepNp
+DetNP
+NPofNP
+155745	Conj-CL
+155747	sub-CL
+S-V-O
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+V-O
+155755	V-ADV
+PrepNp
+155758	Conj-CL
+V-ADV-S
+that-VP
+CLaCL
+V-S
+NPofNP
+DetNP
+NPofNP
+155767	ADV-S-V-ADV
+All-NP
+DetNP
+NPofNP
+PrepNp
+155773	Conj-CL
+155775	sub-CL
+S-V-O
+DetNP
+AdjpNp
+ofNPNP
+V-O
+155782	V-ADV
+PrepNp
+155785	Conj-CL
+V-ADV-S
+that-VP
+CLaCL
+V-S
+NPofNP
+DetNP
+NPofNP
+155794	ADV-S-ADV-V
+All-NP
+DetNP
+NPofNP
+PrepNp
+155800	Conj-CL
+155802	S-V-IO-O
+PtclCL
+S-V-O
+DetNP
+NPofNP
+155808	Conj-CL
+155810	that-VP
+CLaCL
+S-ADV-V-O
+All-NP
+DetCL
+V-O
+DetNP
+NPofNP
+PrepNp
+NPofNP
+S-V
+155822	S-V
+PtclCL
+S-O-V
+V2CL
+155828	that-VP
+155830	DetAdj
+CLaCL
+ADV-V
+155834	V-IO-O
+DetNP
+DetNP
+NPofNP
+155839	Conj-CL
+155841	ADV-V-ADV
+155843	EitherOr4CL
+155845	ClCl
+ADV2CL
+PrepNp
+DetNP
+sub-CL
+VC-P
+NPofNP
+DetNP
+155854	ClCl
+ADV2CL
+PrepNp
+DetNP
+sub-CL
+VC-P
+NPofNP
+DetNP
+NPofNP
+155864	ClCl
+ADV2CL
+PrepNp
+sub-CL
+VC-P
+NPofNP
+DetNP
+AdjpNp
+155874	PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-V-O
+O-V-O2
+AdjpNp
+AdjpaAdjp
+155884	Conj-CL
+VC-S-P
+DetNP
+NPofNP
+ClCl
+S-P
+S-P
+155892	Conj-CL
+S-P-VC
+DetAdj
+AdjpAdvp
+PrepNp
+DetAdj
+155900	that-VP
+155902	CLaCL
+O-ADV
+PrepNp
+155906	O-ADV
+PrepNp
+155909	Conj-CL
+S-V-IO-O
+ADV-V-O
+DetAdj
+155914	Conj-CL
+155916	S-O-V-ADV
+PrepNp
+DetNP
+NPofNP
+AdjpNp
+AdvpNp
+DetAdj
+155924	Conj-CL
+ClCl2
+IO2CL
+DetCL
+V-O
+CLaCL
+ADV-V
+155932	O-V
+DetNP
+NPofNP
+V-IO-O
+AdvpNp
+DetNP
+155939	Conj-CL
+155941	S-O-V-ADV
+NpAdjp
+PrepNp
+155945	CLaCL
+IO-V
+DetCL
+V-O
+155950	O-ADV-V
+DetCL
+V-O
+ADV-V
+PrepNp
+155957	that-VP
+155959	CLaCL
+V-O
+DetNP
+NPofNP
+155964	V-O
+DetNP
+NPofNP
+155968	Conj-CL
+155970	ClCl
+ClCl
+CLaCL
+V-O
+DetNP
+NPofNP
+155977	V-ADV
+PrepNp
+DetCL
+V-O
+sub-CL
+VC-P
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+sub-CL
+CLaCL
+O-V-ADV
+DetNP
+NPofNP
+PrepNp
+NpaNp
+155998	V-ADV
+PrepNp
+NpaNp
+156003	Conj-CL
+156005	sub-CL
+V-O
+DetCL
+V-O
+AdjpNp
+156011	PtclCL
+S-O-V
+AdvpNp
+DetNP
+DetNP
+156017	Conj-CL
+156019	sub-CL
+V-O-ADV
+DetNP
+NPofNP
+AdjpNp
+156025	PtclCL
+S-O-V
+AdvpNp
+DetAdj
+DetNP
+156031	Conj-CL
+156033	sub-CL
+S-P-VC
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+156040	Conj-CL
+V-O
+O-ADV-V-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+PrepNp
+DetCL
+V-ADV
+156051	Conj-CL
+156053	sub-CL
+ADV2CL
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+156063	Conj-CL
+ClCl2
+sub-CL
+V-O
+ClCl
+ADV-V-ADV
+PrepNp
+sub-CL
+ClCl
+S-V-ADV
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+156078	PrepNp
+DetNP
+sub-CL
+V-ADV
+PrepNp
+DetNP
+156085	ClCl
+PtclCL
+V-IO
+V-O
+DetNP
+NPofNP
+156092	Conj-CL
+ClCl
+ClCl2
+S-V-O
+156097	DetNP
+NPofNP
+O-V-S
+DetNP
+NPofNP
+sub-CL
+VC-S-P
+ofNPNP
+DetNP
+PrepNp
+DetAdj
+156109	Conj-CL
+S-V-IO
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetAdj
+156119	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V2CL
+ADV-VC-P
+PrepNp
+DetNP
+sub-CL
+156129	ADV-V
+ADV-V
+Conj2Pp
+PrepNp
+DetNP
+156135	PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-ADV
+DetNP
+156143	ClCl
+PtclCL
+V-IO
+V-O
+DetNP
+NPofNP
+156150	Conj-CL
+ClCl2
+sub-CL
+S-V
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+156160	ADV-V-IO
+V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetAdj
+156171	Conj-CL
+S-V-IO
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetAdj
+156181	Conj-CL
+ClCl
+156184	V2CL
+sub-CL
+S2CL
+DetAdj
+sub-CL
+156190	that-VP
+ADV-V
+PrepNp
+DetNP
+NPofNP
+156196	Conj-CL
+ClCl
+ADV-V-ADV
+sub-CL
+V-S-O-ADV
+DetNP
+NPofNP
+O-V
+ofNPNP
+PrepNp
+DetCL
+S-V-O
+156209	Conj-CL
+ADV-V-S
+156213	Np2CL
+Np-Appos
+NPofNP
+NpPp
+PrepNp
+DetNP
+V-S
+DetNP
+NPofNP
+V-S
+DetNP
+NPofNP
+V-S-ADV-ADV
+DetNP
+NPofNP
+AdvPp
+PrepNp
+AdvPp
+PrepNp
+156233	O-V-IO-ADV
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+156239	Conj-CL
+156241	DetNP
+NPofNP
+sub-CL
+S-V-IO
+AdvpNp
+DetNP
+NPofNP
+156249	Conj-CL
+notCLbutCL2CL
+V-O-ADV
+PrepNp
+V-O-ADV
+PrepNp
+DetAdj
+156257	Conj-CL
+156259	sub-CL
+V-IO-O
+DetNP
+DetNP
+NPofNP
+AdvpNp
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+156270	Conj-CL
+156272	sub-CL
+ADV-V-IO
+DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+156280	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V2CL
+ADV-VC-ADV-P
+sub-CL
+S2CL
+DetNP
+sub-CL
+ClCl
+V-O
+DetNP
+NPofNP
+sub-CL
+V-IO-O
+DetNP
+V2CL
+156299	ClCl
+PtclCL
+V-IO
+V-O
+DetNP
+NPofNP
+156306	Conj-CL
+ClCl
+CLaCL
+S-ADV-V-O
+V2CL
+ofNPNP
+DetNP
+156314	O-V
+DetNP
+NPofNP
+sub-CL
+notCLbutCL2CL
+V-IO-O
+DetNP
+V2CL
+IO2CL
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetAdj
+156330	Conj-CL
+S-V-IO
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetAdj
+156341	PrepNp
+DetNP
+CLaCL
+ADV-S-V
+NpaNp
+156348	ADV-S-V
+Conj2VP
+156352	Conj-CL
+156354	PrepNp
+CLaCL
+ADV-S-V
+aNpaNp
+156361	ADV-S-ADV-V
+Conj2VP
+156365	Conj-CL
+ClCl2
+P-VC-S
+DetNP
+NPofNP
+P-VC-S
+AdvpNp
+DetNP
+NPofNP
+156375	S-VC-P
+DetNP
+NPofNP
+DetNP
+DetNP
+156381	Conj-CL
+156383	sub-CL
+VC-S-P
+DetNP
+NPofNP
+All-NP
+DetNP
+NPofNP
+156391	Conj-CL
+156393	sub-CL
+S-P-VC
+DetNP
+NPofNP
+All-NP
+DetNP
+NPofNP
+156401	Conj-CL
+156403	sub-CL
+S-P-VC
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+156411	ClCl
+S-V-O
+O-V
+AdjpNp
+sub-CL
+aCLaCL
+156418	CLaCL
+O-V
+DetAdj
+156422	O-V
+DetAdj
+156425	CLaCL
+O-V
+156428	O-V
+DetAdj
+156431	ADV-V-O
+CLaCL
+O-V
+156435	O2CL
+156438	PrepNp
+CLaCL
+ADV-V-ADV-O
+DetNP
+NPofNP
+CLaCL
+O-V
+156446	O-V
+156448	ADV-O
+DetNP
+NPofNP
+O-V
+156453	PtclCL
+CLaCL
+S-P-VC-ADV
+DetNP
+DetNP
+156459	S-ADV
+DetNP
+DetNP
+156464	PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+Conj3CL
+ADV-V
+156473	V2CL
+156475	V-ADV
+PrepNp
+156478	S-V-O
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+156484	PtclCL
+S-ADV-V-ADV
+156487	Conj-CL
+S-ADV-V-O
+NpPp
+PrepNp
+V2CL
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+156498	sub-CL
+ADV-ADV-V
+PrepNp
+156503	DetNP
+NPofNP
+DetNP
+ADV-V
+156508	CLaCL
+ADV-V
+156511	V2CL
+156513	Conj-CL
+156515	that-VP
+156517	PrepNp
+All-NP
+DetNP
+NPofNP
+sub-CL
+S2CL
+NPofNP
+156525	Conj-CL
+156527	sub-CL
+O-ADV-S-ADV-V
+DetNP
+NPofNP
+DetNP
+CLaCL
+ADV-V
+156535	ADV-ADV-V
+PrepNp
+DetNP
+PtclCL
+ADV-O
+AdjpAdvp
+Np2CL
+156543	Conj-CL
+ADV-V-ADV
+156546	Conj3CL
+O-V
+156549	O-V
+156551	O-V
+156553	Conj-CL
+O-S-V
+All-NP
+DetNP
+156558	Conj-CL
+156560	DetNP
+NPDetAdj
+NPofNP
+DetAdj
+that-VP
+V-O
+NpAdjp
+156568	Conj-CL
+CLaCL
+V-ADV-O
+NpaNp
+DetNP
+156574	DetNP
+NPofNP
+156577	S-V-IO
+NP-all
+156580	Conj-CL
+ClCl
+ADV-V-ADV
+PrepNp
+DetNP
+sub-CL
+S-V-O
+DetNP
+156589	P-ADV-S
+DetNP
+DetNP
+NPofNP
+156595	sub-CL
+PtclCL
+V2CL
+156599	Conj-CL
+CLaCL
+ADV-V
+ADV-V
+PrepNp
+PronNP
+156606	S-V-IO
+ADV-V
+PrepNp
+PronNP
+156611	Conj-CL
+CLaCL
+ADV-V-O
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+156623	O-ADV-V
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+AdjpNp
+156630	Conj-CL
+CLaCL
+156633	DetNP
+NPofNP
+ClCl
+V2CL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+156644	DetNP
+PrepNp
+DetNP
+NPofNP
+156650	Np2CL
+V-ADV-ADV-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+156657	ADV-V-ADV
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+156666	ClCl
+CLaCL
+ADV-V-O-IO
+DetAdj
+DetNP
+156672	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+CLaCL
+ADV-ADV-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+156683	ADV-V-O
+V2CL
+156686	ClCl
+ClClCl
+CLaCL
+V2CL
+156691	V-IO
+CLaCL
+V2CL
+156695	V2CL
+CLaCL
+V2CL
+156699	V-IO
+sub-CL
+Conj3CL
+S-V
+All-NP
+DetCL
+V2CL
+156707	S-V
+DetCL
+V2CL
+156711	IO-V
+DetCL
+V2CL
+156715	Conj-CL
+VC-P-S
+AdjpNp
+PrepNp
+NP-CL
+156722	O-V-S-O2
+DetNP
+NPofNP
+O-V-IO
+156727	AdvpNp
+PtclCL
+O-V-IO
+156731	Conj-CL
+ClCl2
+sub-CL
+S-ADV-V-O
+P-VC
+O-V-IO
+NpAdjp
+DetNP
+NPofNP
+ADV-S-V-O-IO
+2Advp_h2
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+DetCL
+V-O
+156751	Conj-CL
+156753	Np2CL
+All-NP
+PtclCL
+156757	ADV-V
+V-IO-S
+DetNP
+AdvpNp
+156762	Conj-CL
+S-VC-P
+NpaNp
+DetNP
+156767	DetNP
+156770	PrepNp
+DetNP
+AdjpNp
+sub-CL
+CLaCL
+CLaCL
+P-S
+DetNP
+156779	P-S
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+156787	P-VC-S
+DetCL
+V-ADV
+PrepNp
+sub-CL
+CLaCL
+CLaCL
+P-S
+DetNP
+156797	P-S
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+156805	P-VC-S
+DetCL
+V-O
+156809	V-ADV
+PrepNp
+DetNP
+NP-CL
+CLaCL
+S-V-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+156819	ADV-VC-P
+NpAdjp
+156822	ADV-V-O
+PrepNp
+DetNP
+NPofNP
+156827	PtclCL
+CLaCL
+V-ADV-O
+PrepNp
+156832	ADV-O
+PrepNp
+156835	CLaCL
+ADV-S-O-V
+All-NP
+NpAdjp
+NpAdjp
+156841	S-O-V
+DetNP
+AdjpNp
+NpAdjp
+156846	CLaCL
+ADV-V-S-O
+NpAdjp
+O-V
+NpAdjp
+156852	S-O
+NpAdjp
+O-V
+NpAdjp
+156857	CLaCL
+S-V
+All-NP
+NpAdjp
+ADV-V-O
+NpAdjp
+156864	ADV-V
+PrepNp
+156867	PtclCL
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+156873	notCLbutCL2CL
+S-V-ADV
+All-NP
+DetCL
+156878	ClCl
+Np2CL
+Np2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+S2CL
+DetCL
+V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+156898	PrepNp
+Demo-NP
+DetNP
+ClCl2
+ClCl
+Np2CL
+Np2CL
+PtclCL
+Conj3CL
+ADV-V
+DetNP
+AdjpNp
+156911	ADV-O-V
+DetNP
+AdjpNp
+156915	ADV-O-V
+DetNP
+AdjpNp
+NpAdjp
+156920	Conj-CL
+156922	that-VP
+156925	PrepNp
+Np2CL
+DetCL
+V-O
+DetNP
+156931	Conj-CL
+S-V-ADV
+All-NP
+CLaCL
+S-V-O
+ofNPNP
+NP-Demo
+DetNP
+156940	V-O
+NP-CL
+NpAdjp
+S-V-O-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+156949	Conj-CL
+ClCl
+Conj5CL
+V-S
+DetNP
+156955	V-S
+DetNP
+156958	V-S
+DetNP
+156961	V-O
+NP-Demo
+DetNP
+156965	ADV-V
+sub-CL
+V-ADV
+PrepNp
+DetNP
+156971	Conj-CL
+S-V-ADV
+All-NP
+DetCL
+CLaCL
+V-O
+ofNPNP
+NP-Demo
+DetNP
+156981	ADV-V-O
+NP-CL
+NpAdjp
+S-V-O-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+156990	Conj-CL
+Conj6CL
+V-S
+DetNP
+156995	V-S
+DetNP
+156998	V-S
+DetNP
+157001	V-O
+NP-Demo
+DetNP
+157005	V2CL
+157007	VC-S-P
+DetNP
+NPofNP
+157011	Conj-CL
+ClCl
+ClCl
+V2CL
+sub-CL
+V-S-O
+DetNP
+NP-Demo
+DetNP
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+157026	Conj-CL
+V-O-ADV
+BeVerb
+CLaCL
+sub-CL
+O-V
+157033	AdvpCL
+sub-CL
+S2CL
+DetNP
+NPofNP
+157039	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+V-O-S
+NpAdjp
+157047	Conj-CL
+157049	V2CL
+157052	Np2CL
+sub-CL
+V2CL
+V-O
+O-V
+157058	Conj-CL
+ADV-V-O-ADV
+V-O
+DetNP
+157063	ClCl
+V2CL
+V2CL
+157067	Conj-CL
+ADV-V-S
+ofNPNP
+DetNP
+157072	Conj-CL
+157074	DetNP
+CLaCL
+157077	IO-V
+157079	ClCl
+V2CL
+CLaCL
+O-V-IO
+DetNP
+157085	V-O-ADV
+DetNP
+NP-CL
+O-V-S
+PrepNp
+NpAdvp
+157092	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+V-ADV-S-ADV
+CLaCL
+V-O
+157102	Np2CL
+DetNP
+NPofNP
+PrepNp
+DetNP
+ADV-V
+157110	S-ADV-V-O
+V2CL
+157113	Conj-CL
+157115	V2CL
+DetNP
+CLaCL
+157119	Np2CL
+that-VP
+ADV-V
+PrepNp
+ofNPNP
+DetNP
+157126	CLaCL
+ADV-V-ADV
+157129	V-S
+DetNP
+NPofNP
+157133	Conj-CL
+CLaCL
+S-VC-P
+AdvpNp
+NpAdjp
+NpPp
+PrepNp
+V-ADV-O
+PrepNp
+157143	Conj3CL
+CLaCL
+157146	V2CL
+157148	V2CL
+157150	CLaCL
+ClCl
+IO2CL
+V2CL
+157155	V2CL
+157157	CLaCL
+ClCl
+IO2CL
+DetNP
+NPofNP
+V-O
+157164	V2CL
+157166	Conj-CL
+CLaCL
+ADV-S-V
+V2CL
+DetNP
+157173	DetCL
+V2CL
+ClCl
+PtclCL
+V-IO
+ADV-O-ADV-V
+PrepNp
+AdjpNp
+PrepNp
+DetNP
+157184	Conj-CL
+157186	that-VP
+CLaCL
+S-ADV-V
+PrepNp
+NpaNp
+157193	V-ADV-ADV
+PrepNp
+Conj3Np
+157198	PrepNp
+DetNP
+NPofNP
+DetNP
+157203	Conj-CL
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+157213	P-VC-S
+NpaNp
+DetNP
+157217	DetNP
+NPofNP
+DetNP
+157221	Conj-CL
+157223	DetNP
+DetNP
+ClCl
+V2CL
+ClCl2
+sub-CL
+V2CL
+V-ADV
+157232	Conj-CL
+V-S-ADV
+DetNP
+PrepNp
+NP-Demo
+DetNP
+157239	Conj-CL
+S-ADV-V-O
+V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+S-V
+DetNP
+NPofNP
+Conj2VP
+157252	Conj-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+157258	V-O-S
+DetNP
+157261	Conj-CL
+CLaCL
+V2CL
+157265	V-O
+157267	Conj-CL
+ClCl2
+S-V
+V-IO-O
+NpAdjp
+V2CL
+157274	Conj-CL
+CLaCL
+V-O-ADV
+DetNP
+157279	O-V
+All-NP
+DetCL
+ADV-V
+157284	sub-CL
+V-S
+DetCL
+V-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+157292	CLaCL
+S-O-V
+DetNP
+NPofNP
+157297	O-V
+DetNP
+157300	Conj-CL
+S-ADV-V-O
+V-O-ADV
+DetNP
+PrepNp
+V-ADV
+PrepNp
+DetNP
+157309	Conj-CL
+157311	V2CL
+AdjpNp
+157314	Np2CL
+PtclCL
+ADV-V
+157318	Conj-CL
+157320	DetNP
+CLaCL
+CLaCL
+S-O-V
+DetNP
+157326	S-O
+DetNP
+NPofNP
+DetNP
+157331	S-ADV-V-O
+DetNP
+NPofNP
+DetNP
+ADV-O-V
+DetNP
+157338	Conj-CL
+157340	NPofNP
+DetNP
+157343	Np2CL
+CLaCL
+ADV-V
+157347	V-O
+DetNP
+NPofNP
+157351	Conj-CL
+157353	DetNP
+CLaCL
+V-O
+157357	V-O
+S-V-O
+DetAdj
+DetNP
+ofNPNP
+157363	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+V-O-S
+DetNP
+NPofNP
+157372	Conj-CL
+157374	NpAdjp
+PrepNp
+DetNP
+sub-CL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+157383	Conj-CL
+S-V
+157386	Conj-CL
+ADV-V-O-ADV
+V2CL
+157391	Np2CL
+V2CL
+V2CL
+157395	Conj-CL
+157398	Np2CL
+157400	CLaCL
+ADV-ADV-V-O
+V2CL
+NpaNp
+DetNP
+157406	DetNP
+157408	V-S
+NpAdjp
+157411	Conj-CL
+S-V-ADV
+DetNP
+157415	ClCl
+P-VC-S
+sub-CL
+S-O-V
+aNpaNp
+157421	DetNP
+157423	DetNP
+157425	Conj-CL
+ClCl2
+V-S-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetAdj
+V-O-S
+NumpNP
+NpAdjp
+NpAdjp
+V2CL
+ADV-V
+PrepNp
+DetNP
+AdjpCL
+AdjpAdvp
+sub-CL
+ADV-V-S-O
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+157451	Conj-CL
+157454	ClCl
+157456	NpaNp
+157458	Np2CL
+NPofNP
+DetNP
+V-ADV-ADV-ADV
+PrepNp
+V-O
+157465	Conj-CL
+VC-P-ADV-S
+PrepNp
+NpAdjp
+NPofNP
+NpAdjp
+V2CL
+157473	Conj-CL
+S-V-O-ADV
+DetNP
+157477	ClCl2
+sub-CL
+V-O
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+157486	Conj-CL
+157488	V2CL
+157490	Conj-CL
+S-ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+157496	Conj-CL
+157498	V-S-ADV-ADV
+All-NP
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+157506	V-ADV
+PrepNp
+DetNP
+157510	Conj-CL
+CLaCL
+S-V
+DetCL
+V2CL
+157516	ADV-V-O
+V-ADV
+PrepNp
+DetNP
+NpaNp
+157522	NPofNP
+DetCL
+V2CL
+157526	Conj-CL
+157528	S-V-ADV
+All-NP
+DetNP
+PrepNp
+NpAdvp
+DetNP
+157536	V2CL
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+157543	Conj-CL
+CLaCL
+ADV-V
+V-ADV
+PrepNp
+157549	V-ADV
+PrepNp
+DetNP
+AdjpNp
+157554	Conj-CL
+157556	NpAdjp
+ADV-V
+PrepNp
+157560	Conj-CL
+157562	V-O
+DetNP
+DetNP
+NPofNP
+DetAdj
+ClCl
+157569	Np2CL
+V-S
+ofNPNP
+DetNP
+157574	Conj-CL
+157576	NPofNP
+DetNP
+PrepNp
+S-V
+157581	Conj-CL
+157583	V-O
+DetNP
+DetNP
+NPofNP
+CLaCL
+157589	PrepNp
+PrepNp
+DetNP
+NPofNP
+Conj-CL
+ClCl
+S-VC-P
+CLaCL
+157598	V-S
+ofNPNP
+DetNP
+157603	CLaCL
+V2CL
+157606	V2CL
+157608	sub-CL
+157610	that-VP
+O-V-S-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+V-O
+157620	DetAdj
+ClCl
+V2CL
+CLaCL
+V-O
+ofNPNP
+DetNP
+157628	V-ADV
+PrepNp
+DetNP
+NPofNP
+157633	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+157640	Conj-CL
+CLaCL
+ADV-S-V
+V2CL
+DetNP
+157646	V-O
+Np-Appos
+DetNP
+DetCL
+V-O-IO
+NP-Demo
+DetNP
+157654	Conj-CL
+CLaCL
+ADV-S-V-O
+V-ADV
+DetNP
+NpAdjp
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+P-VC
+157667	V-O
+157669	Conj-CL
+ADV-V-O
+V2CL
+157673	Conj-CL
+ClCl2
+V2CL
+CLandCL2
+S-V-ADV
+PrepNp
+DetNP
+157682	AdjpNp
+NpaNp
+157685	V2CL
+NpaNp
+DetNP
+157689	DetNP
+NPofNP
+157692	Conj-CL
+157694	V2CL
+DetNP
+DetNP
+NPofNP
+ADV-ADV-V-S
+PrepNp
+PrepNp
+DetNP
+NpaNp
+157704	DetNP
+NPofNP
+157707	Conj-CL
+157709	V2CL
+notCLbutCL2CL
+O-V-S
+NPofNP
+DetCL
+V2CL
+S2CL
+DetCL
+ADV-V
+157719	Conj-CL
+ClCl
+ADV-V
+V2CL
+P-VC-S
+CLaCL
+O-V
+157727	ADV-O
+157729	Conj-CL
+notCLbutCL2CL
+V-ADV
+V-O
+O2CL
+157735	ADV-V-ADV-S-ADV
+DetNP
+NPofNP
+157739	CLaCL
+ADV-S-V
+PrepNp
+NpaNp
+157744	DetNP
+157746	S-ADV-V
+DetNP
+NPofNP
+157750	Conj-CL
+157752	DetNP
+PtclCL
+V-S-O-ADV
+DetNP
+NPofNP
+DetNP
+V2CL
+PrepNp
+ADV-P-VC-S
+PrepNp
+DetNP
+157764	Conj-CL
+CLaCL
+157767	sub-CL
+V-ADV-S
+PrepNp
+DetNP
+157772	ADV-V
+157774	Conj-CL
+S-V-O-ADV
+NPofNP
+NpAdjp
+PrepNp
+NpAdjp
+157781	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+157789	S-V
+AdjpNp
+157792	Conj-CL
+V-O-ADV
+NpAdjp
+PrepNp
+NpAdjp
+157798	Conj-CL
+157800	sub-CL
+ADV2CL
+V-S
+DetNP
+157805	S-V
+DetNP
+157808	S-V
+DetNP
+157811	Conj-CL
+CLaCL
+V-O-ADV
+NpAdjp
+PrepNp
+NpAdjp
+157818	S-V
+157821	O-S-V-IO
+NpAdjp
+V2CL
+157825	that-VP
+CLaCL
+S-ADV-V
+DetNP
+NPofNP
+157831	CLaCL
+ADV-V-O-ADV
+V2CL
+DetNP
+NPofNP
+PrepNp
+157838	V2CL
+157840	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetNP
+157846	S2CL
+DetNP
+NPofNP
+157850	Conj-CL
+157852	NpAdjp
+V-ADV
+NumpNP
+V-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+157861	Conj-CL
+157863	PrepNp
+ClCl2
+sub-CL
+ADV-V-O
+DetNP
+NPofNP
+V2CL
+157871	Conj-CL
+157873	DetNP
+CLaCL
+V2CL
+157877	V-O
+ClCl
+157880	Np2CL
+S-V-O
+DetNP
+NPofNP
+157885	Conj-CL
+V-S-ADV
+DetNP
+PrepNp
+NP-Demo
+DetNP
+157892	Conj-CL
+157894	CLaCL
+V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+157902	V-O
+CLaCL
+S2CL
+DetNP
+157907	S-V
+DetNP
+ClCl
+V2CL
+sub-CL
+notCLbutCL2CL
+V-S
+DetNP
+V2CL
+157917	Conj-CL
+V-O
+157920	Conj-CL
+157922	sub-CL
+V-S
+DetNP
+ADV-V-O
+V2CL
+DetNP
+NPofNP
+157930	V-S
+DetNP
+157933	Conj-CL
+V-S-ADV
+NP-Demo
+DetNP
+PrepNp
+NP-Demo
+All-NP
+DetNP
+157942	Conj-CL
+ClCl2
+V-ADV-S
+DetNP
+V-S-ADV
+NumpNP
+CLaCL
+V2CL
+157953	Np2CL
+NPofNP
+157956	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetNP
+CLaCL
+V-ADV-S
+DetAdj
+157966	DetNP
+157968	that-VP
+V-O
+O-V
+157973	ClCl
+Np2CL
+Np2CL
+157977	ADV-V-O-ADV
+DetNP
+NPofNP
+157981	ADV-V-IO
+PrepNp
+DetNP
+NPofNP
+157986	Conj-CL
+V-S
+ofNPNP
+DetNP
+157991	Conj-CL
+V-IO-S-ADV
+DetNP
+157996	S-V
+157998	Conj-CL
+S-ADV-V-O-ADV
+V2CL
+PrepNp
+NP-Demo
+All-NP
+DetNP
+158006	Conj-CL
+ClCl2
+S-V
+158010	NpAdjp
+V2CL
+158013	Conj-CL
+ClCl2
+V-S
+DetNP
+V-S
+DetAdj
+158020	Conj-CL
+V-S-ADV
+DetNP
+158024	ADV-V-ADV-ADV
+PrepNp
+DetNP
+158028	Conj-CL
+158030	DetNP
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+158038	Conj-CL
+V-S-O-ADV
+DetNP
+NpaNp
+NP-all
+DetNP
+158045	DetNP
+Conj3CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+158052	V-O
+DetNP
+NPofNP
+DetNP
+158057	V-O
+NpaNp
+All-NP
+158061	All-NP
+158063	Conj-CL
+158065	V-O
+DetNP
+PrepNp
+sub-CL
+ClCl
+V2CL
+BeVerb
+Conj2VP
+158074	sub-CL
+S2CL
+NpAdjp
+ADV-V-O
+158080	DetNP
+NPofNP
+aCLaCL
+158084	S-P
+DetNP
+158087	S-P
+DetNP
+158090	Conj-CL
+158092	DetNP
+NPofNP
+DetNP
+sub-CL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+158101	Conj-CL
+ADV-V-IO-O-ADV
+V-O
+DetNP
+NumpNP
+NPofNP
+NPofNP
+NpAdjp
+sub-CL
+CLaCL
+V-O
+158113	V-O
+NpaNp
+All-NP
+158117	All-NP
+158119	Conj-CL
+S-VC-P
+ofNPNP
+DetNP
+NumpNP
+DetNP
+158126	CLaCL
+P-S
+Np-Appos
+DetCL
+VC-P
+158132	S2CL
+NpaNp
+Np-Appos
+DetNP
+NPofNP
+158138	NpNpNpNpNp
+NpaNp
+Np-Appos
+NPofNP
+DetNP
+158144	Np-Appos
+DetNP
+NPofNP
+NpaNp
+158149	NpaNp
+158151	Np-Appos
+DetNP
+NpaNp
+Np-Appos
+NPofNP
+DetNP
+158158	NpaNp
+Np-Appos
+DetNP
+158162	Np-Appos
+Np-Appos
+DetNP
+DetCL
+ADV-V-O
+158168	O-V-S-ADV
+Demo-NP
+DetNump
+DetNP
+V-O-ADV
+158174	CLaCL
+ADV-ADV-V
+PrepNp
+NPofNP
+158179	ADV-ADV-V
+PrepNp
+NPofNP
+158183	Conj-CL
+V-ADV-ADV
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V2CL
+NPofNP
+158193	Conj-CL
+ADV-V-ADV
+V2CL
+158197	that-VP
+V-S
+DetNP
+NPofNP
+DetNP
+158203	ClClClCl
+O-V
+V2CL
+O-V
+O-V
+O-V
+158210	ClCl
+ADV-V
+ADV-V
+158214	ClCl
+ADV-V-O-ADV
+Conj3Np
+158219	PrepNp
+DetNP
+NPofNP
+ADV-O
+Conj4Np
+NpPp
+PrepNp
+158227	NumpNP
+158231	Conj-CL
+P-S-ADV
+DetNP
+DetNP
+NPofNP
+158237	Conj-CL
+158239	PtclCL
+ADV-V
+PrepNp
+PronNP
+NpaNp
+158245	V2CL
+S-ADV-P-VC
+PrepNp
+158249	ClCl
+ADV-V
+sub-CL
+PtclCL
+V2CL
+158255	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+158261	Conj-CL
+aCLaCL
+158265	sub-CL
+VC-S-P
+DetNP
+DetNP
+NPofNP
+PrepNp
+158273	sub-CL
+ADV-VC-P
+DetNP
+NPofNP
+PrepNp
+158279	Conj-CL
+ClCl2
+PtclCL
+CLaCL
+S-ADV-V-O
+158285	V-O
+DetNP
+NPofNP
+ADV-V-O
+V-ADV
+PrepNp
+NP-Demo
+NpaNp
+DetNP
+158295	DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+158301	ClCl
+PtclCL
+V-IO
+CLaCL
+P-VC-ADV-ADV
+NPofNP
+NpaNp
+158309	PrepNp
+NPofNP
+158312	ADV2CL
+NP-Demo
+DetNP
+158317	sub-CL
+O-ADV
+PrepNp
+NPofNP
+158322	Conj-CL
+CLaCL
+158325	sub-CL
+S2CL
+DetNP
+158329	ClCl
+P2CL
+sub-CL
+S2CL
+DetNP
+158335	Conj-CL
+V-ADV
+PrepNp
+DetNP
+158340	Conj-CL
+CLaCL
+V-O-ADV
+PrepNp
+158345	ADV-V-O
+PrepNp
+DetNP
+NPofNP
+158350	Conj-CL
+ADV-V-ADV-ADV
+AdvPp
+PrepNp
+NpaNp
+158356	PrepNp
+PrepNp
+NpAdvp
+NpaNp
+158361	DetNP
+158363	Conj-CL
+ClCl2
+sub-CL
+V-O
+ClCl
+ADV-V
+CLaCL
+ADV2CL
+158372	O-V
+158374	Conj-CL
+V-IO-ADV-S
+PrepNp
+Demo-NP
+DetNP
+O-V
+158381	Conj-CL
+notCLbutCL2CL
+S-VC-P
+DetCL
+V2CL
+S-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+158395	Conj-CL
+CLaCL
+CLaCL
+V-S-O-ADV
+PrepNp
+158401	S-O
+158403	CLaCL
+V-S-ADV
+PrepNp
+158407	V-O
+158409	Conj-CL
+V-ADV-ADV
+BeVerb
+PrepNp
+PrepNp
+DetNP
+NPofNP
+158417	Conj-CL
+158419	Np2CL
+DetCL
+V-ADV
+PrepNp
+158424	Conj-CL
+158426	sub-CL
+V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+DetAdj
+158434	Conj-CL
+ClCl
+PtclCL
+V-IO
+ClCl
+ADV-V-O
+2Advp_h1
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+158450	CLaCL
+ADV-VC-S-P
+PrepNp
+DetNP
+158455	S-P
+PrepNp
+DetNP
+NPofNP
+158460	CLaCL
+P-ADV-S
+DetNP
+that-VP
+VC-P
+PrepNp
+DetNP
+NPofNP
+158469	S-P
+DetNP
+PrepNp
+DetNP
+NPofNP
+158475	ClCl2
+sub-CL
+O-O2-V
+DetNP
+ADV-O
+2Advp_h2
+DetNP
+NPofNP
+158484	Conj-CL
+ADV-V-O
+158487	Conj-CL
+P-VC-S
+NpaNp
+NP-CL
+V2CL
+S-ADV-V
+158494	NP-CL
+S-ADV-V
+158497	O-V-ADV
+O-V-IO-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+158504	Conj-CL
+O-V-ADV
+O-ADV-V
+PrepNp
+DetNP
+PrepNp
+DetNP
+158512	Conj-CL
+ADV-V-ADV
+PrepNp
+DetCL
+CLaCL
+V-O
+DetNP
+158520	ADV-V-O
+O-V
+DetNP
+158524	Conj-CL
+V-ADV-O
+DetCL
+V-O
+O-V-ADV
+aNpaNp
+158532	PrepNp
+158534	PtclCL
+S-ADV-V
+NumpNP
+158538	Conj-CL
+S-ADV-V-ADV-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+158548	Conj-CL
+S-V
+AdvpNp
+NP-all
+ofNPNP
+DetNP
+NPofNP
+DetNP
+VerbBe
+158558	Conj-CL
+ADV-V
+158561	ADV-V-S
+AdjpNp
+158564	Conj-CL
+158566	S-V-ADV-ADV
+All-NP
+PrepNp
+PrepNp
+DetNP
+PrepNp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+158580	Conj-CL
+ClCl2
+PtclCL
+S-V-O-ADV
+PrepNp
+DetNP
+V-S-O-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+158596	that-VP
+V-ADV
+V-O-ADV
+PrepNp
+DetNP
+158602	notCLbutCL2CL
+V-ADV
+V-O
+O2CL
+158607	Conj-CL
+CLaCL
+V-ADV
+Conj3CL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+158616	O-ADV
+PrepNp
+DetNP
+NPofNP
+158621	O-ADV
+PrepNp
+DetNP
+NPofNP
+158626	S-P
+NPofNP
+DetNP
+DetNP
+NPofNP
+158632	S-ADV-VC-ADV-P
+DetCL
+V-O-ADV
+NpaNp
+158637	PrepNp
+158639	Conj-CL
+S-ADV-VC-ADV-P
+DetCL
+V-O-ADV
+NpaNp
+158645	PrepNp
+158647	Conj-CL
+S-ADV-VC-ADV-P
+CLaCL
+S-ADV-V-O
+DetNP
+NPofNP
+158654	V-ADV
+PrepNp
+158657	CLaCL
+S-V-O
+DetCL
+V-O
+DetNP
+NPofNP
+158664	S-V-O
+DetCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+158671	CLaCL
+S-O-V
+DetCL
+V-O
+158676	S-V-O
+DetCL
+O-V
+DetCL
+V-O
+158682	CLaCL
+S-O-V
+DetCL
+V-O-ADV
+PrepNp
+NPofNP
+NPofNP
+158690	S-O-V
+DetCL
+V-O-ADV
+PrepNp
+NPofNP
+NPofNP
+158697	Conj-CL
+ClCl2
+PtclCL
+S-V-O-O2-ADV-ADV
+NPofNP
+NP-Demo
+DetAdj
+NpAdjp
+PrepNp
+NPofNP
+ClCl
+PtclCL
+V-IO
+ADV-V-O
+2Advp_h1
+DetNP
+NPofNP
+158715	Conj-CL
+ClCl2
+V2CL
+ClCl2
+sub-CL
+V-S-O
+DetNP
+V-IO
+DetNP
+NumpNP
+NPofNP
+V-ADV-ADV
+DetCL
+V-ADV
+Conj2VP
+158731	PrepNp
+DetNP
+NPofNP
+158735	Conj-CL
+158737	DetNP
+V-ADV-O
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+DetNP
+NPofNP
+CLaCL
+S-VC-P
+DetCL
+V2CL
+158753	O-V
+158755	Conj-CL
+158757	V2CL
+DetNP
+ADV-V-IO-O
+V2CL
+O-V
+Conj2VP
+158765	CLandClClandClandClandCl
+S-V
+158768	S-V
+S-V
+158771	S-V
+158773	S-V
+158775	S-V
+158777	Conj-CL
+P-VC-S
+PtclCL
+S-ADV-V-ADV
+PrepNp
+158783	Conj-CL
+ClCl2
+S-V
+V-S-O
+DetNP
+158789	DetNP
+PrepNp
+ClCl
+ADV-V-ADV
+O-V
+PrepNp
+DetAdj
+O2CL
+NpAdjp
+ADV-V
+PrepNp
+158801	Conj-CL
+158803	O-V
+O2CL
+NpAdjp
+ADV-V
+PrepNp
+158810	DetCL
+O-V
+DetAdj
+PrepNp
+DetNP
+NPofNP
+DetNP
+158818	Conj-CL
+ClCl
+ADV-V
+O-V
+158823	ClCl
+158825	Intj2CL
+Conj-CL
+O2CL
+AdjpAdvp
+S-VC-P
+158831	ADV-V
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NPofNP
+S-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+158842	ClCl
+PtclCL
+V-IO
+CLaCL
+ADV-V-ADV-S
+PrepNp
+NPofNP
+AdjpAdvp
+NPofNP
+DetNP
+158853	S-P-ADV-VC
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+158861	Conj-CL
+CLaCL
+ADV-S-V
+2Pp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+158875	S-V-O
+158877	Conj-CL
+S-ADV-V
+All-NP
+NpaNp
+DetNP
+158883	DetNP
+PrepNp
+158886	Conj-CL
+ClCl2
+sub-CL
+V-O
+V2CL
+S-VC-P
+Np-Appos
+DetCL
+V-O
+V2CL
+158897	S-V
+DetCL
+V-O
+158901	Conj-CL
+ADV-V-O
+NP-Demo
+DetNP
+158906	P-VC-ADV
+NP-CL
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+158913	S-ADV-V
+V-O
+DetAdj
+CLaCL
+V-IO
+158919	ADV-V
+CLaCL
+V2CL
+158923	ADV-V
+158925	Conj-CL
+CLaCL
+V-S-ADV
+V2CL
+EitherOrVp
+158934	O-V
+158936	CLaCL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+CLaCL
+V2CL
+158944	V2CL
+158947	ClCl2
+V2CL
+P2CL
+2Np
+Np-Appos
+NpaNp
+158954	NPofNP
+NpaNp
+158958	Conj-CL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+158966	V-O
+DetNP
+NP-CL
+ADV-V-S
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+sub-CL
+ADV-V
+158979	Np2CL
+158981	Np2CL
+sub-CL
+158984	sub-CL
+ADV-V-S
+PrepNp
+NpaNp
+158989	Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+ADV-ADV-V
+PrepNp
+NpaNp
+158999	Conj-CL
+159001	CLaCL
+ADV-P-VC-ADV
+NpaNp
+159005	PrepNp
+NPofNP
+159008	ADV2CL
+159010	Conj-CL
+159012	S-ADV-V
+Np2CL
+PrepNp
+159016	ADV-V
+PrepNp
+159019	sub-CL
+159021	sub-CL
+ADV-V-S
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+DetNP
+159033	Conj-CL
+159035	that-VP
+CLaCL
+ADV-P-VC-ADV
+NPofNP
+PrepNp
+NPofNP
+159042	ADV2CL
+159045	PrepNp
+Demo-NP
+DetNP
+V2CL
+DetNP
+ClCl
+159052	Np2CL
+Np-Appos
+NPofNP
+NpaNp
+DetNP
+159058	DetNP
+sub-CL
+CLaCL
+V-O-ADV
+PrepNp
+NpaNp
+159066	V-O-IO
+159068	ClCl
+ClCl
+Np2CL
+Np2CL
+DetNP
+sub-CL
+ADV-S-VC-P
+PrepNp
+159077	CLaCL
+S-IO-V-ADV
+PrepNp
+DetNP
+NPofNP
+159083	CLaCL
+159085	DetNP
+sub-CL
+ADV-S
+DetNP
+159091	DetNP
+sub-CL
+ADV-S
+NpaNp
+DetNP
+159097	PtclCL
+O-V-S
+IO-V
+DetNP
+159102	ClCl
+159104	PrepNp
+Np2CL
+All-NP
+DetCL
+CLaCL
+V2CL
+159111	V2CL
+S-V-O
+159115	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+159120	V-ADV
+PrepNp
+sub-CL
+CLaCL
+VC-P-ADV
+AdjpaAdjp
+159127	DetNP
+159129	V-O-IO
+DetNP
+NPofNP
+159133	Conj-CL
+CLaCL
+S-P
+DetNP
+NPofNP
+159139	S-P-VC
+DetNP
+NPofNP
+159143	ADV-V-S-ADV-ADV
+PrepNp
+Demo-NP
+DetNP
+DetNP
+DetNP
+PrepNp
+DetAdj
+159152	Conj-CL
+CLaCL
+S-V
+DetNP
+NPofNP
+159158	V-O
+CLaCL
+V-O
+159162	V2CL
+159164	Conj-CL
+159166	DetNP
+V2CL
+159169	DetNP
+NPofNP
+S-ADV-V-ADV
+O-V
+PrepNp
+159175	Conj-CL
+159177	PtclCL
+159179	ClCl
+O-V-S
+sub-CL
+CLaCL
+V2CL
+159185	S2CL
+NpPp
+PrepNp
+that-VP
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+159197	DetNP
+NPofNP
+DetNP
+159201	CLaCL
+S-ADV-V-ADV
+O-V
+VerbBe
+159206	ADV2CL
+NpPp
+PrepNp
+ADV-ADV-ADV
+DetNP
+159212	Conj-CL
+PtclCL
+159215	PrepNp
+DetNP
+that-VP
+CLaCL
+ADV-S-ADV-O-V
+DetNP
+DetNP
+PrepNp
+DetNP
+DetNP
+159226	P-VC
+159228	Conj-CL
+159230	that-VP
+S-VC-P
+AdvpAdjp
+DetNP
+159235	Conj-CL
+ClCl2
+sub-CL
+V-O
+P-VC-S
+CLaCL
+O-V
+159243	ADV-O
+PtclCL
+ADV-V-O
+DetAdj
+159248	Conj-CL
+VC-P-S
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+159256	Conj-CL
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+159263	Conj-CL
+159265	V2CL
+NpAdjp
+O-V-O2
+159269	Conj-CL
+159272	PtclCL
+V-S
+ADV-V
+DetNP
+sub-CL
+V-O
+159279	Conj-CL
+159281	S-VC-ADV-P
+PrepNp
+NP-CL
+CLaCL
+S-V-O
+NpAdjp
+159289	sub-CL
+V-S-ADV-ADV
+DetNP
+PrepNp
+CLaCL
+V-O
+159296	V2CL
+159298	Conj-CL
+ADV-V-S-ADV
+159301	Conj-CL
+V-S
+ADV-ADV-V
+DetNP
+159307	DetNP
+V-O
+ofNPNP
+DetNP
+159312	Conj-CL
+CLaCL
+V2CL
+159317	sub-CL
+S2CL
+DetAdj
+159321	Conj-CL
+159323	V2CL
+DetNP
+PrepNp
+sub-CL
+O-V
+159329	Conj-CL
+S-ADV-V-ADV
+DetNP
+V2CL
+159334	Conj-CL
+CLaCL
+V-O-S
+159338	CLaCL
+V-O
+NP-all
+159343	that-VP
+ADV-O2-O-V
+159346	sub-CL
+V-S
+DetCL
+V-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+159355	V2CL
+Np-Appos
+DetNP
+NP-CL
+NPofNP
+O-V
+DetNP
+NP-CL
+NPofNP
+O-V-S
+DetNP
+NPofNP
+159368	CLaCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+159374	O-IO-V
+DetNP
+159377	Conj3CL
+ADV-V
+159380	V2CL
+159382	V-S-ADV-O
+PrepNp
+DetNP
+DetNP
+NPofNP
+159389	O-ADV-V
+NpAdjp
+V2CL
+159393	O-ADV-V
+NpAdjp
+V2CL
+sub-CL
+PtclCL
+V-ADV-O
+PrepNp
+DetNP
+159402	Conj-CL
+O-S-V
+DetNP
+NPofNP
+159407	ADV-V-IO-S
+NpAdjp
+V2CL
+AdjpaAdjp
+159413	Conj-CL
+V-O-ADV
+sub-CL
+S-V
+DetAdj
+Conj2VP
+159421	Conj-CL
+CLaCL
+V-S
+All-NP
+DetNP
+159428	PtclCL
+S-VC-P
+DetNP
+NPofNP
+159433	Conj-CL
+159435	DetNP
+V2CL
+ClCl
+S-ADV-V-O
+DetNP
+sub-CL
+ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+159448	Conj-CL
+159450	V-O
+DetNP
+NPofNP
+CLaCL
+S-V
+All-NP
+NpAdjp
+V-ADV
+PrepNp
+159460	S-ADV-V
+All-NP
+NpAdjp
+NpaNp
+159465	V-ADV
+PrepNp
+159468	Conj-CL
+159470	sub-CL
+S-O-V
+DetNP
+DetNP
+PrepNp
+159476	Conj-CL
+ADV-V-S
+DetNP
+NPofNP
+159481	Conj-CL
+159483	sub-CL
+S-ADV-V-O
+PrepNp
+DetNP
+DetNP
+NPofNP
+PrepNp
+159491	ADV-S-P-VC
+PrepNp
+NPofNP
+159495	Conj-CL
+159497	sub-CL
+ADV-S-V-O
+PrepNp
+NPofNP
+DetNP
+V-ADV-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+159508	Conj-CL
+ClCl
+ADV-V-S-O
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+159518	O-V
+DetNP
+NPofNP
+sub-CL
+ADV-ADV-V-O
+DetAdj
+159525	Conj-CL
+ADV-O-V
+DetNP
+NPofNP
+159530	CLaCL
+S-P-VC
+DetCL
+ADV-VC-P
+PrepNp
+PrepNp
+159537	S-V
+DetCL
+ADV-V-ADV
+PrepNp
+159543	PrepNp
+CLaCL
+S-V-IO
+All-NP
+NpaNp
+159549	DetNP
+159551	S-ADV-V
+DetNP
+ofNPNP
+DetNP
+159556	Conj-CL
+ClCl2
+PtclCL
+S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-IO
+159566	Conj-CL
+ClCl2
+PtclCL
+S-V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+ADV-V-IO-ADV
+aPpaPp
+159577	PrepNp
+Demo-NP
+DetNP
+159581	PrepNp
+DetCL
+V2CL
+159585	aCLaCL
+159587	CLaCL
+V-O-O2
+DetNP
+159591	O-O2
+DetNP
+NPofNP
+159595	CLaCL
+V-O-O2
+DetNP
+159599	O-O2
+DetNP
+NPofNP
+159603	Conj-CL
+ADV-S-V
+PrepNp
+DetNP
+DetNP
+159610	Np2CL
+NPofNP
+O-V
+P-VC
+159615	Conj-CL
+ADV-S-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+159623	CLaCL
+S-ADV-V-O
+DetNP
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+159631	S-ADV-V-O
+DetNP
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+159638	Conj-CL
+159640	sub-CL
+159642	Np2CL
+All-NP
+NP-CL
+NpAdjp
+O-V-S
+DetNP
+PrepNp
+PrepNp
+NPofNP
+159652	Conj-CL
+CLaCL
+ADV-V
+PrepNp
+DetNP
+NPofNP
+159659	ADV-V
+PrepNp
+DetNP
+NPofNP
+159664	ADV-V-IO-S-ADV
+NPofNP
+DetNP
+NpaNp
+159671	Np2CL
+ADV-O-V
+PrepNp
+159675	Conj-CL
+159677	V2CL
+CLaCL
+S-O-V
+NpaNp
+NpAdjp
+159685	sub-CL
+ADV-S
+DetNP
+NPofNP
+Np-Appos
+DetNP
+159692	Conj-CL
+159694	sub-CL
+VC-S-P-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+AdjpNp
+159703	AdjpNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+AdjpNp
+159714	AdjpNp
+159716	CLaCL
+ClCl
+CLaCL
+S-V-ADV-ADV
+Np-Appos
+PrepNp
+DetNP
+PrepNp
+NP-Demo
+DetNP
+159727	V-O
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+159735	AdjpAdvp
+159737	CLaCL
+ClCl
+CLaCL
+S-V-ADV-ADV
+NPofNP
+PrepNp
+DetNP
+PrepNp
+NP-Demo
+DetNP
+159748	V-O
+sub-CL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-O
+DetNP
+NPofNP
+159760	AdjpAdvp
+159762	Conj-CL
+159764	sub-CL
+S-V-ADV
+DetNP
+AdjpNp
+PrepNp
+DetNP
+V-ADV-ADV
+PrepNp
+AdjpNp
+V-O
+159775	ADV-V
+159778	ClCl
+ADV-V
+PrepNp
+DetNP
+NPofNP
+ADV-V
+159785	Conj-CL
+ADV-V-O
+V2CL
+Conj3CL
+V2CL
+159791	V2CL
+159793	V2CL
+159795	CLaCL
+Conj3CL
+ADV-V
+159799	V-ADV-O
+PrepNp
+NumpNP
+AdjpNp
+NpAdjp
+AdjpAdvp
+159806	ADV-V-ADV
+V2CL
+159809	VC-S-P-ADV
+DetNP
+NPofNP
+NP-Demo
+DetNP
+DetAdj
+159816	P-VC-ADV
+AdvpNp
+NPDetAdj
+NP-Demo
+DetNP
+DetAdj
+159824	ADV-S-V-IO
+DetNP
+NpaNp
+DetNP
+159829	DetNP
+NPofNP
+V-O
+IO-V
+159834	Conj-CL
+CLaCL
+159838	NpaNp
+DetNP
+NPofNP
+159842	DetNP
+NPofNP
+V-O
+IO-V
+159848	V2CL
+DetCL
+V-IO
+CLaCL
+S-VC-P
+DetNP
+NPofNP
+159856	S-VC-P
+DetNP
+NPofNP
+159860	Conj-CL
+159862	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+ClCl2
+V2CL
+P2CL
+NpaNp
+DetNP
+NPofNP
+159875	DetNP
+NPofNP
+159878	Conj-CL
+159880	PtclCL
+S-V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+ofNPNP
+Conj3Np
+159894	ADV-S-ADV-V-ADV
+PrepNp
+NP-Demo
+DetNP
+V-ADV
+DetNP
+DetNP
+PrepNp
+DetNP
+159904	Conj-CL
+CLaCL
+V-ADV-S-ADV
+PrepNp
+NpAdjp
+sub-CL
+S-ADV-V
+ADV-V
+PrepNp
+159914	S-ADV-V
+All-NP
+DetNP
+PrepNp
+DetNP
+159920	Conj-CL
+V-IO-O-ADV-ADV
+PrepNp
+159925	DetCL
+V2CL
+DetCL
+V2CL
+159930	Conj-CL
+159932	ADV2CL
+PrepNp
+DetCL
+V-S
+159937	CLaCL
+S-V-ADV
+PrepNp
+DetNP
+159942	ADV-S-V-O
+V2CL
+DetNP
+159946	CLaCL
+ClCl
+S-V-ADV
+PrepNp
+DetAdj
+ADV-ADV-V-O
+NpAdjp
+159954	CLaCL
+ADV-V-ADV
+PrepNp
+DetCL
+ADV-V-O
+NPofNP
+159961	CLaCL
+ClCl2
+S-V
+V2CL
+159966	ADV-V
+PrepNp
+DetCL
+ADV-V-O
+159971	CLaCL
+S-V-ADV
+PrepNp
+DetNP
+159976	CLaCL
+V-S
+DetNP
+159980	V-O
+159982	CLaCL
+S-V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+159989	ClCl
+V-O
+aCLaCLaCL
+159993	S-O
+159995	S-O
+159997	S-O
+159999	S-V
+DetCL
+V-O
+160003	Conj-CL
+160005	V2CL
+DetNP
+ADV-ADV-V-IO
+PrepNp
+PrepNp
+160011	Conj-CL
+160013	V2CL
+that-VP
+CLaCL
+IO-V-S
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+160024	IO-ADV-V
+160026	Conj-CL
+CLaCL
+160029	S-V
+V-IO
+160032	V2CL
+160034	ClCl2
+S-ADV-V
+S-V-ADV
+AdvpNp
+O-V
+PrepNp
+160042	PrepNp
+PrepNp
+sub-CL
+CLaCL
+ADV-ADV-V
+V2CL
+160049	ADV-ADV-V
+V2CL
+Conj2VP
+160054	Conj-CL
+V-IO-S
+Np-Appos
+DetNP
+NPofNP
+DetCL
+160061	CLaCL
+CLaCL
+ADV-V
+160065	ADV-V
+2Advp_h1
+160068	CLaCL
+ADV-V
+V2CL
+160072	ADV-V
+2Advp_h1
+160075	Conj-CL
+ClCl
+Conj3CL
+V-S
+DetNP
+NPofNP
+NPofNP
+DetNP
+160084	ADV-ADV-V
+DetNP
+160087	O-V
+DetNP
+NPofNP
+CLaCL
+Conj4CL
+ADV-ADV-V-ADV
+DetNP
+160095	ADV-V
+DetNP
+160098	ADV-V
+DetNP
+160101	V2CL
+160103	V-O
+160105	Conj-CL
+CLaCL
+ClCl
+P-S
+ofNPNP
+DetNP
+sub-CL
+V2CL
+160114	ClCl
+S2CL
+DetNP
+NPofNP
+sub-CL
+V2CL
+160121	Conj-CL
+160123	V-IO
+that-VP
+CLaCL
+CLaCL
+S-V-O
+AdjpNp
+NpaNp
+160131	V-O
+O-V
+160134	ADV-V
+160136	CLaCL
+V-O
+O-V
+160140	ADV-V
+160142	Conj-CL
+S-V-O
+DetNP
+NPofNP
+DetCL
+V2CL
+160149	ClCl2
+CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+160156	ADV-V
+CLaCL
+V-S
+DetAdj
+160161	V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+160168	S-VC-P
+DetCL
+ADV-V
+PrepNp
+DetNP
+160174	Conj-CL
+160176	Np2CL
+DetCL
+ADV-V
+PrepNp
+DetAdj
+DetCL
+CLaCL
+O-V
+DetNP
+160186	ADV-ADV-V-O
+PrepNp
+160189	Conj-CL
+CLaCL
+CLaCL
+ADV-V-O-ADV
+PrepNp
+160195	P-VC
+160198	V-S-ADV
+NpaNp
+160201	PrepNp
+DetNP
+160204	Conj-CL
+160206	Np2CL
+DetCL
+ADV-V
+PrepNp
+DetNP
+S-VC-P
+DetCL
+O-V
+DetNP
+160216	S-V-O
+NpaNp
+DetNP
+NPofNP
+DetNP
+160222	DetNP
+NPofNP
+DetNP
+DetNP
+160227	P-VC
+160229	Conj-CL
+160231	Np2CL
+DetCL
+ADV-V
+PrepNp
+DetNP
+AdjpNp
+NP-CL
+DetCL
+CLaCL
+O-V
+DetNP
+160243	V2CL
+PtclCL
+CLaCL
+S-V
+160248	aCLaCLaCL
+160250	V-S-O
+160252	S-O
+160254	S-O
+160256	O-V-IO-ADV
+AdjpNp
+160259	V-S-ADV
+DetNP
+NPofNP
+DetNP
+NpAdjp
+V-O-ADV
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+160270	Conj-CL
+Conj3CL
+ADV-V-S
+PrepNp
+DetCL
+V-S
+DetNP
+ofNPNP
+DetNP
+160280	V-O-ADV
+PrepNp
+NPofNP
+DetNP
+160285	V2CL
+160287	Conj-CL
+160289	sub-CL
+CLaCL
+V-S
+DetNP
+160294	O-V
+AdvpNp
+DetNP
+160298	Conj-CL
+160300	V2CL
+DetNP
+NPofNP
+DetNP
+160305	Np2CL
+O-V-ADV
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+160312	Conj-CL
+ADV-V-O
+160315	Conj-CL
+160317	S-O-V
+AdjpNp
+160320	Conj-CL
+160322	DetNP
+Conj-CL
+ClCl
+V2CL
+ADV-V-O
+V2CL
+160329	Conj-CL
+160331	ClCl
+ADV2CL
+ADV-ADV-ADV-V-ADV-O
+V-O
+DetNP
+PrepNp
+DetNP
+160339	V-O
+V-S-ADV
+PrepNp
+DetNP
+160344	Conj-CL
+160346	PrepNp
+NPofNP
+DetNP
+DetNP
+CLaCL
+CLaCL
+V-ADV-O
+DetNP
+160355	V-O-ADV-ADV
+PrepNp
+PrepNp
+DetCL
+V-O
+160361	O-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+160367	O-V-IO-ADV
+AdjpNp
+160370	P-VC-S-ADV
+DetNP
+NPofNP
+DetNP
+NP-CL
+NPofNP
+ADV-S-V-ADV
+O-V
+PrepNp
+DetNP
+NPofNP
+160382	aCLaCL
+160384	S-P-VC-ADV
+All-NP
+DetNP
+160389	sub-CL
+V2CL
+P-ADV-VC
+DetNP
+160394	VC-P
+sub-CL
+CLaCL
+V-S
+DetNP
+NPofNP
+DetNP
+160402	V-ADV
+PrepNp
+DetNP
+NPofNP
+160407	O-V-IO
+AdjpNp
+160410	P-VC-S-ADV
+DetNP
+NPofNP
+DetNP
+NP-CL
+ADV-S-V-ADV-ADV
+O-V
+PrepNp
+ofNPNP
+NpAdjp
+PrepNp
+ADV-V-S
+160423	CLaCL
+O-V-S-ADV-IO
+NP-all
+DetNP
+PrepNp
+DetNP
+160431	PrepNp
+sub-CL
+V-S
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+160440	PrepNp
+DetNP
+NPofNP
+V-O
+V-ADV
+PrepNp
+160447	ADV-ADV-V-ADV
+V-O
+DetNP
+PrepNp
+DetNP
+160453	Conj-CL
+V-ADV-S-ADV
+DetNP
+NPofNP
+160458	V-IO-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+160465	Conj-CL
+160467	V2CL
+S-VC-P
+DetCL
+V-O
+DetNP
+AdjpNp
+DetNP
+NPofNP
+DetNP
+160477	Conj-CL
+S-VC-P
+DetNP
+DetNP
+160482	Conj-CL
+160484	Np2CL
+DetNP
+AdjpNp
+DetNP
+NPofNP
+DetNP
+160491	Conj-CL
+CLaCL
+S-VC-P
+DetNP
+DetNP
+NPofNP
+DetAdj
+160499	S-VC-P
+Np-Appos
+DetNP
+DetCL
+V-O
+DetAdj
+160506	Conj-CL
+CLaCL
+S-P-VC
+DetNP
+NPofNP
+160512	S-P-VC
+DetNP
+160515	Conj-CL
+160517	sub-CL
+CLaCL
+V-S
+DetNP
+160522	ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+160528	CLaCL
+V-S-O
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+160536	CLaCL
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+All-NP
+NpaNp
+DetNP
+160545	DetCL
+V-O
+DetNP
+160549	V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+160555	P-VC-S
+NpaNp
+DetNP
+160559	DetNP
+NPofNP
+DetNP
+160564	DetAdj
+sub-CL
+S2CL
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+160574	S-V
+DetCL
+V-O
+160578	P-VC-S-ADV
+DetNP
+NPofNP
+DetNP
+NP-CL
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+Conj4CL
+ADV-S-V
+O-V
+160591	ADV-V
+PrepNp
+DetNP
+NPofNP
+160596	V-O
+O-V
+160599	V-O
+NP-Demo
+DetNP
+160603	ADV-P-VC-S-ADV
+DetNP
+NPofNP
+DetNP
+NpAdjp
+V-O
+AdjpNp
+160611	Conj-CL
+CLaCL
+ADV-ADV-V-O
+V-O
+AdjpNp
+AdjpNp
+V2CL
+All-NP
+O-V
+160621	V-O
+160623	ADV-P-VC-S-ADV
+DetNP
+NPofNP
+DetNP
+NP-CL
+NpAdjp
+CLaCL
+V-ADV
+PrepNp
+DetNP
+160634	ADV-V
+PrepNp
+All-NP
+CLaCL
+ADV-V-O-ADV
+CLaCL
+O-ADV-V-ADV
+sub-CL
+V2CL
+PrepNp
+DetNP
+160646	V2CL
+DetAdj
+PrepNp
+160650	O-ADV-V
+DetAdj
+160653	P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+160659	CLaCL
+V-S
+DetNP
+160663	CLaCL
+V-O-ADV
+DetAdj
+PrepNp
+NPofNP
+DetAdj
+160670	V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+160676	P-VC-S
+NpaNp
+DetNP
+160680	DetNP
+NPofNP
+DetNP
+160684	V-O
+NP-all
+160688	Intj2CL
+160690	Conj-CL
+160692	ADV-S-P-VC-ADV
+PrepNp
+All-NP
+NpAdjp
+V-ADV
+DetNP
+NPofNP
+DetNP
+NP-CL
+Np-Appos
+S-V-ADV-O
+PrepNp
+DetNP
+NPofNP
+NpaNp
+160709	Conj-CL
+ClCl
+V2CL
+ClCl2
+sub-CL
+V-S-O
+DetNP
+NP-Demo
+DetNP
+V-ADV
+160720	Conj-CL
+ADV-V-O-ADV-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+CLaCL
+V-S
+160734	ADV-IO-S
+NpaNp
+NP-Demo
+DetNP
+160739	DetNP
+160741	PtclCL
+S-VC-P
+DetNP
+ofNPNP
+DetNP
+160747	PtclCL
+CLaCL
+S-VC-P
+DetNP
+NPofNP
+160753	S-P
+DetNP
+NPofNP
+Conj4Np
+160761	Conj-CL
+160763	Np2CL
+DetNP
+NPofNP
+S-P-VC
+PrepNp
+160769	Conj-CL
+ADV-IO-S
+NP-all
+160773	Conj-CL
+V-ADV
+PrepNp
+160777	Conj-CL
+160779	DetNP
+ClCl
+ADV-VC-S-P
+sub-CL
+ADV-ADV
+Conj2Pp
+PrepNp
+DetNP
+160788	PrepNp
+DetNP
+NPofNP
+160792	Conj-CL
+ADV-V-ADV-O-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+160799	CLaCL
+ADV-V-S-O
+PrepNp
+Demo-NP
+DetNP
+Np-Appos
+DetNP
+DetNP
+NPofNP
+160810	DetNP
+NPofNP
+ClCl
+S-VC-P
+Np-Appos
+DetNP
+CLaCL
+S-V-ADV
+PrepNp
+DetAdj
+160821	ADV-S-V-ADV
+PrepNp
+DetNP
+PrepNp
+160826	Conj-CL
+CLaCL
+S-ADV-V
+DetNP
+V-O
+DetNP
+160833	ADV-V-ADV
+PrepNp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+160843	Conj-CL
+160845	DetNP
+ADV-V-ADV-S
+V-O
+160849	Conj-CL
+ClCl
+ADV-V-O
+V-O
+O-V
+DetNP
+sub-CL
+ADV-O-V
+PrepNp
+160859	Conj-CL
+ClCl
+CLaCL
+ClCl2
+S-V
+NPofNP
+DetNP
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetAdj
+160873	V-O
+DetNP
+sub-CL
+ADV-V-O
+PrepNp
+IO-V-O
+PtclCL
+O-V
+160882	Conj-CL
+160884	V-ADV
+PrepNp
+DetNP
+NPofNP
+V-IO-ADV-ADV-O
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+160895	Conj-CL
+CLaCL
+ADV-S-ADV-V-O
+V2CL
+DetNP
+PrepNp
+NpaNp
+DetNP
+160904	DetCL
+V2CL
+V2CL
+160908	ADV-V-O-ADV
+V2CL
+PrepNp
+DetNP
+160913	Conj-CL
+Conj3CL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+160920	V-IO
+DetNP
+160923	V-IO
+DetNP
+NPofNP
+160927	Conj-CL
+Conj3CL
+ADV-S-V-O
+V2CL
+DetNP
+NPofNP
+DetNP
+160935	V-O
+160937	ADV-V-IO
+V2CL
+DetNP
+160941	Conj-CL
+ADV-S-V-ADV-ADV-ADV-ADV
+V2CL
+DetNP
+PrepNp
+PrepNp
+AdjpNp
+PrepNp
+160950	Conj-CL
+ADV-S-V-O-ADV-ADV
+V2CL
+DetNP
+PrepNp
+DetNP
+160957	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+AdjpNp
+160963	CLaCL
+V-ADV
+PrepNp
+160967	V-O
+DetNP
+NPofNP
+160971	Conj-CL
+ClCl2
+S-V
+V-ADV-S-ADV
+DetNP
+160977	ClCl2
+CLaCL
+P-VC-S
+DetNP
+160982	S-ADV-V
+DetNP
+Conj-CL
+160986	DetNP
+sub-CL
+ADV-V-IO-O
+V-ADV
+PrepNp
+DetNP
+160993	Conj-CL
+160995	DetNP
+ClCl
+ADV-O-V-ADV
+V2CL
+V-IO-S-O
+V2CL
+161002	Conj-CL
+161004	ClCl
+ADV-V-ADV
+sub-CL
+ADV-O
+NpaNp
+NumpNP
+161011	NumpNP
+161013	Conj-CL
+161015	V-IO-ADV-O
+161017	Conj-CL
+CLaCL
+ADV-ADV-ADV-V
+V-O
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+V-O
+NpaNp
+DetNP
+NumpNP
+161030	DetNP
+NumpNP
+V-ADV
+PrepNp
+DetNP
+161036	CLaCL
+ADV-V-IO-O
+V2CL
+DetNP
+DetNP
+161042	S-IO
+DetNP
+DetNP
+161046	Conj-CL
+CLaCL
+CLaCL
+V-S
+161051	V2CL
+161053	V-O
+Np-Appos
+DetNP
+NPofNP
+V2CL
+DetNP
+NumpNP
+NpAdjp
+161062	Conj-CL
+S-VC-P-ADV
+DetCL
+V2CL
+NpAdjp
+AdvpAdjp
+PrepNp
+NpaNp
+161072	Conj-CL
+ADV-V-O
+CLaCL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+161080	V-O-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+ADV-V-O
+DetNP
+161087	Conj-CL
+ADV-V-ADV-ADV-ADV
+V-O
+DetNP
+PrepNp
+DetNP
+PrepNp
+V2CL
+161096	Conj-CL
+ClCl2
+S-V
+P-VC-ADV
+161101	Conj-CL
+ClCl
+S-ADV-ADV-ADV-V-ADV
+DetNP
+NpAdjp
+PrepNp
+DetNP
+V-ADV
+PrepNp
+DetNP
+sub-CL
+VC-P-S
+DetNP
+161115	Conj-CL
+ADV-V-ADV-ADV
+AdjpNp
+NPofNP
+DetNP
+PrepNp
+V-ADV
+PrepNp
+DetNP
+161125	Conj-CL
+CLaCL
+S-ADV-V-ADV
+DetNP
+V-O
+S-ADV-V
+PrepNp
+DetNP
+161134	that-VP
+P-VC
+161137	ADV-V
+PrepNp
+DetNP
+161141	Conj-CL
+ADV-V-S-IO-ADV
+DetNP
+161145	ClCl
+ClCl
+V2CL
+S-VC
+ADV-V
+161151	Conj-CL
+161153	V-IO
+DetNP
+161156	Np2CL
+sub-CL
+S-VC
+V-O
+S-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+161165	Conj-CL
+161167	V2CL
+161169	Conj-CL
+CLaCL
+ADV-S-V-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+161178	V-ADV
+PrepNp
+DetNP
+161182	Conj-CL
+CLaCL
+ADV-V
+V-O
+DetNP
+161188	ADV-V-ADV
+V-O
+V2CL
+161193	Np2CL
+161195	Conj-CL
+CLaCL
+ADV-S-ADV-V-O
+DetNP
+V-O
+DetNP
+161204	Np2CL
+PrepNp
+161207	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+V-S
+DetNP
+161215	Conj-CL
+S-V-O-ADV
+NpPp
+PrepNp
+DetNP
+161221	ADV-P-VC
+ofNPNP
+161224	Conj-CL
+ADV-V-ADV-ADV
+V2CL
+PrepNp
+DetNP
+PrepNp
+161231	Conj-CL
+CLaCL
+CLaCL
+ADV-S-V-ADV
+V-O
+DetNP
+NPofNP
+NP-Demo
+DetNP
+PrepNp
+NP-Demo
+All-NP
+DetAdj
+161245	V-IO-O
+All-NP
+DetCL
+ADV-V
+161251	that-VP
+ADV-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+161258	Conj-CL
+S-V
+S-V
+161262	ADV-V-ADV-ADV-S-ADV
+DetNP
+PrepNp
+NpaNp
+161268	ADV-S-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetAdj
+161276	Conj-CL
+161278	DetNP
+sub-CL
+O-V
+161282	Conj-CL
+161284	V2CL
+ADV-S-V-O-ADV
+PrepNp
+AdvpNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+161295	Conj-CL
+161297	DetNP
+CLaCL
+V-O
+NpaNp
+DetNP
+161303	DetNP
+161305	S-ADV-V
+DetCL
+V-O
+NpaNp
+161311	Conj-CL
+161313	S-ADV-V-O
+PtclCL
+161316	S-V-IO
+NpaNp
+DetNP
+161320	DetNP
+PtclCL
+O-ADV-V
+PrepNp
+2Advp_h1
+NpaNp
+DetNP
+NPofNP
+161329	DetNP
+NPofNP
+161332	Conj-CL
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+161342	Np2CL
+PrepNp
+161345	CLaCL
+S-ADV-O-V
+NP-Demo
+DetNP
+DetNP
+161351	S-ADV-V-ADV
+DetNP
+NPofNP
+PrepNp
+161356	Conj-CL
+ADV-V-O-ADV
+V-O2-O
+NPofNP
+161361	Conj-CL
+161363	V-O
+DetNP
+ClCl
+CLaCL
+V2CL
+161369	V2CL
+notCLbutCL2CL
+S-V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+DetNP
+161378	Np2CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+DetNP
+161386	V2CL
+DetNP
+161389	that-VP
+S-ADV-V
+DetNP
+V-O
+DetNP
+161395	Conj-CL
+161397	V2CL
+S-V
+All-NP
+NP-CL
+O-ADV-V-S
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+161407	V-O
+161409	VC-P
+AdjpNp
+NPofNP
+161413	Conj-CL
+161415	sub-CL
+S-O-V
+PrepNp
+161419	Conj-CL
+161421	V2CL
+DetNP
+V-IO-O
+DetNP
+161426	Conj-CL
+161428	ADV-S-P-VC
+AdvpNp
+161431	PtclCL
+161433	that-VP
+CLaCL
+S-ADV-V
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+161444	ADV-V
+PrepNp
+161447	Conj-CL
+ClCl
+S-ADV-V
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+S-V-O
+DetNP
+161459	Conj-CL
+ADV-V-S
+PrepNp
+DetNP
+7Np
+NpAdjp
+161466	CLaCL
+S-VC-P
+DetCL
+V-O
+DetNP
+161472	S-ADV-V-O
+DetCL
+ADV-V
+AdjpNp
+DetNP
+161478	Conj-CL
+ADV-S-V-ADV
+V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+NpaNp
+161488	Conj-CL
+161490	NpAdjp
+ADV-V
+PrepNp
+NP-Demo
+DetNP
+161496	ClCl
+161498	Np2CL
+Np-Appos
+NPofNP
+S-ADV-V
+DetNP
+NPofNP
+161505	Conj-CL
+S-ADV-V-IO-O
+161508	Conj-CL
+ADV-S-V-O-ADV
+V2CL
+DetNP
+NPofNP
+161514	ClCl
+V-O
+sub-CL
+V-ADV
+PrepNp
+161520	Conj-CL
+161522	V2CL
+ClCl
+ADV-V
+sub-CL
+ADV-ADV
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V2CL
+NPofNP
+161535	Conj-CL
+S-ADV-V-O-ADV
+V2CL
+161540	Np2CL
+161542	Conj-CL
+161544	V2CL
+ADV-VC-P-S
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+161552	V-IO
+DetNP
+161555	Conj-CL
+161557	ClCl
+161559	Np2CL
+sub-CL
+S-V-ADV
+AdvpNp
+DetNP
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+161576	V2CL
+DetNP
+ClCl
+161580	Np2CL
+intjNP
+ofNPNP
+DetNP
+ClCl
+V-IO
+sub-CL
+V2CL
+161589	Conj-CL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+NP-Demo
+DetNP
+161597	Conj-CL
+CLaCL
+ADV-S-V-ADV
+V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+161607	ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+161612	Conj-CL
+CLaCL
+CLaCL
+V-ADV-S-ADV
+NpAdjp
+V-ADV-O
+PrepNp
+4NpaNp
+161621	NpAdjp
+161623	V-O-ADV
+PrepNp
+DetNP
+NPofNP
+161628	V-O-ADV
+sub-CL
+S-V-ADV
+DetNP
+V-O
+2CLaCLaCL
+S-V
+S-P
+161637	S-V
+161639	S-V
+161641	Conj-CL
+V-O
+DetNP
+NPofNP
+161646	Conj-CL
+161648	DetNP
+V-O
+DetNP
+NPofNP
+CLaCL
+ClCl
+V-ADV
+PrepNp
+DetNP
+sub-CL
+CLaCL
+ADV-ADV-V-ADV
+NpAdjp
+161662	ADV-V-O
+O-V
+161666	V-O
+NpAdjp
+ADV-ADV-V-ADV
+PrepNp
+DetNP
+161672	Conj-CL
+161674	DetNP
+ADV-IO-ADV-S-ADV
+PrepNp
+NpAdjp
+sub-CL
+V-O
+NpAdjp
+161682	Conj-CL
+161684	DetNP
+O-V
+AdjpNp
+161688	Conj-CL
+161690	O2CL
+NpaNp
+161693	AdjpNp
+161695	Conj-CL
+Conj3CL
+ADV-V-O
+V-IO-O
+DetNP
+V-ADV
+PrepNp
+DetNP
+NpaNp
+DetNP
+NumpNP
+161707	DetNP
+161709	ADV-V
+V2CL
+161712	CLaCL
+V-IO
+DetNP
+161716	S-IO
+DetNP
+DetNP
+161720	Conj-CL
+CLaCL
+CLaCL
+V-S
+161725	V2CL
+161727	O-V
+Np-Appos
+DetNP
+NPofNP
+V2CL
+DetNP
+NumpNP
+NpAdjp
+161736	Conj-CL
+S-VC-P-ADV
+DetCL
+V2CL
+AdjpNp
+PrepNp
+NpaNp
+161745	Conj-CL
+CLaCL
+ADV-V-ADV
+V-O
+DetNP
+PrepNp
+DetNP
+161753	V-ADV
+PrepNp
+DetNP
+NPofNP
+161758	Conj-CL
+ADV-S-ADV-V-O
+V2CL
+DetNP
+NpaNp
+161764	V2CL
+S-O-V-IO
+NpPp
+PrepNp
+DetNP
+161770	Conj-CL
+161772	V2CL
+ClCl2
+S-V
+161776	ClCl
+P2CL
+Conj-CL
+V-S
+DetNP
+161782	Conj-CL
+161784	ClCl
+ADV-P
+sub-CL
+V-ADV-S
+V2CL
+DetNP
+161791	aCLaCL
+161793	O-V
+O-V
+DetNP
+NPofNP
+DetNP
+161799	O-ADV-V
+DetNP
+NPofNP
+DetNP
+161804	CLaCL
+S-O-V
+NpaNp
+NpAdjp
+161811	sub-CL
+ADV-S
+DetNP
+NPofNP
+161816	Conj-CL
+ADV-V
+V-O
+161820	Conj-CL
+S-ADV-V-O
+V-ADV
+DetNP
+PrepNp
+DetNP
+O-V
+161828	Conj-CL
+161830	DetNP
+V-ADV
+Conj2VP
+161834	PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+161841	Conj-CL
+S-V-ADV-ADV
+PrepNp
+161845	that-VP
+O-ADV-V
+161848	Conj-CL
+161850	V2CL
+DetNP
+161853	PrepNp
+Np2CL
+that-VP
+O-ADV-V
+161859	aCLaCL
+161861	CLaCL
+V-O
+DetNP
+NumpNP
+NPofNP
+DetAdj
+161868	O-V
+AdjpNp
+161871	CLaCL
+O2CL
+DetNP
+NumpNP
+NPofNP
+DetAdj
+161878	O-V
+AdjpNp
+161882	that-VP
+CLaCL
+ADV-ADV-V-IO
+PrepNp
+161887	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+161896	that-VP
+notCLbutCL2CL
+V-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+ADV2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+161912	Conj-CL
+S-ADV-V-O-ADV
+V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+161924	V-S-O
+P-VC-S
+DetNP
+DetNP
+NPofNP
+DetNP
+161931	Conj-CL
+161933	aCLaCLaCL
+161935	S-O
+Np-Appos
+DetNP
+161939	S-O
+161941	S-O
+NpaNp
+161944	NPofNP
+DetNP
+161948	Conj-CL
+S-O-V
+P-S-VC
+161952	Conj-CL
+161954	V2CL
+Np-Appos
+S-VC-P
+Np-Appos
+DetNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V2CL
+161966	Conj-CL
+161968	V2CL
+DetNP
+ClCl
+161972	Np2CL
+Np-Appos
+sub-CL
+CLaCL
+S-ADV-V-IO
+NpaNp
+161980	S2CL
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+161988	Conj-CL
+161990	that-VP
+Conj3CL
+S-VC-P
+161994	ADV-V-O
+PrepNp
+Demo-NP
+DetNP
+ofNPNP
+DetNP
+162001	S-ADV-V-O
+NPofNP
+162004	CLaCL
+V-IO-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+162012	CLaCL
+S-V-ADV
+PtclCL
+O-V-ADV
+PrepNp
+DetNP
+BeVerb
+PrepNp
+DetNP
+162022	S-V-ADV
+PtclCL
+O-V-ADV
+PrepNp
+DetNP
+BeVerb
+PrepNp
+DetNP
+162031	ClCl
+ADV-V-IO
+DetNP
+sub-CL
+162036	that-VP
+S-VC-P
+DetNP
+162040	ADV-V-S-O
+PrepNp
+Np-Appos
+162044	DetNP
+NPofNP
+that-VP
+V-S
+Conj4CL
+S-ADV-V
+PrepNp
+162052	O-V-ADV
+PrepNp
+DetNP
+Conj3Np
+162059	V2CL
+162061	ADV-V
+DetNP
+AdjpNp
+162065	Conj-CL
+ADV-S-V-O
+V-O
+DetNP
+V-O-ADV
+162071	ClCl2
+162073	Np2CL
+ADV-VC-P-S
+2Advp_h1
+162077	Conj-CL
+162079	V2CL
+DetNP
+ClCl
+ClCl
+162084	PrepNp
+Np2CL
+P-VC
+NPofNP
+sub-CL
+notCLbutCL2CL
+V-O
+NPofNP
+DetNP
+O2CL
+NPofNP
+DetNP
+162098	DetNP
+DetNP
+NPofNP
+ClCl2
+sub-CL
+S-V-O
+ADV-V
+PrepNp
+Conj3CL
+V-O
+162109	V-O
+DetNP
+NPofNP
+162113	V-O
+162115	Conj-CL
+CLaCL
+S-V-O
+PtclCL
+S-V-O
+O-V
+DetNP
+NPofNP
+162124	S-V-O
+PtclCL
+S-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+162131	Conj-CL
+CLaCL
+162134	sub-CL
+CLaCL
+O-V
+DetNP
+NP-all
+162140	O-V
+DetNP
+NPofNP
+162144	O-V-S-O2
+NPofNP
+DetNP
+NPofNP
+162149	Conj-CL
+CLaCL
+V-S-O
+DetNP
+NPofNP
+DetNP
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+162165	ADV-V-IO-ADV
+PrepNp
+DetNP
+NPofNP
+162171	V-IO
+that-VP
+V-S
+NP-CL
+NPofNP
+DetCL
+ADV-V
+162179	S-ADV-V-O
+2Advp_h1
+PtclCL
+V-O
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+162191	Conj-CL
+CLaCL
+ADV-V-S-O
+PrepNp
+NpNump
+DetNP
+Conj3Np
+DetNP
+162201	Np-Appos
+DetNP
+NPofNP
+162205	V-O-ADV-ADV
+PrepNp
+NpAdjp
+PrepNp
+162210	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+162215	CLaCL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+162222	S-VC-P-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+162228	Conj-CL
+162230	NpaNp
+162232	V-ADV
+PrepNp
+162235	Conj-CL
+162237	V2CL
+DetNP
+DetNP
+ClCl
+162242	Np2CL
+S-P-VC
+162245	sub-CL
+V2CL
+V-ADV-O
+AdjpNp
+Conj3CL
+IO-O
+162252	IO-O
+162254	IO-O
+162257	ADV-S-V
+162259	NpAdjp
+162262	PrepNp
+DetNP
+162265	ClCl
+162267	Np-Appos
+DetNP
+NPofNP
+DetAdj
+ADV-V
+PrepNp
+V-O
+162275	Conj-CL
+CLaCL
+ADV-S-V-ADV
+V2CL
+DetNP
+PrepNp
+NPofNP
+162283	V-ADV
+162285	Conj-CL
+CLaCL
+V-S
+DetNP
+162291	V-O
+CLaCL
+V2CL
+162295	ADV-V
+162297	Conj-CL
+162299	V-O
+DetNP
+NPofNP
+sub-CL
+ADV-O
+NpAdjp
+PronNP
+162307	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+V-IO-S-ADV
+DetNP
+162315	IO-V-O-ADV
+DetNP
+PrepNp
+ADV-S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+162324	Conj-CL
+V-O-S-ADV
+DetNP
+162328	Conj-CL
+162330	DetNP
+that-VP
+V-S
+S-V-ADV
+162335	Conj-CL
+162337	V2CL
+aCLaCL
+162340	CLaCL
+S-V
+162343	V-O
+162346	that-VP
+ClCl2
+CLaCL
+S-ADV-V
+162351	notCLbutCL2CL
+V-O
+V-ADV-O
+PrepNp
+O-V
+ADV-ADV-S-V-O
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+162364	DetNP
+that-VP
+ADV-V-IO
+PrepNp
+Np-Appos
+DetNP
+162371	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetNP
+V-ADV-S-ADV
+CLaCL
+V-O
+162381	ClCl
+162383	Np2CL
+ofNPNP
+DetNP
+sub-CL
+ClCl
+CLaCL
+V2CL
+162391	ADV-V
+Conj-CL
+CLaCL
+ADV-V-ADV
+PrepNp
+DetNP
+162398	ADV-ADV
+PrepNp
+DetNP
+162402	Conj-CL
+CLaCL
+V-O-IO
+DetNP
+NPofNP
+162408	ADV-V-O
+O-V
+162411	Conj-CL
+162413	V2CL
+DetNP
+162416	Np2CL
+intjNP
+NpAdjp
+AdjpaAdjp
+162421	V2CL
+ClCl
+ADV-P-VC
+PrepNp
+PrepNp
+ADV-V-O
+PrepNp
+V-IO-O-ADV
+162430	Conj-CL
+CLaCL
+V-IO-S
+DetNP
+162435	V-ADV-S
+PrepNp
+DetNP
+162439	Conj-CL
+V-S-ADV
+DetNP
+PrepNp
+NP-Demo
+DetNP
+162447	V-ADV-ADV
+DetNP
+DetNP
+PrepNp
+ADV-S-ADV-V-O
+PrepNp
+V-O
+162455	Conj-CL
+162457	ClCl
+ADV2CL
+PrepNp
+DetNP
+NPofNP
+Conj-CL
+ClCl
+PtclCL
+V-IO
+CLaCL
+ClCl2
+sub-CL
+V-O
+NpPp
+PrepNp
+NPofNP
+CLaCL
+162475	NP-Demo
+DetNP
+V-ADV-ADV
+162479	V2CL
+162481	S-V-ADV
+162483	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+162489	DetNP
+Conj3CL
+V-S-O
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+NPofNP
+162499	V-O
+162501	ADV-V
+DetNP
+AdjpNp
+162505	Conj-CL
+V-ADV
+162508	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+CLaCL
+V-S-ADV
+DetCL
+O-V
+DetNP
+DetNP
+162520	PtclCL
+S-V-O
+DetNP
+NPofNP
+162526	Intj2CL
+162528	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetNP
+V-O-S-ADV
+DetNP
+162536	ClCl
+162538	Np2CL
+ClCl
+S-ADV-V-O
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpaNp
+162547	ADV2CL
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+162553	PrepNp
+DetAdj
+162556	Conj-CL
+ClCl2
+162559	ADV2CL
+PrepNp
+DetAdj
+162563	DetNP
+PtclCL
+P-VC-S
+DetNP
+162568	Conj-CL
+162570	sub-CL
+ADV-V-O
+Conj3CL
+ADV-V-O
+V-ADV
+PrepNp
+162577	O-V
+DetNP
+AdjpNp
+V2CL
+AdjpNp
+162583	ADV-V-O
+V-O
+DetNP
+NPofNP
+ADV-V-IO-ADV
+O-V
+PrepNp
+NpaNp
+162593	ADV-V-S-ADV-ADV
+PrepNp
+Demo-NP
+DetNP
+DetNP
+DetNP
+162600	Conj-CL
+S-P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+162607	Conj-CL
+CLaCL
+ADV-V-O-ADV
+V-O
+PrepNp
+NPofNP
+162615	ClCl
+PtclCL
+V-IO
+ClCl2
+sub-CL
+CLaCL
+ADV-V
+162623	VC-P
+PrepNp
+DetNP
+ADV-V-ADV
+2Advp_h1
+PrepNp
+DetNP
+NPofNP
+DetNP
+162633	Conj-CL
+162635	S-V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+DetAdj
+PrepNp
+DetNP
+NPofNP
+DetNP
+162645	Conj-CL
+S-O-V
+PtclCL
+S-V-O-ADV
+AdjpNp
+NP-Demo
+PrepNp
+DetNP
+NPofNP
+162655	Conj-CL
+ClCl2
+PtclCL
+S-V-O
+NPofNP
+Np-Appos
+NP-Demo
+DetAdj
+DetCL
+V-ADV
+PrepNp
+V-ADV-S
+that-VP
+CLaCL
+V-S-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+162675	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+162681	S-IO-ADV
+DetNP
+PrepNp
+DetNP
+162686	Conj-CL
+CLaCL
+P-S
+V-S
+DetNP
+162692	S-IO
+DetNP
+NP-CL
+ADV-S-V
+PrepNp
+DetNP
+162699	Conj-CL
+162701	sub-CL
+S-V-O
+NpaNp
+DetNP
+NPofNP
+162707	DetNP
+NPofNP
+V-O
+162711	V-ADV
+PrepNp
+162714	CLaCL
+P-ADV-VC-S
+V-ADV-ADV
+PrepNp
+DetNP
+AdjpaAdjp
+162722	ADV-V-ADV
+O-V
+NpaNp
+NumpNP
+162727	NumpNP
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+162733	Conj-CL
+162735	sub-CL
+S-V-O
+DetNP
+NPofNP
+V-O
+162741	V-ADV
+PrepNp
+162744	CLaCL
+P-ADV-VC-S
+ADV-ADV-V
+PrepNp
+DetNP
+162750	ADV-V-ADV
+O-V
+NumpNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+162759	PtclCL
+V-O
+NPofNP
+NP-Demo
+DetAdj
+162765	Conj-CL
+162767	that-VP
+S-ADV-ADV-V-O
+DetNP
+NPofNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+162781	S-ADV-V
+162784	sub-CL
+CLaCL
+VC-P-S
+AdjpNp
+NumpNP
+162790	V-S
+NpPp
+PrepNp
+CLaCL
+V-O-ADV
+DetNump
+NumpNump
+PrepNp
+DetNP
+162800	ADV-V-O
+V2CL
+DetCL
+V2CL
+162805	Conj-CL
+ClCl2
+sub-CL
+V-S
+V-O
+162811	V-IO
+that-VP
+CLaCL
+V-ADV-ADV
+PrepNp
+162817	ADV2CL
+PrepNp
+Np-Appos
+DetNump
+NumpNump
+DetCL
+ADV-V
+162825	ADV-ADV-VC-P-ADV-S
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+that-VP
+V-S
+NPofNP
+NP-Demo
+DetAdj
+162838	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+NPofNP
+ClCl
+V2CL
+V-O-ADV
+PrepNp
+NpAdjp
+NpaNp
+162852	ClCl2
+sub-CL
+O-V
+V-O
+DetNP
+NPofNP
+162859	Conj-CL
+ClCl
+ClCl2
+sub-CL
+ADV-V
+V-ADV-O
+PrepNp
+AdvpNp
+NpaNp
+162869	sub-CL
+ADV-V-S
+PrepNp
+NPofNP
+NumpNP
+Conj2Nump3
+All-NP
+162877	Conj-CL
+ClCl2
+sub-CL
+V-O
+V-IO
+DetNP
+162884	Conj-CL
+162886	sub-CL
+O-V
+AdvpNp
+DetNP
+PrepNp
+NpaNp
+DetAdj
+162894	DetNP
+162897	V-IO
+CLaCL
+S-V-ADV
+PtclCL
+O-V-ADV
+PrepNp
+DetNP
+BeVerb
+PrepNp
+162907	S-V-ADV
+PtclCL
+O-V-ADV
+PrepNp
+DetNP
+BeVerb
+PrepNp
+162916	ADV-V-IO
+that-VP
+ClCl2
+sub-CL
+S-V-ADV-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+PrepNp
+All-NP
+NP-CL
+PtclCL
+O-V
+V-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+162938	Conj-CL
+162940	ADV-V-S-ADV
+BeVerb
+NpaNp
+162944	PrepNp
+DetNP
+AdjpNp
+PrepNp
+NPofNP
+162951	V2CL
+DetNP
+162954	Np2CL
+ADV-V-ADV-S
+PrepNp
+DetNP
+NPofNP
+162960	V-IO
+ADV2CL
+PrepNp
+162965	DetNP
+notCLbutCL2CL
+162968	ADV2CL
+PrepNp
+ADV2CL
+PrepNp
+AdvpNump
+162974	ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+Np-Appos
+NP-CL
+S-V-O
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+162987	Conj-CL
+ClCl2
+V-S-O
+V2CL
+V-IO-S
+Np-Appos
+NPofNP
+AdjpNp
+162996	Conj-CL
+ClCl2
+ADV-V-S-O
+V2CL
+V-S-O
+CLaCL
+V-S
+Conj4Np
+DetNP
+163006	DetNP
+163008	DetNP
+163010	All-NP
+O-V
+163013	V2CL
+163015	Conj-CL
+ADV-S-V-O-ADV
+V2CL
+DetNP
+163020	CLaCL
+V-ADV
+PrepNp
+163024	O-V-IO
+163026	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetNP
+NPofNP
+NP-Demo
+DetNP
+163035	O-V-IO
+DetNP
+163038	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+NP-Demo
+DetNP
+NP-CL
+NPofNP
+DetNP
+NPofNP
+S-V-IO-O
+NumpNP
+163051	ADV-V-ADV
+V-O
+163054	ClCl
+V2CL
+sub-CL
+O-V
+163059	Conj-CL
+ADV-S-V-O-ADV
+V2CL
+DetNP
+NPofNP
+163065	CLaCL
+V-ADV
+PrepNp
+163069	V-IO
+163071	Conj-CL
+CLaCL
+S-ADV-V
+163075	ClCl
+ADV-V-O-ADV
+V2CL
+PrepNp
+sub-CL
+V-O
+DetCL
+V2CL
+163084	Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-O
+DetNP
+NPofNP
+DetCL
+V2CL
+163093	ADV-V-IO-O
+V2CL
+DetNP
+NPofNP
+All-NP
+DetCL
+V2CL
+163102	V-O
+DetNP
+NPofNP
+163106	Np2CL
+NpAdjp
+O-V-IO
+NP-Demo
+All-NP
+DetNP
+sub-CL
+V-O
+163115	PtclCL
+163117	S-V-O
+AdvpNp
+DetNP
+NPofNP
+sub-CL
+S-O-V
+163124	Conj-CL
+ADV-S-V-O-IO-ADV
+V2CL
+DetNP
+NPofNP
+DetNP
+PrepNp
+ADV-V-O
+All-NP
+DetCL
+V-IO
+163137	AdvpNp
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+sub-CL
+ADV-V-S-IO-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+163150	Conj-CL
+ClCl2
+V2CL
+ClCl2
+sub-CL
+V-S-O
+DetNP
+NP-Demo
+DetNP
+CLaCL
+V-ADV
+PrepNp
+DetNP
+163164	V-ADV
+PrepNp
+DetNP
+NpPp
+NPofNP
+DetNP
+PrepNp
+DetNP
+163173	Conj-CL
+CLaCL
+V-O-S
+NpAdjp
+163178	V-O-ADV
+163180	Conj-CL
+V-ADV-S-ADV
+CLaCL
+V-O
+163186	PtclCL
+V-S
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+All-NP
+163194	Conj-CL
+163196	V2CL
+PtclCL
+163199	that-VP
+S-O2-V-O
+DetCL
+V-ADV
+PrepNp
+NpaNp
+163207	Conj-CL
+163209	CLaCL
+CLaCL
+ADV-V-S-O
+PrepNp
+NpaNp
+DetNP
+163216	DetNP
+163218	V-IO
+DetNP
+NPofNP
+163222	VC-S-P
+DetNump
+PrepNp
+NpAdjp
+163227	Conj-CL
+notCLbutCL2CL
+VC-P
+P2CL
+NpAdjp
+163233	Conj-CL
+O-S-ADV-V
+O-S-V
+DetNP
+163239	Conj-CL
+ADV-S-V-O
+CLaCL
+V-O
+NPofNP
+163245	V2CL
+163248	that-VP
+CLaCL
+S-ADV-V-IO-O
+PrepNp
+DetNP
+NPofNP
+V-O
+DetNP
+NPofNP
+163258	ADV-ADV-V-ADV
+PrepNp
+163261	Conj-CL
+163263	that-VP
+S-V
+PtclCL
+CLaCL
+S-V-O-ADV
+DetNP
+NPofNP
+AdvPp
+PrepNp
+163273	V-O
+163276	DetNP
+ClCl2
+sub-CL
+P-VC-S
+DetNP
+NpPp
+NPofNP
+DetNP
+PrepNp
+DetNP
+ADV-V-S
+V2CL
+163289	Conj-CL
+163291	notCLbutCL2CL
+S-V-O
+NP-Demo
+DetNP
+IO-V
+163297	Conj-CL
+Conj3CL
+V-S
+NP-CL
+S-ADV-V-ADV
+PrepNp
+NPofNP
+163305	V-S
+NP-CL
+S-V-ADV
+PrepNp
+DetNP
+163311	V-S
+NP-CL
+S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+163319	S-V
+DetCL
+V-O
+V2CL
+163324	ClCl
+ADV-V-IO-S
+sub-CL
+CLaCL
+O-V-IO
+DetNP
+163331	V2CL
+163333	Conj-CL
+S-V-O
+DetNP
+163337	Conj-CL
+163339	DetNP
+ClCl
+CLaCL
+V-O
+DetNP
+163345	ADV-V-O
+S-V-ADV
+PrepNp
+sub-CL
+P-VC-S
+DetNP
+DetNP
+NPofNP
+DetNP
+163355	Conj-CL
+ADV-V-ADV
+V-O-IO
+DetNP
+163360	Conj-CL
+163362	V2CL
+163364	Np2CL
+O-V
+AdjpNp
+sub-CL
+V-O
+NpAdjp
+163371	Conj-CL
+163373	CLaCL
+163375	PrepNp
+DetAdj
+P-VC-S
+DetAdj
+163380	ClCl2
+sub-CL
+V-O
+ADV-V
+PrepNp
+DetNP
+V-O
+DetNP
+163390	O2CL
+163392	Conj-CL
+ClCl
+S-V
+DetNP
+O2CL
+NP-CL
+ClClClClCl
+ADV-V
+ADV-V
+ADV-V
+ADV-V
+CLaCL
+V-O
+NpaNp
+DetNP
+163408	DetNP
+163411	DetNP
+NPofNP
+sub-CL
+O2CL
+163417	DetNP
+ClCl
+O-V
+NP-all
+O-ADV-V
+163424	DetNP
+ClCl2
+sub-CL
+V-O
+P-VC
+CLaCL
+CLaCL
+ClCl
+V2CL
+CLaCL
+V-O
+ofNPNP
+DetCL
+V2CL
+163439	V-IO
+163441	V-O-ADV
+PrepNp
+163444	ClCl2
+V2CL
+V-O
+163448	Conj-CL
+163450	V-O
+DetNP
+DetNP
+V2CL
+sub-CL
+V-O
+BeVerb
+NpAdjp
+163459	Conj-CL
+163461	DetNP
+DetNP
+NPofNP
+163465	V-IO
+that-VP
+S-ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+163473	Conj-CL
+163475	CLaCL
+P-VC-S
+S-ADV-V
+PrepNp
+NPofNP
+163481	S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+163487	Conj-CL
+ADV-S-V-ADV-ADV
+V2CL
+DetNP
+163492	Conj-CL
+S-V-O
+V2CL
+163496	Conj-CL
+163498	V2CL
+DetNP
+CLaCL
+ADV-S-P-VC
+PrepNp
+163504	ADV-S-P
+PrepNp
+163508	V2CL
+DetNP
+ClCl
+163512	S-V-O
+163514	V-O
+sub-CL
+S-VC-P
+163518	Conj-CL
+163520	DetNP
+163522	V-IO
+that-VP
+163525	Np2CL
+Np-Appos
+DetCL
+V-O
+PrepNp
+DetNP
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+NPofNP
+AdvpNp
+PrepNp
+NumpNP
+V-O
+DetNP
+NumpNP
+NPofNP
+DetNP
+163548	Conj-CL
+CLaCL
+S-O-V
+All-NP
+S-V-O-ADV
+Conj7Np
+163560	PrepNp
+DetNP
+AdjpNp
+163564	O-V
+NpAdjp
+163567	Conj-CL
+CLaCL
+S-VC-P
+AdjpNp
+163572	S-P
+163574	Conj-CL
+P-VC-S-ADV
+DetNP
+NPofNP
+DetNP
+NP-CL
+Np-Appos
+S-V-ADV-ADV
+PrepNp
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+163588	Conj-CL
+ADV-V-O-ADV
+V-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+163599	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+AdjpNp
+NpAdjp
+V-ADV-ADV
+PrepNp
+DetNP
+163609	Conj-CL
+163611	CLaCL
+V-S-ADV
+AdvpNp
+PrepNp
+DetNP
+163617	O-V-IO
+PtclCL
+S-VC-P
+163621	Conj-CL
+S-V
+163624	Conj-CL
+ADV-V-ADV
+ADV-V-ADV
+PrepNp
+AdjpNp
+AdjpaAdjp
+163632	Conj-CL
+CLaCL
+ADV-V-O
+ADV-V
+PrepNp
+DetAdj
+S-V
+163641	ADV-ADV-V-ADV-ADV
+All-NP
+DetNP
+163646	sub-CL
+S-O-V
+163650	V-S-ADV
+AdvpNp
+PrepNp
+DetNP
+163655	Conj-CL
+ClCl2
+S-V
+163659	DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+CLaCL
+V-O
+DetNP
+163668	V-O-ADV
+DetNP
+V-ADV-ADV
+PrepNp
+DetAdj
+PrepNp
+DetAdj
+163676	Conj-CL
+ADV-S-V-ADV-O
+V2CL
+NpPp
+PrepNp
+DetNP
+AdjpNp
+163684	Conj-CL
+163686	V2CL
+DetAdj
+that-VP
+O-V
+163691	Conj-CL
+V-O-S
+NpPp
+PrepNp
+AdvpNp
+163697	Conj-CL
+ADV-V-ADV-ADV
+V2CL
+PrepNp
+DetNP
+163703	CLaCL
+S-ADV-V
+Demo-NP
+DetAdj
+AdjpNp
+163709	O2-O-V-ADV
+Np-Appos
+DetCL
+V-O
+NpaNp
+DetNP
+NPofNP
+DetNP
+163718	DetNP
+163720	Conj-CL
+163722	V2CL
+NPofNP
+ClCl
+163726	Np2CL
+PtclCL
+ADV-V-ADV
+163730	CLaCL
+V-O
+DetAdj
+163734	V2CL
+163736	Conj-CL
+163738	IO-V
+Demo-NP
+DetAdj
+sub-CL
+IO2CL
+AdvpNp
+163745	PtclCL
+V-ADV-S
+O-V-ADV
+O-V
+PrepNp
+DetAdj
+163752	Conj-CL
+163754	DetNP
+NPofNP
+sub-CL
+S-P-VC
+163759	CLaCL
+ADV-VC-S-P
+DetAdj
+163763	S-P
+DetAdj
+163766	Conj-CL
+CLaCL
+S-ADV-V-O-ADV
+V-O
+V-ADV
+PrepNp
+DetNump
+PrepNp
+163776	PrepNp
+DetNP
+CLaCL
+163780	PrepNp
+163782	CLaCL
+CLaCL
+S-V-IO
+DetNP
+NPofNP
+DetNP
+DetNP
+NpaNp
+163792	CLaCL
+V-O-ADV
+PrepNp
+163796	V-O-IO-ADV
+DetNP
+PrepNp
+DetCL
+Conj3CL
+V2CL
+163803	V2CL
+163805	V2CL
+163807	ADV-V
+DetNP
+AdjpNp
+163811	ADV-V-ADV-S-ADV-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+CLaCL
+V2CL
+163822	V-O-ADV
+PrepNp
+163825	Conj-CL
+163827	O-V
+163831	that-VP
+V-S-ADV-ADV
+Demo-NP
+DetNP
+NumpNP
+NPofNP
+CLaCL
+S-ADV
+PrepNp
+163841	S-ADV
+PrepNp
+NPofNP
+PrepNp
+DetNP
+NPofNP
+163848	Conj-CL
+163850	V2CL
+DetNP
+163853	O-V
+V-O
+V-O
+DetNP
+NP-CL
+O-S-V
+O-V
+163862	V2CL
+163865	aCLaCL
+163867	O-V
+DetNP
+NPofNP
+163871	CLaCL
+S-ADV-VC-P
+DetCL
+V-ADV
+Conj2Pp
+PrepNp
+NPofNP
+163879	PrepNp
+S-O-V
+163882	IO-V-ADV
+PrepNp
+DetNP
+NPofNP
+163887	Conj-CL
+ADV-S-V-ADV
+V2CL
+DetNump
+PrepNp
+DetNP
+NumpNP
+163895	Conj-CL
+163897	DetNP
+V-O
+163900	that-VP
+CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+163907	S-V-ADV
+DetAdj
+163910	notCLbutCL2CL
+P-VC-ADV
+PrepNp
+163914	CLaCL
+S-VC-P
+PtclCL
+S-V-O
+ADV-P-VC
+PrepNp
+ofNPNP
+163922	S-VC-P
+PtclCL
+S-V-O
+ADV-VC-P
+PrepNp
+ofNPNP
+S-ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+CLaCL
+V2CL
+163935	CLaCL
+V2CL
+163938	V-O-O2
+DetNP
+NPofNP
+NpPp
+PrepNp
+163944	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+V-O-S
+NpAdjp
+163951	Conj-CL
+163953	NumpNP
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+163959	that-VP
+S-V
+163963	Np2CL
+Np-Appos
+NPofNP
+163967	Conj-CL
+163969	DetNP
+sub-CL
+V2CL
+163973	Conj-CL
+S-ADV-V-ADV
+163977	Np2CL
+Np-Appos
+NPofNP
+163981	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetNP
+163988	V-O
+O-V-IO
+163993	Np2CL
+V-S
+DetNP
+NPofNP
+163998	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetNP
+DetNP
+NPofNP
+164006	CLaCL
+ADV-V
+164009	V-O
+164011	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+V-ADV
+PrepNp
+164018	V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+ADV-S-V-O-ADV
+NumpNP
+164027	ClCl
+CLaCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+164036	ADV-V-O
+CLaCL
+S-V
+164040	S-ADV
+PrepNp
+ADV-V-IO
+V2CL
+164045	Conj-CL
+ClCl2
+sub-CL
+S-IO-V-O
+164050	that-VP
+S-O-V
+DetNP
+ofNPNP
+164055	Conj-CL
+ADV-V-O
+164058	Conj-CL
+ClCl
+S-V
+sub-CL
+V-S
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+164069	DetNP
+NPofNP
+164072	DetNP
+NPofNP
+AdjpaAdjp
+164076	V-ADV
+Conj2Pp
+PrepNp
+164080	PrepNp
+Np-Appos
+NPofNP
+164084	Conj-CL
+Conj3CL
+S-ADV-V-O
+CLaCL
+V2CL
+DetNP
+164091	ClCl
+V2CL
+sub-CL
+V-IO-S
+DetNP
+NpaNp
+DetNP
+164099	DetNP
+164101	V-ADV-O
+PrepNp
+DetNP
+164105	V-ADV
+PrepNp
+164108	Conj-CL
+CLaCL
+S-V-O-ADV
+DetNP
+AdjpNp
+ofNPNP
+DetNP
+PrepNp
+DetNP
+164118	CLaCL
+S-V-O-ADV
+PrepNp
+DetNP
+164123	V-ADV
+PrepNp
+DetNP
+164127	Conj-CL
+S-V-ADV
+Np-Appos
+DetNP
+NpaNp
+DetCL
+V-ADV
+164135	DetCL
+V2CL
+164138	ClCl
+164140	DetNP
+NPofNP
+P-S
+V2CL
+DetCL
+V-ADV
+PrepNp
+NPofNP
+S-P
+PrepNp
+DetAdj
+164152	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+V-S-ADV
+All-NP
+DetNP
+164160	P-VC-S
+164162	Conj-CL
+164164	DetNP
+S-VC-P
+Np-Appos
+DetNP
+Np-Appos
+NpPp
+PrepNp
+NPofNP
+DetNP
+164174	Conj-CL
+Conj4CL
+V-S-ADV
+PrepNp
+DetNP
+164180	V-O
+All-NP
+DetCL
+V-ADV
+Conj2VP
+164186	PrepNp
+DetNP
+164189	V-O
+NpaNp
+DetNP
+NPofNP
+DetNP
+164195	DetNP
+NPofNP
+DetCL
+V-O
+DetNP
+164202	CLaCL
+164204	S-P-VC
+DetNP
+NPofNP
+NPofNP
+164209	S-O-V-O2
+NPofNP
+164212	Conj-CL
+CLaCL
+V-ADV-S-ADV
+NpaNp
+164217	PrepNp
+DetNP
+164220	V-O
+164222	Conj-CL
+CLaCL
+S-ADV-V
+V-O
+NpaNp
+DetNP
+164229	DetNP
+NpaNp
+DetNP
+NP-CL
+O-V
+164235	Np-Appos
+DetNP
+DetCL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+164244	S-P
+DetNP
+NPofNP
+164249	ClCl
+V2CL
+O-S-V
+164253	Conj-CL
+164255	DetNP
+164257	Intj2CL
+that-VP
+ADV-V-O
+PrepNp
+NPofNP
+NpaNp
+164264	V2CL
+164266	Conj-CL
+CLaCL
+ADV-V-ADV-ADV
+V-O
+PrepNp
+DetNP
+PrepNp
+164274	V-ADV
+164276	Conj-CL
+ADV-ADV-V
+V-ADV
+PrepNp
+DetNP
+164282	Conj-CL
+CLaCL
+CLaCL
+ADV-V-ADV
+V-O
+NpPp
+NpAdjp
+PrepNp
+DetNP
+PrepNp
+164294	PrepNp
+sub-CL
+ADV-O-ADV
+164299	ADV-ADV-ADV-S-V-ADV
+PrepNp
+PrepNp
+DetNP
+164304	Conj-CL
+V-ADV-S
+DetNP
+164308	Conj-CL
+ADV-S-V-ADV
+V2CL
+DetNP
+164313	ADV-ADV-V-S
+DetNP
+164316	Conj-CL
+164318	V2CL
+DetNP
+ClCl
+PtclCL
+V-IO
+ClCl2
+sub-CL
+CLaCL
+V-O
+164328	ADV-V
+notCLbutCL2CL
+ADV-O-V
+NPofNP
+DetNP
+ClCl2
+sub-CL
+164336	NP-Demo
+DetNP
+CLaCL
+V2CL
+164341	V-ADV
+PrepNp
+DetNP
+V2CL
+164346	Conj-CL
+O-ADV-V
+All-NP
+PtclCL
+O-V-ADV
+PrepNp
+DetNP
+V2CL
+164355	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+V-ADV-ADV-S-ADV
+V2CL
+NpaNp
+DetNP
+164365	DetNP
+NPofNP
+DetNP
+164369	CLaCL
+ADV-O-V
+PrepNp
+AdjpNp
+164374	S-IO-V-O
+NP-Demo
+DetNP
+164378	Conj-CL
+164380	V2CL
+DetNP
+164383	NpAdjp
+ClCl2
+sub-CL
+O-V-IO
+164388	ADV-O-V
+PrepNp
+AdjpNp
+164393	Np-Appos
+DetNP
+NPofNP
+CLaCL
+P2CL
+PrepNp
+164400	P2CL
+PrepNp
+164403	Conj-CL
+S-V-ADV-ADV
+PrepNp
+164407	CLaCL
+ClCl2
+sub-CL
+164411	P2CL
+PrepNp
+164414	Conj-CL
+ADV-ADV-V-O
+PrepNp
+164418	ClCl
+ClCl2
+sub-CL
+164422	P2CL
+PrepNp
+V-O
+DetNP
+sub-CL
+S-ADV-V-O
+PrepNp
+DetNP
+164431	Conj-CL
+164433	V-IO
+DetNP
+ADV-V
+164438	AdvpNp
+164440	ADV-O-V
+PrepNp
+AdjpNp
+164444	Conj-CL
+S-ADV-V
+164447	S-V-O
+NpNump
+164451	V-ADV
+DetAdj
+164454	Np2CL
+V2CL
+ADV-V-ADV
+PrepNp
+DetNP
+164460	Conj-CL
+CLaCL
+164463	V2CL
+164465	Np2CL
+164467	ADV-V
+164469	Conj-CL
+ADV-V-ADV
+V-ADV
+DetAdj
+164474	Conj-CL
+ClCl
+164477	V2CL
+ADV-V
+ADV-ADV-V
+V2CL
+164482	S-V-O
+NpPp
+PrepNp
+DetNump
+DetNP
+NPofNP
+DetNP
+164491	S2CL
+DetAdj
+164495	DetNP
+ClCl
+164498	V-IO
+that-VP
+S-V-ADV-ADV
+NpaNp
+DetNP
+164504	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Conj-CL
+CLaCL
+CLaCL
+CLaCL
+V-S-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+164518	ADV-V-O
+164520	S-V-O
+NpaNp
+DetNP
+164524	DetNP
+164526	S-ADV-ADV-V-ADV-ADV
+V2CL
+DetCL
+V-O
+164531	O-V
+AdjpNp
+164535	Conj6CL
+S-V-O
+164538	O-IO-V
+164540	V-ADV-O
+PrepNp
+164543	V-O
+164545	V-O-IO
+164547	V2CL
+164549	Conj-CL
+164551	sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+V-O
+DetNP
+NPofNP
+164564	Conj-CL
+ClCl2
+V-S-O
+DetNP
+DetNP
+NPofNP
+aCLaCLaCL
+164572	O-V
+164574	O-V
+164576	O-V
+164578	CLaCL
+ADV-V-O
+AdjpNp
+NpAdjp
+AdjpAdvp
+DetAdj
+164585	V-IO-ADV
+164587	Conj-CL
+ADV-V-ADV-O-ADV
+PrepNp
+DetNP
+NPofNP
+164593	V-O
+DetNP
+NPofNP
+164597	Conj-CL
+164599	DetNP
+V-O
+DetNP
+PrepNp
+ClCl
+S-VC-P
+DetNP
+ClCl2
+V2CL
+CLaCL
+V-O
+164611	V-O
+DetNP
+NPofNP
+164615	Conj-CL
+CLaCL
+ADV-V-ADV
+V-O
+PrepNp
+DetNP
+164622	V2CL
+164624	Conj-CL
+164626	sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+NP-Demo
+DetNP
+164635	CLaCL
+164637	Np2CL
+164639	O-V-IO
+DetNP
+AdjpNp
+NP-CL
+S-V-IO-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+164650	DetNP
+164652	PrepNp
+DetNP
+164656	Np2CL
+NP-CL
+O-V-S
+DetCL
+V2CL
+PrepNp
+NPofNP
+ADV-V-S
+PrepNp
+164666	VC-P-ADV
+PrepNp
+NPofNP
+164671	PrepNp
+that-VP
+CLaCL
+V-ADV-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+164680	V-IO
+NpAdjp
+V-O
+DetNP
+NPofNP
+164686	Conj-CL
+CLaCL
+S-V
+DetCL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+164696	Np2CL
+PrepNp
+PtclCL
+O-V
+164701	Conj-CL
+164703	V-O
+NpaNp
+DetNP
+164707	DetNP
+DetNP
+NPofNP
+that-VP
+ADV-V
+PrepNp
+164714	Conj-CL
+ClCl
+ADV-V-O
+V-O
+O-V
+DetNP
+sub-CL
+ADV-O-V
+PrepNp
+164724	Conj-CL
+ADV-S-ADV-V-ADV-IO-ADV
+V2CL
+DetNP
+PrepNp
+164730	V-S-ADV
+DetNP
+NPofNP
+DetNP
+Np-Appos
+NP-CL
+S-V-O-IO
+DetNP
+NPofNP
+164740	Conj-CL
+CLaCL
+V-O-ADV
+DetNP
+NPofNP
+V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+164751	ADV-V-O
+V2CL
+164754	ADV-V-O-ADV
+AdjpNp
+164758	DetCL
+V2CL
+ClCl
+164762	O-V
+DetNP
+NPofNP
+S-V
+NpaNp
+DetNP
+NPofNP
+164770	DetAdj
+164772	S-P
+V-ADV
+PrepNp
+DetNP
+164777	Conj-CL
+164779	V2CL
+aCLaCL
+164782	S-ADV
+PrepNp
+DetNP
+AdjpNp
+164787	S-ADV
+PrepNp
+DetNP
+NPofNP
+164792	Conj-CL
+S-ADV-V
+DetAdj
+V-O
+DetNP
+NPofNP
+Conj2VP
+164801	Conj-CL
+Conj3CL
+S-V
+DetNP
+164806	ADV-V-O
+V-O
+DetNP
+NPofNP
+NP-Demo
+DetNP
+164813	O-V
+DetNP
+NPofNP
+164818	DetNP
+NPofNP
+aCLaCL
+164822	S-P-VC
+DetNP
+164825	S-ADV-VC-P
+DetCL
+V2CL
+164829	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+164837	O-V-ADV
+PtclCL
+O-V
+PrepNp
+DetNP
+164843	Conj-CL
+S-ADV-V-O
+V-ADV
+NP-Demo
+DetNP
+PrepNp
+DetNP
+Np-Appos
+All-NP
+O-V
+aNpaNp
+164857	Conj-CL
+V-S-O
+DetNP
+V2CL
+164862	Conj-CL
+S-ADV-V-ADV-O
+V-ADV
+DetNP
+V-O
+DetCL
+V2CL
+NpAdjp
+ADV-V-O
+NPofNP
+164873	Conj-CL
+164876	Np2CL
+ADV-V-O
+NPofNP
+164880	Conj-CL
+S-V
+164884	DetNP
+DetNP
+ADV-V-O-ADV
+V-O
+ofNPNP
+NpaNp
+164891	PrepNp
+DetNP
+NPDetAdj
+DetAdj
+164896	P-VC-S
+NpaNp
+DetNP
+164900	DetNP
+NPofNP
+DetNP
+164904	Conj-CL
+CLaCL
+P-VC-S
+164908	P-S
+164911	V2CL
+DetNP
+sub-CL
+O-V-ADV
+PrepNp
+164917	Conj-CL
+V-IO-O-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+164925	Np2CL
+164927	that-VP
+Conj3CL
+P-VC
+164931	O-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+164938	PrepNp
+sub-CL
+ADV-V-ADV
+PrepNp
+NPofNP
+Conj-CL
+164946	CLaCL
+V-S
+V-O-IO
+164950	ADV2CL
+164952	Conj-CL
+164954	V-O
+DetNP
+DetNP
+NPofNP
+164959	Np2CL
+164961	V-IO-O
+DetNP
+NPofNP
+DetNP
+164966	Conj-CL
+S-V-IO-O
+164969	Conj-CL
+164971	P-S
+NpaNp
+NP-Demo
+DetNP
+164976	DetNP
+164979	P2CL
+164982	Conj-CL
+CLaCL
+V-O-IO
+NPofNP
+164987	O-IO
+NPofNP
+DetNP
+DetNP
+164992	Conj-CL
+CLaCL
+ADV-V
+V2CL
+164997	ADV-V
+V-O
+165000	CLaCL
+ADV-V-ADV-S
+PrepNp
+Demo-NP
+DetNP
+NpAdjp
+V-O
+ADV-V-S
+165009	V-O-ADV
+165012	Np2CL
+ClCl2
+sub-CL
+S-V-ADV
+ADV-V-O
+CLaCL
+V-S-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+165024	V-O-IO
+DetNP
+NPofNP
+165028	Conj-CL
+VC-P-S
+PrepNp
+NumpNP
+165033	Conj-CL
+CLaCL
+S-ADV-V
+DetAdj
+V2CL
+165039	ADV-V-O-IO
+ADV-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+165046	ADV-S-ADV
+aNpaNp
+165049	DetAdj
+165051	DetAdj
+PrepNp
+DetNump
+165055	Conj-CL
+ADV-V-S
+NPofNP
+DetNP
+165060	Conj-CL
+ClCl
+ADV-P-VC
+PrepNp
+DetNP
+ofNPNP
+NPofNP
+DetNump
+sub-CL
+S-V-O
+165071	Conj-CL
+165073	V2CL
+DetNP
+V-ADV
+CLaCL
+ADV-V-O
+DetNP
+165080	O2CL
+DetNP
+NPofNP
+DetNP
+165085	Conj-CL
+CLaCL
+ADV-V
+PrepNp
+DetNP
+EitherOrVp
+165094	P-VC
+PrepNp
+NpPp
+PrepNp
+DetNP
+165100	Conj-CL
+ClCl
+ADV2CL
+PrepNp
+DetNP
+NPofNP
+DetAdj
+PtclCL
+V-O
+DetCL
+V-IO-ADV-ADV
+PrepNp
+DetNP
+165114	S-VC-P
+Conj3Np
+DetNP
+NPofNP
+165119	DetNP
+NPofNP
+165122	DetNP
+NPofNP
+165125	notCLbutCL2CL
+VC-P
+DetNP
+NPofNP
+P2CL
+165131	Conj-CL
+ADV-S-V-ADV
+V2CL
+DetNP
+PrepNp
+DetNP
+NPofNP
+165139	Conj-CL
+S-ADV-V-ADV
+DetNP
+165143	V2CL
+V-O
+DetNP
+PrepNp
+DetNP
+165149	Conj-CL
+165151	Np-Appos
+NpPp
+PrepNp
+V-O
+165156	Np2CL
+NpPp
+NpAdjp
+PrepNp
+DetNP
+165162	Conj-CL
+165164	V-O-ADV
+Np-Appos
+DetNP
+NPofNP
+Conj3Pp
+PrepNp
+All-NP
+DetNP
+NPofNP
+165174	PrepNp
+All-NP
+DetNP
+NPofNP
+165179	PrepNp
+All-NP
+DetNP
+NPofNP
+165184	S-VC-P
+DetNP
+AdjpNp
+AdjpaAdjp
+165192	DetNP
+NPofNP
+sub-CL
+O2CL
+165197	CLaCL
+ADV-S-V
+PrepNp
+Demo-NP
+DetNP
+AdjpNp
+All-NP
+DetNP
+165206	S2CL
+DetNP
+165209	Conj-CL
+ClCl2
+V-S
+DetNP
+V-O-S-ADV
+DetNP
+165217	PrepNp
+DetNP
+P-VC
+ofNPNP
+165223	P2CL
+DetNP
+165227	Conj-CL
+ADV-S-ADV-V-O-O2-ADV
+PrepNp
+165232	DetNP
+NPofNP
+ClCl
+V-ADV
+PrepNp
+NPofNP
+sub-CL
+PtclCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+165247	Conj-CL
+ClCl2
+sub-CL
+S-V-O-O2
+ADV-P-VC
+NPofNP
+165254	Conj-CL
+CLaCL
+S-V-O
+V-IO-O
+165259	V-S-ADV-O
+PrepNp
+Demo-NP
+DetNP
+V-O-ADV
+165265	ADV-S-V-IO-ADV
+DetNP
+NpaNp
+DetNP
+165270	DetNP
+NPofNP
+165273	ADV-V-S
+PrepNp
+DetNP
+ofNPNP
+NpaNp
+DetNP
+165280	DetNP
+165282	Conj-CL
+CLaCL
+O-V
+All-NP
+PtclCL
+O-V-IO
+Conj2VP
+165291	ADV-ADV-V
+PrepNp
+DetNP
+NPofNP
+165296	Conj-CL
+CLaCL
+V2CL
+165300	ADV-V
+165302	Conj-CL
+CLaCL
+CLaCL
+V-O
+NpAdjp
+165308	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+165314	S-ADV-ADV-V-O
+DetNP
+NPofNP
+V-O
+165319	Conj-CL
+O-V-ADV
+All-NP
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-ADV
+DetNP
+165329	Conj-CL
+CLaCL
+CLaCL
+V-O
+DetNP
+NPofNP
+165336	V-O
+DetNP
+165339	V-O
+Conj4Np
+DetNP
+NpPp
+PrepNp
+DetNP
+165346	DetNP
+NpPp
+PrepNp
+DetNP
+165351	DetNP
+NpPp
+PrepNp
+DetNP
+165356	VC-ADV-P
+PrepNp
+DetNP
+165360	Conj-CL
+165362	sub-CL
+CLaCL
+P-VC-S
+ofNPNP
+DetNP
+165368	S-P-VC
+All-NP
+165371	Conj-CL
+165373	NPofNP
+PrepNp
+DetNP
+sub-CL
+P-VC-S
+ofNPNP
+Np-Appos
+DetNP
+DetAdj
+165384	sub-CL
+S-VC-P
+NPofNP
+Np-Appos
+DetNP
+165390	Conj-CL
+S-VC-P
+DetNP
+NPofNP
+ofNPNP
+165396	Conj-CL
+CLaCL
+S-V
+S-V-O
+165401	S-V
+S-V-O
+165404	Conj-CL
+ClCl
+165407	Np2CL
+Np-Appos
+NpaNp
+165411	sub-CL
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+sub-CL
+CLaCL
+S-ADV-V
+165422	O-V
+S-V
+DetCL
+V2CL
+165428	Np2CL
+Np-Appos
+NpaNp
+165432	sub-CL
+CLaCL
+V-O-ADV
+NpaNp
+DetNP
+165438	DetAdj
+V-O-O2
+165442	sub-CL
+V2CL
+NpAdjp
+NPofNP
+AdjpAdvp
+165449	Np2CL
+Np-Appos
+NpAdjp
+DetCL
+165454	CLaCL
+S-P-VC
+PtclCL
+S-V-ADV
+PrepNp
+DetNP
+165461	S-V
+PtclCL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+165470	Np2CL
+AdjpaAdjp
+165474	CLaCL
+S2CL
+DetNP
+165478	S2CL
+Np-Appos
+DetNP
+DetCL
+V-O
+DetNP
+165485	Conj-CL
+CLaCL
+S-P-VC
+PtclCL
+S-V-ADV
+PrepNp
+DetNP
+165493	S-V
+PtclCL
+S-V-ADV
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+165503	Np2CL
+165505	CLaCL
+S2CL
+DetNP
+165509	S2CL
+Np-Appos
+DetNP
+DetCL
+V-O
+DetNP
+165516	Conj-CL
+S-V-ADV
+DetCL
+V-ADV
+PrepNp
+DetNP
+Conj2Pp
+PrepNp
+165525	PrepNp
+All-NP
+NpPp
+PrepNp
+165530	Conj-CL
+S-V-ADV
+DetCL
+V-ADV
+PrepNp
+DetNP
+Conj2Pp
+PrepNp
+165539	PrepNp
+DetCL
+V-ADV
+165543	Conj-CL
+S-V-ADV
+DetCL
+V-ADV
+PrepNp
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+165555	PrepNp
+DetCL
+V-ADV
+PrepNp
+165560	ClCl
+165562	Np2CL
+Np-Appos
+NpaNp
+165566	sub-CL
+CLaCL
+V-O
+Conj3Np
+DetNP
+165572	DetNP
+165574	DetNP
+165576	V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+Conj3Np
+DetNP
+165584	DetNP
+165586	DetNP
+165588	Conj-CL
+V-S
+ClCl
+O-V
+O-ADV-V
+165594	Np2CL
+Np-Appos
+NpAdjp
+DetCL
+CLaCL
+V-O
+DetNP
+165602	O-V
+DetNP
+165606	Np2CL
+Np-Appos
+NpaNp
+165610	sub-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+NpaNp
+DetNP
+165618	DetNP
+165620	ADV-V-ADV
+PrepNp
+NpaNp
+165626	Np2CL
+NpAdjp
+V-ADV-O
+DetNP
+NPofNP
+DetNP
+sub-CL
+VC-S-P
+AdvpNp
+DetNP
+NPofNP
+165638	ClCl
+165640	Np2CL
+Np-Appos
+NpaNp
+165644	sub-CL
+V-ADV
+NP-CL
+NpAdjp
+V2CL
+aCLaCL
+165651	S-ADV-VC-P
+165653	ADV-V-O
+NpaNp
+NPofNP
+165657	All-NP
+165659	ADV-S-P
+AdvpNp
+aCLaCL
+165663	ADV-VC-ADV-P
+DetNP
+165666	ADV-VC-P-ADV
+NpaNp
+165670	ClCl
+165672	Np2CL
+Np-Appos
+NpaNp
+165676	sub-CL
+CLaCL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+165684	V-O
+DetNP
+NPofNP
+DetAdj
+165690	ClCl2
+sub-CL
+VC-P
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PtclCL
+ADV-VC-P-ADV
+ofNPNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+165706	Conj-CL
+165708	that-VP
+VC-P
+NPofNP
+DetCL
+V-O
+DetNP
+165715	Conj-CL
+S-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+165723	Np2CL
+Np-Appos
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+165733	PrepNp
+PrepNp
+Conj3Np
+165738	CLaCL
+ADV-V
+PrepNp
+Conj2VP
+165744	CLaCL
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+165751	V-ADV
+2Pp
+PrepNp
+PrepNp
+sub-CL
+V-ADV-S
+PrepNp
+All-NP
+NP-CL
+NpAdjp
+V-ADV-ADV
+PrepNp
+DetNP
+2Pp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetAdj
+PrepNp
+DetNP
+NPofNP
+NP-CL
+Np-Appos
+NPofNP
+O-V-ADV
+PrepNp
+NpaNp
+DetNP
+165781	DetNP
+165783	ClCl
+PtclCL
+V-IO
+V-S-ADV
+NP-all
+PrepNp
+NP-Demo
+DetNP
+165792	ClCl2
+165794	Np2CL
+Np2CL
+Np2CL
+DetCL
+CLaCL
+V-O
+DetNP
+165802	V-O
+DetCL
+V-ADV
+PrepNp
+CLaCL
+ADV-V-O
+165809	DetNP
+NPofNP
+ADV-S-V-O-ADV
+PronNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+165818	ADV-V
+165821	DetNP
+NPofNP
+165824	Conj-CL
+165826	ClCl
+ADV-O-V-ADV
+2Advp_h1
+PrepNp
+sub-CL
+PtclCL
+165833	P-S
+V2CL
+DetCL
+V-ADV
+PrepNp
+NPofNP
+165840	Conj-CL
+CLaCL
+S-ADV-V
+V-ADV
+DetNP
+PrepNp
+DetNP
+165848	V-S-ADV
+DetNP
+NPofNP
+V-IO-O
+DetNP
+NPofNP
+DetNP
+165856	Conj-CL
+165858	V2CL
+ClCl
+PtclCL
+V-O
+NP-all
+ClCl
+PtclCL
+V-IO
+ADV-V-ADV-ADV-S
+2Advp_h1
+NP-CL
+PrepNp
+S-ADV-V
+165872	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV-S-ADV-ADV
+DetNP
+PrepNp
+165884	CLaCL
+ADV-S-V
+165887	P-S
+DetNP
+NPofNP
+NpaNp
+DetNP
+AdjpNp
+165894	NPofNP
+DetNP
+165897	Conj-CL
+165899	V2CL
+DetNP
+ClCl
+V2CL
+PtclCL
+S-O-V
+165906	Conj-CL
+CLaCL
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+165913	S-VC-P
+DetNP
+165916	O-V
+165918	Conj-CL
+V-O
+V-O
+NpaNp
+165923	NPofNP
+165926	PtclCL
+V2CL
+165929	Conj-CL
+CLaCL
+V-S
+V2CL
+165934	ADV-V-S
+DetNP
+165937	Conj-CL
+CLaCL
+CLaCL
+V-S-ADV
+PrepNp
+165943	S-ADV
+PrepNp
+165946	V-S-ADV
+NpaNp
+165949	PrepNp
+165951	Conj-CL
+S-P
+All-NP
+NPofNP
+165956	CLaCL
+CLaCL
+ADV-V-O-ADV
+PrepNp
+165961	V-O
+165963	V-ADV-ADV
+BeVerb
+PrepNp
+All-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+165972	Conj-CL
+Conj3CL
+ADV-V-S
+165976	O-V
+165978	V-O
+165980	Conj-CL
+CLaCL
+S-V
+AdjpNp
+165985	V-O
+165987	Conj-CL
+ADV-V-S
+PrepNp
+DetCL
+V-S
+DetNP
+DetNP
+NPofNP
+DetAdj
+165997	Conj-CL
+165999	Np2CL
+DetCL
+V-ADV
+PrepNp
+166004	Conj-CL
+CLaCL
+V-S-ADV-ADV-IO
+Demo-NP
+DetNP
+NPofNP
+DetNP
+PrepNp
+All-NP
+DetNP
+PrepNp
+All-NP
+DetNP
+166018	ADV-V-S
+DetNP
+166021	Conj-CL
+ClCl2
+ClCl
+sub-CL
+V-O
+S-V-ADV
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+PrepNp
+NpAdjp
+S-V
+DetCL
+V2CL
+2CLaCL
+ADV-S-V-ADV
+NpPp
+PrepNp
+DetNP
+PrepNp
+DetNP
+S-ADV-V-ADV
+NpPp
+PrepNp
+DetNP
+V-O
+NpPp
+PrepNp
+DetNP
+NPofNP
+166058	S-ADV-V-ADV-ADV
+NpPp
+PrepNp
+DetNP
+V-O
+DetNP
+NPofNP
+166066	Conj-CL
+S-IO-ADV
+NpaNp
+DetCL
+ADV-V
+PrepNp
+166073	DetCL
+V2CL
+PrepNp
+Demo-NP
+DetNP
+166079	Conj-CL
+166081	sub-CL
+ADV-V-S-ADV
+DetNP
+NPofNP
+NpaNp
+166088	Conj-CL
+V-ADV-S
+NP-CL
+NpAdjp
+CLaCL
+S-ADV-V-ADV
+2Pp
+PrepNp
+NPofNP
+PrepNp
+DetNP
+166100	ADV-V
+2Advp_h1
+166103	Conj-CL
+166105	sub-CL
+ADV-V-S
+NP-Demo
+DetNP
+ADV-V-S
+All-NP
+166112	Conj-CL
+ADV-V-S
+PrepNp
+DetAdj
+NP-Demo
+DetNP
+166119	ClCl2
+sub-CL
+166123	P-S
+DetNP
+166126	P2CL
+ADV-V
+166129	Conj-CL
+CLaCL
+V-S
+NpaNp
+166135	V-O-ADV
+NpaNp
+NpAdjp
+166139	sub-CL
+V-ADV-O
+sub-CL
+P2CL
+AdvpNp
+DetAdj
+166148	Conj-CL
+ClCl
+ClCl
+ClCl2
+sub-CL
+166155	PrepNp
+DetAdj
+ADV-V
+166159	ClCl2
+V2CL
+P2CL
+PrepNp
+DetNP
+sub-CL
+ClCl
+166167	sub-CL
+CLaCL
+S-V-ADV
+DetNP
+PrepNp
+166173	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+166181	PtclCL
+P-VC-S
+DetNP
+DetNP
+166186	Conj-CL
+Conj4CL
+ADV-ADV-S-V
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+DetNP
+166196	S-ADV-V-O
+DetNP
+DetNP
+NPofNP
+166201	S-V-ADV
+DetNP
+PrepNp
+DetNP
+166206	S-V
+DetNP
+NPofNP
+DetNP
+166211	Conj-CL
+Conj3CL
+ADV-V-S-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+166221	ADV-V-S
+All-NP
+DetNP
+NPofNP
+DetNP
+166227	V-O
+S-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpAdjp
+NpaNp
+166241	Conj-CL
+CLaCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+NpAdjp
+166249	V-O-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+AdjpNp
+2Pp
+PrepNp
+NPofNP
+PrepNp
+NPofNP
+166261	Conj-CL
+ADV-V-O
+PrepNp
+DetNP
+DetNP
+166267	ClCl2
+sub-CL
+CLaCL
+ADV-S-VC-P
+DetNP
+NPofNP
+166274	O-V
+DetNP
+166277	that-VP
+P-S
+DetNP
+166282	sub-CL
+V-O
+All-NP
+that-VP
+P-VC-ADV
+PrepNp
+166290	V-IO
+that-VP
+166293	2Advp_h1
+NP-Demo
+DetNP
+sub-CL
+PtclCL
+S-V
+All-NP
+166301	CLaCL
+S-V
+NpaNp
+DetNP
+166306	DetNP
+166308	S-ADV-V
+DetNP
+NPofNP
+2Advp_h1
+166313	Conj-CL
+ClCl
+166316	PrepNp
+NP-Demo
+DetNP
+NpaNp
+166321	ADV-S
+NpaNp
+DetNP
+NPofNP
+DetNP
+166327	DetNP
+sub-CL
+ADV-S-ADV
+DetNP
+166332	Conj-CL
+166334	sub-CL
+S2CL
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+166345	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+ADV-V-ADV
+BeVerb
+PrepNp
+Np-Appos
+NP-Demo
+DetNP
+NpPp
+PrepNp
+DetNP
+VpVp
+Conj2VP
+166361	Conj2VP
+166363	PrepNp
+ADV-V-S-ADV
+PronNP
+PrepNp
+DetNP
+166370	sub-CL
+CLaCL
+V-S
+DetNP
+166375	V-O
+P-VC-S
+AdvpNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+166385	PrepNp
+DetNP
+CLaCL
+S-V
+166390	S-V
+166393	PrepNp
+DetNP
+CLaCL
+S-V
+166398	S-V
+166400	Conj-CL
+ClCl
+V2CL
+sub-CL
+166405	ADV-S-V
+AdjpNp
+DetNP
+NPofNP
+166410	Conj-CL
+166412	that-VP
+ClCl2
+sub-CL
+166416	DetNP
+ADV-S-V
+AdjpNp
+DetNP
+CLaCL
+PtclCL
+V2CL
+166424	PtclCL
+ADV-V-O
+V-S
+DetNP
+NPofNP
+166430	ClCl
+ADV-S-VC-P
+PrepNp
+AdvpNp
+sub-CL
+ADV-S-V
+CL-NP
+ADV-ADV-V
+DetNP
+NPofNP
+DetNP
+166442	Conj-CL
+P-VC-S
+NP-CL
+DetNP
+AdjpNp
+AdjpaAdjp
+166449	O-V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetCL
+V-IO-O-ADV
+DetNP
+PrepNp
+166459	P-S
+NP-CL
+NP-Demo
+DetNP
+O-ADV-S-V
+S-ADV-V
+V2CL
+DetNP
+NPofNP
+166470	V-IO
+that-VP
+ADV-V-O
+PrepNp
+All-NP
+NPofNP
+DetCL
+V2CL
+166479	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+166484	NP-Demo
+DetNP
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+V-S
+ofNPNP
+DetNP
+166494	CLaCL
+V-O
+V-O
+DetNP
+NPofNP
+166500	V-ADV
+Conj2VP
+166503	PrepNp
+DetCL
+V2CL
+CLaCL
+V-S-ADV
+DetNP
+NPofNP
+NP-Demo
+DetNP
+Conj2Pp
+PrepNp
+NP-CL
+ADV-ADV-V
+166517	PrepNp
+NP-CL
+ADV-ADV-V
+166521	CLaCL
+V-O
+166524	O-ADV-V
+DetNP
+NPofNP
+PrepNp
+DetNP
+166530	P-VC-S
+NpaNp
+DetNP
+166534	DetNP
+NPofNP
+DetNP
+166538	ADV-V-S-ADV
+DetNP
+NPofNP
+DetNP
+NumpNP
+NP-CL
+S-ADV-V-ADV
+V-O
+DetNP
+NPofNP
+PrepNp
+NPofNP
+DetNP
+166552	Conj-CL
+CLaCL
+S-VC-P
+NpPp
+PrepNp
+166558	S-P
+166560	Conj-CL
+S-ADV-ADV-V-ADV-O
+DetAdj
+V-O
+DetNP
+PrepNp
+166567	Conj-CL
+S-V-O-ADV-ADV
+DetAdj
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+166576	Conj-CL
+ClCl2
+V-S
+DetNP
+CLaCL
+V-S
+166583	V2CL
+166585	Conj-CL
+166587	NPofNP
+ClCl
+166590	V2CL
+DetNP
+V-ADV
+PrepNp
+166595	CLaCL
+ADV-V-S
+NP-Demo
+All-NP
+DetNP
+166601	V-O
+DetNP
+NPofNP
+166605	Conj-CL
+166607	DetAdj
+DetAdj
+ClCl
+V-IO-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+S-V
+DetNP
+NPofNP
+166619	Conj-CL
+V-S-ADV
+DetAdj
+166623	ClCl2
+ADV-ADV-ADV-V-ADV
+2Advp_h1
+NpaNp
+166628	V-ADV-ADV
+PrepNp
+DetCL
+V2CL
+V-IO
+166634	Conj-CL
+CLaCL
+ClCl2
+V-S-ADV
+V2CL
+V-S
+DetNP
+166642	CLaCL
+S-V-ADV-ADV
+DetAdj
+PrepNp
+PrepNp
+DetNP
+166649	V-S
+DetNP
+166652	Conj-CL
+ADV-V-S-ADV
+AdvpNp
+DetNP
+AdjpNp
+166658	ClCl2
+Np2CL
+Np2CL
+V-IO
+166663	Conj-CL
+166665	V2CL
+ClCl
+PtclCL
+V-IO
+ADV-V-O
+166671	Conj-CL
+ClCl
+V2CL
+sub-CL
+ADV-V-O
+NpaNp
+DetNP
+166679	DetNP
+166681	Conj-CL
+sub-CL
+CLaCL
+CLaCL
+CLaCL
+S-ADV-V-O
+V2CL
+DetNP
+AdjpNp
+166691	V-IO-O
+NPofNP
+DetCL
+V2CL
+166696	ClCl2
+aCLaCLaCL
+166699	IO-V-O
+NumpNP
+166702	IO-O
+166704	IO-O
+IO-ADV
+PrepNp
+DetNP
+AdjpNp
+166710	V2CL
+166712	CLaCL
+ADV-S-V-ADV
+ADV-V
+DetCL
+O-V
+DetNP
+NumpNP
+PrepNp
+166721	V-O
+AdjpNp
+166724	ADV-S-V-O
+DetCL
+O2CL
+DetNump
+AdjpNp
+166730	Conj-CL
+CLaCL
+S-ADV-V-O
+DetCL
+O-V
+DetAdj
+V2CL
+166738	V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+166744	Conj-CL
+CLaCL
+ADV-V-S
+PrepNp
+AdjpNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+166754	V-O-ADV
+PrepNp
+166757	Conj-CL
+ADV-S-V-O-ADV
+V2CL
+DetCL
+O-V
+DetNP
+NumpNP
+AdjpNp
+NumpNP
+166768	Np2CL
+O-IO-V
+NumpNP
+166772	AdjpNp
+NumpNP
+166776	DetNP
+NPofNP
+ClCl
+166780	Np2CL
+NpAdjp
+AdjpaAdjp
+166784	ClCl
+166786	PrepNp
+ADV-O-V
+PrepNp
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+166797	V2CL
+AdvpNp
+DetCL
+O2CL
+DetNP
+NumpNP
+166804	Np2CL
+O-IO-V
+NumpNP
+166808	AdjpNp
+NumpNP
+166812	DetNP
+NPofNP
+ClCl
+166816	Np2CL
+NpAdjp
+AdjpaAdjp
+166820	ClCl
+166822	PrepNp
+ADV-O-V
+PrepNp
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+166832	Conj-CL
+166834	V2CL
+AdvpNp
+DetCL
+O-V
+DetNP
+AdjpNp
+166841	Np2CL
+CLaCL
+166844	that-VP
+VC-P
+AdjpNp
+NpAdjp
+CLaCL
+V-ADV
+ADV-ADV-V
+166852	V-ADV
+ADV-ADV-V
+166855	ADV-ADV-V-O-ADV
+V2CL
+V2CL
+DetNP
+NPofNP
+PrepNp
+DetNP
+166863	DetAdj
+166865	Conj-CL
+166867	V2CL
+DetNP
+NPofNP
+ClCl
+166872	Np2CL
+NpAdjp
+AdjpaAdjp
+166876	that-VP
+CLaCL
+V-ADV
+ADV-ADV-V
+166881	V-ADV
+ADV-ADV-V
+sub-CL
+CLaCL
+V-S
+S-V-O-IO
+DetNP
+NPofNP
+DetNP
+166891	PtclCL
+ADV-S-V-O-ADV
+V2CL
+DetAdj
+PrepNp
+166897	Conj-CL
+CLaCL
+V-ADV-O
+PrepNp
+DetNP
+166903	V-IO
+DetCL
+V-O
+DetNP
+NumpNP
+166909	Conj-CL
+CLaCL
+CLaCL
+IO-V
+NP-all
+DetCL
+V2CL
+166917	V2CL
+166920	Np2CL
+DetCL
+ADV-V
+AdvpNp
+O-V
+PrepNp
+166927	Conj-CL
+O-V-ADV
+DetNP
+AdjpNp
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+166936	P-VC-S
+NpaNp
+DetNP
+166940	DetNP
+NPofNP
+DetNP
+166944	Conj-CL
+166946	sub-CL
+CLaCL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+166956	S-ADV
+All-NP
+DetNP
+PrepNp
+PrepNp
+NPofNP
+NPofNP
+166964	Conj-CL
+CLaCL
+V-ADV-S
+PrepNp
+All-NP
+DetNP
+166972	PrepNp
+sub-CL
+CLaCL
+S-V-O-ADV
+DetNP
+DetNP
+PrepNp
+DetNP
+166981	aCLaCL
+166983	V-O-ADV
+DetNP
+PrepNp
+NPofNP
+166988	O-ADV
+DetNP
+PrepNp
+166993	DetNP
+NpPp
+PrepNp
+NPofNP
+ClCl2
+166999	Np2CL
+NPofNP
+DetCL
+V2CL
+DetNP
+NPofNP
+V-O
+DetNP
+AdjpNp
+V-IO-ADV
+PrepNp
+NPofNP
+167012	Conj-CL
+ClClClClClCl
+CLaCL
+V2CL
+167017	V-IO-O
+V2CL
+CLaCL
+V2CL
+167022	V-O
+CLaCL
+P-VC
+167026	V-O
+CLaCL
+P2CL
+167030	V-O
+CLaCL
+V2CL
+167034	V-O
+CLaCL
+P-VC
+PrepNp
+167039	V-ADV
+PrepNp
+167042	ADV-V-IO-S-ADV
+DetAdj
+167046	Np2CL
+AdvpCL
+CLaCL
+CLaCL
+V-O
+S-V
+167053	V2CL
+167055	CLaCL
+V2CL
+167058	V2CL
+167060	AdvpCL
+CLaCL
+CLaCL
+V-O
+S-P
+167066	V2CL
+167068	CLaCL
+P2CL
+167071	V2CL
+167073	AdvpCL
+CLaCL
+V-O
+S-P
+Conj2P
+V2CL
+167080	PrepNp
+167082	V-ADV
+PrepNp
+167085	Conj-CL
+167087	V2CL
+DetNP
+167090	V-IO
+ADV-IO-V
+PrepNp
+ADV-V-IO
+NPofNP
+ofNPNP
+Demo-NP
+DetNP
+NPofNP
+DetAdj
+167102	AdvpNp
+NpPp
+PrepNp
+167106	PrepNp
+V2CL
+PrepNp
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+DetCL
+V-IO
+NpaNp
+DetAdj
+167118	DetNP
+NPofNP
+167121	Conj-CL
+ClClClClCl
+CLaCL
+V2CL
+167126	ADV-V-IO-O
+V2CL
+CLaCL
+V2CL
+167131	ADV-V-O
+CLaCL
+P-VC
+167135	ADV-V-O
+CLaCL
+P2CL
+167139	ADV-V-O
+CLaCL
+Conj2P
+167143	PrepNp
+167145	ADV-V-O
+167147	ADV-V-S-ADV
+AdvpNp
+167151	Np2CL
+CLaCL
+V-O
+S-P
+Conj6P
+V2CL
+167158	V2CL
+167163	PrepNp
+167165	ADV-V-O
+167167	ADV-V-IO-ADV
+167170	V-IO
+ADV-ADV-IO-V
+PrepNp
+ADV-ADV-V-IO
+NPofNP
+ofNPNP
+DetAdj
+167178	Conj-CL
+CLaCL
+V-S-ADV
+PrepNp
+NpAdjp
+167184	S-ADV
+DetAdj
+PrepNp
+NpAdjp
+167189	Conj-CL
+ClCl2
+V2CL
+ClCl2
+sub-CL
+V-S-O
+DetNP
+NP-Demo
+All-NP
+DetNP
+167200	DetNP
+NPofNP
+167203	that-VP
+CLaCL
+P-S-VC
+PrepNp
+NumpNP
+DetNP
+167210	S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+V2CL
+167218	CLaCL
+ADV-V-S-ADV
+NpaNp
+DetNP
+167223	DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+VC-P
+167235	sub-CL
+CLaCL
+O-ADV-V
+DetNP
+167240	V2CL
+167242	Conj-CL
+167244	ClCl
+ADV-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-S-V-ADV
+PrepNp
+DetNP
+167253	Conj-CL
+ClCl2
+S-VC-P
+DetNP
+2Pp
+PrepNp
+PrepNp
+NPofNP
+Np-Appos
+DetAdj
+CLaCL
+V-ADV-S-ADV
+V-O
+NPofNP
+NpAdjp
+167269	ClCl
+V-ADV
+PrepNp
+DetNP
+S-V
+167275	Conj-CL
+ADV-S-V-ADV
+V2CL
+DetNP
+167280	P-S
+PrepNp
+NP-Demo
+DetNP
+167285	Conj-CL
+V-S-O
+CLaCL
+V-ADV
+167290	V-IO
+167292	Conj-CL
+167294	V2CL
+DetNP
+ClCl
+ADV-O-V-IO
+DetNP
+Conj-CL
+O-V-ADV
+NpAdjp
+PrepNp
+167304	Conj-CL
+CLaCL
+ADV-O-V-ADV
+DetAdj
+PrepNp
+167310	O-ADV-ADV-V
+167312	Conj-CL
+S-ADV-ADV-V
+V-O-ADV
+NP-Demo
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-O
+167324	ClCl
+PtclCL
+V-IO
+ADV-V-S-ADV
+PtclCL
+ADV-V-S-ADV
+NP-Demo
+DetNP
+PrepNp
+All-NP
+DetNP
+AdvpNp
+O-V-S
+PrepNp
+NPofNP
+167341	V-ADV
+Np-Appos
+NPofNP
+DetNump
+DetCL
+VC-P
+Np-Appos
+PrepNp
+DetNP
+167351	O-IO-V
+S-IO-V-O
+167354	Conj-CL
+S-V-IO-O
+NumpNP
+167358	Conj-CL
+167360	PrepNp
+sub-CL
+O-V
+167364	Conj-CL
+ADV-V-S-ADV-ADV
+DetNP
+NPofNP
+DetAdj
+DetNP
+DetNP
+167372	ClCl
+ADV-V-IO-ADV
+V2CL
+V-O
+DetNP
+167378	Conj-CL
+167380	CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetAdj
+167389	DetNP
+ClCl
+S-P-VC
+DetNP
+NPofNP
+ADV-V-O-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+167401	Conj-CL
+CLaCL
+ClCl
+V-S
+DetNP
+sub-CL
+V-IO-S
+DetNP
+167410	V-O
+DetNP
+167413	Conj-CL
+ClCl2
+S-V
+V-ADV
+PrepNp
+DetNP
+NumpNP
+167421	Conj-CL
+ClCl2
+V-S
+167426	V-IO
+that-VP
+S-V-O
+NpPp
+PrepNp
+167432	Conj-CL
+167434	V-ADV
+V-IO
+NpAdjp
+167438	S-VC
+Np2CL
+167441	Conj-CL
+167443	V2CL
+167445	Np2CL
+DetCL
+V-ADV-O-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+167453	aCLaCL
+167455	ClCl
+S-V
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-ADV
+PrepNp
+167464	S-IO
+NP-CL
+NP-Demo
+DetNP
+ADV-S-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+167475	sub-CL
+ADV-V-S
+NP-Demo
+DetNP
+167480	Conj-CL
+167482	V2CL
+Np-Appos
+DetCL
+V-O
+167487	S-VC
+Np2CL
+167491	S-V
+167493	Conj-CL
+ClCl2
+V-S
+CLaCL
+S-ADV-V
+CLaCL
+V-O
+DetNP
+167502	V2CL
+167505	V-IO
+DetNP
+ClCl
+ClCl
+V2CL
+V2CL
+S-VC-P
+DetNP
+NPofNP
+167515	Conj-CL
+ADV-V-IO-ADV
+CLaCL
+V-O
+167520	V2CL
+167522	ClCl
+V-ADV-S
+PrepNp
+sub-CL
+S-VC-P
+Np-Appos
+DetNP
+NPofNP
+NPofNP
+DetNP
+DetCL
+ADV-V-ADV
+PrepNp
+PrepNp
+NPofNP
+167538	Conj-CL
+167540	ADV-V-ADV-ADV-ADV
+2Advp_h1
+PrepNp
+PrepNp
+Demo-NP
+DetNP
+NPofNP
+DetNP
+PrepNp
+NP-CL
+NP-Demo
+DetNP
+sub-CL
+O-V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+167561	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+167570	DetNP
+CLaCL
+167573	All-NP
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+Conj-CL
+167580	CLaCL
+V-O
+DetNP
+167584	V-S
+DetNP
+NPofNP
+DetNP
+167589	ADV-V-ADV-ADV
+PrepNp
+DetCL
+V-S
+PrepNp
+DetNP
+167596	Conj-CL
+167598	V2CL
+DetNP
+ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+S-ADV-V
+167607	DetNP
+167609	V-IO
+that-VP
+ADV-ADV-ADV-V-O
+PrepNp
+Demo-NP
+DetNP
+sub-CL
+S-V
+167619	DetNP
+ClCl2
+sub-CL
+V-S
+S-ADV-V
+PrepNp
+ADV-O-V
+2Advp_h1
+167628	ADV-S-V
+AdvpNp
+All-NP
+DetNP
+167633	CLaCL
+ADV-V-ADV-S-ADV
+PrepNp
+DetNP
+PrepNp
+NpAdjp
+VC-P
+167642	DetNP
+V-ADV-ADV
+PrepNp
+ADV-ADV-V
+V-ADV
+167648	Conj-CL
+ADV-V-O
+V-O
+NpaNp
+DetNP
+167654	DetNP
+NumpNP
+NPofNP
+CLaCL
+V2CL
+167660	V2CL
+167663	ClCl
+P-VC-S-ADV
+DetNP
+NPofNP
+PrepNp
+CLaCL
+V-ADV
+167671	V-ADV
+PrepNp
+167674	Conj-CL
+ADV-V-ADV-ADV
+V-ADV
+PrepNp
+NPofNP
+167680	Conj2VP
+167683	Np2CL
+NPofNP
+167686	sub-CL
+P-VC
+PrepNp
+NP-Demo
+DetNP
+167692	notCLbutCL2CL
+sub-CL
+S-V
+sub-CL
+S2CL
+167698	Conj-CL
+CLaCL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+167705	V-O
+S-V
+167709	DetNP
+ADV-ADV-V-O
+ADV-V-ADV
+AdjpNp
+PrepNp
+167715	ClCl
+CLaCL
+V2CL
+167719	V2CL
+sub-CL
+ADV-V-ADV
+PrepNp
+167724	aCLaCL
+167726	S-P
+DetNP
+167729	S-P
+DetNP
+167732	ADV-V-ADV
+ADV-ADV-V
+PrepNp
+167737	Np2CL
+NPofNP
+sub-CL
+167741	V2CL
+sub-CL
+ADV-O-V
+V-S
+DetNP
+NPofNP
+167748	Conj-CL
+ClCl
+ADV-V-O
+V-ADV
+S-V
+sub-CL
+V-S
+BeVerb
+ofNPNP
+DetNP
+167759	Conj-CL
+ADV-ADV-V-ADV-ADV
+V-O-ADV
+V2CL
+PrepNp
+O-V-ADV
+DetNP
+PronNP
+167768	CLaCL
+ADV-V-ADV
+PrepNp
+DetNP
+167774	ClCl
+ClCl
+CLaCL
+V-ADV
+167779	V2CL
+167781	V-S
+DetNP
+167784	S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+ClCl
+ClCl
+V2CL
+V2CL
+167795	DetCL
+V-O
+167798	Conj-CL
+167800	ADV-S-V
+S-V
+Np-Appos
+NPofNP
+DetNump
+167806	ADV-S
+PrepNp
+NpPp
+NpPp
+NpAdjp
+PrepNp
+NpaNp
+167814	PrepNp
+DetNP
+NpaNp
+167818	NPofNP
+DetNP
+167821	Conj-CL
+S-V-IO-O-ADV
+DetCL
+V-O
+167827	P-S-VC
+PtclCL
+O-V
+167831	Conj-CL
+CLaCL
+167834	V-ADV
+DetNP
+167837	Np2CL
+167839	V-O
+167841	Conj-CL
+167843	DetNP
+167845	Np2CL
+PrepNp
+167848	CLaCL
+ADV-ADV-V-O-ADV
+V2CL
+DetNP
+PrepNp
+DetNP
+167855	V-O
+167857	Conj-CL
+167859	S-ADV-V-O
+NPofNP
+NpPp
+PrepNp
+V-O
+DetNP
+DetNP
+NPofNP
+167868	ADV-V-O
+V-O
+DetNP
+NPofNP
+DetNP
+ofNPNP
+DetNP
+167877	DetNP
+ClCl
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+S-ADV-V
+All-NP
+DetCL
+V-O
+PrepNp
+167892	Conj-CL
+167894	that-VP
+CLaCL
+ADV-V-O
+V-O
+DetNP
+NPofNP
+167901	V-IO-ADV-O
+AdjpAdvp
+NumpNP
+NPofNP
+167906	Conj-CL
+167908	DetNP
+that-VP
+ADV-V-S
+V2CL
+167914	PrepNp
+Demo-NP
+DetNP
+DetNP
+DetNP
+CLaCL
+ClCl
+ClCl2
+sub-CL
+ADV2CL
+PrepNp
+V-ADV-ADV
+PrepNp
+NpaNp
+167929	V-O
+CLaCL
+ADV-ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+V2CL
+167937	ADV-V-O
+167939	ClCl
+S-V
+NP-all
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+167948	ADV-S-ADV-V
+NP-all
+DetNP
+V-O
+167953	Conj-CL
+ClCl
+S-V-ADV
+DetCL
+V-O
+DetNP
+PrepNp
+Np-Appos
+DetNP
+ADV-S-V
+NpaNp
+DetNP
+167966	DetAdj
+167968	Conj-CL
+CLaCL
+S-V-O-ADV-ADV
+DetNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+167978	ADV-V-ADV-ADV
+V-ADV
+PrepNp
+DetNP
+V-O
+DetNP
+167985	Conj-CL
+CLaCL
+167988	NpaNp
+DetNP
+167991	NP-all
+DetNP
+PrepNp
+DetNP
+sub-CL
+O-V
+167998	ClCl
+ADV-V
+S-V
+AdjpNp
+168003	Conj-CL
+168005	V2CL
+168007	V-O
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+168014	ADV-V
+PrepNp
+AdjpNp
+168018	Conj-CL
+168020	V2CL
+DetNP
+168023	O-S-ADV-V
+168025	Conj-CL
+S-V
+DetNP
+168029	Conj-CL
+168031	DetNP
+168033	PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+that-VP
+168040	sub-CL
+S-VC-P
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+168049	DetNP
+CLaCL
+S-V
+168054	ADV-V-O
+PrepNp
+CLaCL
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+168065	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+168071	ADV-S-V-O-ADV
+DetNP
+DetNP
+NPofNP
+168076	ClCl
+168078	ADV-ADV-O-V
+NPofNP
+168081	ADV-V-O
+DetNP
+168084	Conj-CL
+168086	V2CL
+P-ADV-VC
+168089	CLaCL
+CLaCL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+168096	V-O
+168098	S-V-ADV
+168100	ClCl
+168102	Np2CL
+P-VC-S
+DetCL
+V-O
+168107	Conj-CL
+S-V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+168113	Conj-CL
+V-ADV-S-ADV
+AdjpNp
+168117	S-VC-P
+AdvpNp
+PrepNp
+Np-Appos
+DetNP
+168123	Conj-CL
+S-V-ADV-ADV
+PrepNp
+168127	ADV-V-O
+O-V
+168130	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetNP
+CLaCL
+V-O-S
+168139	DetNP
+S-VC-P
+PrepNp
+Np-Appos
+DetNP
+168145	Conj-CL
+168147	PrepNp
+that-VP
+ADV-V-O
+DetNP
+168152	Conj-CL
+168154	PrepNp
+V2CL
+DetCL
+V2CL
+DetNP
+ClCl
+ADV-S-P-VC
+AdvpNp
+PrepNp
+sub-CL
+S-O2-O-V
+AdvpNp
+DetNP
+NPofNP
+168169	ADV-V-O
+CLaCL
+V2CL
+168174	that-VP
+ADV-V-O
+DetNP
+168178	Conj-CL
+ADV-S-V
+168181	Conj-CL
+V-S-O
+DetNP
+DetNP
+NPofNP
+NpAdjp
+168188	that-VP
+ADV-ADV-V-O
+sub-CL
+S-V
+168193	Conj-CL
+ADV-V-ADV
+V-ADV
+168197	Conj-CL
+ClCl2
+S-V
+O-V-S-ADV-ADV
+All-NP
+NpaNp
+DetNP
+168205	DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-O
+168213	Conj-CL
+CLaCL
+ADV-V
+V-O
+168218	V-IO
+Np-Appos
+DetNP
+168222	ADV-S-ADV-ADV-V-O-IO-ADV
+168224	Np-Appos
+DetCL
+V-O
+that-VP
+V2CL
+V2CL
+DetNP
+NumpNP
+DetNP
+NpaNp
+168236	V-ADV
+V-O
+NpAdjp
+168240	Conj-CL
+168242	ClCl
+P-ADV
+PrepNp
+S-V
+168247	Conj-CL
+CLaCL
+ADV-V
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+168255	ADV-V
+V2CL
+168258	Conj-CL
+168260	DetNP
+V-O
+DetNP
+ClCl
+ADV-V-S
+V-O-ADV
+PrepNp
+DetNP
+sub-CL
+P-VC
+NPofNP
+168272	Conj-CL
+ADV-V-ADV-O-ADV
+O-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpAdvp
+DetAdj
+168283	Conj-CL
+VC-S-P-ADV
+NP-Demo
+DetNP
+NPofNP
+PrepNp
+DetNP
+168291	ADV-V-S
+DetCL
+V-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+168298	Conj-CL
+CLaCL
+V-O
+Np-Appos
+DetNP
+NumpNP
+DetNP
+NPofNP
+NP-CL
+DetCL
+V2CL
+O-V-ADV
+PrepNp
+NPofNP
+168313	ClCl
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-IO-S
+168322	Conj-CL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+168328	Conj-CL
+V-O-S-ADV
+DetNP
+168332	S-VC-P
+DetNP
+NPofNP
+DetAdj
+168337	Conj-CL
+168339	DetNP
+S-V
+168342	Conj-CL
+ADV-O-V
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+DetNP
+NpaNp
+168353	DetNP
+ADV-V-O
+O2-O-V
+168357	Conj-CL
+168359	PrepNp
+AdvpNp
+AdjpNp
+sub-CL
+V-S-ADV
+DetNP
+168366	Conj-CL
+ADV-V-S-O
+PrepNp
+DetNP
+V-IO-O
+AdjpNp
+DetNP
+NP-CL
+O-V
+168376	Conj-CL
+V-ADV-O
+NpAdjp
+NpAdjp
+VC-P
+168382	Conj-CL
+ClCl
+ClCl2
+V-S
+168387	DetNP
+V-O
+ClCl
+O-V-IO
+O2CL
+NpaNp
+168394	Np-Appos
+DetCL
+VC-P
+sub-CL
+168399	that-VP
+ADV-V-O
+PrepNp
+168403	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+V-ADV-S-ADV
+PrepNp
+DetNP
+NPofNP
+168413	ClCl
+P-ADV
+NpaNp
+168417	NP-Demo
+DetAdj
+sub-CL
+O-V-ADV-ADV-ADV
+PrepNp
+PrepNp
+168424	Conj-CL
+168426	NpaNp
+DetNP
+168429	DetAdj
+DetNP
+that-VP
+CLaCL
+V-O
+DetNP
+168436	O-V
+DetNP
+168439	Conj-CL
+168441	V2CL
+DetNP
+V-O
+O-V-IO
+NpPp
+PrepNp
+DetNump
+168449	Conj-CL
+168451	O2CL
+DetNP
+168455	DetNP
+Conj-CL
+O-V-ADV
+Np-Appos
+DetCL
+VC-P
+168463	V2CL
+168465	Conj-CL
+168467	Conj-CL
+O-V
+NpAdjp
+168471	Conj-CL
+S-ADV-V-ADV
+168474	V2CL
+168476	Conj-CL
+S-ADV-ADV-V-O-ADV-ADV
+168479	DetNP
+that-VP
+CLaCL
+O-V
+168484	ADV-S-V
+V-O
+DetNP
+PrepNp
+DetNP
+168490	ClCl
+P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+S-V
+168497	Conj-CL
+168499	V2CL
+All-NP
+DetNP
+S-P
+DetNP
+NPofNP
+Conj2Pp
+PrepNp
+168508	PrepNp
+DetNP
+NPofNP
+168512	CLaCL
+ADV-V-IO-O
+DetNP
+168517	O-V
+DetNP
+sub-CL
+V2CL
+168522	ADV-S-ADV-V-ADV-O
+DetNP
+NPofNP
+DetNP
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+All-NP
+DetNP
+168534	Conj-CL
+Conj6CL
+ADV-O-V-IO
+V-O
+NpAdjp
+168540	ADV-V-ADV
+V-O-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+168547	O-ADV
+PrepNp
+DetNP
+NPofNP
+168552	ADV-V-O-ADV
+V-ADV
+PrepNp
+168557	Np2CL
+NPofNP
+DetAdj
+168561	ADV-V-O
+V-ADV
+PrepNp
+DetNP
+168566	V-ADV
+PrepNp
+DetNP
+NPofNP
+168571	Conj-CL
+CLaCL
+ClCl2
+sub-CL
+V-O
+CLaCL
+V-O-O2
+DetNP
+168580	V-O-O2
+DetNP
+NPofNP
+168584	V-O-ADV
+PrepNp
+DetCL
+V2CL
+168589	Conj-CL
+ADV-V-O
+V2CL
+NpAdjp
+Np-Appos
+ADV-P
+168597	sub-CL
+V-O
+DetNP
+NPofNP
+168602	Conj-CL
+ADV-V-IO-O
+V-ADV
+PrepNp
+NpAdjp
+VC-P
+NP-CL
+S-VC-P
+BeVerb
+ofNPNP
+V-O
+NpAdjp
+ADV-V
+PrepNp
+168617	Conj-CL
+ADV-ADV-V-O
+V2CL
+V2CL
+168622	Conj-CL
+CLaCL
+ADV-V-O-ADV
+V-O
+DetNP
+NPofNP
+V-O
+168630	ADV-V-O-ADV
+V2CL
+168633	Conj-CL
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpAdjp
+NPofNP
+168642	S-VC-P
+Np-Appos
+DetNP
+NPofNP
+DetAdj
+168649	PrepNp
+NumpNP
+CLaCL
+S-ADV
+PrepNp
+168655	S-ADV
+PrepNp
+168658	Conj-CL
+S-V-O-ADV
+DetCL
+V2CL
+CLaCL
+V-O
+DetNP
+NPofNP
+168669	Np2CL
+DetCL
+CLaCL
+V-O
+DetNP
+168675	ADV-V
+PrepNp
+AdjpNp
+ClCl
+V-O
+sub-CL
+VC-P
+NPofNP
+DetNP
+168685	V-ADV
+PrepNp
+DetNP
+168690	DetNP
+V-ADV
+PrepNp
+DetNP
+NpaNp
+168696	ClCl
+O-V
+O-ADV-V
+O-V
+168701	CLaCL
+ClCl
+P-VC
+NPofNP
+V-ADV-ADV
+PrepNp
+DetNP
+168709	V-ADV
+PrepNp
+168713	PrepNp
+DetNP
+ClCl
+V-ADV
+sub-CL
+V-O
+168720	Conj-CL
+168722	that-VP
+P-VC
+ofNPNP
+168726	Conj-CL
+ADV-S-V-O
+DetNP
+AdvpNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+168736	Conj-CL
+ADV-S-V-ADV-ADV
+PrepNp
+AdjpNp
+PrepNp
+All-NP
+DetNP
+PrepNp
+NpAdjp
+168746	Conj-CL
+ADV-V-S-ADV-ADV
+PrepNp
+DetNP
+AdjpNp
+DetNP
+NpAdjp
+168754	ClCl
+ClCl2
+ClCl
+Np2CL
+Np2CL
+ADV-V
+S-VC-P
+ClCl2
+ClCl
+Np2CL
+NPofNP
+Np2CL
+NPofNP
+ADV-O-V
+PrepNp
+168770	Conj-CL
+168772	NPofNP
+DetCL
+ADV-V
+V2CL
+that-VP
+O-V-S
+168779	Conj-CL
+ADV-S-ADV-V-O
+Conj4CL
+V2CL
+NpPp
+PrepNp
+168786	V-O
+168788	V-ADV
+168790	V-IO
+168792	Conj-CL
+168794	DetAdj
+ClCl
+V2CL
+ClCl
+V2CL
+PtclCL
+V-S-ADV
+V-O
+168803	Conj-CL
+S-ADV-V-O
+DetNP
+ADV-V-ADV
+NpAdjp
+DetNP
+168810	Conj-CL
+168812	S-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+2Pp
+PrepNp
+PrepNp
+PrepNp
+168821	S-V
+DetNP
+168824	S-V
+DetNP
+168827	S-V
+DetNP
+168830	Conj3CL
+S-V
+AdjpNp
+NPofNP
+DetNP
+AdjpNp
+V2CL
+168838	ADV-V-ADV
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+AdjpNp
+168849	V-IO
+168851	Conj-CL
+S-ADV-V-ADV-ADV
+NpaNp
+DetNP
+168856	DetCL
+ADV-V-O
+PrepNp
+DetNP
+V-O
+NpaNp
+DetNP
+168864	DetCL
+V2CL
+168867	ADV-P-VC-S
+ofNPNP
+168870	Conj-CL
+VC-P-S
+NP-CL
+NP-CL
+NpAdjp
+NpAdjp
+ADV-V
+PrepNp
+S-V-O-ADV-ADV
+DetNP
+PrepNp
+DetNP
+V-O
+P-VC-S
+PrepNp
+Conj3Np
+Np-Appos
+DetNP
+168889	Np-Appos
+DetNP
+ofNPNP
+DetNP
+NpaNp
+168896	DetNP
+NPofNP
+DetNP
+NPofNP
+168901	Conj-CL
+ClCl2
+S-V
+V-S
+NP-CL
+NP-CL
+NpPp
+NpAdjp
+PrepNp
+S-P
+S-V-IO
+Np-Appos
+AdvpNp
+DetNP
+168916	S-ADV-IO-V-O
+V2CL
+DetNP
+DetNP
+NPofNP
+DetNP
+168923	ADV-S-V-O
+DetNP
+V2CL
+168927	Conj-CL
+Conj3CL
+ADV-S-V-O-ADV
+V-O
+DetNP
+DetNP
+PrepNp
+NpAdjp
+168936	V-O-ADV
+PrepNp
+NP-CL
+DetNP
+AdjpNp
+ofNPNP
+O-V-ADV
+PrepNp
+DetNP
+168946	ADV-V
+V-O-ADV
+NpAdjp
+DetNP
+NPofNP
+DetNP
+168953	Conj-CL
+ADV-S-V-ADV
+BeVerb
+NpaNp
+Np-Appos
+DetNP
+168960	DetNP
+AdjpNp
+PrepNp
+DetNP
+168965	Conj-CL
+ADV-V-S-ADV
+NP-CL
+DetNP
+S-VC-P
+PrepNp
+DetNP
+NpaNp
+DetNP
+168975	DetNP
+168977	PrepNp
+168979	Np2CL
+V2CL
+168982	Demo-NP
+DetAdj
+ADV-V
+ADV-V
+PrepNp
+AdjpNp
+168989	Conj-CL
+168991	V-S-ADV
+DetNP
+PrepNp
+DetNP
+AdjpNp
+CLaCL
+CLaCL
+ADV-ADV-ADV-S-V-O
+V2CL
+DetNP
+169003	DetNP
+V-ADV
+PrepNp
+DetAdj
+169008	VC-S-P-ADV
+DetNP
+AdjpNp
+DetAdj
+169014	DetNP
+ClCl
+V-O
+ClCl
+V2CL
+ClCl
+V2CL
+sub-CL
+V2CL
+169024	Conj-CL
+S-ADV-V-O-ADV-ADV
+V2CL
+DetNP
+V-O
+DetNP
+PrepNp
+DetNP
+169033	Conj-CL
+ADV-ADV-V-S-ADV
+PrepNp
+DetCL
+V-ADV
+PrepNp
+NPofNP
+NpaNp
+Np-Appos
+DetNP
+169044	DetNP
+AdjpNp
+V-O
+DetNP
+169049	Conj-CL
+169051	NpAdjp
+169053	Conj-CL
+CLaCL
+S-ADV-V-O
+NPofNP
+CLaCL
+V-ADV
+PrepNp
+169061	V2CL
+DetNP
+169064	V-ADV
+PrepNp
+169067	Conj-CL
+CLaCL
+VC-S-P
+DetNP
+NPofNP
+PrepNp
+169074	S-P-ADV
+DetNP
+NPofNP
+PrepNp
+169079	Conj-CL
+CLaCL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+DetCL
+V2CL
+169088	VC-P
+PrepNp
+169091	Conj-CL
+169093	V2CL
+DetNP
+DetNP
+ClCl
+ADV-V-S
+sub-CL
+169100	that-VP
+O-V
+Np-Appos
+DetCL
+V2CL
+169106	ClCl
+ADV-VC-P
+sub-CL
+ClCl
+V2CL
+sub-CL
+V2CL
+169114	ClCl2
+V2CL
+V-O
+DetNP
+NP-CL
+ADV-V
+169121	Conj-CL
+169123	ADV-V
+DetNP
+NPofNP
+that-VP
+CLaCL
+V-ADV
+PrepNp
+DetAdj
+169133	V-ADV-ADV
+PrepNp
+DetNP
+ADV-O-V
+169140	Conj-CL
+ADV-V-ADV
+V-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+NpaNp
+169148	NpAdjp
+V-IO
+DetNP
+NPofNP
+169153	Conj-CL
+169156	V2CL
+169158	Conj-CL
+CLaCL
+S-ADV-V-O
+V2CL
+ofNPNP
+DetNP
+169165	V-O
+169168	DetNP
+ClCl
+ADV-V
+ClCl
+V2CL
+ClCl
+169175	DetNP
+NPofNP
+that-VP
+V-ADV
+PrepNp
+DetNP
+ADV-O-V
+169183	Conj-CL
+ClCl2
+V-S
+169187	NPofNP
+DetNP
+V-ADV
+PrepNp
+DetNP
+DetNP
+AdjpNp
+DetCL
+V2CL
+169197	Conj-CL
+ADV-O-V-IO-ADV
+CLaCL
+V-ADV
+PrepNp
+DetAdj
+169204	O-V
+NpAdjp
+DetNP
+169209	that-VP
+ClCl
+S-ADV-V-O
+DetNP
+NPofNP
+ADV-V
+S-V
+169217	Conj-CL
+ClCl2
+sub-CL
+V-S-ADV
+PrepNp
+DetNP
+CLaCL
+S-V
+169226	O-O2-V
+169228	Conj-CL
+ClCl
+S-ADV-V
+V-O
+sub-CL
+V2CL
+169235	Conj-CL
+V-S-ADV-ADV
+NP-Demo
+DetNP
+PrepNp
+PrepNp
+DetNP
+AdvpNp
+169244	Conj-CL
+CLaCL
+CLaCL
+S-V-ADV-ADV
+DetNP
+NumpNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NP-CL
+ADV-V-IO-S
+DetNP
+169258	ADV-V
+V-O
+169261	S-V
+169263	Conj-CL
+ADV-S-V-IO-ADV
+V2CL
+DetNP
+169268	V-IO-S
+All-NP
+NpPp
+Conj2Pp
+PrepNp
+169274	PrepNp
+DetNP
+169277	Conj-CL
+ADV-V-O-ADV
+V2CL
+All-NP
+DetNP
+169283	PrepNp
+DetNP
+NPofNP
+Conj3Np
+DetNP
+169289	DetNP
+169291	DetNP
+AdjpNp
+V-O
+S-V-O
+NP-CL
+O-V-IO
+169298	Conj-CL
+169300	PrepNp
+All-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+169308	P2CL
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+Np-Appos
+NPofNP
+169316	ClCl2
+sub-CL
+169319	PrepNp
+Np-Appos
+DetNP
+DetNP
+169325	DetNP
+NPofNP
+PrepNp
+NPofNP
+S-V-O
+DetNP
+NPofNP
+P2CL
+NPofNP
+169335	PrepNp
+DetAdj
+ClCl
+V-O
+DetNP
+NPofNP
+O2-V-O
+DetNP
+NPofNP
+V-S
+Np-Appos
+DetCL
+V-ADV-ADV
+PrepNp
+DetAdj
+V-O
+NPofNP
+NpPp
+PrepNp
+NPofNP
+169356	Conj-CL
+CLaCL
+V-ADV-S
+PrepNp
+NpaNp
+All-NP
+DetNP
+AdjpNp
+169365	NP-all
+DetNP
+169368	V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+Np-Appos
+V-O
+DetNP
+NPofNP
+169377	Conj-CL
+VC-S-P
+DetNP
+CLaCL
+CLaCL
+V-O
+NPofNP
+169385	O-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+169391	V-O
+NpaNp
+169394	NpAdjp
+169396	Conj-CL
+V-ADV
+169400	DetNP
+AdjpAdvp
+PrepNp
+ADV-ADV-VC-P-ADV
+ADV-V-O
+V2CL
+DetNP
+NPofNP
+DetNP
+NPofNP
+169411	CLaCL
+S-V-O-ADV
+169414	S-V-O-ADV
+NpAdjp
+169417	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+Demo-NP
+DetNP
+CLaCL
+V-S-ADV
+PrepNp
+NPofNP
+DetNP
+169429	V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+169434	Conj-CL
+ADV-ADV-V-O
+V-ADV
+PrepNp
+DetNP
+CLaCL
+V-S
+DetNP
+169443	S-ADV-V-ADV
+DetNP
+PrepNp
+PrepNp
+169448	Conj-CL
+169450	PrepNp
+DetNP
+ClCl
+S-VC-P
+Np-Appos
+DetNP
+NPofNP
+DetAdj
+ADV-V
+PrepNp
+169461	Conj-CL
+ADV-S-O-V-ADV
+DetNP
+PrepNp
+DetAdj
+169467	Conj-CL
+CLaCL
+VC-P-ADV-ADV
+PrepNp
+DetAdj
+NumpNP
+V-ADV
+PrepNp
+DetNP
+169477	CLaCL
+VC-P
+PrepNp
+DetNP
+169482	S-V-O
+DetNP
+169485	Conj-CL
+ADV-V-S-ADV-ADV
+PrepNp
+DetCL
+V-S
+DetNP
+DetNP
+PrepNp
+DetNP
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+169501	that-VP
+ClCl
+CLaCL
+V-S
+DetNP
+169507	V-S
+DetNP
+NPofNP
+DetNP
+CLaCL
+V2CL
+169514	V-ADV
+PrepNp
+DetNP
+169518	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+S-V-ADV
+NpaNp
+169528	Np-Appos
+DetNP
+NPofNP
+PrepNp
+DetNP
+169534	Conj-CL
+VC-P
+169537	Conj-CL
+169539	DetNP
+CLaCL
+V-ADV
+PrepNp
+169544	V-O
+S-VC-P
+NPofNP
+169548	Conj-CL
+ADV-ADV-V-O
+V-O
+DetNP
+169553	Conj-CL
+CLaCL
+ADV-V-O
+V-ADV
+NpaNp
+NpaNp
+Np-Appos
+NPofNP
+DetNP
+169563	Np-Appos
+DetNP
+NPofNP
+169567	S-ADV-V-O
+PrepNp
+DetNP
+DetNP
+169572	ADV-V-O
+169574	Conj-CL
+ADV-V-ADV
+V-O-ADV-ADV
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+169586	Conj-CL
+V-ADV
+PrepNp
+169590	Conj-CL
+ADV-ADV-ADV-V
+DetNP
+V-ADV
+PrepNp
+DetNP
+169597	Conj-CL
+169599	PrepNp
+DetNP
+NPofNP
+sub-CL
+169604	BeVerb
+CLaCL
+sub-CL
+O-V
+169609	AdvpCL
+sub-CL
+S2CL
+DetNP
+169614	Conj-CL
+CLaCL
+ADV-VC-P-S
+PrepNp
+DetNP
+NPofNP
+NpPp
+PrepNp
+NpAdjp
+169624	V-ADV
+169626	ClCl
+ClCl
+169629	NpaNp
+169631	Np2CL
+Np-Appos
+V-ADV
+V-O
+169636	ClCl
+P-VC
+P2CL
+DetNP
+NPofNP
+DetNP
+169643	Conj-CL
+169645	DetNP
+CLaCL
+V2CL
+169649	V-ADV
+PrepNp
+169652	Conj-CL
+S-ADV-V-ADV
+CLaCL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+169660	V-ADV
+NpAdjp
+PrepNp
+169664	Conj-CL
+V-S-ADV
+sub-CL
+V-S-ADV
+169669	ClCl
+ClCl
+P-VC-S
+P2CL
+NpPp
+NpAdjp
+PrepNp
+CLaCL
+IO-V
+AdvpNp
+DetNP
+NPDetAdj
+DetAdj
+169683	V-O
+169685	Conj-CL
+V-S-ADV-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+169695	Conj-CL
+ADV-ADV-V-ADV-ADV
+ADV-V
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+NpaNp
+169705	PrepNp
+NpaNp
+169709	Conj-CL
+CLaCL
+S-V-ADV
+DetNP
+NPofNP
+V2CL
+169716	ADV-V-IO-ADV
+PrepNp
+169719	Conj-CL
+ADV-V-O-ADV
+V2CL
+V-O
+DetNP
+169725	Conj-CL
+CLaCL
+V-O-S
+DetNP
+169730	V-O
+169732	Conj-CL
+ClCl2
+S-V
+ClCl2
+ADV-V-S
+DetNP
+V-ADV-O
+PrepNp
+All-NP
+NpaNp
+DetCL
+ADV-V
+169745	DetCL
+V2CL
+169748	Conj-CL
+V-S-ADV
+BeVerb
+All-NP
+DetNP
+PrepNp
+DetNP
+169756	Conj-CL
+CLaCL
+V-O
+NpAdjp
+ADV-V-ADV
+AdjpNp
+169763	CLaCL
+O-V
+NpAdjp
+169768	V-S
+DetNP
+sub-CL
+V-O
+169773	Conj-CL
+CLaCL
+ADV-ADV-ADV-V
+AdjpAdvp
+V2CL
+169779	ClCl
+V-ADV
+PrepNp
+AdjpNp
+ADV-V
+169785	Conj-CL
+CLaCL
+V-O-S
+NpaNp
+169790	NpPp
+PrepNp
+169793	CLaCL
+V-O
+169797	that-VP
+S-V-O
+169800	Conj-CL
+169802	ClCl
+ClCl
+V-ADV-ADV
+PrepNp
+DetNP
+AdjpNp
+V2CL
+sub-CL
+ADV-V
+2Advp_h1
+sub-CL
+ADV-V
+PrepNp
+169816	Conj-CL
+V-ADV
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+All-NP
+DetNP
+169827	O-V
+DetNP
+169830	Conj-CL
+V-ADV-S-ADV-ADV
+PrepNp
+CLaCL
+V-O
+169836	V2CL
+169838	that-VP
+169840	sub-CL
+V2CL
+O-V
+169844	Conj-CL
+CLaCL
+ADV-ADV-V
+V2CL
+V-O
+DetNP
+NPofNP
+169853	ClCl
+V2CL
+V2CL
+169857	Conj-CL
+CLaCL
+ADV-V-ADV-S
+PrepNp
+DetNP
+169863	V2CL
+169865	Conj-CL
+CLaCL
+ADV-ADV-V-O
+V-O
+169871	CLaCL
+169873	IO-O-V
+169875	ClCl
+V2CL
+CLaCL
+O-V-IO
+DetNP
+169881	V-ADV-O-ADV
+PrepNp
+DetNP
+NPofNP
+O-V-S
+PrepNp
+NpAdvp
+169889	Conj-CL
+CLaCL
+S-ADV-V-O-ADV
+V2CL
+CLaCL
+V-O
+169896	V-O
+DetNP
+sub-CL
+ADV-S-V-O
+ADV-ADV-V
+PrepNp
+169903	ADV-P-VC
+PrepNp
+AdjpNp
+169907	Conj-CL
+V-ADV-ADV
+PrepNp
+169911	Conj-CL
+ClCl2
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+169917	that-VP
+P-VC
+PrepNp
+169921	Conj-CL
+CLaCL
+V-S-ADV
+sub-CL
+ADV-V-S
+AdvpNp
+NpPp
+PrepNp
+DetNP
+169931	V-IO-O
+DetNP
+169934	Conj-CL
+V-ADV
+V-ADV-O
+PrepNp
+NpAdjp
+V-ADV
+PrepNp
+169942	Conj-CL
+CLaCL
+ADV-V-O
+ADV-V-O-ADV
+V-IO
+PrepNp
+DetNP
+DetNP
+NP-CL
+P-VC
+169953	ADV-V-O
+V2CL
+DetNP
+NP-CL
+ADV-S-V
+DetAdj
+169960	Conj-CL
+169962	V-O
+DetNP
+DetNP
+NPofNP
+DetAdj
+169968	Np2CL
+ofNPNP
+DetNP
+169972	Conj-CL
+VC-S-ADV-P
+NPofNP
+DetNP
+CLaCL
+V2CL
+169980	PrepNp
+DetNP
+NPofNP
+ClCl
+169985	V2CL
+ClCl
+S-V-O
+V-O
+sub-CL
+ADV-S
+Np-Appos
+DetNP
+169994	Conj-CL
+169997	DetNP
+DetNP
+NPofNP
+that-VP
+ADV-V-ADV
+PrepNp
+CLaCL
+170005	PrepNp
+DetNP
+NPofNP
+ClCl
+S-VC-P
+CLaCL
+ClCl
+V-IO
+DetAdj
+V-S
+ofNPNP
+DetNP
+170019	CLaCL
+V2CL
+170022	CLaCL
+V-O
+DetNP
+NPofNP
+170027	V2CL
+170029	sub-CL
+170031	that-VP
+O-V-S-ADV-ADV
+DetNP
+NPofNP
+DetNP
+V-O
+PrepNp
+DetNP
+170041	DetAdj
+170043	ClCl
+V2CL
+CLaCL
+V-O
+DetNP
+NPofNP
+170050	V-ADV
+PrepNp
+DetNP
+NPofNP
+170055	Conj-CL
+CLaCL
+V2CL
+170059	ADV-ADV-V-ADV-ADV
+V-O
+DetNP
+PrepNp
+sub-CL
+CLaCL
+V-S
+170067	V-O-ADV
+DetNP
+170070	that-VP
+ADV-ADV-V
+170073	Conj-CL
+V-ADV-ADV
+PrepNp
+DetNP
+170078	Conj-CL
+CLaCL
+S-V-ADV
+All-NP
+DetNP
+PrepNp
+170085	V-O
+170087	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+S-V-ADV
+Np-Appos
+NPofNP
+DetNP
+PrepNp
+DetNP
+170099	V-O
+170101	Conj-CL
+ADV-V-O
+V2CL
+170105	Conj-CL
+CLaCL
+V-S
+V-S-ADV
+PrepNp
+DetNP
+NPofNP
+170113	ClCl
+S-V-ADV
+AdjpNp
+NpaNp
+170118	NpaNp
+DetNP
+170121	DetNP
+NPofNP
+sub-CL
+CLaCL
+VC-P
+170127	V-O
+170129	Conj-CL
+170131	DetNP
+NPofNP
+DetNP
+170135	that-VP
+V-ADV
+PrepNp
+NpaNp
+DetAdj
+170141	DetNP
+NPofNP
+that-VP
+ADV-V
+PrepNp
+DetNP
+NpaNp
+170150	Conj-CL
+170152	V2CL
+DetNP
+notCLbutCL2CL
+O-V-S
+NPofNP
+DetCL
+V2CL
+S2CL
+DetCL
+ADV-V
+170163	notCLbutCL2CL
+V-ADV
+V-O
+O2CL
+170168	Conj-CL
+V-S
+BeVerb
+NpaNp
+DetNP
+NPofNP
+170175	DetNP
+170177	Conj-CL
+CLaCL
+V2CL
+170182	CLaCL
+ADV-S-V
+PrepNp
+NpaNp
+DetNP
+NPofNP
+170189	DetNP
+NPofNP
+DetNP
+170193	S-ADV-V
+DetNP
+AdjpNp
+170197	Conj-CL
+170199	DetNP
+PtclCL
+V-S-ADV-O
+DetNP
+NPofNP
+DetNP
+PrepNp
+ADV-S-P-VC
+DetNP
+PrepNp
+V2CL
+170212	ADV-V-O-ADV
+AdjpNp
+DetNP
+PrepNp
+V2CL
+170218	Conj-CL
+CLaCL
+170221	sub-CL
+V-ADV-S
+PrepNp
+DetNP
+170226	ADV-V-ADV
+PrepNp
+Demo-NP
+DetNP
+170231	S-O-V-ADV
+NPofNP
+NpAdjp
+PrepNp
+NpAdjp
+170237	Conj-CL
+170239	sub-CL
+ADV2CL
+V-S-ADV
+DetNP
+NPDetAdj
+PrepNp
+Np-Appos
+DetAdj
+DetAdj
+170249	S-V
+AdjpNp
+170252	Conj-CL
+CLaCL
+CLaCL
+S-V-O-ADV
+NpAdjp
+PrepNp
+NpAdjp
+170261	sub-CL
+ADV2CL
+V-S-O
+DetNP
+DetNP
+170267	CLaCL
+S-V
+DetNP
+170271	S2CL
+DetNP
+170274	O-ADV
+NpAdjp
+PrepNp
+NpAdjp
+170279	Conj-CL
+CLaCL
+V-S
+S-ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+DetAdj
+170288	S-V-O-ADV
+DetNP
+NPofNP
+O-V
+V-O
+DetNP
+170295	Conj-CL
+170297	DetNP
+170299	DetNP
+S-ADV-V
+170302	Conj-CL
+170305	ClCl
+O-V-S
+sub-CL
+CLaCL
+O-V
+170311	V-S
+NpaNp
+170314	NpPp
+PrepNp
+170317	Conj-CL
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+170327	CLaCL
+170329	DetNP
+NPofNP
+DetNP
+170333	S-ADV-V
+O-V
+ADV-S
+DetNP
+170338	V-IO
+AdvpNp
+DetCL
+P-VC
+PrepNp
+170344	Conj-CL
+170346	CLaCL
+S-ADV-V
+DetNP
+PrepNp
+DetNP
+170352	ADV-S-ADV
+DetNP
+PrepNp
+DetNP
+170357	Conj-CL
+VC-S-P
+NPofNP
+DetNP
+NPofNP
+DetNP
+AdvpNp
+DetNP
+170366	Conj-CL
+V-ADV-ADV
+PrepNp
+170370	Conj-CL
+VC-P-S
+NpAdjp
+O2-V-O
+V2CL
+DetNP
+170377	Conj-CL
+ClCl
+ClCl
+V-O
+PtclCL
+ADV-V-O
+DetNP
+sub-CL
+V-O
+170387	Conj-CL
+170389	Np-Appos
+DetNP
+DetCL
+O-V
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+DetAdj
+170399	Conj-CL
+170401	V-ADV-S
+DetNP
+ClCl
+CLaCL
+O-V
+170407	V2CL
+CLaCL
+O-V
+170411	V2CL
+170413	Conj-CL
+S-V
+170416	Conj-CL
+170418	V-O-ADV
+PrepNp
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+V-O
+DetNP
+170430	Conj-CL
+CLaCL
+V2CL
+170434	V-S
+DetNP
+NPofNP
+170438	Conj-CL
+170440	V2CL
+DetNP
+PrepNp
+DetNP
+PrepNp
+sub-CL
+O-V
+170448	Conj-CL
+S-ADV-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+170457	Conj-CL
+S-V
+NpPp
+AdjpNp
+PrepNp
+DetNP
+170464	Conj-CL
+ADV-S-ADV-V-ADV
+Conj5Pp
+PrepNp
+DetNP
+170470	PrepNp
+170472	PrepNp
+DetNP
+170475	PrepNp
+DetNP
+170478	PrepNp
+NpaNp
+170481	NpAdjp
+V-O
+O-V
+PrepNp
+170486	Conj-CL
+ClCl
+170489	DetNP
+NPofNP
+that-VP
+S-V-O-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-V-O
+170498	Conj-CL
+O-V-ADV
+sub-CL
+170502	sub-CL
+O-V-S
+S-V-O
+170506	Conj-CL
+CLaCL
+S-ADV-V-ADV
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+O-V
+170515	V-ADV
+170517	that-VP
+S-VC-P
+DetNP
+NPofNP
+DetNP
+170523	Conj-CL
+170525	sub-CL
+ADV-O-O2-V
+170528	Conj-CL
+CLaCL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+170535	V-O
+O-V-S
+170538	V-ADV
+PrepNp
+170541	Conj-CL
+ClCl
+V-O
+CLaCL
+sub-CL
+VC-P
+PrepNp
+170549	sub-CL
+V-O-ADV
+CLaCL
+V2CL
+170554	V-O-ADV
+V-O
+DetNP
+170558	Conj-CL
+CLaCL
+V-O
+DetNump
+170563	CLaCL
+V-O-IO-O2
+DetNP
+170567	CLaCL
+Np2CL
+NpaNp
+Np-Appos
+NPofNP
+DetNP
+170574	Np-Appos
+DetNP
+NPofNP
+DetNP
+170579	V-IO-O-O2
+NP-CL
+S-VC-P
+NPofNP
+170584	Conj-CL
+O2CL
+Conj9Np
+170592	Np-Appos
+NPofNP
+DetNP
+170597	Np-Appos
+DetNP
+170600	NP-CL
+Np-Appos
+S-ADV-V-O
+170604	Conj-CL
+V-ADV
+PrepNp
+170608	Conj-CL
+V-ADV-S-ADV
+DetNP
+sub-CL
+ADV-V-S-O
+ADV-O-V
+170615	Conj-CL
+170617	V2CL
+NpPp
+PrepNp
+V-O
+sub-CL
+170623	that-VP
+V2CL
+170626	Conj-CL
+170628	Np-Appos
+DetNP
+DetCL
+ADV-V
+PrepNp
+CLaCL
+that-VP
+O-V
+170637	that-VP
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+170645	Conj-CL
+170647	V-O
+PrepNp
+ADV-V-S-O
+O-V
+170652	Conj-CL
+170654	sub-CL
+S-ADV-V
+PrepNp
+V2CL
+NP-Demo
+DetNP
+170661	Conj-CL
+170663	sub-CL
+S-ADV-V
+PrepNp
+NP-Demo
+DetNP
+V2CL
+170670	Conj-CL
+170672	sub-CL
+CLaCL
+S-V-ADV
+DetNP
+PrepNp
+170678	V2CL
+V-O
+V2CL
+O-V
+170683	Conj-CL
+CLaCL
+170686	ADV-O-V
+ADV-V
+PrepNp
+DetNP
+NPofNP
+DetAdj
+DetNP
+NPofNP
+sub-CL
+ADV-ADV-O-V
+DetAdj
+170698	ADV-O-V
+DetNP
+NPofNP
+170702	PtclCL
+170704	that-VP
+V-IO-S
+NpaNp
+All-NP
+DetNP
+NPofNP
+DetNP
+DetNP
+170713	DetNP
+NP-CL
+PtclCL
+O-V
+170718	Conj-CL
+170720	CLaCL
+S-ADV-V-O-ADV
+PtclCL
+S-V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+170731	P-VC-ADV
+AdjpNp
+170734	O-V
+NpAdjp
+170737	Conj-CL
+CLaCL
+V-S
+NpaNp
+DetNP
+NPofNP
+170744	DetNP
+NPofNP
+170747	ADV-V-ADV-ADV
+ADV-V
+PrepNp
+V-O
+170752	Conj-CL
+CLaCL
+V-ADV-S
+PrepNp
+170759	Conj3Np
+DetNP
+NPofNP
+170763	DetNP
+NPofNP
+170766	DetNP
+NPofNP
+170769	Conj-CL
+170771	V-IO
+P-VC-S
+NpaNp
+DetNP
+NPofNP
+170777	DetNP
+170779	Conj-CL
+170781	V-O
+DetCL
+ADV-ADV-V
+PrepNp
+ClCl2
+V2CL
+P2CL
+NpaNp
+DetNP
+NPofNP
+170792	DetNP
+NPofNP
+170795	ClCl2
+PtclCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+S-P-VC
+Conj3Np
+NPofNP
+170807	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+170813	Conj-CL
+CLaCL
+V-ADV-S-ADV
+PrepNp
+NpAdjp
+sub-CL
+S-ADV-V-ADV
+ADV-V
+PrepNp
+PrepNp
+DetNP
+170825	S-P-VC
+All-NP
+DetNP
+2Pp
+PrepNp
+DetNP
+PrepNp
+DetNP
+170834	Conj-CL
+CLaCL
+V-O-ADV-O2
+PrepNp
+170840	PrepNp
+DetNP
+NPofNP
+V2CL
+170846	DetCL
+V2CL
+V2CL
+170850	Conj-CL
+170852	PrepNp
+DetCL
+V2CL
+EitherOr4CL
+170857	CLaCL
+S-V-ADV
+PrepNp
+DetNP
+170862	CLaCL
+V-S
+DetNP
+170866	V-O
+170868	CLaCL
+CLaCL
+ClCl
+S-V-ADV
+PrepNp
+DetNP
+ADV-ADV-V-O
+NpAdjp
+170877	ADV-V-ADV
+PrepNp
+DetCL
+ADV-V-O
+NPofNP
+170883	CLaCL
+170885	sub-CL
+V-S
+DetNP
+170889	ADV-V
+PrepNp
+DetCL
+ADV-V-O
+170894	CLaCL
+S-V-ADV
+PrepNp
+DetNP
+170899	CLaCL
+CLaCL
+V-S
+DetNP
+170904	V-O
+170906	O-ADV-V
+170908	CLaCL
+S-V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+170915	CLaCL
+V-O-ADV
+V2CL
+Conj2VP
+170921	V-ADV
+Conj3Pp
+PrepNp
+170925	PrepNp
+170927	PrepNp
+170929	Conj-CL
+170931	S-V
+S-V-O-ADV
+V2CL
+170935	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+V-O-S-ADV-O2
+NpPp
+PrepNp
+PrepNp
+DetNump
+DetNP
+170947	Conj-CL
+170949	CLaCL
+IO-V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+170957	ClCl
+170959	Demo-NP
+DetNP
+PrepNp
+DetAdj
+sub-CL
+CLaCL
+CLaCL
+ADV-V
+V2CL
+170969	ADV-V
+170971	CLaCL
+ADV-V
+V2CL
+170975	ADV-V
+CLaCL
+ADV-ADV-V
+170979	V-IO
+170981	Conj-CL
+170983	CLaCL
+ADV-V-O
+NP-Demo
+DetNP
+170988	ADV-O-V
+All-NP
+DetNP
+170992	S-O-V
+DetCL
+V2CL
+DetNP
+170997	Conj-CL
+CLaCL
+P-VC-S
+NpPp
+PrepNp
+DetNP
+NP-CL
+ADV-V-S
+DetNP
+171007	ClCl2
+sub-CL
+V2CL
+CLaCL
+ADV-V-S
+DetNP
+171014	V-O
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+171021	Conj-CL
+VC-ADV-S-P
+NP-CL
+DetCL
+ADV-V
+PrepNp
+DetAdj
+CLaCL
+S-ADV-ADV-ADV-V-O
+sub-CL
+V-O
+DetNP
+PrepNp
+171035	CLaCL
+ADV-V-O-ADV
+PrepNp
+171039	P-VC
+171042	ADV-V-S-ADV
+NpaNp
+171045	PrepNp
+DetNP
+171048	Conj-CL
+P-VC-S
+DetCL
+ADV-V
+PrepNp
+DetNP
+171055	CLaCL
+S-VC-P
+DetCL
+O-V
+DetNP
+171061	CLaCL
+S-ADV-V-O
+Conj3Np
+DetNP
+NPofNP
+DetNP
+171068	DetNP
+NPofNP
+DetNP
+171072	DetNP
+PpNp2Np
+PrepNp
+DetAdj
+V2CL
+DetNP
+171079	P-VC
+171081	Conj-CL
+VC-S-P
+NP-CL
+DetCL
+ADV-V
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+Conj3CL
+S-V-O
+DetNP
+171094	V2CL
+171096	V-ADV
+Conj3Pp
+PrepNp
+171100	PrepNp
+171102	PrepNp
+171104	Conj-CL
+171106	that-VP
+PtclCL
+171109	DetNP
+sub-CL
+CLaCL
+ADV-V
+PrepNp
+DetNP
+171116	ADV2CL
+PrepNp
+DetNP
+171120	PtclCL
+sub-CL
+ADV-V
+PrepNp
+DetNP
+171126	Conj-CL
+ClCl
+171129	AdjpNp
+sub-CL
+ClCl
+ADV2CL
+sub-CL
+V2CL
+notCLbutCL2CL
+V-S
+sub-CL
+V-ADV
+PrepNp
+171141	ClCl2
+sub-CL
+S-V-O-ADV
+V2CL
+V2CL
+171147	Conj-CL
+171149	ClCl
+V2CL
+O-V
+171153	CLaCL
+S-V-IO
+ADV-V
+PrepNp
+PronNP
+171159	V-IO
+171161	Conj-CL
+CLaCL
+171164	S-V
+171166	ClCl2
+S-ADV-V
+S-V-ADV
+AdvpNp
+O-V
+PrepNp
+171173	Conj-CL
+171175	ClCl
+P-VC-S
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+S-V-O-ADV
+DetNP
+PrepNp
+DetNP
+171187	CLaCL
+V-ADV
+Conj2VP
+171191	NpaNp
+171194	ClCl
+S-V
+DetNP
+Conj2VP
+171199	sub-CL
+ADV-V-S
+171203	DetNP
+ClClCl
+ADV-O
+ADV-O
+ADV-P-S-ADV
+PrepNp
+DetNP
+171211	Conj-CL
+171213	sub-CL
+V-S
+DetNP
+DetNP
+sub-CL
+V-S
+DetNP
+171221	Conj-CL
+171224	ADV-V-O
+DetNP
+NPofNP
+DetNP
+171229	ADV-O-V
+PrepNp
+AdjpNp
+P2CL
+PrepNp
+NP-CL
+NPofNP
+CLaCL
+S-ADV-P-VC-ADV
+sub-CL
+V-ADV
+PrepNp
+DetNP
+All-NP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+171250	sub-CL
+V2CL
+V2CL
+171254	VC-P-ADV
+All-NP
+DetNP
+171258	V-O-ADV
+NpAdjp
+sub-CL
+V-O-S
+ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+171270	Conj-CL
+171272	NpAdjp
+Demo-NP
+DetNP
+sub-CL
+V-O
+V2CL
+171279	Conj-CL
+CLaCL
+ADV-ADV-V-IO
+PrepNp
+171284	ADV-IO-V-O
+PrepNp
+DetNP
+AdjpNp
+171289	Conj-CL
+ClCl
+171292	PrepNp
+Demo-NP
+DetNP
+S-V
+V-ADV
+PrepNp
+DetNP
+171300	Conj-CL
+CLaCL
+171303	V-O
+DetNP
+sub-CL
+VC-P
+PrepNp
+DetNP
+171310	S-VC-P
+AdjpNp
+PrepNp
+171314	Conj-CL
+CLaCL
+V-S
+NPofNP
+NpAdjp
+171320	S-V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+sub-CL
+ADV-V-S
+DetNP
+171328	Conj-CL
+S-VC-P-ADV
+PrepNp
+DetNP
+ADV-V
+PrepNp
+DetNP
+171336	Conj-CL
+CLaCL
+V-O
+171342	Np2CL
+V-ADV-S
+that-VP
+V2CL
+171347	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+DetNP
+171354	DetNP
+ClCl
+V2CL
+V2CL
+171359	Conj-CL
+CLaCL
+V-S
+DetNP
+171364	V-S
+NpAdjp
+171367	Conj-CL
+171369	ClCl
+ADV-P-VC-ADV
+ADV-ADV-V-O
+171373	Conj-CL
+CLaCL
+V-O
+NpAdjp
+171379	PrepNp
+Conj-CL
+171382	sub-CL
+S-V-O
+aNpaNp
+171386	DetNP
+171388	DetNP
+171390	Conj-CL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+171401	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+ADV-V-O-ADV-S
+PrepNp
+DetNP
+NP-CL
+NpPp
+PrepNp
+NpAdjp
+S-O-V-ADV
+DetNP
+PrepNp
+DetNP
+171418	Conj-CL
+CLaCL
+ADV-ADV-S-V-O-ADV
+AdvpNp
+O-V
+PrepNp
+DetCL
+CLaCL
+S-ADV-ADV-V
+NpaNp
+171430	CLaCL
+V-ADV-S
+PrepNp
+DetNP
+171435	S-V
+DetNP
+171438	S-V-O
+O-V
+171441	Conj-CL
+CLaCL
+ADV-ADV-ADV-V
+PrepNp
+NpaNp
+171447	Conj2Pp
+PrepNp
+DetNP
+171451	PrepNp
+DetNP
+BeVerb
+171455	V-O-ADV
+171457	Conj-CL
+CLaCL
+CLaCL
+ADV-V
+V-O-ADV
+DetNP
+PrepNp
+171465	V-O
+171467	ClCl
+171469	V-ADV
+NpAdjp
+ClCl
+171473	NpaNp
+171475	Np2CL
+Np-Appos
+NPofNP
+Np-Appos
+DetNP
+DetNP
+171482	DetNP
+ADV-O-V
+sub-CL
+171487	Np2CL
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+171494	Conj-CL
+171496	P-S
+NpAdvp
+171499	Conj-CL
+171502	NpAdvp
+sub-CL
+P-VC
+171506	Conj-CL
+171508	sub-CL
+ADV-O-V-ADV
+PrepNp
+DetNP
+171513	Conj-CL
+VC-ADV-P-S
+PrepNp
+DetNP
+NpAdjp
+NpAdjp
+NPofNP
+V2CL
+171522	Conj-CL
+V-O-ADV
+171525	ClCl
+V-O-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-V
+PrepNp
+171533	Conj-CL
+V-IO
+171536	Conj-CL
+CLaCL
+ADV-S-V-ADV
+V2CL
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+171546	CLaCL
+V-S-ADV-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+AdvpNp
+171555	V-ADV
+PrepNp
+DetNP
+171559	Conj-CL
+CLaCL
+S-V
+DetCL
+V-O
+171565	V-ADV
+Conj2Pp
+PrepNp
+DetNP
+171570	PrepNp
+DetNP
+171573	Conj-CL
+V-ADV
+ClCl
+V2CL
+P-VC-S
+DetCL
+V2CL
+171581	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+171587	CLaCL
+V-O
+S-V-ADV
+Np-Appos
+DetCL
+V2CL
+CLaCL
+V2CL
+171596	V2CL
+DetCL
+V-O
+DetNP
+171601	V2CL
+171603	Conj-CL
+CLaCL
+171606	DetCL
+V2CL
+ADV-V-ADV
+DetCL
+V2CL
+171612	ADV2CL
+PrepNp
+DetNP
+171616	Conj-CL
+V-O
+V-O
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+171624	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+171630	DetCL
+V2CL
+sub-CL
+P-VC
+PrepNp
+171636	Conj-CL
+notCLbutCL2CL
+V-O
+171640	CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetAdj
+171648	V-IO-O
+CLaCL
+O-S-IO-V
+DetNP
+171653	V-O
+171655	Conj-CL
+CLaCL
+CLaCL
+V2CL
+171660	V-O
+V-ADV-O
+PrepNp
+DetNP
+O-V-IO-S
+DetNP
+171667	S-V
+171669	Conj-CL
+CLaCL
+ClCl2
+V-S-ADV-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+V-S-ADV
+NpAdjp
+PrepNp
+171682	VC-P
+PrepNp
+DetNP
+171686	Conj-CL
+CLaCL
+V-S
+NpAdjp
+NPofNP
+DetNP
+ADV-P
+171694	CLaCL
+ADV-V-ADV
+V-O
+PrepNp
+DetNP
+NPofNP
+171701	V-O-ADV-ADV
+171703	that-VP
+171705	DetNP
+NPofNP
+sub-CL
+171709	V2CL
+DetNP
+sub-CL
+CLaCL
+V2CL
+171715	V2CL
+171717	Conj-CL
+V-ADV
+PrepNp
+171721	Conj-CL
+CLaCL
+V-O-S
+NpAdjp
+171726	V-O
+171728	Conj-CL
+S-ADV-ADV-V-O
+NpAdjp
+Conj4CL
+VC-P-ADV
+PrepNp
+NPofNP
+NumpNP
+171737	O-V-ADV
+PrepNp
+AdjpNp
+171741	V-O
+DetNP
+PpNp2Np
+PrepNp
+171746	CLaCL
+O-V
+171749	ADV-ADV-V
+PrepNp
+DetAdj
+V-O
+NpPp
+PrepNp
+DetNP
+V-ADV-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+171762	Conj-CL
+171764	that-VP
+171766	sub-CL
+V-O
+AdvpNp
+DetNP
+NPofNP
+171772	Conj-CL
+CLaCL
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+171781	DetNP
+that-VP
+V-ADV
+PrepNp
+DetNP
+171787	Conj-CL
+171789	DetNP
+V-ADV-O
+PrepNp
+S-V
+DetNP
+PpNp2Np
+PrepNp
+V-ADV
+PrepNp
+DetNP
+S-V-O
+ofNPNP
+DetNP
+171803	Conj-CL
+171805	DetNP
+NPofNP
+CLaCL
+V-O
+S-V-O
+DetNP
+171813	S-O-V
+171815	Conj-CL
+V-ADV
+V-O
+DetCL
+O-V
+171821	Conj-CL
+Conj3CL
+S-ADV-ADV-V
+DetNP
+V2CL
+Conj2VP
+171828	V-O
+S-V-ADV
+171831	V-ADV
+171833	V-IO-O
+All-NP
+DetNP
+171837	Conj-CL
+171840	Np2CL
+DetNP
+NPofNP
+171844	CLaCL
+V-ADV
+PrepNp
+171848	VC-P-ADV
+PrepNp
+DetNP
+NPofNP
+171854	ADV-S-V
+PrepNp
+DetNP
+171858	that-VP
+ClCl
+S-V
+DetNP
+NPofNP
+ADV-ADV-V-O
+DetNP
+171866	Conj-CL
+171868	DetNP
+V-O
+S-V
+DetNP
+DetNP
+ClCl
+ADV-V
+ADV-V
+171877	Conj-CL
+171879	S-ADV-V
+PrepNp
+sub-CL
+ADV-O
+Conj3Np
+DetNP
+171887	Np-Appos
+DetNP
+NPofNP
+171891	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+171899	CLaCL
+V-O
+NpaNp
+171903	V-ADV
+Conj2VP
+171908	V2CL
+ClCl
+ADV-V
+Conj2VP
+171913	CLaCL
+S-ADV-V
+DetNP
+171917	V2CL
+171919	Conj-CL
+V-O
+171922	Conj-CL
+CLaCL
+S-ADV-V-O
+V-O
+Conj3Np
+DetNP
+NPofNP
+DetNP
+171931	DetNP
+171933	NpPp
+PrepNp
+171936	V-ADV
+P-VC-S
+DetNP
+171940	Conj-CL
+171942	V-O
+DetNP
+NPofNP
+DetNP
+171948	Np2CL
+BeVerb
+171951	Np2CL
+DetNP
+V2CL
+171955	Conj-CL
+ClCl
+CLaCL
+ADV-V-S
+DetNP
+171961	V2CL
+sub-CL
+VC-P
+NpNump
+171966	Conj-CL
+V-ADV-ADV
+NpAdjp
+171970	Conj-CL
+CLaCL
+171973	that-VP
+S-V-O
+171977	V-IO-S
+V2CL
+171980	Conj-CL
+CLaCL
+CLaCL
+V-ADV
+171985	V-ADV
+PrepNp
+DetNP
+NPofNP
+171990	V-O-S
+DetNP
+NPofNP
+171994	Conj-CL
+ClCl2
+V-S
+V-O
+V-ADV
+PrepNp
+DetNP
+172002	Conj-CL
+S-ADV-V-ADV
+DetAdj
+V2CL
+172007	Conj3CL
+ADV-IO-S
+172010	P-S
+Np-Appos
+DetNP
+DetCL
+V-IO
+172016	S-ADV-V
+NP-Demo
+DetNP
+PrepNp
+DetNP
+NPofNP
+172023	PtclCL
+S-VC-P
+Np-Appos
+DetNP
+DetNP
+NpaNp
+NPofNP
+DetNP
+172032	NPofNP
+Conj4Np
+172038	Conj-CL
+PtclCL
+VC-S-ADV-P
+DetNP
+NPofNP
+PrepNp
+172045	Conj-CL
+V-ADV
+PrepNp
+172049	Conj-CL
+172051	DetNP
+that-VP
+172054	sub-CL
+ADV-ADV
+Conj3Pp
+PrepNp
+DetNP
+NPofNP
+172061	PrepNp
+DetNP
+NPofNP
+172065	PrepNp
+DetNP
+NPofNP
+172069	Conj-CL
+172071	ADV-V-O
+AdjpNp
+sub-CL
+ADV-ADV-V
+IO-V-O
+AdjpNp
+DetNP
+172079	Conj-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+172085	Conj-CL
+V-O-ADV-ADV
+DetNP
+V2CL
+172090	Conj-CL
+Conj3CL
+V-O
+DetNump
+172095	V-O
+O-V-ADV
+NumpNump
+172099	V-IO-O
+NPofNP
+DetNP
+NPDetAdj
+DetAdj
+172105	Conj-CL
+172107	that-VP
+ClCl
+172110	PrepNp
+sub-CL
+ADV-O-ADV
+CLaCL
+ClClCl
+ADV-O
+ADV-O
+ADV-ADV-O
+PrepNp
+DetNP
+172121	CLaCL
+V-O
+172124	ADV-V-O
+NumpNP
+172127	Conj-CL
+172129	CLaCL
+ClCl2
+PtclCL
+ADV-V-ADV
+PrepNp
+172135	sub-CL
+PtclCL
+V-ADV
+172139	ClCl2
+PtclCL
+CLaCL
+S-ADV-V-O
+PronNP
+172145	V-O
+ADV-V-O-ADV
+V-ADV
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NpAdvp
+172157	Conj-CL
+Conj3CL
+172160	V2CL
+sub-CL
+V2CL
+172164	O-V
+NpAdjp
+172167	CLaCL
+V-ADV-O
+AdjpNp
+172171	V2CL
+172173	Conj-CL
+CLaCL
+172176	Np-Appos
+DetNP
+sub-CL
+P-VC-S
+DetNP
+NPofNP
+172184	that-VP
+CLaCL
+S-V-ADV
+Np-Appos
+DetCL
+V2CL
+PrepNp
+172192	ADV-V-S-ADV
+PrepNp
+DetNP
+PrepNp
+172197	Conj-CL
+172199	that-VP
+P-VC
+172202	Conj-CL
+172204	that-VP
+172206	sub-CL
+P2CL
+NPofNP
+DetNP
+172211	Conj-CL
+172213	V2CL
+DetNP
+172216	Np2CL
+CL-NP
+O-S-V
+172220	Conj-CL
+CLaCL
+S-ADV-V-O
+PronNP
+DetNP
+V2CL
+DetNP
+172229	PrepNp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+sub-CL
+O-V
+172240	Conj-CL
+172242	DetNP
+DetNP
+that-VP
+ADV-V-ADV-S
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+172252	Conj-CL
+CLaCL
+CLaCL
+S-V-O
+DetNP
+172258	V-O
+O-V
+172261	ADV-V
+172263	Conj-CL
+CLaCL
+CLaCL
+S-V-O-ADV
+DetNP
+DetNP
+V-O-O2
+NpAdjp
+AdjpaAdjp
+172274	V-O
+172276	CLaCL
+ADV-ADV-V
+V-O
+172280	ADV-O-V
+172282	Conj-CL
+172284	CLaCL
+172286	NpAdjp
+sub-CL
+S-ADV-O-V-IO
+DetNP
+NPofNP
+Conj3Np
+DetNP
+NPofNP
+172295	DetNP
+172297	DetNP
+NPofNP
+DetNP
+172301	CLaCL
+V-S
+DetNP
+NPofNP
+PronNP
+DetNP
+172308	V2CL
+NpaNp
+DetNP
+172312	DetCL
+V2CL
+172315	Conj-CL
+172317	DetNP
+DetNP
+CLaCL
+V-O-O2
+PtclCL
+O-V
+172324	V-IO
+172326	Conj-CL
+172328	that-VP
+ClCl2
+sub-CL
+O-V
+V-IO-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+172338	Conj-CL
+172340	V2CL
+DetNP
+NPofNP
+O-V
+172345	Conj-CL
+172347	O2CL
+DetNP
+NPofNP
+Np-Appos
+DetCL
+V2CL
+172354	Conj-CL
+ADV-V-ADV
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+172362	that-VP
+ADV-V-IO-ADV-O
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+172370	Conj-CL
+ADV-S-ADV-ADV-V-O
+P-VC
+DetNP
+PrepNp
+NpaNp
+DetNP
+172378	DetCL
+V2CL
+V-O
+172382	Conj-CL
+ADV-ADV-S-V-O
+V-O
+DetNP
+V-O
+DetNP
+NPofNP
+172390	Conj-CL
+CLaCL
+ADV-V-O-ADV
+V2CL
+PrepNp
+DetNP
+172397	CLaCL
+CLaCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+172404	V-O-IO
+DetNP
+172407	S-V-O-IO
+DetNP
+DetNP
+NPofNP
+172412	Conj-CL
+Conj3CL
+ADV-S-V
+V2CL
+DetNP
+NPofNP
+172419	V-O
+DetNP
+NPofNP
+172423	V-O-ADV
+PrepNp
+172426	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+172433	V-IO-O
+All-NP
+CLaCL
+O-V
+172438	O-V
+172440	Conj-CL
+ClCl
+172443	CLaCL
+V-S-ADV-ADV
+NpPron
+PrepNp
+PrepNp
+AdjpNp
+172450	V-ADV
+sub-CL
+CLaCL
+VC-S-P
+NpaNp
+DetCL
+V2CL
+172458	DetCL
+V2CL
+172461	ADV-O-V
+V2CL
+172464	Conj-CL
+V-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+AdjpNp
+PrepNp
+172472	Conj-CL
+CLaCL
+CLaCL
+V-O
+S-V
+172478	V-S
+172480	CLaCL
+ADV-ADV-V-ADV
+PrepNp
+All-NP
+DetNP
+172486	V-ADV
+172488	Conj-CL
+Conj3CL
+ADV-V-O
+V2CL
+AdjpNp
+172494	ClCl
+V-ADV
+PrepNp
+sub-CL
+VC-P
+PrepNp
+NpAdjp
+ADV-V-O
+172503	V-O
+V-O-O2
+172506	Conj-CL
+ClCl2
+ADV-S-P-VC
+172510	V2CL
+DetNP
+NPofNP
+that-VP
+CLaCL
+P-VC-S
+DetNP
+172518	ADV-S-P
+172521	sub-CL
+ADV-V-IO-O
+V-ADV
+PrepNp
+DetNP
+AdvpNp
+NpaNp
+172529	O-V
+172531	Conj-CL
+172533	V2CL
+V-IO-S-O
+V2CL
+172537	Conj-CL
+172539	CLaCL
+ADV-V-O
+V2CL
+ofNPNP
+NpAdjp
+172545	V-IO-O
+V2CL
+172548	Conj-CL
+172550	ClCl
+O-V
+AdjpNp
+V2CL
+V2CL
+172556	Conj-CL
+172558	V2CL
+O2CL
+NpaNp
+172562	NumpNP
+172564	Conj-CL
+V-IO-O
+V-O-ADV-ADV
+2Np
+PrepNp
+DetNP
+AdjpNp
+172572	Conj-CL
+V-ADV-ADV
+2Np
+Conj2Pp
+PrepNp
+172578	PrepNp
+172580	Conj-CL
+CLaCL
+Conj3CL
+ADV-ADV-V
+V-O
+NpaNp
+DetNP
+NumpNP
+172589	DetNP
+NumpNP
+V-ADV
+PrepNp
+DetNP
+172595	V-O
+DetNP
+172598	ClCl
+V-IO
+DetNP
+sub-CL
+V-IO
+172604	O-V-IO
+DetNP
+NumpNP
+172608	Conj-CL
+CLaCL
+V-S
+172612	V2CL
+172614	Conj-CL
+CLaCL
+V-O
+Np-Appos
+ofNPNP
+NumpNP
+172621	ADV2CL
+PrepNp
+DetNP
+172625	Conj-CL
+VC-S-P
+DetCL
+V-O
+DetNP
+AdjpNp
+172632	Conj-CL
+ADV-V-O
+CLaCL
+S-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+172642	PrepNp
+DetNP
+PrepNp
+sub-CL
+S-V-O
+DetNP
+172649	Conj-CL
+ADV-V-ADV-ADV
+V-O
+PrepNp
+DetNP
+V2CL
+172656	Conj-CL
+ClCl2
+S-V
+CLaCL
+VC-S-P
+DetNP
+PrepNp
+NPofNP
+DetNP
+172666	S-P-ADV
+PrepNp
+DetNP
+172670	Conj-CL
+ADV-ADV-V-ADV-ADV
+ClCl
+V-O
+S-V-ADV
+PrepNp
+DetCL
+V2CL
+sub-CL
+VC-S-P-ADV
+DetNP
+PrepNp
+AdjpNp
+NPofNP
+DetNP
+PrepNp
+V-ADV
+PrepNp
+DetNP
+172690	Conj-CL
+V-O
+V-ADV
+172694	Conj-CL
+ClCl
+CLaCL
+172698	V-O
+S-ADV-V
+PrepNp
+DetNP
+that-VP
+P-VC
+172705	V2CL
+sub-CL
+CLaCL
+S-O-V
+172710	V2CL
+172712	Conj-CL
+CLaCL
+S-ADV-V-ADV
+PrepNp
+172718	ClCl
+ClCl
+V2CL
+S-VC
+ADV-V
+172724	Conj-CL
+CLaCL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+172731	V-S
+DetNP
+172734	Conj-CL
+ClCl
+ADV-ADV-ADV-V
+PrepNp
+PrepNp
+sub-CL
+notCLbutCL2CL
+V-ADV
+PrepNp
+DetNP
+V-S
+BeVerb
+ofNPNP
+DetNP
+172749	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+172757	V2CL
+172759	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+CLaCL
+ADV-V-ADV
+ADV-V-O
+NP-Demo
+All-NP
+DetNP
+172771	V-O
+ADV-O-V-ADV
+PrepNp
+DetNP
+DetCL
+ADV-V
+sub-CL
+ClCl
+V2CL
+sub-CL
+V2CL
+172783	Conj-CL
+CLaCL
+ADV-ADV-V-O
+PtclCL
+sub-CL
+V-ADV
+Conj3Pp
+PrepNp
+172792	PrepNp
+172794	PrepNp
+PrepNp
+DetNP
+DetCL
+V2CL
+172801	that-VP
+ADV-O-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+172808	Conj-CL
+S-V
+PtclCL
+S-V-O
+172813	Conj-CL
+V-ADV-S-ADV
+PrepNp
+NpaNp
+DetNP
+172819	NPofNP
+DetNP
+CLaCL
+V-ADV
+PrepNp
+172826	NPofNP
+DetNP
+NPofNP
+that-VP
+ADV-V-O
+NP-CL
+AdjpNp
+S-VC-P
+DetNP
+172836	Conj-CL
+Conj3CL
+S-ADV-ADV-V-ADV
+NpaNp
+DetNP
+172842	All-NP
+DetAdj
+sub-CL
+ADV-ADV-V-O
+DetNP
+V-O
+DetNP
+NPofNP
+DetAdj
+172852	ADV-ADV-ADV-V
+PrepNp
+sub-CL
+ADV-V
+172858	O-V-ADV
+V-O
+NPofNP
+Conj3Np
+172865	Conj-CL
+172867	NpaNp
+DetNP
+172870	DetNP
+CLaCL
+ADV-ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetAdj
+172881	ADV-V-O
+AdjpNp
+DetNP
+172885	Conj-CL
+172888	PrepNp
+Np-Appos
+DetNP
+sub-CL
+172893	that-VP
+CLaCL
+CLaCL
+S-ADV-O-V
+Demo-NP
+DetNP
+DetNP
+172901	S-ADV-V-ADV
+DetNP
+NPofNP
+PrepNp
+172906	ADV-V-O-ADV
+V-O2-O
+NPofNP
+172910	ADV-V-O
+V-O
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+172919	Conj-CL
+172922	DetNP
+NPofNP
+DetNP
+sub-CL
+O-V
+DetNP
+NPofNP
+172930	Conj-CL
+172932	CLaCL
+V-O
+NpaNp
+DetNP
+NPofNP
+172938	DetNP
+NPofNP
+172941	S-ADV-V
+DetCL
+V-O
+NpaNp
+172947	Conj-CL
+172949	ClCl2
+sub-CL
+172952	NpaNp
+DetNP
+172955	DetNP
+P-S
+NP-CL
+S-VC-P
+PtclCL
+O-ADV-V
+PrepNp
+ADV-V-O-ADV
+S-O-V-IO
+NpaNp
+DetNP
+172967	DetNP
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+NP-CL
+DetNP
+NPofNP
+O-V
+172977	Conj-CL
+O-V
+NpAdjp
+AdjpNp
+172982	Conj-CL
+172984	V-ADV-O
+DetNP
+CLaCL
+V-O-S
+172990	CLaCL
+P-VC-S
+NP-CL
+NpAdjp
+PrepNp
+DetNP
+V-ADV
+PrepNp
+S-V-O
+V-O
+173001	S-VC-P
+DetCL
+ADV-V
+PrepNp
+DetNP
+DetCL
+V-O
+DetNP
+173010	Conj-CL
+ClCl2
+sub-CL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+V-O-S-O2
+DetNP
+NPofNP
+DetNP
+173022	Conj-CL
+ClCl
+173025	ClCl
+ADV-S-P-VC
+AdvpNp
+173029	that-VP
+ClCl
+S-ADV-V-O
+All-NP
+DetCL
+ADV-V-ADV
+PrepNp
+DetNP
+O-V
+sub-CL
+notCLbutCL2CL
+V-ADV
+PrepNp
+ofNPNP
+DetNP
+CLaCL
+ADV2CL
+PrepNp
+DetNP
+173049	ADV-V
+PrepNp
+DetNP
+V-O
+All-NP
+DetNP
+173056	Conj-CL
+173058	that-VP
+173060	Np2CL
+DetCL
+ADV-V
+PrepNp
+DetNP
+DetNP
+173067	Conj-CL
+ADV-S-V
+AdvAdv
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+NPDetAdj
+DetAdj
+173079	Np2CL
+12Np
+NpAdjp
+S-ADV-V
+All-NP
+Demo-NP
+DetAdj
+173087	V-O
+DetNP
+173090	Conj-CL
+ADV-ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+173097	Conj-CL
+CLaCL
+ADV-O-V
+V-ADV
+PrepNp
+S-V
+173104	ADV-V-O
+V2CL
+173107	Conj-CL
+ADV-ADV-S-ADV-V-ADV
+V-ADV
+NP-CL
+PrepNp
+S-V-O
+ofNPNP
+DetNP
+NPofNP
+NpAdjp
+V2CL
+PrepNp
+DetNP
+NPofNP
+173122	Conj-CL
+ClCl
+S-VC-P
+DetNP
+P-ADV
+DetNP
+173129	Conj-CL
+173131	that-VP
+O-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+173138	Conj-CL
+173140	ClCl
+V-O
+ADV-V-S
+DetNP
+sub-CL
+ADV-VC-P-S
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+173152	IO-V
+DetNP
+173155	Conj-CL
+CLaCL
+S-V
+173160	ClCl
+173162	Np2CL
+S-ADV-V-ADV
+AdvpNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+173173	Conj-CL
+173176	PrepNp
+Demo-NP
+DetNP
+V-ADV-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+173185	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+CLaCL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+173197	S-V
+DetNP
+173200	Conj-CL
+ADV-V-ADV-ADV-ADV
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+173216	Conj-CL
+CLaCL
+V-IO-O
+AdjpaAdjp
+173223	that-VP
+V-IO-O
+DetNP
+173227	Conj-CL
+Conj3CL
+ADV-V-O-ADV
+V-O-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+173240	ADV-V-O
+V2CL
+DetNP
+NPofNP
+173245	CLaCL
+ADV-V
+V-ADV
+PrepNp
+DetNP
+173253	S-VC-P
+V2CL
+173256	Conj-CL
+CLaCL
+V-S
+ofNPNP
+DetNP
+173262	CLaCL
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+173269	V-ADV
+173271	Conj-CL
+173273	that-VP
+IO-V
+173276	Conj-CL
+173278	O-IO-V
+2Advp_h2
+173281	Conj-CL
+ADV-V-ADV
+173284	ClCl
+ADV-O-V
+ADV-V-O
+CLaCL
+S-V
+DetAdj
+173291	S-V
+173293	ClCl2
+CLaCL
+ADV-ADV-S-V
+PrepNp
+Demo-NP
+DetNP
+AdjpNp
+173301	ADV-V-O
+O-V
+173304	V-O
+DetNP
+ClCl
+V-ADV
+PrepNp
+DetNP
+sub-CL
+CLaCL
+ADV-ADV-V-ADV
+NpAdjp
+173315	ADV-V-O
+O-V
+173318	Conj-CL
+173320	sub-CL
+V-O-ADV
+NpAdjp
+PrepNp
+NPofNP
+PrepNp
+DetNP
+173328	Conj-CL
+S-P-VC
+NPofNP
+PrepNp
+173333	Conj-CL
+173335	DetNP
+NPofNP
+that-VP
+ADV-V-S-O
+O-ADV-V-ADV-ADV
+PrepNp
+173342	Conj-CL
+173344	O-V
+AdjpNp
+173347	Conj-CL
+173349	O2CL
+173351	Conj-CL
+V-IO-O
+DetNP
+V-ADV
+PrepNp
+DetNP
+173358	Conj-CL
+CLaCL
+CLaCL
+ADV-ADV-V
+V-O
+DetNP
+NumpNP
+V2CL
+173367	ClCl
+V-IO
+DetNP
+NPofNP
+sub-CL
+V2CL
+173374	V-IO
+DetNP
+173377	Conj-CL
+V-O
+NpAdjp
+173381	Conj-CL
+ADV-V-O
+V-O
+O-V
+AdvpNp
+173387	Conj-CL
+CLaCL
+CLaCL
+V2CL
+173392	V2CL
+173394	V-O
+Np-Appos
+NPofNP
+NumpNP
+173399	Conj-CL
+VC-P
+AdvpNp
+173403	Conj-CL
+V-O
+173406	Conj-CL
+ADV-ADV-V-ADV
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+173418	Conj-CL
+CLaCL
+V-S
+DetNP
+173423	V-O-ADV
+V-ADV
+V-ADV-O-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+V-O
+173431	Conj-CL
+173433	V-ADV
+DetNP
+NPofNP
+ADV-S-V-O
+NP-Demo
+DetNP
+173440	ClCl
+PtclCL
+V-IO
+sub-CL
+V-IO-S
+NP-Demo
+DetNP
+173448	Conj-CL
+ADV-ADV-ADV-V-ADV
+V-O
+V2CL
+PrepNp
+DetNP
+173455	Conj-CL
+CLaCL
+V-O
+V-O
+173461	sub-CL
+ADV-O
+AdjpNp
+PrepNp
+PrepNp
+DetNP
+173468	Conj-CL
+V-IO-ADV
+173472	V-ADV
+PrepNp
+NpaNp
+DetNP
+NPofNP
+DetNP
+173479	DetNP
+NPofNP
+173482	Conj-CL
+173484	PrepNp
+that-VP
+O-ADV-V
+173488	Conj-CL
+173490	V2CL
+173492	that-VP
+O-ADV-V
+173495	ADV-V
+Conj2VP
+173499	O2-V-O
+V2CL
+DetNP
+NPofNP
+173504	CLaCL
+ADV-ADV-V
+O-V
+173508	ADV-ADV-V
+O-V
+173511	Conj-CL
+173514	sub-CL
+O-V-ADV
+DetNP
+NumpNP
+PrepNp
+DetAdj
+AdjpNp
+NpAdjp
+NPofNP
+173525	O2CL
+173528	sub-CL
+O-ADV
+DetNump
+PrepNp
+DetNP
+NPofNP
+ofNPNP
+AdjpNp
+173537	Conj-CL
+173539	O2CL
+173541	Conj-CL
+173543	ADV-V
+173545	Conj-CL
+V-ADV
+PrepNp
+173549	Conj-CL
+CLaCL
+V-IO-O
+173554	that-VP
+O-V
+173557	Conj-CL
+CLaCL
+ADV-V-O-ADV
+V-O
+DetNP
+NPofNP
+DetAdj
+PrepNp
+DetNP
+173568	V-ADV
+PrepNp
+DetNP
+NPofNP
+V-O-IO
+DetNP
+PtclCL
+O-V
+173577	Conj-CL
+173579	V2CL
+ClCl
+V-O
+DetNP
+sub-CL
+O-V
+S-V
+PrepNp
+173588	CLaCL
+ADV-ADV-V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+173595	Conj3CL
+V2CL
+173598	V2CL
+173600	V-ADV-O
+173602	Conj-CL
+V-O-ADV-ADV
+PrepNp
+NPofNP
+173607	ADV-ADV-V
+PrepNp
+DetNP
+173611	Conj-CL
+V-S-ADV
+NpaNp
+DetNP
+173616	DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+NPofNP
+DetNP
+173624	Conj-CL
+ADV-V-O-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+173631	O-V-S
+P-S-VC
+DetNP
+173635	Conj-CL
+S-V-IO-ADV
+173638	that-VP
+CLaCL
+O2CL
+Np-Appos
+DetNP
+173644	CLaCL
+S-O
+173648	that-VP
+P2CL
+NPofNP
+DetNP
+173653	Conj-CL
+173655	Conj-CL
+S-O-V
+P-S-VC
+173660	V2CL
+DetNP
+S-VC-P
+DetNP
+173665	Conj-CL
+173667	that-VP
+IO-V-ADV
+PrepNp
+173671	Conj-CL
+V-O
+173674	that-VP
+V-S
+Conj3CL
+S-O-V
+DetNP
+NPofNP
+DetNP
+173682	CLaCL
+V-ADV
+PrepNp
+Conj3Np
+DetAdj
+173688	DetNP
+173690	DetNP
+173692	V2CL
+173694	ADV-V
+PrepNp
+AdjpNp
+173698	Conj-CL
+ADV-O-V
+DetNP
+173702	Conj-CL
+S-ADV-V-O
+V-O
+DetNP
+V-O
+173708	Conj-CL
+CLaCL
+S-ADV-V-O
+CLaCL
+V2CL
+173714	V-O
+DetNP
+NPofNP
+173719	ClCl
+173721	PrepNp
+Np2CL
+sub-CL
+notCLbutCL2CL
+V-O
+NPofNP
+DetNP
+O2CL
+NPofNP
+DetNP
+173732	Conj-CL
+173734	V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+ClCl2
+sub-CL
+S-V-O
+ADV-V
+PrepNp
+Conj3CL
+V-O
+173747	V-O
+DetNP
+NPofNP
+173751	V-O
+173753	Conj-CL
+S-V-O
+PtclCL
+S-V-O
+O-V
+DetNP
+NPofNP
+173761	Conj-CL
+S-V-O
+PtclCL
+S-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+NpaNp
+173770	DetNP
+173772	Conj-CL
+ADV-V-O-S
+CLaCL
+V-O
+DetNP
+NP-all
+173779	V-O
+DetNP
+NPofNP
+173783	Conj-CL
+O-V-S-O2
+NPofNP
+DetNP
+NPofNP
+173789	Conj-CL
+ClCl2
+PtclCL
+S-V-O-ADV
+NpaNp
+173795	DetNP
+AdjpNp
+PrepNp
+Np-Appos
+NP-Demo
+DetNP
+NpaNp
+DetNP
+173804	ClCl
+S-V-O
+AdvpNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+173822	Conj-CL
+173825	V-IO
+that-VP
+V-S
+NP-CL
+NPofNP
+DetCL
+ADV-V
+173833	S-ADV-V-O
+2Advp_h1
+PtclCL
+V-O
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+173843	Conj-CL
+CLaCL
+ADV-V-S-O
+PrepNp
+NpNump
+DetNP
+Conj3Np
+DetNP
+173852	DetNP
+173855	V-O-ADV-ADV-ADV
+PrepNp
+NpAdjp
+PrepNp
+173860	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+173866	DetNP
+NPofNP
+AdjpAdjp
+V2CL
+AdjpAdvp
+ADV-S-ADV-V-O
+NpPp
+PrepNp
+DetNP
+ADV-V
+173877	Conj-CL
+CLaCL
+V-IO-S-ADV
+PrepNp
+173882	V-ADV
+BeVerb
+DetNP
+173886	Conj-CL
+173888	V2CL
+DetNP
+DetNP
+173892	Np2CL
+P-VC-S
+S-P-VC
+173896	ClCl
+V-O
+AdjpNp
+Conj3CL
+IO-O
+173902	IO-O
+173904	IO-O
+173906	Conj-CL
+173908	O-V
+sub-CL
+P-VC
+173912	Conj-CL
+CLaCL
+V-S-ADV
+V-O
+173918	PrepNp
+DetNP
+ClCl
+S-VC-P
+Np-Appos
+DetNP
+NPofNP
+DetAdj
+V-O
+173928	Conj-CL
+CLaCL
+ADV-ADV-ADV-O-V
+V2CL
+173933	O-ADV-ADV
+DetNP
+PrepNp
+173937	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+173943	that-VP
+173945	O-V
+sub-CL
+AdvpCL
+sub-CL
+S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+173955	Conj-CL
+O-V-ADV
+DetNP
+173959	PrepNp
+P-VC-S
+DetCL
+ADV-V
+PrepNp
+173965	Conj-CL
+V-O-ADV
+173969	DetNP
+that-VP
+V-S
+S-V-ADV
+173974	Conj-CL
+173976	CLaCL
+PtclCL
+S-ADV-V-O
+V-ADV
+173982	PrepNp
+DetNP
+NPofNP
+DetNP
+that-VP
+CLaCL
+O-V
+173990	V2CL
+173992	Conj-CL
+173994	that-VP
+CLaCL
+S-V
+AdvpNp
+173999	ClCl
+V-IO-O
+O-V
+sub-CL
+V-ADV
+PrepNp
+174006	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+CLaCL
+S-P
+NpAdjp
+PrepNp
+174016	S-V-ADV
+PrepNp
+174019	Conj-CL
+CLaCL
+ADV-S-ADV-V
+All-NP
+DetNP
+V-O
+174026	ADV-V-O
+V2CL
+174029	Conj-CL
+174031	O-V-ADV
+PrepNp
+174034	Conj-CL
+174036	NpPp
+PrepNp
+DetNP
+174040	Np2CL
+DetNP
+NPofNP
+PrepNp
+V-O
+NpAdjp
+174047	Conj-CL
+Conj4CL
+ADV-V-O
+PtclCL
+ADV-O-V
+174053	V2CL
+174055	V-O
+DetNP
+174058	V2CL
+174060	Conj-CL
+CLaCL
+174063	DetNP
+NPofNP
+that-VP
+O-V
+174068	ADV-V
+174070	Conj-CL
+174072	V-IO
+174074	Np2CL
+intjNP
+NpAdjp
+ClCl
+ADV-P-VC
+PrepNp
+PrepNp
+ADV-V-O
+PrepNp
+V-O-ADV
+PrepNp
+174086	Conj-CL
+V-O-ADV
+PrepNp
+174090	Conj-CL
+CLaCL
+ADV-S-ADV-V-O
+V-O
+DetNP
+174096	ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+V2CL
+174102	Conj-CL
+174104	DetNP
+NPofNP
+ClCl
+S-V
+AdjpNp
+sub-CL
+S-V-ADV
+174112	Conj-CL
+174114	CLaCL
+ADV2CL
+PrepNp
+174118	CLaCL
+174120	ADV-ADV-O-V
+AdvPp
+PrepNp
+174124	ADV2CL
+PrepNp
+sub-CL
+V-O
+174130	sub-CL
+O-V
+V-ADV
+PrepNp
+174135	Conj-CL
+174137	DetNP
+174139	Np2CL
+DetCL
+sub-CL
+V2CL
+DetCL
+V2CL
+174147	V2CL
+DetNP
+NPofNP
+DetNP
+ClCl
+V2CL
+V-O
+ofNPNP
+DetNP
+174157	Conj-CL
+S-ADV-V-O-ADV
+174160	DetNP
+that-VP
+V-S
+DetNP
+NPDetAdj
+DetAdj
+174168	Np2CL
+DetNP
+AdjpNp
+AdjpaAdjp
+174173	CLaCL
+V-ADV
+PrepNp
+174177	ADV-V-ADV
+PrepNp
+174180	Conj-CL
+ADV-V
+CLaCL
+V2CL
+174185	ADV-V
+174187	Conj-CL
+VC-P-ADV
+PrepNp
+sub-CL
+174192	DetAdj
+that-VP
+V2CL
+174196	Conj-CL
+CLaCL
+S-ADV-V-O
+DetNP
+V-O
+DetNP
+NPofNP
+174204	V2CL
+174206	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+174211	DetNP
+NPofNP
+PrepNp
+ADV-S-ADV-V-O
+V-O
+174217	Conj-CL
+174219	ClCl
+S-ADV-V-O
+Demo-NP
+DetNP
+PrepNp
+V2CL
+sub-CL
+ADV-ADV
+PrepNp
+174229	CLaCL
+ADV-V-ADV
+ADV-V
+PrepNp
+DetNP
+174236	that-VP
+S-V
+174239	Conj-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+174246	that-VP
+Conj3CL
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+174255	V-O
+174257	ADV-ADV-V
+V2CL
+PrepNp
+AdjpNp
+174262	Conj-CL
+CLaCL
+S-V-O
+DetNP
+174267	V-O
+O-V
+174270	Conj-CL
+V-ADV
+PrepNp
+174274	Conj-CL
+174276	P-VC
+PrepNp
+DetNP
+O-ADV-V
+PrepNp
+DetNP
+174283	Conj-CL
+174285	sub-CL
+174287	PrepNp
+PrepNp
+DetNP
+S-P
+174292	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+DetNump
+174299	ClCl2
+sub-CL
+S-V-O
+P-VC
+VC-P
+NpaNp
+ofNPNP
+174307	ofNPNP
+174309	Conj-CL
+CLaCL
+ADV-V-O-ADV
+V-O
+PrepNp
+NPofNP
+174317	V-O
+CLaCL
+S-O-V
+PtclCL
+S-O-V-ADV
+NPofNP
+DetNP
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+174329	CLaCL
+S-ADV-O-V
+PtclCL
+S-O-V
+174334	O2CL
+DetCL
+V-O
+174339	DetNP
+174341	Np2CL
+V-O
+174344	PrepNp
+DetNP
+NPofNP
+S-ADV-V-O
+174349	ClCl
+V-O
+sub-CL
+ADV-V-O
+174354	Conj-CL
+174356	DetNP
+ClCl
+ADV-V-O
+sub-CL
+P-VC-S
+CLaCL
+S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+174367	V-ADV-O
+V-O
+174370	Conj-CL
+S-P-VC
+S-ADV-VC-P
+PrepNp
+PrepNp
+174376	Conj-CL
+ClCl2
+PtclCL
+174380	S-V-O-O2-ADV
+NPofNP
+PrepNp
+P-VC
+174385	V-IO
+that-VP
+ADV-V-O
+2Advp_h1
+DetNP
+NPofNP
+174392	Conj-CL
+ClCl2
+PtclCL
+S-V-O
+NPofNP
+Np-Appos
+NP-Demo
+DetAdj
+DetCL
+V2CL
+ClCl
+P-VC-ADV-ADV
+sub-CL
+CLaCL
+V-S-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+174412	V-ADV
+PrepNp
+DetNP
+174416	Conj-CL
+174418	sub-CL
+V-O-S
+DetNP
+NPofNP
+174423	CLaCL
+P-VC-S
+S-ADV-V-ADV
+PrepNp
+DetNP
+174429	ADV-V-ADV
+O-V
+DetNP
+NumpNP
+2Pp
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+174441	Conj-CL
+174443	sub-CL
+S-V-O
+DetNP
+NPofNP
+174448	CLaCL
+P-VC-S
+S-V-ADV-ADV
+PrepNp
+DetNP
+174454	ADV-V-ADV
+O-V
+DetNP
+NumpNP
+PrepNp
+DetNP
+174461	Conj-CL
+174463	sub-CL
+S-V-O
+DetNP
+NPofNP
+174468	CLaCL
+P-VC-S
+S-ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+174476	ADV-V-ADV
+O-V
+NumpNP
+PrepNp
+NP-CL
+DetNP
+CLaCL
+ADV-S-ADV-V
+DetNP
+NPofNP
+174487	S-ADV-V
+DetNP
+174490	Conj-CL
+S-ADV-V
+174493	P-S
+DetNP
+174496	Conj-CL
+174498	sub-CL
+S-P-VC
+DetNP
+PrepNp
+174503	CLaCL
+V-ADV-O
+PrepNp
+174507	V-ADV
+PrepNp
+174510	Conj-CL
+CLaCL
+ADV-V-ADV
+ADV-V
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+174520	PrepNp
+DetNP
+174523	CLaCL
+V-ADV-S-ADV
+PrepNp
+174527	ClCl2
+sub-CL
+V2CL
+ADV-V-O
+174532	Conj-CL
+ClCl
+174535	V2CL
+PtclCL
+V-ADV-S
+O-V
+V-O
+174541	Conj-CL
+174543	V2CL
+O-IO-V-S
+174546	Conj-CL
+174548	V-S-O
+CLaCL
+O-V
+NPofNP
+174553	V2CL
+174555	Conj-CL
+174557	DetNP
+ADV-V-IO-O
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+174565	Conj-CL
+ADV-O2-V-O
+PrepNp
+NPofNP
+NpaNp
+174572	CLaCL
+ADV-V-S-O
+PrepNp
+NpaNp
+DetNP
+NPofNP
+174579	DetNP
+174581	VC-S-P
+DetNump
+PrepNp
+NpAdjp
+174586	Conj-CL
+notCLbutCL2CL
+VC-P
+P2CL
+AdjpNp
+174592	Conj-CL
+O-S-ADV-V
+O-S-V
+DetNP
+174597	Conj-CL
+ADV-ADV-S-ADV-V-O
+PrepNp
+DetNP
+DetNP
+PrepNp
+174604	Conj-CL
+174606	CLaCL
+S-V-ADV
+PtclCL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+174614	V-O
+PrepNp
+174618	sub-CL
+S-ADV-V-O
+V-O
+DetNP
+NPofNP
+174624	Conj-CL
+174626	sub-CL
+O-V
+174629	Conj-CL
+S-V-O
+DetNP
+174633	Conj-CL
+CLaCL
+ADV-S-V
+V2CL
+DetNP
+174640	ClCl
+ClCl
+V-O
+S-V-ADV
+DetNP
+PrepNp
+ADV-V-O
+sub-CL
+P-VC-S
+DetNP
+DetNP
+NPofNP
+DetNP
+174655	V-IO
+S-ADV-V-ADV
+PtclCL
+174659	S-ADV-V-O
+DetNP
+NPofNP
+DetNP
+S2CL
+2Advp_h1
+PrepNp
+174667	Conj-CL
+ADV-V-ADV
+V-O
+V-O-ADV
+DetNP
+PrepNp
+174674	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+174679	CLaCL
+V2CL
+174682	V-O
+174684	Np2CL
+NpAdjp
+O-V
+sub-CL
+O-V
+NpAdjp
+174691	Conj-CL
+174693	DetNP
+ClCl
+174696	ClCl
+S-P
+sub-CL
+ADV-S
+Np-Appos
+DetNP
+174703	DetNP
+ClClClClClCl
+ADV-V
+ADV-V
+ADV-V
+ADV-V
+ADV-V
+V-O
+NpaNp
+DetNP
+NPofNP
+174715	DetNP
+174717	Conj-CL
+174720	Np2CL
+NP-all
+PrepNp
+NPofNP
+174725	Conj-CL
+CLaCL
+S-ADV-V-O
+DetNP
+V-O
+174732	ClCl
+S-O-V
+CLaCL
+CLaCL
+174737	CLaCL
+O-V
+O-V
+174741	V-IO
+DetAdj
+174744	V-O-ADV
+PrepNp
+174747	ClCl2
+V2CL
+V-O
+174751	Conj-CL
+174753	V-ADV
+PrepNp
+DetNP
+V2CL
+sub-CL
+V-O
+BeVerb
+NpAdjp
+174762	Conj-CL
+174764	V2CL
+DetNP
+DetNP
+NPofNP
+ADV-S-ADV-V
+2Advp_h2
+DetCL
+O-V
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+174778	Conj-CL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+174785	Conj-CL
+174787	DetNP
+V2CL
+174790	Np2CL
+P-VC-S
+AdvpAdjp
+ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+CLaCL
+P-VC-S
+S-ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+174806	S-ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+174812	Conj-CL
+S-ADV-V-ADV
+174815	PrepNp
+Conj-CL
+S-V-O
+V2CL
+174821	V-O
+DetNP
+ClCl
+CLaCL
+ADV-P
+PrepNp
+174828	ADV-ADV
+PrepNp
+sub-CL
+S-P-ADV
+PrepNp
+DetNP
+174835	V-S-O
+174837	DetNP
+174839	S-V-O
+174841	V-O
+174844	DetNP
+ClCl
+PtclCL
+V-IO
+174849	S-V-O-ADV
+Conj7Np
+174857	Conj2Pp
+PrepNp
+174860	PrepNp
+DetNP
+sub-CL
+CLaCL
+ADV-V-ADV-ADV-O-ADV
+Np-Appos
+PrepNp
+NP-Demo
+DetNP
+Conj6Np
+174875	PrepNp
+174877	ADV-O
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+NpAdjp
+174885	Conj-CL
+CLaCL
+S-VC-P
+AdjpNp
+174890	S-P
+DetAdj
+174893	Conj-CL
+CLaCL
+CLaCL
+VC-P-ADV
+PrepNp
+DetNP
+V-ADV
+PrepNp
+174902	V-O-S
+BeVerb
+DetNP
+174906	CLaCL
+V2CL
+174909	S-V
+DetCL
+V2CL
+174913	Conj-CL
+ADV-V-O
+V-ADV-O
+DetNump
+174918	DetCL
+V-O
+ADV-V
+that-VP
+Conj5CL
+174924	PrepNp
+174926	S-V-IO
+DetNP
+NPofNP
+DetNP
+NpaNp
+DetNP
+174933	DetNP
+174935	CLaCL
+V-O-ADV
+174938	V-O-IO
+DetNP
+174941	Conj4CL
+V-O
+174944	V-O
+174946	V-O
+174948	V2CL
+174950	ADV-V
+PrepNp
+AdjpNp
+174954	Conj-CL
+V-ADV-S-ADV
+Np-Appos
+NpaNp
+174959	DetNP
+NPofNP
+174963	Np2CL
+V2CL
+O-V-IO
+PtclCL
+O2-V-O
+174969	Conj-CL
+174971	V-O
+O-S-V-IO
+174974	Conj-CL
+174977	that-VP
+ADV-V-ADV
+CLaCL
+S-ADV
+PrepNp
+ofNPNP
+174984	S-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+174990	Conj-CL
+174992	DetNP
+ADV-V-O
+O-V
+174996	V-O
+CLaCL
+V-O
+DetNP
+NP-CL
+O-S-V
+175003	ADV-V
+DetNP
+NP-CL
+ADV-S-V
+175008	Conj-CL
+175010	V2CL
+175012	Conj-CL
+175014	DetNP
+CLaCL
+CLaCL
+O-V
+DetNP
+NP-CL
+O-S-V
+175022	ADV-V
+DetNP
+NP-CL
+ADV-S-V
+175027	CLaCL
+S-ADV-VC-P
+DetCL
+V-ADV
+Conj2Pp
+PrepNp
+NPofNP
+175035	PrepNp
+S-V
+175038	IO-V
+175040	Conj-CL
+ADV-S-V-O
+V2CL
+DetNump
+V-ADV
+PrepNp
+NpaNp
+175049	Conj-CL
+175051	V-O
+DetNP
+175054	that-VP
+CLaCL
+S-V-ADV
+DetCL
+V-O
+V-ADV
+DetNP
+175062	S-V-ADV
+DetNP
+NPofNP
+175066	Conj-CL
+ClCl2
+notCLbutCL2CL
+P-VC-ADV
+PrepNp
+CLaCL
+S-VC-P
+PtclCL
+S-V-O
+P-VC-ADV
+PrepNp
+ofNPNP
+175079	S-VC-P
+PtclCL
+S-V-O
+ADV-VC-P
+PrepNp
+ofNPNP
+sub-CL
+CLaCL
+S-ADV-V-ADV
+AdvpNp
+DetNP
+NPofNP
+DetNP
+V2CL
+175094	CLaCL
+V2CL
+175097	V-O-O2
+DetNP
+NPofNP
+NpPp
+PrepNp
+175103	Conj-CL
+V-ADV
+PrepNp
+175107	Conj-CL
+ClCl2
+CLaCL
+V-S-ADV
+PrepNp
+175113	S2CL
+NpaNp
+DetNP
+NPofNP
+175118	NpAdjp
+S-V-ADV
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+AdjpNp
+PrepNp
+DetNP
+175128	Conj-CL
+ADV-V-O
+175131	that-VP
+P-VC
+Np-Appos
+DetAdj
+CLaCL
+V2CL
+175140	Np2CL
+Np-Appos
+NPofNP
+175144	Conj-CL
+175146	that-VP
+V2CL
+175149	Conj-CL
+175151	AdjpAdvp
+175153	Np2CL
+NPofNP
+175156	Conj-CL
+175158	V2CL
+DetNP
+V-O
+175162	Conj-CL
+V-O-ADV
+DetAdj
+175166	ClClCl
+V2CL
+V2CL
+V-O
+175171	Conj-CL
+S-ADV-ADV-V-ADV
+V-O
+DetNP
+NPofNP
+V2CL
+PrepNp
+DetNP
+175180	Conj-CL
+175182	V-IO
+DetNP
+O-V
+O-IO-V
+175187	Conj-CL
+175189	DetAdj
+175191	Np2CL
+V2CL
+175194	Conj-CL
+175196	DetNP
+ClCl
+V2CL
+S-V-O
+DetNP
+NPofNP
+175203	Conj-CL
+CLaCL
+ADV-V
+175207	V-O-ADV
+PrepNp
+DetNP
+175211	Conj-CL
+ClCl2
+sub-CL
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+NpaNp
+175219	PrepNp
+DetNP
+NPofNP
+DetNP
+CLaCL
+V-O
+NPofNP
+DetNP
+NPofNP
+175230	ClCl
+CLaCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+175239	ADV-V-O
+ADV-V-ADV
+PrepNp
+V-S
+NP-CL
+ADV-S-ADV-V
+PrepNp
+NPofNP
+CLaCL
+V-O
+175250	V2CL
+175252	Conj-CL
+ClCl2
+sub-CL
+175256	ADV-V-O
+175258	CLaCL
+S-O-V
+DetNP
+ofNPNP
+175263	ADV-O-V-ADV-ADV
+175265	Conj-CL
+CLaCL
+V2CL
+175269	CLaCL
+V-O
+S-V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+175276	V-O
+175278	Conj-CL
+175280	NPofNP
+DetCL
+ADV-V
+O-V-ADV
+V-O
+DetNP
+175287	Conj-CL
+175289	sub-CL
+V-S
+DetNP
+175293	Conj-CL
+V-O
+175296	Conj-CL
+CLaCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+175303	CLaCL
+V-IO-O
+DetNP
+NPofNP
+175308	V-ADV
+PrepNp
+175311	Conj-CL
+CLaCL
+S-O-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+175319	S-O-ADV
+V-ADV
+PrepNp
+DetNP
+175324	Conj-CL
+175326	NpaNp
+DetCL
+V2CL
+175330	DetCL
+V2CL
+175333	Intj2CL
+P-S
+V2CL
+DetCL
+V-ADV
+PrepNp
+NPofNP
+P-S
+V2CL
+DetNP
+AdjpNp
+V2CL
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+S-P
+PrepNp
+DetAdj
+175353	Conj-CL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+175359	Conj-CL
+ClCl2
+ADV-V-ADV-ADV
+V-O
+P-ADV-VC-S
+DetNP
+PrepNp
+PrepNp
+DetNump
+175369	Conj-CL
+ClCl2
+ADV-V-S-ADV
+DetNP
+PrepNp
+V2CL
+175376	Conj-CL
+CLaCL
+175379	V-ADV-O
+S-V-O
+PrepNp
+PtclCL
+PtclCL
+O-V-ADV
+PrepNp
+175387	ClCl
+175389	V-ADV
+PrepNp
+sub-CL
+ADV-O
+sub-CL
+S-ADV-VC-P
+DetNP
+175397	Conj-CL
+175399	V2CL
+ADV-ADV-ADV-S-O-V
+PrepNp
+DetNP
+PrepNp
+175405	Conj-CL
+V-S
+DetNP
+NPofNP
+175410	Conj-CL
+V-ADV
+PrepNp
+175414	Conj-CL
+Conj3CL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+V-O
+NpPp
+NpaNp
+DetCL
+V2CL
+175426	DetCL
+V2CL
+PrepNp
+DetNP
+175431	O-V
+NpaNp
+DetNP
+NPofNP
+DetNP
+175437	DetNP
+NPofNP
+DetCL
+V-O
+DetNP
+175444	that-VP
+S-V-O-ADV
+PrepNp
+DetNP
+175449	Conj-CL
+CLaCL
+V2CL
+175454	CLaCL
+PtclCL
+175457	that-VP
+S-P-VC-ADV
+DetNP
+NPofNP
+NPofNP
+All-NP
+DetNP
+175465	S-V-O-O2
+NPofNP
+175468	Conj-CL
+CLaCL
+V-S
+NpaNp
+DetNP
+175474	DetNP
+175476	ClCl
+V-O
+ADV-O-V
+sub-CL
+ClCl
+V-O
+sub-CL
+S-V-ADV
+All-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+175490	Conj-CL
+175492	sub-CL
+ADV-V
+PrepNp
+DetNP
+175497	Conj-CL
+ADV-V-O
+V-ADV
+S-V-ADV
+DetNP
+PrepNp
+175504	Conj-CL
+175506	V2CL
+DetNP
+175509	Np2CL
+DetNP
+NP-CL
+O-V
+175514	Conj-CL
+175516	V2CL
+DetNP
+175519	NPofNP
+175521	V-IO
+that-VP
+ClCl2
+PtclCL
+CLaCL
+175527	S-V-IO
+NP-Demo
+DetNP
+V2CL
+175532	V-ADV
+PrepNp
+DetNP
+175536	notCLbutCL2CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+175542	that-VP
+S-V
+O-V
+V-ADV
+175548	PrepNp
+175550	Np2CL
+All-NP
+O-V
+Conj2VP
+175556	that-VP
+V2CL
+175559	V-ADV
+175561	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V-ADV
+V2CL
+ClCl
+V2CL
+sub-CL
+O-V-ADV
+PrepNp
+sub-CL
+S-V-IO-O
+AdvpNp
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+DetNP
+NPofNP
+175584	Conj-CL
+V-ADV-ADV
+PrepNp
+175588	Conj-CL
+ClCl2
+ADV-V-S
+PrepNp
+DetNP
+CLaCL
+V-ADV-S
+PrepNp
+Conj3Np
+DetNP
+175599	DetNP
+175601	DetAdj
+175604	CLaCL
+ADV-O-V
+PrepNp
+AdjpNp
+175610	NP-Demo
+DetNP
+sub-CL
+O-V
+175615	Conj-CL
+175617	DetNP
+CLaCL
+CLaCL
+V-O-O2
+AdjpNp
+175623	V-IO
+175626	ADV-O-V
+PrepNp
+AdjpNp
+175630	ClCl
+CLaCL
+S-P-VC
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+175638	P2CL
+PrepNp
+V-IO
+175642	Conj-CL
+V-ADV-ADV
+PrepNp
+175646	CLaCL
+ClCl2
+sub-CL
+175650	P2CL
+PrepNp
+175653	Conj-CL
+ADV-ADV-V-O
+PrepNp
+175657	ClCl
+175659	P2CL
+PrepNp
+ClCl
+V-O
+DetNP
+sub-CL
+S-V-O-O2
+DetNP
+that-VP
+ADV-P-VC
+175670	Conj-CL
+175672	V-IO
+DetNP
+ADV-V
+175676	Conj-CL
+175678	DetNP
+175680	ADV-O-V
+PrepNp
+AdjpNp
+175684	Conj-CL
+V-O
+175687	PrepNp
+Conj6CL
+O-S-V
+175691	V-O
+175693	V-O
+175695	V-O
+175697	V-O-IO
+175699	V2CL
+175701	Conj-CL
+175703	PrepNp
+DetNP
+DetNP
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+175715	Conj-CL
+CLaCL
+ADV-V
+V-O
+175720	V-ADV
+175722	Conj-CL
+ADV-V-ADV-O
+PrepNp
+AdjpNp
+175727	CLaCL
+O-V
+175730	V2CL
+175732	Conj-CL
+CLaCL
+ClCl
+O-V
+O-V
+175738	O2CL
+NP-CL
+AdjpNp
+aCLaCL
+175743	O-V
+175745	O-V
+175747	ADV-V-O
+AdjpNp
+NpAdjp
+175751	V-O-ADV-ADV-ADV
+PrepNp
+175754	that-VP
+V-O
+DetNP
+NPofNP
+175759	Conj-CL
+175761	Demo-NP
+DetNP
+PrepNp
+that-VP
+175766	DetNP
+CLaCL
+ClCl2
+V2CL
+V-O
+175772	P-VC-S
+DetNP
+175775	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+175780	V-O-ADV
+PrepNp
+DetNP
+175784	O-V-S
+DetNP
+NPofNP
+DetNP
+175789	CLaCL
+CLaCL
+V2CL
+175793	V-O
+DetNP
+175796	V-O-IO
+DetNP
+175800	NP-Demo
+DetNP
+175804	Np2CL
+NP-CL
+O-V-S
+DetCL
+V2CL
+PrepNp
+NPofNP
+ADV-V-S
+PrepNp
+175814	VC-P-ADV
+PrepNp
+NPofNP
+175818	Conj-CL
+ClCl
+CLaCL
+V-O
+O-V
+175824	V-O
+DetNP
+sub-CL
+175828	that-VP
+ADV-O-V
+PrepNp
+DetNP
+175833	Conj-CL
+ADV-V
+V-O
+175837	Conj-CL
+ClCl
+V-ADV-O
+PrepNp
+NPofNP
+NpaNp
+DetNP
+175845	DetNP
+sub-CL
+O-V-ADV
+175849	Conj-CL
+175851	V2CL
+175853	Np2CL
+175855	that-VP
+CLaCL
+P-VC
+175860	PrepNp
+sub-CL
+notCLbutCL2CL
+V-ADV
+PrepNp
+NPofNP
+ADV-O-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+ClCl
+CLaCL
+V-S
+V-O-IO
+175876	ADV2CL
+CLaCL
+V2CL
+175880	ADV-V
+175882	Conj-CL
+175884	V-O
+ofNPNP
+DetNP
+ClCl
+ADV-O-V
+175890	sub-CL
+V2CL
+175893	Conj-CL
+S-V
+175896	Conj-CL
+175898	P-S
+NpaNp
+NP-Demo
+DetNP
+175903	DetNP
+175905	Conj-CL
+175907	P2CL
+175909	Conj-CL
+175911	DetNP
+CLaCL
+O-V-IO
+NPofNP
+175916	O-IO
+NPofNP
+DetNP
+DetNP
+175921	Conj-CL
+V-ADV
+PrepNp
+175925	Conj-CL
+CLaCL
+V-ADV-S
+NP-CL
+PrepNp
+S-V-O
+S-ADV-V
+175933	V-O-ADV
+175936	Np2CL
+that-VP
+175939	sub-CL
+Conj3CL
+S-V
+ofNPNP
+175944	V-O
+175946	ADV-V-O
+CLaCL
+V-S-O
+DetNP
+NPofNP
+DetNP
+175953	V-O-IO
+DetNP
+NPofNP
+175957	S-V
+NumpNP
+175960	Conj-CL
+CLaCL
+S-V-O
+DetAdj
+175965	ADV-ADV-V-O
+V2CL
+175968	Conj-CL
+CLaCL
+S-V-O
+DetAdj
+175973	V-ADV
+ADV-V-O
+175976	Conj-CL
+S-P
+DetAdj
+175980	Conj-CL
+S-ADV-V-O
+DetNump
+175984	ADV-S-V
+NPofNP
+AdvpNp
+DetNP
+175989	ClCl
+ADV-ADV-P-VC
+PrepNp
+DetNP
+sub-CL
+V2CL
+ofNPNP
+NPofNP
+sub-CL
+S-V-O-O2
+DetNump
+176002	DetNP
+PtclCL
+ADV-V-ADV
+PrepNp
+CLaCL
+ADV-V-O
+DetNP
+176010	O2CL
+DetNP
+NPofNP
+DetNP
+176015	Conj-CL
+176017	sub-CL
+ADV-V
+PrepNp
+aCLaCL
+176022	V2CL
+176024	V2CL
+176026	VC-P
+PrepNp
+NpPp
+PrepNp
+DetNP
+176032	Conj-CL
+176034	PrepNp
+NP-CL
+DetAdj
+that-VP
+V2CL
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+that-VP
+V-IO-S-ADV
+DetNP
+176048	S-P
+Conj3Np
+DetNP
+NPofNP
+176053	NPofNP
+176055	NPofNP
+176057	notCLbutCL2CL
+VC-P
+NPofNP
+P2CL
+176062	ADV-V
+176064	Conj-CL
+176066	V2CL
+NPofNP
+DetNP
+176070	S-V
+176072	V2CL
+ADV-V-IO
+P-VC-S
+NpAdjp
+AdjpAdvp
+176079	DetNP
+that-VP
+S-VC-P
+ClCl
+176084	Np2CL
+CLaCL
+S-P-VC
+Np-Appos
+DetNP
+NPofNP
+NpAdjp
+176092	V-O-ADV
+Np-Appos
+DetNP
+NPofNP
+Conj4Pp
+PrepNp
+All-NP
+DetNP
+NPofNP
+176102	PrepNp
+All-NP
+DetNP
+NPofNP
+176107	PrepNp
+All-NP
+DetNP
+NPofNP
+176112	PrepNp
+All-NP
+DetNP
+NPofNP
+176119	DetNP
+NPofNP
+sub-CL
+O2CL
+176124	P-ADV-S-ADV-VC
+AdjpNp
+176127	Conj-CL
+176129	DetNP
+ClCl
+176132	Np2CL
+176134	PrepNp
+that-VP
+CLaCL
+CLaCL
+P-VC
+176140	P-VC-S-ADV
+PrepNp
+176143	S-P-VC-ADV
+NpaNp
+DetCL
+V-O-ADV
+Conj3Pp
+PrepNp
+All-NP
+DetNP
+176152	PrepNp
+All-NP
+DetNP
+176156	PrepNp
+All-NP
+DetNP
+176160	DetCL
+176162	DetNP
+sub-CL
+O2CL
+All-NP
+DetNP
+NpaNp
+176170	Conj-CL
+176172	DetNP
+176174	V-O
+ADV-V
+ADV-P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+176182	Conj-CL
+S-ADV-V-O
+O-V
+176186	Conj-CL
+176188	V2CL
+DetNP
+V-ADV
+PrepNp
+DetNP
+176194	DetNP
+that-VP
+S-P-VC
+DetNP
+NPofNP
+176201	PronNP
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+176207	DetNP
+NPofNP
+ClCl
+V-ADV
+PrepNp
+NPofNP
+sub-CL
+PtclCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+176222	CLaCL
+S-V-O-O2
+PronNP
+176226	ADV-P-VC
+ofNPNP
+176229	Conj-CL
+S-V-O-ADV
+DetNP
+AdjpNp
+176234	Conj-CL
+176236	PrepNp
+DetNP
+NPofNP
+176240	PrepNp
+Np-Appos
+DetNP
+DetCL
+CLaCL
+V-O
+ADV-V
+PrepNp
+176249	O2CL
+Conj3Np
+NpPp
+PrepNp
+DetNP
+176255	NpPp
+PrepNp
+DetNP
+176259	NpPp
+PrepNp
+DetNP
+176263	Np2CL
+DetCL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+176271	ADV-O-V
+AdjpNp
+176274	Conj-CL
+ClCl
+ADV-V
+V-ADV
+PrepNp
+DetNP
+ADV-S-V-O-ADV
+DetNP
+PrepNp
+DetNP
+176285	Conj-CL
+S-V-O
+AdjpNp
+176289	Conj-CL
+ADV-S-V-O
+V2CL
+AdjpNp
+NpAdjp
+NP-CL
+NpNump
+S-VC-P
+176298	Conj-CL
+176300	V-O
+DetNP
+NPofNP
+176304	V-IO
+that-VP
+S-O-V-ADV
+Np-Appos
+NP-Demo
+DetNP
+DetNP
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+176317	Conj-CL
+CLaCL
+S-ADV-V
+PrepNp
+DetCL
+V-ADV
+176324	S-ADV-V-O
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+All-NP
+O-V
+All-NP
+DetNP
+NPofNP
+176335	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+176341	NPofNP
+DetNP
+NPofNP
+176345	Np2CL
+V2CL
+P2CL
+NpaNp
+AdjpNp
+176351	AdjpNp
+176353	Conj-CL
+176355	DetNP
+V-O
+Demo-NP
+DetNP
+AdjpNp
+176361	ADV-V-ADV-S
+2Advp_h1
+NP-CL
+PrepNp
+S-ADV-V
+2Advp_h1
+176368	Conj-CL
+ClCl2
+V-S-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+176378	PrepNp
+Conj4Np
+176384	CLaCL
+ADV-S-V
+176388	DetNP
+sub-CL
+V-S-O
+NP-all
+V2CL
+176394	Conj-CL
+S-V-O
+DetNP
+176398	ClCl
+V2CL
+PtclCL
+S-O-V
+176403	CLaCL
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+176409	that-VP
+S-VC
+176412	O-V
+176414	Conj-CL
+ClCl2
+sub-CL
+V-O
+NpaNp
+176420	NPofNP
+ADV-V
+176423	CLaCL
+V-S
+V2CL
+176427	ADV-S
+DetNP
+176430	Conj-CL
+ClCl
+CLaCL
+V-S-ADV
+PrepNp
+176436	S-ADV
+PrepNp
+ClCl
+V-S-ADV
+PrepNp
+V-S
+176443	P-S
+NPofNP
+176446	Conj-CL
+V-S-O
+176449	Conj3CL
+V-O-ADV
+PrepNp
+176453	ADV-V
+PrepNp
+176456	ADV-V-ADV-ADV
+PrepNp
+NpaNp
+176460	PrepNp
+PrepNp
+NpAdvp
+176464	Conj-CL
+S-V
+ADV-ADV-V-S
+PrepNp
+All-NP
+DetNP
+DetNP
+176472	Conj-CL
+ClCl2
+sub-CL
+V-O-ADV
+V2CL
+ClCl
+notCLbutCL2CL
+V-O
+O-V
+ClCl2
+PtclCL
+S-V-IO-ADV
+PrepNp
+Demo-NP
+DetNP
+O-V
+sub-CL
+notCLbutCL2CL
+VC-S-P
+DetCL
+V2CL
+S2CL
+DetNP
+NPDetAdj
+DetAdj
+176498	Conj-CL
+CLaCL
+CLaCL
+V-S-O-ADV
+PrepNp
+176504	S-O
+176506	CLaCL
+V-S-ADV
+PrepNp
+176510	V-O
+176512	Conj-CL
+V-ADV-ADV
+BeVerb
+PrepNp
+PrepNp
+DetNP
+NPofNP
+176520	Conj-CL
+176522	Np2CL
+DetCL
+V-ADV
+PrepNp
+176527	Conj-CL
+ClCl2
+ClCl
+sub-CL
+V-O
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+ADV-ADV-V
+S-V
+DetCL
+V2CL
+ClCl
+ADV-S-V-ADV
+NpPp
+PrepNp
+DetNP
+PrepNp
+DetNP
+CLaCL
+CLaCL
+S-ADV-V
+NpPp
+PrepNp
+DetNP
+176554	V-ADV
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+176560	S-ADV-V-ADV-ADV
+NpPp
+PrepNp
+DetNP
+PrepNp
+DetNP
+V-O
+DetNP
+NPofNP
+176570	Conj-CL
+S-IO-ADV
+NpaNp
+DetCL
+ADV-V
+PrepNp
+176577	DetCL
+V2CL
+PrepNp
+Demo-NP
+DetNP
+176583	Conj-CL
+176585	that-VP
+ADV-V-ADV
+176588	Conj-CL
+VC-S-P
+NP-Demo
+DetNP
+NP-CL
+CLaCL
+S-ADV-VC-P-ADV
+2Pp
+PrepNp
+NPofNP
+NP-CL
+O-V-S
+DetNP
+PrepNp
+DetNP
+176604	ADV-V
+2Advp_h1
+176607	Conj-CL
+176609	sub-CL
+ADV-V-S-O
+DetNP
+ADV-V-S
+All-NP
+176615	Conj-CL
+ADV-V-O
+PrepNp
+DetNP
+NP-CL
+O-V
+DetNP
+176623	Conj-CL
+ClCl2
+sub-CL
+176627	ClCl
+176629	DetNP
+ClCl2
+V2CL
+P2CL
+ADV-V
+176635	Conj-CL
+CLaCL
+V-S
+NpaNp
+176641	V-O-ADV
+NpaNp
+176644	PrepNp
+DetCL
+V-ADV-O
+sub-CL
+P2CL
+DetAdj
+176651	Conj-CL
+S-V
+176654	V-IO-O
+176656	Conj-CL
+Conj4CL
+ADV-ADV-S-V
+PrepNp
+Demo-NP
+DetNP
+PrepNp
+NP-Demo
+DetNP
+DetNP
+176667	S-ADV-V-O
+DetNP
+DetNP
+NPofNP
+176672	S-V-ADV
+DetNP
+BeVerb
+PrepNp
+DetNP
+176678	S-V
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+176685	Conj-CL
+ADV-V-O
+S-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+NpaNp
+NpAdjp
+176697	Conj-CL
+CLaCL
+ADV-V-O
+DetNP
+176702	V-O-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+AdjpNp
+2Pp
+PrepNp
+NPofNP
+PrepNp
+NPofNP
+176714	Conj-CL
+ADV-V-O
+PrepNp
+DetNP
+DetNP
+176720	ClCl2
+sub-CL
+CLaCL
+ADV-S-P-VC
+DetNP
+NPofNP
+176727	V-O
+DetNP
+176730	that-VP
+P-S-VC
+DetNP
+176735	AdvpNp
+sub-CL
+V-O
+S-V
+that-VP
+P-VC-ADV
+PrepNp
+176744	V-IO
+that-VP
+ADV-V-S-ADV
+2Advp_h1
+NP-Demo
+DetNP
+PrepNp
+ADV-S-V
+NP-all
+176754	CLaCL
+S-V
+NpaNp
+DetNP
+176759	DetNP
+176761	S-ADV-V
+DetNP
+NPofNP
+176765	Conj-CL
+ClCl
+176768	PrepNp
+NpaNp
+NP-Demo
+DetNP
+176773	DetNP
+ADV-S
+NpaNp
+DetNP
+NpPp
+PrepNp
+176780	DetNP
+sub-CL
+ADV-S
+DetNP
+176785	ClCl
+ClCl
+V2CL
+V2CL
+Conj-CL
+176791	P-S-VC
+DetNP
+176794	sub-CL
+CLaCL
+S-ADV-IO-O
+NpAdjp
+CLaCL
+V-O
+DetNP
+NPofNP
+176803	V-IO-O
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+176811	DetNP
+that-VP
+V2CL
+176815	Conj-CL
+ClCl
+ClCl
+V2CL
+sub-CL
+176821	ADV-S-V-ADV
+DetNP
+NPofNP
+DetNP
+EitherOr4Advp
+176830	PtclCL
+ADV-V-O
+V-ADV
+S-V
+176835	Conj-CL
+176837	O-IO-V
+O-IO-V
+176840	Conj-CL
+VC-S-P
+NpaNp
+DetNP
+176845	DetAdj
+PrepNp
+NumpNP
+176849	Conj-CL
+ClCl
+V-S
+NpaNp
+DetNP
+176855	DetNP
+ADV-O-ADV-V
+ADV-V
+PrepNp
+176860	Conj-CL
+176862	ClCl
+ADV-ADV
+PrepNp
+DetNP
+ADV-ADV-V-S
+NPofNP
+DetNP
+176870	Conj-CL
+ClCl2
+VC-S-P
+PrepNp
+ClCl2
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetAdj
+V-S-ADV
+V-O
+NPofNP
+NPofNP
+NpAdjp
+NpAdjp
+176888	ADV-V-ADV
+V-O
+DetNP
+ofNPNP
+DetNP
+176894	Conj-CL
+ClCl
+S-V-ADV
+BeVerb
+PrepNp
+ADV-S-V
+PrepNp
+NPofNP
+NP-Demo
+DetNP
+DetNP
+176906	Conj-CL
+V-S-O
+Demo-NP
+DetNP
+CLaCL
+V-ADV
+PrepNp
+NpAdjp
+176915	V-IO
+DetAdj
+176918	Conj-CL
+V-O
+176921	Conj-CL
+176923	DetNP
+V-O
+176926	ADV-IO-O-V
+176928	O-V-ADV
+AdjpNp
+PrepNp
+176932	Conj-CL
+CLaCL
+CLaCL
+ADV-O-V-ADV
+DetAdj
+PrepNp
+176940	sub-CL
+V2CL
+IO-ADV-V
+176944	O-ADV-ADV-V
+176946	O-V
+O-V
+176949	V-O-ADV
+V-O
+DetNP
+NPofNP
+PrepNp
+DetNP
+176956	Conj-CL
+ClCl
+PtclCL
+V-IO
+ADV-S-V-ADV
+PtclCL
+ADV-V-S-ADV
+DetNP
+PrepNp
+All-NP
+DetNP
+AdvpNp
+O-V-S
+PrepNp
+NPofNP
+176972	Conj-CL
+176974	Np-Appos
+Np-Appos
+DetNP
+NPofNP
+DetNump
+PrepNp
+DetNP
+sub-CL
+O-V-IO
+176984	Conj-CL
+CLaCL
+S-ADV-V
+V2CL
+176989	V-O
+IO-O-V
+176992	Conj-CL
+V-O
+ADV-O-ADV-V
+176996	Conj-CL
+176998	DetNP
+NPofNP
+AdjpNp
+DetAdj
+sub-CL
+O-V
+DetNP
+DetNP
+NPofNP
+ClCl
+177009	ADV-V
+V2CL
+sub-CL
+V-O
+DetNP
+177015	Conj-CL
+CLaCL
+V-O
+NPofNP
+DetNP
+NPofNP
+177023	CLaCL
+V-ADV
+PrepNp
+DetNP
+177028	V-O-S
+NpAdjp
+O-V
+NPofNP
+177033	CLaCL
+V-O
+177037	PtclCL
+ADV-V
+DetNP
+that-VP
+177042	DetNP
+P-VC-S
+DetNP
+NP-CL
+NPofNP
+ADV-O-ADV-V
+DetNP
+PrepNp
+DetNP
+NPofNP
+177053	Conj-CL
+S-IO-V-O
+NpAdjp
+NpAdjp
+NpAdjp
+V2CL
+177060	Conj-CL
+ADV-V-IO
+177063	Conj-CL
+CLaCL
+Conj3CL
+V-S
+DetNP
+177069	V-ADV
+PrepNp
+DetNP
+177073	ClCl
+V2CL
+sub-CL
+V-IO
+177078	V-O
+DetNP
+177081	Conj-CL
+ClCl2
+S-V
+V-ADV
+PrepNp
+DetNump
+177088	Conj-CL
+ClCl2
+S-V
+Conj2VP
+177094	DetNP
+177096	V-IO
+that-VP
+V-O-S
+Np-Appos
+NpPp
+PrepNp
+DetCL
+V-ADV
+PrepNp
+177106	V-O
+CLaCL
+V2CL
+177111	NpPp
+PrepNp
+PtclCL
+S2CL
+177116	Conj-CL
+177118	ClCl
+P2CL
+Np-Appos
+NPofNP
+DetNump
+DetCL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+sub-CL
+aCLaCL
+177131	ClCl
+S-V
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-ADV
+PrepNp
+177140	S-IO
+NP-CL
+NP-Demo
+DetNP
+ADV-S-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+177151	sub-CL
+ADV-V-S
+NP-Demo
+DetNP
+177156	Conj-CL
+ClCl2
+V-S
+Conj3CL
+ADV-ADV-V
+V-O
+V2CL
+177164	V-IO
+177167	ClCl
+V2CL
+S-VC-P
+DetNP
+NPofNP
+177173	Conj-CL
+CLaCL
+ADV-ADV-V-IO
+V-O
+V2CL
+177179	V-ADV-S
+PrepNp
+177182	Conj-CL
+177184	S-VC-P
+Np-Appos
+DetNP
+NPofNP
+NPofNP
+DetNP
+DetCL
+V-ADV
+PrepNp
+177195	V-IO
+that-VP
+ADV-ADV-V-ADV-ADV
+2Advp_h1
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NP-CL
+NP-Demo
+DetNP
+sub-CL
+O-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+177214	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+177222	Conj-CL
+177224	DetNP
+that-VP
+CLaCL
+177228	sub-CL
+177230	CLaCL
+V-O
+DetNP
+177234	S-V
+DetNP
+177237	ADV-V-ADV-ADV
+PrepNp
+DetCL
+V-S
+PrepNp
+DetNP
+177244	Conj-CL
+177246	DetNP
+ClCl2
+sub-CL
+S-V
+AdvpNp
+Conj-CL
+ADV-S
+177254	Conj-CL
+177256	DetNP
+177258	V-IO
+that-VP
+S-ADV-ADV-ADV-ADV-O-V
+Demo-NP
+DetNP
+sub-CL
+sub-CL
+ADV-S-V
+177267	Conj-CL
+177269	ClCl2
+sub-CL
+V-S
+S-V-ADV
+ADV-O-V
+2Advp_h1
+177276	Conj-CL
+ADV-S-V
+AdvpNp
+177280	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+NP-CL
+S-P
+ofNPNP
+DetNP
+177290	DetNP
+NPofNP
+ClCl
+V-ADV
+sub-CL
+V2CL
+177297	Conj-CL
+Conj3CL
+V-O-ADV
+Conj3Np
+DetNP
+177303	DetNP
+177305	DetNP
+PrepNp
+177308	V-O
+CLaCL
+V2CL
+177312	V2CL
+177315	ClCl
+P-VC-S-ADV
+DetNP
+NPofNP
+PrepNp
+CLaCL
+V-ADV
+177323	V2CL
+177325	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+177332	CLaCL
+177334	that-VP
+177336	sub-CL
+P-VC
+PrepNp
+DetNP
+177343	Np2CL
+Np-Appos
+DetNP
+177347	V-O-ADV
+NP-Demo
+DetNP
+PrepNp
+177352	Conj-CL
+notCLbutCL2CL
+O-S-V
+O-S
+177357	Conj-CL
+CLaCL
+CLaCL
+V2CL
+177362	V-O
+S-V
+177366	DetNP
+177368	Np2CL
+177370	ADV-V-O
+ADV-V
+AdjpNp
+177374	ClCl
+CLaCL
+V2CL
+177378	V2CL
+sub-CL
+ADV-V-ADV
+PrepNp
+177383	aCLaCL
+177385	S-P
+DetNP
+177388	S-P
+DetNP
+177391	Conj-CL
+ADV-ADV-V-ADV
+V2CL
+O-V
+DetNP
+PronNP
+177398	Conj-CL
+CLaCL
+ClCl
+ADV-V-O
+ADV-V
+S-V
+sub-CL
+V-S
+BeVerb
+ofNPNP
+DetNP
+177410	ADV-V-O
+O-V-IO
+177413	Conj-CL
+CLaCL
+V-ADV
+DetAdj
+177419	ClCl
+CLaCL
+V-ADV
+DetAdj
+177424	V2CL
+V2CL
+177427	ClCl
+V-S
+DetNP
+177431	DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetAdj
+177439	ClCl
+V2CL
+V2CL
+177444	DetCL
+V-O
+177447	Conj-CL
+CLaCL
+ADV-ADV-V-S
+ADV-S-V
+Np-Appos
+DetNP
+NPofNP
+DetNump
+177456	ADV-S-ADV
+PrepNp
+NpPp
+PrepNp
+NpaNp
+177462	PrepNp
+Conj3Np
+DetNP
+177466	DetNP
+177468	DetAdj
+177470	Conj-CL
+V-S-O-IO-ADV
+DetCL
+V-O
+V-O
+177476	S-P-VC
+PtclCL
+O-V
+V-O
+177481	V-ADV
+177483	Conj-CL
+CLaCL
+177486	V2CL
+ADV-V-ADV
+Np2CL
+177490	V-O
+177492	Conj-CL
+CLaCL
+S-V-O-IO
+DetNP
+177497	V-O
+177499	Conj-CL
+CLaCL
+S-ADV-V-O
+Np-Appos
+NPofNP
+DetCL
+V2CL
+V-O
+DetNP
+DetNP
+NPofNP
+DetNP
+177512	V-O
+ofNPNP
+DetNP
+177516	Conj-CL
+177518	V2CL
+DetNP
+ClCl2
+sub-CL
+ADV2CL
+PrepNp
+V-ADV-ADV
+PrepNp
+NpaNp
+177528	V-O
+177530	CLaCL
+ADV-VC-P-ADV
+PrepNp
+PrepNp
+ADV-V
+PrepNp
+DetNP
+177538	ADV-V-O
+177540	Conj-CL
+sub-CL
+V-S
+DetNP
+177545	Conj-CL
+ADV-V-S
+V-O
+177549	Conj-CL
+CLaCL
+S-V-O-ADV
+NpAdjp
+V-O-ADV
+PrepNp
+177556	CLaCL
+V-O
+177559	S-ADV-ADV-V
+V-O
+DetNP
+177563	Conj-CL
+CLaCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+177570	V-S
+All-NP
+Conj3Np
+DetNP
+177575	DetAdj
+177577	DetNP
+177579	Conj-CL
+CLaCL
+S-ADV-V-O-ADV
+DetNP
+PrepNp
+PrepNp
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+177591	CLaCL
+V-ADV
+BeVerb
+PrepNp
+DetNP
+177597	V-ADV
+PrepNp
+DetNP
+177601	Conj-CL
+CLaCL
+S-V-ADV-O-ADV
+NpaNp
+DetNP
+177607	All-NP
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetCL
+V-O
+177615	ADV-V
+177617	Conj-CL
+CLaCL
+S-V-ADV
+PrepNp
+177622	P-S-ADV-VC
+DetNP
+177625	Conj-CL
+S-ADV-V-ADV-ADV
+V2CL
+PrepNp
+177630	that-VP
+S-V-O
+177633	that-VP
+CLaCL
+S-V-O
+Np-Appos
+NP-Demo
+DetNP
+DetAdj
+177641	ADV-O-V
+PrepNp
+AdjpNp
+NpAdjp
+177646	Conj-CL
+ADV-ADV-P-VC-S
+DetNP
+NPofNP
+177651	Conj-CL
+ADV-S-V-O-ADV
+V-ADV
+DetNP
+PrepNp
+DetNP
+177659	O-S-ADV-V
+177661	Conj-CL
+CLaCL
+S-V
+177665	ADV-V-O
+177667	CLaCL
+ADV-S-V-O
+DetNP
+177672	S-VC-P
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetAdj
+177679	Conj-CL
+177681	DetNP
+CLaCL
+S-VC
+177685	V-O
+CLaCL
+S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+177695	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+177701	Conj-CL
+177703	DetNP
+V-O
+DetNP
+NPofNP
+ClCl
+177709	NPofNP
+V-O
+DetNP
+S-IO-V
+177714	Conj-CL
+S-V-O
+DetAdj
+S-P-VC-ADV
+177719	Conj-CL
+CLaCL
+V-S-O
+Conj4CL
+V-O
+177725	V-O
+ofNPNP
+DetNP
+177729	V-O
+177732	V2CL
+177734	S-ADV-O-V
+DetNP
+177737	Conj-CL
+ClCl2
+VC-S-ADV-P
+DetNP
+PrepNp
+DetNP
+CLaCL
+V-S
+NPofNP
+DetNP
+NPofNP
+DetNP
+177751	V-O
+S-V
+DetNP
+V-O
+S-P-VC
+AdvpNp
+PrepNp
+Np-Appos
+DetNP
+DetNP
+177762	Conj-CL
+S-V-ADV
+177765	ClCl
+aCLaCL
+177768	V2CL
+177770	V2CL
+S-O-V
+177773	Conj-CL
+V-ADV-ADV
+PrepNp
+DetNP
+177778	Conj-CL
+S-ADV-V-ADV-O
+DetNP
+V-O
+177783	DetCL
+V2CL
+that-VP
+S-P-VC
+PrepNp
+177789	Conj-CL
+S-ADV-V
+177792	Conj-CL
+177794	PrepNp
+DetCL
+V2CL
+DetNP
+ClCl
+ADV-P-VC
+PrepNp
+sub-CL
+P-VC
+AdvpNp
+177805	Conj-CL
+S-V-O
+CLaCL
+V2CL
+177811	that-VP
+ADV-V-O
+NP-CL
+NP-Demo
+DetNP
+O-V
+177818	Conj-CL
+ADV-ADV-S-V
+PrepNp
+177822	Conj-CL
+177824	DetNP
+DetNP
+sub-CL
+177828	DetNP
+that-VP
+ADV-ADV-O-V
+ADV-S-ADV-V
+177833	Conj-CL
+ADV-V
+V2CL
+177837	Conj-CL
+CLaCL
+ADV-ADV-S-ADV-ADV-V
+O-V-ADV
+DetNP
+PrepNp
+Conj3Np
+DetAdj
+177847	All-NP
+DetNP
+V-O
+DetNP
+177852	V-IO
+177854	Conj-CL
+ClCl
+V-O-S
+DetNP
+S-VC-P
+DetNP
+NPofNP
+DetAdj
+177863	Conj-CL
+177865	V-IO
+S-V
+177868	Conj-CL
+V-O-S-O2
+DetNP
+177872	Conj-CL
+S-ADV-V-O-ADV
+DetNP
+177879	Conj-CL
+S-ADV-O-V-ADV
+DetNP
+sub-CL
+V-S
+DetNP
+177886	Conj-CL
+ADV-V-IO-O
+PrepNp
+NP-CL
+AdjpNp
+O-V
+177893	Conj-CL
+V-S-ADV
+BeVerb
+DetCL
+VC-P
+PrepNp
+DetNP
+NP-CL
+S-ADV-O-V
+PrepNp
+DetNP
+177905	Conj-CL
+ADV-S-V-O
+V2CL
+DetNP
+177910	sub-CL
+V-IO
+177913	Conj-CL
+S-V-IO-ADV
+DetNP
+177917	V-O
+V-IO-O
+DetNP
+NPofNP
+DetAdj
+177923	Conj-CL
+177925	that-VP
+ADV-V-O-S
+PrepNp
+DetNP
+177930	Conj-CL
+177932	DetNP
+DetNP
+sub-CL
+ADV-O-V-IO
+DetNP
+177938	Conj-CL
+177940	DetNP
+V2CL
+Conj-CL
+O-V-ADV
+O-V-O2
+DetNP
+NPofNP
+DetAdj
+177949	Conj-CL
+177951	V-O
+177953	Conj-CL
+177955	DetNP
+sub-CL
+V-O
+NpAdjp
+177960	Conj-CL
+177962	V-O
+177964	Conj-CL
+CLaCL
+S-ADV-V-IO-O
+DetNP
+V-O
+IO-O-V
+DetNP
+DetAdj
+DetNP
+177975	DetNP
+V2CL
+sub-CL
+V2CL
+177980	Conj-CL
+CLaCL
+S-V-O-ADV
+DetNP
+PrepNp
+DetNP
+NP-CL
+S-VC-P
+177989	V-O
+All-NP
+DetNP
+177993	Conj-CL
+CLaCL
+V-O-O2
+177997	V-IO-ADV
+V-O
+AdjpNp
+178001	Conj-CL
+V-O
+178005	Np2CL
+NPofNP
+DetAdj
+178009	Conj-CL
+Conj3CL
+V-O-ADV
+ofNPNP
+DetNP
+178015	V-O
+178017	ADV-V-O
+V-O
+DetNP
+178021	Conj-CL
+CLaCL
+ClCl2
+sub-CL
+V-O
+CLaCL
+V-O-O2
+DetNP
+178030	V-O-O2
+DetNP
+NPofNP
+178034	ClCl
+V-O
+sub-CL
+V-O
+178039	Conj-CL
+178041	Np-Appos
+NpAdjp
+Np-Appos
+NpAdjp
+V2CL
+Np-Appos
+V-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+178053	sub-CL
+V-O
+DetNP
+NPofNP
+178058	Conj-CL
+V-O-ADV
+PrepNp
+Np-Appos
+DetNP
+NP-CL
+S-VC-P
+BeVerb
+ofNPNP
+178068	Conj-CL
+CLaCL
+V-IO-O
+AdjpNp
+V2CL
+178074	S-ADV-V
+178076	Conj-CL
+CLaCL
+V-O
+178080	ClCl
+V-O-ADV
+DetNP
+NPofNP
+V-O-ADV
+PrepNp
+S-O-V
+178088	Conj-CL
+CLaCL
+VC-P
+NpAdjp
+178093	V-O
+178095	Conj-CL
+178097	BeVerb
+DetNP
+NPofNP
+DetNP
+NPofNP
+Np2CL
+DetNP
+NPofNP
+DetAdj
+178107	Conj-CL
+178109	PrepNp
+NumpNP
+CLaCL
+O-ADV
+PrepNp
+178115	O-ADV
+PrepNp
+NPofNP
+178119	Conj-CL
+S-V-O-ADV
+DetCL
+V2CL
+CLaCL
+V-O
+DetNP
+NPofNP
+178130	Intj2CL
+Np2CL
+DetCL
+CLaCL
+V-O
+DetNP
+178137	V-ADV
+PrepNp
+AdjpNp
+V-ADV
+PrepNp
+DetNP
+178145	AdvpNp
+DetNP
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+ClCl
+O-V
+O-ADV-V
+O-V
+178156	ClCl
+S-V-ADV-ADV
+Np-Appos
+DetNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+sub-CL
+CLaCL
+V2CL
+178168	V2CL
+178170	Conj-CL
+S-V-O
+DetCL
+V-ADV
+PrepNp
+178176	Conj-CL
+ClCl2
+V-S
+NpAdjp
+S-V-ADV-ADV
+PrepNp
+All-NP
+DetNP
+PrepNp
+NpAdjp
+178187	Conj-CL
+178189	DetNP
+AdjpNp
+DetNP
+NpAdjp
+ClCl
+ClCl2
+ClCl
+Np2CL
+Np2CL
+ADV-V
+S-VC-P
+BeVerb
+ClCl2
+ClCl
+Np2CL
+DetNP
+NPofNP
+Np2CL
+DetNP
+NPofNP
+ADV-V-O
+PrepNp
+178212	Conj-CL
+178214	NPofNP
+DetCL
+V2CL
+V2CL
+178220	Conj-CL
+S-ADV-ADV-V-O-ADV
+CLaCL
+V2CL
+178225	V-O-ADV
+V-ADV
+178228	ClCl
+V2CL
+ClCl
+V2CL
+PtclCL
+V-S-ADV
+V-O
+178236	Conj-CL
+S-ADV-V
+DetNP
+V-O
+NpAdjp
+178242	Conj-CL
+S-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+2Pp
+PrepNp
+PrepNp
+178252	Conj-CL
+178255	Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+NPofNP
+that-VP
+ADV-V
+ADV-S-P-VC
+Demo-NP
+DetNP
+NPofNP
+178268	Conj-CL
+V-S
+AdvpNp
+NP-CL
+NpAdjp
+ADV-V
+PrepNp
+P-S
+PrepNp
+NpaNp
+NP-CL
+aNpaNpaNp
+178281	Np-Appos
+DetNP
+178284	Np-Appos
+DetNP
+ofNPNP
+NpaNp
+NPDetAdj
+DetAdj
+178292	CLaCL
+S-ADV-V-O
+sub-CL
+VC-P
+PrepNp
+DetNP
+178299	V-O
+178301	Np-Appos
+NpAdjp
+DetCL
+V-ADV-ADV
+PrepNp
+178307	Conj-CL
+ClCl2
+ADV-S-V
+ClCl2
+sub-CL
+VC-P
+NP-CL
+S-VC-P
+CLaCL
+ADV-S-ADV-V-ADV
+V2CL
+NP-CL
+Np-Appos
+Np-Appos
+NpPp
+PrepNp
+AdjpNp
+S-V-O
+Np-Appos
+AdvpNp
+BeVerb
+DetNP
+NPofNP
+DetNP
+V2CL
+PrepNp
+DetNP
+178335	V-O
+DetNP
+NPofNP
+DetNP
+178340	Conj-CL
+CLaCL
+ClCl
+S-V
+DetNP
+PtclCL
+ADV-V
+178349	V-O
+DetNP
+PtclCL
+ADV-V
+178354	Conj-CL
+ADV-V-O-IO
+V-ADV
+PrepNp
+DetNP
+DetNP
+DetNP
+178362	Conj-CL
+Conj3CL
+ADV-ADV-V-ADV
+V-O
+V-O
+DetNP
+178369	V-O-ADV
+PrepNp
+NP-CL
+S-V-ADV
+BeVerb
+PrepNp
+178376	V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+178382	Conj-CL
+S-V-O
+NpaNp
+Np-Appos
+DetNP
+DetNP
+178389	Np-Appos
+NPofNP
+ADV-V
+178393	Conj-CL
+178395	V-S
+DetNP
+Conj3Np
+Np-Appos
+DetNP
+178401	Np-Appos
+NPofNP
+DetNP
+178405	sub-CL
+ADV-V-O
+V2CL
+178409	Conj-CL
+ClCl
+ADV-ADV-V-ADV
+AdvAdv
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+V-S
+DetNP
+178421	Conj-CL
+178423	PrepNp
+S-V-IO-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+178431	Conj-CL
+ClCl
+178434	V2CL
+that-VP
+V-S
+DetNP
+sub-CL
+VC-P
+AdjpAdvp
+178442	Conj-CL
+CLaCL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+S-V-ADV-ADV
+PrepNp
+DetAdj
+V-O
+NpAdjp
+178454	V2CL
+178456	Conj-CL
+178458	ADV-V
+178460	V-O
+Np-Appos
+Np-Appos
+DetAdj
+DetCL
+V2CL
+178467	ClCl
+V2CL
+ADV-VC-P
+178471	ClCl2
+V2CL
+P2CL
+DetNP
+NP-CL
+ADV-V-O
+178478	Conj-CL
+ClCl
+V2CL
+178482	NpaNp
+DetNP
+NPofNP
+178486	DetNP
+that-VP
+ClCl
+ClCl
+V-ADV-ADV
+PrepNp
+DetNP
+ADV-O-V
+sub-CL
+V-IO
+178497	Conj-CL
+ClCl
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+sub-CL
+V-O-S
+NpaNp
+178508	Conj-CL
+178510	sub-CL
+V2CL
+178513	Conj-CL
+ADV-V-ADV-IO
+V-ADV-ADV
+NPofNP
+NP-CL
+Np-Appos
+DetNP
+ADV-V-O
+PrepNp
+NumpNP
+178524	S-ADV-V-IO-ADV
+V2CL
+DetCL
+P-VC
+PrepNp
+CLaCL
+V2CL
+178532	V2CL
+178534	S-ADV-V
+178536	that-VP
+CLaCL
+V2CL
+178540	V-ADV
+PrepNp
+178543	Conj-CL
+ADV-ADV-V-ADV-ADV
+PrepNp
+S-V
+NpPp
+PrepNp
+PrepNp
+AdjpNp
+V-ADV
+PrepNp
+178555	V2CL
+DetAdj
+ADV-O-V
+178559	Conj-CL
+CLaCL
+ADV-ADV-IO-V
+V2CL
+PronNP
+DetNump
+178567	NpaNp
+DetNP
+NPofNP
+178571	sub-CL
+O-ADV-V
+DetCL
+V-O
+S-V
+178577	Conj-CL
+178579	ADV-V-O-IO
+V-ADV
+PrepNp
+NpAdjp
+DetNP
+DetNP
+All-NP
+DetNP
+178588	CLaCL
+S-V
+DetCL
+CLaCL
+V2CL
+178594	V2CL
+178596	S-V
+DetCL
+V2CL
+178600	Conj-CL
+S-O-V
+NP-Demo
+DetCL
+V2CL
+178606	ClClClClCl
+ADV-O-V
+PrepNp
+DetNP
+NPofNP
+ADV-V
+NpAdjp
+O-V
+ClCl2
+sub-CL
+O-V
+AdjpNp
+ADV-O-V
+2Advp_h1
+CLaCL
+ADV-O-V
+PrepNp
+178624	P-VC
+178626	Conj-CL
+Conj-CL
+CLaCL
+CLaCL
+S-ADV-V-ADV
+Np-Appos
+DetNP
+PrepNp
+DetCL
+V-IO
+PrepNp
+DetNP
+178639	V-ADV
+PrepNp
+NPofNP
+DetNP
+178645	V2CL
+CLaCL
+S-V
+DetNP
+178650	O-V-ADV
+DetNP
+PrepNp
+DetNP
+AdjpNp
+V2CL
+178657	Conj-CL
+O-IO-ADV-V
+All-NP
+DetCL
+V2CL
+NpPp
+PrepNp
+DetNP
+178666	Conj-CL
+ADV-S-ADV-V-ADV-O
+PrepNp
+AdvpNp
+PronNP
+DetNP
+Conj2Pp
+PrepNp
+178675	PrepNp
+PrepNp
+DetNP
+AdjpNp
+AdjpaAdjp
+178681	NPofNP
+DetNP
+AdjpNp
+178685	ClCl
+178687	sub-CL
+178689	V-O-ADV
+PrepNp
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+sub-CL
+V-IO-S
+DetCL
+ADV-P-VC-ADV
+PrepNp
+NpaNp
+178702	DetNP
+V-ADV-ADV-S
+V-ADV-O-ADV
+ADV-IO-V
+Np2CL
+AdjpNp
+sub-CL
+V-O
+ofNPNP
+CL-NP
+ADV-V
+PrepNp
+DetNP
+178716	CLaCL
+V-ADV-S
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+NPofNP
+DetNP
+NP-CL
+NpAdjp
+NpAdjp
+ADV-P
+P2CL
+PrepNp
+NPofNP
+178732	CLaCL
+S-ADV-P
+PrepNp
+DetNP
+NPofNP
+178738	S-P
+DetNP
+NPofNP
+178742	Conj-CL
+VC-P-S-ADV-ADV
+PrepNp
+DetNP
+V-ADV-ADV
+PrepNp
+All-NP
+DetNP
+NPofNP
+NpaNp
+178753	DetNP
+178755	Conj-CL
+178757	sub-CL
+CLaCL
+VC-S-P
+DetNP
+178762	S-V-ADV
+VerbBe
+PrepNp
+DetNP
+NPofNP
+178768	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetCL
+V-S-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetCL
+V-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+178794	Conj-CL
+S-V-ADV-ADV
+All-NP
+DetNP
+NPofNP
+BeVerb
+DetNP
+DetNP
+NPofNP
+DetNP
+178805	Conj-CL
+V-IO-S-ADV
+NPofNP
+V-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+178815	Conj-CL
+CLaCL
+V-S-ADV
+V2CL
+178820	S-V-ADV
+PrepNp
+178823	Conj-CL
+178825	PrepNp
+DetNP
+ClCl
+178829	Np2CL
+sub-CL
+Conj3CL
+V-S
+DetNP
+NPofNP
+178836	S-V-O-IO
+Np-Appos
+DetNP
+NPofNP
+178841	V-O-O2
+DetNP
+NPofNP
+178845	Conj-CL
+VC-P-S
+NpaNp
+178850	Conj-CL
+S-ADV-V
+PrepNp
+DetNP
+NPofNP
+178856	Conj-CL
+Conj4CL
+VC-P-ADV
+PrepNp
+178861	O-ADV-V
+NpaNp
+178864	2Advp_h1
+178866	ADV-V-ADV
+NpAdjp
+AdvPp
+PrepNp
+NPofNP
+NPofNP
+178873	O-V-ADV
+NPofNP
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+178882	Conj-CL
+S-V-ADV-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+NpaNp
+178889	ClCl
+CLaCL
+V-O-ADV
+NPofNP
+PrepNp
+178895	O-ADV
+PrepNp
+NPofNP
+V-IO-O
+NpAdjp
+V2CL
+178902	Conj-CL
+178904	PrepNp
+DetNP
+ADV-V-O
+PrepNp
+178909	Conj-CL
+CLaCL
+S-VC-P
+178913	S-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+178920	Conj-CL
+178922	V2CL
+DetNP
+CLaCL
+S-VC-P
+Np-Appos
+DetCL
+V-ADV
+PrepNp
+DetNP
+178932	V-ADV
+CLaCL
+V-ADV
+PrepNp
+178937	V-IO-O
+178939	Conj-CL
+178941	CLaCL
+V2CL
+178944	ADV-V-O
+V2CL
+PrepNp
+ADV-V-S
+PronNP
+PrepNp
+ADV-ADV-V-O
+NP-CL
+DetNP
+NPofNP
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+178959	Conj-CL
+CLaCL
+V-S-O
+BeVerb
+DetNP
+DetNP
+178966	V-ADV
+PrepNp
+DetCL
+V-ADV-S
+PrepNp
+DetNP
+178973	Conj-CL
+CLaCL
+ADV-ADV-V-O
+V2CL
+V-IO
+178980	that-VP
+O-V-ADV
+PrepNp
+DetNP
+178985	Conj-CL
+CLaCL
+S-V-IO
+BeVerb
+178990	VC-P
+178992	Conj-CL
+ClCl2
+ClCl
+V2CL
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+V-ADV
+PrepNp
+DetNP
+NPofNP
+179007	Conj-CL
+ADV-V-S
+PrepNp
+Demo-NP
+DetNP
+Np-Appos
+DetNP
+NPofNP
+179016	Conj-CL
+V-O-ADV-ADV
+NpNump
+179020	that-VP
+ADV-IO-V-S-ADV
+PrepNp
+NP-CL
+ADV-V-ADV
+V-O-ADV
+NPofNP
+PrepNp
+179029	Conj-CL
+CLaCL
+ADV-V-S-ADV-ADV-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+Np-Appos
+DetNP
+PrepNp
+DetNP
+PrepNp
+NP-CL
+NPofNP
+DetNP
+ADV-S-P
+PrepNp
+NpAdjp
+V-IO
+NpPp
+NP-CL
+ADV-S-P
+PrepNp
+NPofNP
+179054	S-P
+DetNP
+NPofNP
+DetNP
+179059	Conj-CL
+179061	V2CL
+PrepNp
+ClCl
+179065	V2CL
+S-P
+DetNP
+PrepNp
+179070	Conj-CL
+CLaCL
+S-ADV-V
+PrepNp
+DetNP
+179077	P-VC-S
+NP-Demo
+DetNP
+179081	Conj-CL
+179083	DetNP
+ClCl
+179086	Np2CL
+sub-CL
+V-O-ADV
+PrepNp
+DetNP
+179092	Conj-CL
+179094	CLaCL
+V-ADV
+PrepNp
+179098	V-O
+179100	V-O-O2
+DetNP
+NPofNP
+179104	Conj5CL
+S-VC-P
+179107	P-VC
+NPofNP
+179110	V-IO-S-O
+Np-Appos
+DetNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+179119	V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+179126	ADV-P-VC-S
+DetNP
+NPofNP
+179130	Conj-CL
+179132	PrepNp
+DetNP
+ClCl
+ADV-V-S
+sub-CL
+O-ADV-V
+179139	Conj-CL
+179141	V2CL
+DetNP
+CLaCL
+S-V-ADV
+NpAdjp
+PrepNp
+179148	S-V-O
+NPofNP
+179151	Conj-CL
+S-VC-P
+AdvpNp
+DetNP
+AdjpNp
+V2CL
+NPofNP
+179159	Conj-CL
+179161	CLaCL
+179163	Np2CL
+Np-Appos
+DetNP
+NPofNP
+AdvpNp
+PrepNp
+NPofNP
+179171	S-P-VC-ADV
+NpAdjp
+Np-Appos
+DetCL
+VC-P
+sub-CL
+ADV-V-ADV-S
+PrepNp
+DetNP
+All-NP
+179182	Conj-CL
+179184	ClCl
+ClCl2
+V2CL
+P2CL
+DetNP
+NPofNP
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+179195	Conj-CL
+V-ADV-S
+PrepNp
+DetNP
+179200	Conj-CL
+Conj3CL
+S-ADV-V-ADV-ADV-ADV
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+DetAdj
+PrepNp
+PrepNp
+NPofNP
+179213	V-ADV
+PrepNp
+DetNP
+NPofNP
+179218	V-O
+DetNP
+179221	Conj-CL
+ClCl2
+ClCl
+V2CL
+sub-CL
+V-O-S
+DetNP
+NPofNP
+DetNP
+DetNP
+Conj4CL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+179238	V-ADV-S
+NpAdjp
+DetNP
+179242	V-ADV
+NpAdjp
+179246	CLaCL
+P-S-ADV
+V2CL
+PrepNp
+179251	P-S
+V2CL
+DetNP
+NPofNP
+DetNP
+NPofNP
+179258	Conj-CL
+179260	that-VP
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+179268	Conj-CL
+179270	sub-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+V-ADV-S-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+179286	Conj-CL
+P-S
+DetCL
+179290	that-VP
+V-S-ADV
+DetCL
+V-IO-ADV
+PrepNp
+179296	Conj-CL
+179298	ClCl
+CLaCL
+V-S-O
+DetNP
+NPofNP
+DetNP
+179305	V-S-ADV
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+DetNP
+DetNP
+NPofNP
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+179321	Conj-CL
+179323	PrepNp
+DetNP
+All-NP
+DetNP
+179328	sub-CL
+Conj3CL
+V-IO-O-S
+DetAdj
+179333	P-S
+DetNP
+NPofNP
+179337	S-ADV-P
+DetNP
+NPofNP
+PrepNp
+NpaNp
+179343	DetCL
+V-O
+179346	ClCl
+V-O-ADV
+PrepNp
+NPofNP
+V-O-ADV
+NPofNP
+NPofNP
+179354	ClCl
+CLaCL
+V-O-ADV
+PrepNp
+179359	V-O
+CLaCL
+O-V-ADV
+V2CL
+179364	O-V-O2
+V2CL
+179367	ClCl
+V-O-ADV
+Np-Appos
+NPofNP
+V-O-IO-ADV
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+DetNP
+179380	DetNP
+NPofNP
+PrepNp
+DetNP
+179385	Conj-CL
+CLaCL
+V-S-ADV-ADV
+PrepNp
+AdvpNp
+NpAdjp
+179392	V-ADV
+PrepNp
+DetNP
+NPofNP
+179397	Conj-CL
+CLaCL
+IO-V-S
+DetNP
+DetNP
+NPofNP
+DetCL
+V-S
+179406	V-O
+179408	Conj-CL
+CLaCL
+179411	NpaNp
+DetAdj
+179414	DetNP
+NPofNP
+that-VP
+V-S-O-ADV
+DetNP
+NPofNP
+PrepNp
+179422	V-ADV
+179424	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+CLaCL
+V-ADV
+V-O
+DetNP
+179436	V-O-ADV-O2
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+179443	Conj-CL
+179445	V2CL
+DetNP
+NPofNP
+CLaCL
+ADV2CL
+179451	VC-P
+179453	Conj-CL
+179455	PrepNp
+that-VP
+VC-P-S
+NP-CL
+PrepNp
+DetNP
+NPofNP
+S-V-ADV
+NP-Demo
+DetNP
+179466	Conj-CL
+V-IO-O
+DetNP
+NPofNP
+DetCL
+PtclCL
+V-O
+P-VC-S
+179475	Conj-CL
+ADV-V-ADV
+V-O
+179479	P-VC-S
+NPofNP
+179482	Conj-CL
+V-S
+179485	Conj-CL
+CLaCL
+CLaCL
+V-S-ADV
+DetNP
+NPofNP
+179492	S2CL
+DetNP
+NPofNP
+179496	V-ADV
+V-O
+DetNP
+179500	Conj-CL
+Conj3CL
+V-S-ADV
+PrepNp
+All-NP
+DetCL
+V-O
+179508	ADV-V-S
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+NP-Demo
+All-NP
+DetNP
+179519	All-NP
+DetCL
+V2CL
+PrepNp
+DetNP
+NPofNP
+179526	Conj-CL
+P-S-VC
+NP-Demo
+DetNP
+sub-CL
+S-VC-P
+AdvpNp
+NPofNP
+PrepNp
+179536	Conj-CL
+CLaCL
+S-V-ADV
+Np-Appos
+DetNP
+NPofNP
+NpAdjp
+179544	V-ADV
+179547	Np-Appos
+DetNP
+NPofNP
+DetNP
+sub-CL
+ClCl
+ClCl
+Conj3CL
+V2CL
+179557	V-O-IO
+DetNP
+NPofNP
+179561	V-O-IO-ADV
+NPofNP
+PrepNp
+NPofNP
+Np-Appos
+NPofNP
+sub-CL
+V-ADV
+PrepNp
+NPofNP
+DetNP
+AdjpNp
+PpNp2Np
+PrepNp
+NPofNP
+O-ADV-ADV
+Conj2Pp
+PrepNp
+NPofNP
+179581	PrepNp
+NPofNP
+All-NP
+DetCL
+V-O
+CLaCL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+179592	V-O
+Np-Appos
+NPofNP
+NpAdjp
+NP-CL
+O-V-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-IO-ADV-O
+ADV-V-O-ADV-ADV-ADV
+ADV-V
+PrepNp
+NPofNP
+PrepNp
+NpaNp
+179611	PrepNp
+All-NP
+DetNP
+NPofNP
+179616	Conj-CL
+179618	AdvpNp
+Np2CL
+NPofNP
+sub-CL
+V-ADV-ADV-ADV
+PrepNp
+V-O
+NPofNP
+DetCL
+V-O-IO-ADV-ADV
+NPofNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+NPofNP
+PrepNp
+NP-CL
+NPofNP
+NPofNP
+NPofNP
+ADV-V-O-S-ADV-ADV
+PrepNp
+PrepNp
+V-IO-ADV
+DetCL
+ADV-V
+PrepNp
+NpaNp
+179648	NPofNP
+DetCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+NPofNP
+179656	Conj-CL
+CLaCL
+CLaCL
+S-V
+DetNP
+179662	V-ADV
+179664	VC-P-ADV
+PrepNp
+DetAdj
+PrepNp
+NPofNP
+NpPp
+NPofNP
+PrepNp
+DetNP
+179674	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+V-S-ADV-ADV
+PrepNp
+Np-Appos
+V-S
+All-NP
+DetNP
+179688	NpAdjp
+V-ADV-S
+DetNP
+179692	Conj-CL
+179694	V2CL
+S-ADV
+PrepNp
+DetNP
+ofNPNP
+179700	Conj-CL
+V-S-ADV-ADV-ADV
+AdvpNp
+2Pp
+2Pp
+PrepNp
+DetNP
+PrepNp
+NPofNP
+2Pp
+PrepNp
+DetNP
+PrepNp
+NP-CL
+NPofNP
+S-VC-P
+PrepNp
+DetCL
+VC-S-P
+PrepNp
+NPofNP
+NpaNp
+179723	V-ADV
+PrepNp
+Np-Appos
+Np-Appos
+DetCL
+V-IO
+VC-P
+179731	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetCL
+VC-S-P
+CLaCL
+V-S
+DetNP
+NPofNP
+DetCL
+V-S
+179744	V-O
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+179750	Conj-CL
+179752	V-O
+179754	V-O-ADV
+PrepNp
+sub-CL
+ADV-VC-P-S-ADV
+PrepNp
+DetNP
+179761	Conj-CL
+S-VC-P-ADV
+PrepNp
+Np-Appos
+DetNP
+DetNP
+CLaCL
+V2CL
+179770	V-O-ADV
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+179777	Conj-CL
+CLaCL
+CLaCL
+S-V-IO
+NPofNP
+179783	S-V-O
+NPofNP
+179786	V-O
+NpAdjp
+179789	Conj-CL
+179791	DetNP
+ClCl
+ADV-V
+sub-CL
+179796	NP-CL
+NpAdjp
+S-VC-P
+All-NP
+DetNP
+that-VP
+V-IO-ADV-S-ADV
+NP-CL
+S-VC-P
+Np-Appos
+PrepNp
+NPofNP
+179809	Conj-CL
+179811	V-O
+CLaCL
+S-V
+179815	V-ADV
+PrepNp
+179818	Conj-CL
+ADV-V-ADV-S-ADV
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+CLaCL
+V-O
+DetNP
+179829	CLaCL
+S-ADV-P
+PrepNp
+179833	ADV-S-P
+PrepNp
+PrepNp
+NPofNP
+179838	Conj-CL
+ClCl2
+ClCl
+V2CL
+sub-CL
+V-ADV-ADV-S
+PrepNp
+PrepNp
+DetNP
+DetNP
+179849	DetNP
+PrepNp
+PtclCL
+CLaCL
+V-ADV
+PrepNp
+179856	V-O
+NP-CL
+Np-Appos
+NP-Demo
+DetNP
+DetCL
+V2CL
+O-S-V-IO
+DetNP
+179866	Conj-CL
+CLaCL
+V-ADV
+V2CL
+179871	V-O
+NpaNp
+aNpaNp
+179875	DetNP
+179877	DetNP
+179879	S-V-ADV
+DetNP
+PrepNp
+DetNP
+179884	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-IO-ADV
+PrepNp
+NP-Demo
+DetNP
+179896	Conj-CL
+S-V-ADV
+All-NP
+DetCL
+V2CL
+PrepNp
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+179908	Conj-CL
+S-V-O-ADV
+DetNP
+All-NP
+DetNP
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+179918	Conj-CL
+V-S-ADV-ADV
+DetNP
+V-O
+Conj2VP
+179924	DetNP
+PrepNp
+All-NP
+179928	O-V
+Conj2VP
+179931	V-ADV
+PrepNp
+179934	Conj-CL
+ClCl2
+sub-CL
+V-S-ADV
+NpNump
+DetCL
+V-O
+Conj-CL
+179943	DetNP
+NPofNP
+P2CL
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+DetNP
+179956	Conj-CL
+ClCl2
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+V-O-ADV-ADV
+PrepNp
+CLaCL
+ClCl
+V-IO
+DetNP
+sub-CL
+179975	PrepNp
+NPofNP
+that-VP
+S-P-ADV-VC
+All-NP
+NpAdjp
+V-O
+DetNP
+179984	Np2CL
+DetCL
+V-O-ADV
+PrepNp
+DetCL
+179990	PrepNp
+DetNP
+NPofNP
+O2CL
+NpaNp
+NPofNP
+179997	NumpNP
+NPofNP
+180000	Conj-CL
+180003	S-VC-P
+PrepNp
+180006	CLaCL
+S-P-ADV
+NP-Demo
+DetNP
+AdjpaAdjp
+180012	V-O
+NPofNP
+DetNP
+180016	S-VC-P
+NpAdjp
+PrepNp
+180020	Conj-CL
+V-IO-ADV-S
+BeVerb
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+180028	sub-CL
+sub-CL
+PtclCL
+V-O
+DetNP
+NPofNP
+180035	Conj-CL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+180042	Conj-CL
+CLaCL
+ADV-S-V-O-ADV
+PrepNp
+DetCL
+V-S-O-ADV
+DetNP
+Np-Appos
+DetNP
+DetCL
+V-S-ADV-ADV
+PrepNp
+NPofNP
+DetCL
+V2CL
+DetNP
+PrepNp
+AdvpNp
+PrepNp
+DetNP
+180063	CLaCL
+V-O
+DetNP
+180069	DetNP
+NPofNP
+Np2CL
+PrepNp
+DetNP
+NPofNP
+PrepNp
+sub-CL
+V-S-O
+DetNP
+NPofNP
+Np-Appos
+NP-CL
+DetNP
+NPofNP
+O-V-ADV
+PrepNp
+NPofNP
+All-NP
+DetNP
+NpaNp
+NpPp
+PrepNp
+NPofNP
+180094	NPofNP
+Np-Appos
+NPofNP
+180098	Conj-CL
+V-S-ADV
+BeVerb
+NpaNp
+DetNP
+NPofNP
+180105	DetNP
+PrepNp
+DetCL
+V-ADV
+PrepNp
+180111	Conj-CL
+CLaCL
+V-O-S
+180116	PrepNp
+Np-Appos
+DetNP
+NPofNP
+180121	CLaCL
+S-V-ADV
+Conj2Pp
+PrepNp
+NPofNP
+NpaNp
+180128	NpPp
+PrepNp
+DetNP
+180132	PrepNp
+NpAdjp
+V2CL
+180136	ADV-V-S
+AdvpNp
+ofNPNP
+NpPron
+DetNP
+sub-CL
+PtclCL
+V-ADV-S
+PrepNp
+AdjpNp
+180147	Conj-CL
+180149	ClCl
+V-S
+NpPp
+Np-Appos
+Np-Appos
+NPofNP
+PrepNp
+NPofNP
+CLaCL
+S-P
+V-ADV-ADV
+PrepNp
+NpAdjp
+V-ADV-ADV-ADV
+PrepNp
+NpNump
+PrepNp
+DetNP
+NPofNP
+180169	S-P-ADV
+PrepNp
+NpNump
+NumpAdjp
+DetNP
+ADV-V-ADV
+NpaNp
+180177	NpaNp
+180180	Conj-CL
+CLaCL
+ADV-ADV-V-O
+AdjpNp
+DetNP
+V2CL
+DetNP
+180188	V-ADV-IO
+PrepNp
+All-NP
+DetCL
+V-O
+NPofNP
+180195	Conj-CL
+ClCl2
+sub-CL
+V-O
+All-NP
+NpPp
+PrepNp
+DetNP
+NPofNP
+V-ADV
+2Pp
+PrepNp
+DetNP
+PrepNp
+Np-Appos
+NPofNP
+180212	Conj-CL
+Conj3CL
+S-V
+DetNP
+180217	V-ADV
+V-ADV
+180220	S-VC-P
+NPofNP
+PrepNp
+180224	Conj-CL
+V-S-ADV-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+180234	Conj-CL
+ClCl2
+sub-CL
+VC-P
+NpNump
+ClCl2
+CLaCL
+V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+180247	V-O
+DetNP
+CLaCL
+ADV-V-S-ADV
+PrepNp
+DetCL
+V-S
+Np-Appos
+DetNP
+PrepNp
+180258	ADV-V-S
+DetNP
+NPofNP
+180262	Conj-CL
+Conj3CL
+ADV-V-O
+V-O
+S-VC-P
+PrepNp
+DetNP
+ofNPNP
+180271	V-O-ADV
+PrepNp
+NpaNp
+DetAdj
+180276	DetAdj
+180278	ADV-V-ADV-ADV
+ADV-V
+PrepNp
+V-O
+180283	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+NpAdjp
+V-O
+Conj3CL
+S-ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+NPofNP
+DetNP
+180297	V-O
+180299	V-O
+180301	Conj-CL
+V-S-ADV
+All-NP
+DetCL
+V-O
+PrepNp
+NPofNP
+NpaNp
+DetNP
+180311	DetNP
+180313	Conj-CL
+CLaCL
+ADV-V
+V-O
+180319	PrepNp
+DetNP
+NPofNP
+ClCl
+180324	Np2CL
+180326	2Np
+DetNP
+NPofNP
+V2CL
+180331	Conj-CL
+180333	PrepNp
+ClCl
+P-S
+that-VP
+V-O
+180339	that-VP
+S-V
+P-VC-S
+PrepNp
+NPofNP
+DetNP
+NPofNP
+180347	Conj-CL
+S-ADV-V-O
+DetNP
+NP-CL
+O-V-IO
+180353	Conj-CL
+Conj3CL
+V-ADV
+PrepNp
+180358	V-ADV
+PrepNp
+180361	V-IO
+BeVerb
+180364	Conj-CL
+S-V-O-ADV
+DetNP
+NPofNP
+All-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+180374	Conj-CL
+S-V-ADV
+PrepNp
+DetNP
+Conj3Np
+180381	NpPp
+PrepNp
+NpaNp
+180386	Conj-CL
+ADV-ADV-ADV-V-S-ADV-ADV
+PrepNp
+NPofNP
+NpAdjp
+DetNP
+NPofNP
+Np-Appos
+Conj4CL
+V-S-ADV
+Np-Appos
+DetNP
+180399	V-ADV-S
+DetNP
+180402	S-V-ADV
+Np-Appos
+DetNP
+NPofNP
+DetNP
+ofNPNP
+NpaNp
+180411	S-ADV-V
+DetNP
+PrepNp
+Np-Appos
+NpaNp
+180417	NPofNP
+PrepNp
+Np-Appos
+DetNP
+ofNPNP
+PrepNp
+DetAdj
+180425	Conj-CL
+180427	PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+V-O
+NPofNP
+NpPp
+PrepNp
+NPofNP
+sub-CL
+180439	PrepNp
+NPofNP
+NPofNP
+Np-Appos
+DetNP
+S2CL
+NPofNP
+180447	PrepNp
+DetAdj
+ClCl
+V-O
+DetNP
+NPofNP
+O2-V-O
+DetNP
+NPofNP
+180457	CLaCL
+CLaCL
+S-V
+All-NP
+180462	S-V
+All-NP
+NpaNp
+180467	CLaCL
+V-S-ADV
+DetAdj
+PrepNp
+180472	S-ADV
+DetAdj
+PrepNp
+NpAdjp
+180477	Conj-CL
+V-S-O
+All-NP
+DetNP
+NPofNP
+DetNP
+180484	Conj-CL
+180486	DetNP
+AdjpNp
+V-ADV
+V-ADV
+PrepNp
+180492	Np2CL
+NPofNP
+V-ADV
+PrepNp
+DetNP
+AdjpNp
+V2CL
+180500	Conj-CL
+V-O
+NpAdjp
+AdjpAdvp
+DetNP
+180506	Conj-CL
+180509	PrepNp
+O2-V-O
+DetNP
+sub-CL
+180514	that-VP
+V-S-O
+DetNP
+ADV-V-O-IO
+PrepNp
+NP-Demo
+DetNP
+DetNP
+180523	Conj-CL
+ADV-S-ADV-V
+AdvpNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+180532	Conj-CL
+CLaCL
+S-V
+All-NP
+NpAdjp
+ADV-V-O
+NpAdjp
+180540	ADV-V
+PrepNp
+180543	Conj-CL
+V-O-S-ADV
+DetNP
+180547	Conj-CL
+O-V
+180550	Conj-CL
+180552	V2CL
+CLaCL
+S-V-IO
+DetCL
+V-O
+NumpNP
+DetCL
+ADV-V
+180561	S-ADV-V
+DetCL
+V-O
+180565	Conj-CL
+CLaCL
+V-S-ADV
+AdvpNp
+V2CL
+180572	PrepNp
+180574	Np2CL
+180576	Conj-CL
+180578	PrepNp
+O-ADV-V
+AdjpNp
+PrepNp
+DetCL
+V-IO
+180585	Conj-CL
+V-O-S-ADV
+AdvpNp
+V2CL
+180590	O-V-S
+AdvpNp
+180593	Conj-CL
+180595	CLaCL
+CLaCL
+O-V
+180599	V2CL
+180601	V-ADV
+DetNP
+NPofNP
+180605	Conj-CL
+ClCl2
+CLaCL
+V-S
+DetNP
+180612	PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+ADV-ADV-S-VC-P
+DetNP
+180620	V-IO
+DetNP
+aCLaCL
+180624	S-ADV-V-O
+180627	NP-CL
+DetNP
+AdjpAdvp
+ADV-ADV-VC-P-ADV
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+180637	PrepNp
+NpaNp
+NpAdjp
+180641	CLaCL
+S-P-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+CLaCL
+V-O
+DetNP
+NPofNP
+180653	V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+180659	O-V-ADV
+DetNP
+NpAdjp
+180663	Conj-CL
+Conj-CL
+ADV-V-O
+O-V
+NpaNp
+180669	DetNP
+180671	Conj-CL
+180673	Np-Appos
+DetNP
+DetNP
+V-ADV-ADV
+PrepNp
+Conj2Pp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+180686	PrepNp
+NP-CL
+O-V-S
+Np-Appos
+DetNP
+AdvpNp
+PrepNp
+V-O-ADV
+DetNP
+PrepNp
+180697	Conj-CL
+V-ADV-S
+PrepNp
+DetCL
+ClCl
+V-S
+AdjpNp
+DetNP
+CLaCL
+S-V
+AdvpNp
+180709	V2CL
+Conj3CL
+V-S
+DetNP
+180714	V-S-ADV-ADV-ADV
+DetNP
+NPDetAdj
+DetAdj
+AdjpNp
+PrepNp
+PrepNp
+180723	PrepNp
+ClCl
+S-VC-P
+Np-Appos
+DetNP
+NPofNP
+DetAdj
+ADV-V
+PrepNp
+180733	Conj-CL
+S-V-ADV-ADV
+PronNP
+BeVerb
+AdvpNp
+NpNump
+ClCl2
+VC-P
+NPofNP
+sub-CL
+V2CL
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+180897	Conj-CL
+CLaCL
+S-ADV-V-ADV
+AdjpAdvp
+NpAdjp
+PrepNp
+DetNP
+180905	V-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetAdj
+ADV-V-ADV
+NpNump
+PrepNp
+DetAdj
+180915	Conj-CL
+CLaCL
+ADV-V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+180922	ClCl2
+V-S
+V2CL
+180926	Conj-CL
+180928	DetAdj
+ClCl2
+sub-CL
+VC-P
+NPofNP
+DetNP
+180935	NP-Demo
+DetNP
+that-VP
+VC-P
+180940	Conj-CL
+180942	PrepNp
+DetNP
+180945	that-VP
+ADV-ADV-V-S
+PrepNp
+NpAdjp
+DetNP
+180951	Conj-CL
+ADV-V-IO-O-ADV
+V-O
+All-NP
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+180961	Conj-CL
+180963	DetAdj
+ClCl
+IO-V-O
+NpaNp
+NP-all
+NP-Demo
+DetNP
+180971	DetNP
+NPofNP
+sub-CL
+CLaCL
+IO-V
+180977	IO-V-O
+PtclCL
+O-V
+180981	Conj-CL
+180983	sub-CL
+S-V-ADV
+PrepNp
+180987	Conj-CL
+180989	V2CL
+DetNP
+180992	CLaCL
+V-O
+Np-Appos
+DetNP
+NPofNP
+180998	O-V
+NpAdjp
+181001	Conj-CL
+CLaCL
+CLaCL
+V-O-ADV
+PrepNp
+181007	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+181014	ClCl2
+sub-CL
+VC-P
+NPofNP
+DetNP
+V-O-ADV-ADV
+181021	Conj-CL
+181023	CLaCL
+that-VP
+IO-V-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-O
+181032	that-VP
+ClCl
+ADV-V-O
+PrepNp
+ADV-ADV-V-ADV-O
+PrepNp
+DetNP
+NPofNP
+181041	Conj-CL
+181043	V2CL
+DetNP
+that-VP
+181047	ADV-V-O
+Np-Appos
+DetNP
+NPofNP
+181052	Conj-CL
+ADV-S-V-ADV-ADV
+V-O
+All-NP
+DetAdj
+PrepNp
+PrepNp
+181060	Conj-CL
+V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+181070	Conj-CL
+S-V-ADV-ADV
+PrepNp
+All-NP
+DetAdj
+PrepNp
+181077	Conj-CL
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+V-ADV
+PrepNp
+181085	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+NP-CL
+ADV-V
+BeVerb
+181093	CLaCL
+V-ADV-ADV-ADV
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+181105	V-ADV
+V2CL
+181108	Conj-CL
+CLaCL
+V-IO-S
+NPofNP
+Np-Appos
+DetNP
+181115	ADV-V-O
+V-O
+DetNP
+DetNP
+NP-CL
+181121	BeVerb
+181123	S-P
+NPofNP
+PrepNp
+ADV-V-O-ADV
+NP-Prep
+V-IO
+ClClCl
+CLaCL
+V-IO-O
+181133	IO-O
+V-O-ADV
+V2CL
+PrepNp
+V-O
+NpAdjp
+NPofNP
+181141	Conj-CL
+ADV-ADV-V
+V-O
+DetNP
+V-IO
+DetNP
+181148	Conj-CL
+S-V-O
+NpPp
+ofNPNP
+DetNP
+PrepNp
+DetNP
+BeVerb
+181157	Conj-CL
+V-O
+181160	PrepNp
+that-VP
+ADV-V-S-ADV
+NP-Demo
+DetNP
+PrepNp
+DetNP
+NPofNP
+181169	Conj-CL
+CLaCL
+CLaCL
+S-V-IO
+181174	V-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+181187	PtclCL
+P-VC-S
+NPofNP
+181191	Conj-CL
+181193	PrepNp
+181195	NP-Demo
+DetNP
+181199	Np2CL
+V-O
+S-V-ADV
+PrepNp
+DetNP
+2Advp_h1
+PrepNp
+DetNP
+NPofNP
+181209	Conj-CL
+181212	V-IO
+that-VP
+S-P-VC-ADV
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+181220	Conj-CL
+181222	PrepNp
+CLaCL
+ClCl
+S-VC-P-ADV
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+ClCl
+ADV-V-S-ADV
+DetNP
+PrepNp
+NpaNp
+NpAdjp
+181239	NpNump
+ADV-VC-S-P
+NpAdjp
+PrepNp
+All-NP
+DetNP
+181247	PrepNp
+NPofNP
+sub-CL
+ADV-ADV-ADV
+PrepNp
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+181257	Conj-CL
+CLaCL
+S-VC-ADV-P
+AdjpNp
+PrepNp
+DetNP
+PrepNp
+Np-Appos
+DetNP
+181268	NPofNP
+sub-CL
+ADV-S
+Np-Appos
+DetNP
+181274	Conj-CL
+CLaCL
+V-ADV-S-ADV
+NpPp
+PrepNp
+DetNP
+V-O
+181282	CLaCL
+ADV-V-O-ADV
+V2CL
+PrepNp
+DetNP
+181288	V-O-ADV-ADV
+PrepNp
+NPofNP
+DetNP
+NP-CL
+ADV-S-V
+PrepNp
+DetNP
+NPofNP
+sub-CL
+V-O
+181300	Conj-CL
+S-ADV-V
+V-ADV
+PrepNp
+NPofNP
+181306	Conj-CL
+V-ADV
+PrepNp
+Np-Appos
+NPofNP
+DetNP
+181313	Conj-CL
+V-O-ADV
+BeVerb
+PrepNp
+DetNP
+181319	Conj-CL
+181321	PrepNp
+DetNP
+NPofNP
+sub-CL
+P-VC-S
+PrepNp
+DetNP
+NPofNP
+181330	Conj-CL
+CLaCL
+P-VC-S
+PrepNp
+DetNP
+NpAdjp
+V-O
+NPofNP
+NpAdjp
+181341	NpAdjp
+ClCl
+ClCl
+181345	Intj2CL
+NpaNp
+181348	Np2CL
+Np-Appos
+V-ADV
+V-O
+181353	ClCl
+P-VC
+P2CL
+DetNP
+NPofNP
+DetNP
+181360	Conj-CL
+V-O-S-ADV
+DetNP
+181364	CLaCL
+V2CL
+181367	V-ADV
+PrepNp
+181370	Conj-CL
+S-ADV-V-ADV-ADV
+V-O-ADV
+DetNP
+PrepNp
+DetAdj
+PrepNp
+ADV-V-O
+181379	Conj-CL
+CLaCL
+V-S-ADV
+PrepNp
+181384	V-ADV-ADV
+PrepNp
+181388	NP-Demo
+DetNP
+sub-CL
+CLaCL
+ADV-V-IO
+PrepNp
+NpaNp
+181396	DetNP
+AdjpNp
+181399	V2CL
+181401	Conj-CL
+V-S-ADV
+NpPp
+PrepNp
+PrepNp
+All-NP
+NPofNP
+DetAdj
+181410	Conj-CL
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+181419	Conj-CL
+CLaCL
+S-V-ADV
+NPofNP
+DetNP
+BeVerb
+NpAdjp
+181427	V-O-ADV
+PrepNp
+181430	Conj-CL
+CLaCL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+181437	V-O
+181439	Conj-CL
+ADV-ADV-V-O
+V2CL
+181443	Conj-CL
+181445	V-S
+DetNP
+All-NP
+S-V-O
+V-ADV
+NpAdjp
+PrepNp
+181453	Conj-CL
+S-ADV-V-O
+IO-O-V
+NPofNP
+NpAdjp
+DetNP
+181460	Conj-CL
+V-S-ADV-ADV
+AdvpNp
+PrepNp
+CLaCL
+V2CL
+181468	that-VP
+S-VC-P
+DetNP
+NPofNP
+DetNP
+181474	Conj-CL
+181476	V2CL
+S-V
+sub-CL
+V-O
+P-S-VC
+DetNP
+181483	Conj-CL
+ClCl2
+V-S
+ADV-V-ADV
+V2CL
+PrepNp
+AdjpNp
+181491	Conj-CL
+CLaCL
+CLaCL
+S-V-O
+DetNP
+181497	V-ADV
+PrepNp
+181500	V-O-ADV
+DetCL
+ADV-V-ADV
+PrepNp
+181505	Conj-CL
+181507	PrepNp
+that-VP
+181510	IO-V-S-O
+AdvpNp
+DetNP
+AdjpNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+ADV-V
+PrepNp
+181521	Conj-CL
+V-ADV
+BeVerb
+PrepNp
+DetNP
+NPofNP
+DetNP
+181529	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+DetCL
+CLaCL
+S-V-O
+DetNP
+181538	V-O
+DetNP
+NPofNP
+DetNP
+181543	CLaCL
+S-V-ADV
+BeVerb
+PrepNp
+DetNP
+NPofNP
+181550	V-O
+S-V-ADV
+NpNump
+PrepNp
+DetNP
+181556	Conj-CL
+S-ADV-V-O
+DetNP
+ADV-V
+PrepNp
+DetNP
+181563	Conj-CL
+CLaCL
+ADV-V-O
+V-ADV
+PrepNp
+NP-CL
+NPofNP
+DetNP
+S-VC-P
+S-ADV-V-ADV
+PrepNp
+DetNP
+181576	ADV-ADV-V-O
+V2CL
+PrepNp
+DetNP
+DetNP
+181582	Conj-CL
+ClCl2
+sub-CL
+V-O
+V2CL
+181588	PrepNp
+DetNP
+CLaCL
+V-ADV
+PrepNp
+DetNP
+181595	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+181600	Conj-CL
+181602	V2CL
+181604	Np2CL
+ADV-O-V
+ADV-V
+PrepNp
+All-NP
+181610	ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+181616	Conj-CL
+CLaCL
+ADV-V-O
+O-V
+NpAdjp
+NPofNP
+181623	V-S
+DetNP
+NPofNP
+181627	Conj-CL
+V-IO-ADV
+DetNP
+NpPp
+PrepNp
+DetNP
+AdjpNp
+DetCL
+ADV-V-O
+V2CL
+181638	Conj-CL
+CLaCL
+V2CL
+181642	V-O-ADV
+AdjpNp
+DetNP
+sub-CL
+V-S
+181648	Conj-CL
+ADV-S-V-ADV-ADV
+V2CL
+Np-Appos
+DetNP
+NPofNP
+181656	PrepNp
+sub-CL
+P-VC
+NpAdjp
+Np2CL
+181662	Conj-CL
+CLaCL
+S-V-O-ADV
+NpaNp
+181667	All-NP
+NpPp
+PrepNp
+PrepNp
+DetNP
+NP-CL
+NPofNP
+DetNP
+O-V
+181677	ADV-O
+AdvpNp
+NP-CL
+Np-Appos
+NpaNp
+181683	NPofNP
+S-VC-P-ADV
+DetNP
+181687	Conj-CL
+181689	PrepNp
+DetNP
+DetNP
+ClCl
+ADV-V
+ADV-O-V
+PrepNp
+DetNP
+BeVerb
+181699	Conj-CL
+ADV-ADV-V-O
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+V-O
+181707	Conj-CL
+CLandCL2
+CLaCL
+V-ADV
+PrepNp
+DetCL
+VC-S-P
+PrepNp
+NPofNP
+DetNP
+181719	V2CL
+NpAdjp
+AdjpAdvp
+181723	ADV-ADV-V-O-ADV
+V-O
+DetNP
+V-ADV
+PrepNp
+181730	Np2CL
+sub-CL
+V2CL
+V-O
+O-V
+181736	Conj-CL
+ADV-V-O-ADV
+V-O
+DetNP
+181742	V2CL
+181744	Conj-CL
+ADV-S-V-ADV
+DetNP
+PrepNp
+181749	Conj-CL
+CLaCL
+S-V-IO-O
+IO-V
+181754	CLaCL
+ADV-V-O-IO
+V2CL
+DetNP
+181759	V-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+V-S
+PrepNp
+NpAdvp
+181768	Conj-CL
+CLaCL
+V-ADV-S
+DetNP
+NpPp
+PrepNp
+181775	V-S-ADV
+NpAdjp
+CLaCL
+V2CL
+181780	V-ADV
+PrepNp
+DetNP
+NPofNP
+181785	Conj-CL
+CLaCL
+S-V-ADV
+BeVerb
+PrepNp
+DetAdj
+181792	V2CL
+181794	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+NPofNP
+DetNP
+181801	CLaCL
+S-V
+BeVerb
+181805	V-S
+BeVerb
+NP-CL
+NpaNp
+181810	S-V-ADV
+BeVerb
+PrepNp
+All-NP
+NPofNP
+DetNP
+Conj3Np
+181820	Conj-CL
+S-V-ADV
+NPofNP
+PrepNp
+DetCL
+V-S
+181827	Conj-CL
+CLaCL
+181830	PrepNp
+NP-CL
+S-V
+BeVerb
+181835	V-O
+CLaCL
+O-V
+181839	V-ADV
+PrepNp
+181842	Conj-CL
+ADV-ADV-ADV-V-O-ADV-ADV-ADV
+ADV-V-O
+ADV-V-O-ADV
+PrepNp
+DetNP
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetAdj
+PrepNp
+DetNP
+181860	Conj-CL
+181862	V-O
+DetNP
+NPofNP
+181866	Np2CL
+DetNP
+NPofNP
+181870	Conj-CL
+V-O-S-ADV
+V2CL
+NpaNp
+DetNP
+181876	DetNP
+181879	NP-CL
+S-V-O
+ClCl
+S-V-O
+O-V
+sub-CL
+ADV-S
+AdjpNp
+DetNP
+181889	Conj-CL
+181891	V-O
+DetNP
+DetNP
+NPofNP
+V2CL
+PrepNp
+CLaCL
+181899	PrepNp
+DetNP
+NPofNP
+ClCl
+S-VC-P
+CLaCL
+181906	V-IO-S
+DetNP
+NPofNP
+181911	CLaCL
+V2CL
+181914	V2CL
+181916	sub-CL
+181918	V2CL
+S-O-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+V-O
+181928	DetCL
+V2CL
+181931	CLaCL
+V2CL
+181934	ADV-V-ADV
+V-O
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+181942	Conj-CL
+ADV-ADV-ADV-V-ADV-ADV
+V-ADV
+PrepNp
+V-O
+ADV-V
+PrepNp
+PrepNp
+DetNP
+NPofNP
+V-O
+DetNP
+181955	Conj-CL
+CLaCL
+S-V-O
+181959	CLaCL
+V-O
+DetNP
+181963	V-ADV-ADV
+181965	that-VP
+V-O-ADV
+181968	Conj-CL
+CLaCL
+ADV-V
+PrepNp
+181973	CLaCL
+V-O
+S-V-ADV
+NpAdjp
+ADV-P
+PrepNp
+DetNP
+181982	V-O
+181984	Conj-CL
+ADV-ADV-V-O
+V-O
+V2CL
+181989	Conj-CL
+V-O-S-IO-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+181996	Conj-CL
+V-S
+NPofNP
+NpAdjp
+NP-CL
+NpaNp
+182003	S-V-ADV
+BeVerb
+PrepNp
+182007	Conj-CL
+V-S-ADV-ADV
+NpaNp
+DetNP
+182012	DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+182018	ADV-ADV-V
+PrepNp
+PrepNp
+DetNP
+NpaNp
+182024	Conj2VP
+182027	Conj-CL
+182029	V2CL
+DetNP
+PrepNp
+notCLbutCL2CL
+O-V-S
+NPofNP
+DetCL
+V2CL
+S2CL
+DetCL
+ADV-V
+182041	notCLbutCL2CL
+V-ADV
+V-O
+O-ADV
+PrepNp
+182047	Conj-CL
+182049	PrepNp
+CLaCL
+ClCl
+CLaCL
+S-V-ADV
+DetNP
+NPofNP
+182057	O-V
+ADV-S
+AdvpNp
+NPofNP
+DetNP
+182063	S-V
+DetAdj
+Conj2VP
+182068	Conj-CL
+182070	DetNP
+PrepNp
+PtclCL
+V-O
+O-V
+S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+ADV-S-P-VC
+DetNP
+PrepNp
+182084	Conj-CL
+CLaCL
+V-S
+182089	sub-CL
+V-ADV-S
+PrepNp
+DetNP
+PrepNp
+Demo-NP
+DetNP
+182097	Conj-CL
+182099	AdvpNp
+PrepNp
+that-VP
+S-ADV-V-ADV
+O-ADV-V
+PrepNp
+NpAdjp
+PrepNp
+NpAdjp
+182109	Conj-CL
+182111	sub-CL
+ADV2CL
+182114	O-V
+DetAdj
+182117	ADV-ADV-V-S
+DetAdj
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+182125	Conj-CL
+S-V-O-ADV
+NpAdjp
+PrepNp
+NpAdjp
+182131	Conj-CL
+182133	sub-CL
+ADV2CL
+V-S-O
+DetNP
+NPDetAdj
+DetAdj
+DetNP
+182141	CLaCL
+S-V
+182144	S-V
+DetNP
+182147	Conj-CL
+S-ADV-P
+NpAdjp
+PrepNp
+NpAdjp
+182153	Conj-CL
+ClCl
+S-ADV-V-O
+V-O
+sub-CL
+182159	S-P-VC
+DetAdj
+182162	Conj-CL
+CLandCL2
+V-S
+ADV-V-S-ADV
+PrepNp
+PrepNp
+182169	V-S-O-ADV
+Conj2VP
+DetNP
+NPofNP
+182174	DetNP
+V-ADV
+DetNP
+182178	Conj-CL
+182180	NPofNP
+DetNP
+ADV-V-O
+S-ADV-V-ADV
+DetNP
+182186	Conj-CL
+182188	V2CL
+PrepNp
+DetNP
+182192	NP-CL
+182194	O-V-S
+V-S
+NpaNp
+182198	DetCL
+P-VC
+PrepNp
+that-VP
+182203	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+182209	ADV-V
+O-V
+DetNP
+NPofNP
+DetNP
+182215	V-IO
+DetNP
+PrepNp
+182219	S-ADV-V
+O-V
+ADV-S
+AdjpNp
+DetNP
+182225	Conj-CL
+182227	VC-P-S
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+182234	Conj-CL
+CLandCL2
+V-S
+CLaCL
+ADV-V-S-ADV
+PrepNp
+AdjpNp
+PrepNp
+DetNP
+182244	V2CL
+182246	CLaCL
+VC-S-P
+182249	S-VC-P
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+182255	Conj-CL
+ClCl
+ClCl
+V-O-S
+NpaNp
+DetNP
+182262	DetNP
+PtclCL
+ADV-V
+PrepNp
+DetNP
+sub-CL
+V-O
+V-O
+182271	Conj-CL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+182278	Np-Appos
+DetNP
+DetCL
+O2-V-O
+DetNP
+CLaCL
+V2CL
+182286	V-ADV
+PrepNp
+DetAdj
+182290	Conj-CL
+ADV-V
+V2CL
+182294	Conj-CL
+182296	DetNP
+PrepNp
+182299	PtclCL
+V-ADV-S
+DetNP
+ClCl
+CLaCL
+V2CL
+182306	V2CL
+CLaCL
+O-V
+182310	V2CL
+182312	Conj-CL
+182314	V-O
+All-NP
+V-O
+DetNP
+NPofNP
+182320	Conj-CL
+CLaCL
+S-V
+182324	V-S
+DetNP
+NPofNP
+182328	Conj-CL
+CLaCL
+S-V-ADV
+182333	PrepNp
+PtclCL
+O-V-IO
+DetNP
+182338	Conj-CL
+CLandCL2
+V-S
+ADV-V-S-ADV-ADV
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+DetNP
+V2CL
+182349	V-ADV
+BeVerb
+PrepNp
+DetNP
+NPofNP
+DetNP
+182356	Conj-CL
+ClCl2
+sub-CL
+V-S
+CLaCL
+V-O
+DetNP
+NPofNP
+182365	V-ADV-O
+PrepNp
+Np-Appos
+NP-CL
+O-O2-V
+AdvpNp
+Conj12Np
+NP-CL
+O-ADV-V-O2
+182375	Np-Appos
+DetNP
+NPofNP
+182385	NPofNP
+182387	Np-Appos
+DetCL
+VC-P
+182391	NPofNP
+182393	NP-CL
+Np-Appos
+S-VC-P
+182397	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+PrepNp
+PrepNp
+NpAdjp
+182405	S2CL
+NpaNp
+NPofNP
+NpAdjp
+NPofNP
+182411	NP-CL
+NPofNP
+NpAdjp
+DetNP
+NpPp
+PrepNp
+Conj3Np
+All-NP
+DetNP
+182422	DetNP
+AdjpNp
+NpaNp
+182426	S-V-ADV
+CLaCL
+V-O
+182430	V-ADV
+PrepNp
+DetNP
+NPofNP
+182435	Conj-CL
+S-V
+DetCL
+V-ADV
+PrepNp
+NpAdjp
+182442	Conj-CL
+ClCl
+S-V-O
+All-NP
+DetNP
+V-O
+sub-CL
+CLaCL
+S-ADV-V
+PrepNp
+182453	V-O
+182455	Conj-CL
+182457	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+ClCl
+P-S
+DetAdj
+sub-CL
+P-VC-S
+DetNP
+NPofNP
+DetNP
+182473	DetCL
+V-ADV
+sub-CL
+V2CL
+182479	DetCL
+V-ADV
+sub-CL
+V2CL
+182484	ClCl
+P-VC
+CLaCL
+sub-CL
+V-O-S
+DetNP
+182491	sub-CL
+Conj3CL
+V-O
+182495	V2CL
+182497	V-O-ADV-ADV
+DetNP
+NPofNP
+sub-CL
+O2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+182507	ClCl
+CLaCL
+V-ADV
+PrepNp
+Demo-NP
+DetNP
+182514	V2CL
+sub-CL
+182517	DetNP
+NPofNP
+PrepNp
+DetNP
+182522	Conj-CL
+ADV-V-IO-S
+PrepNp
+DetNP
+DetNP
+DetNP
+NPofNP
+182530	Conj-CL
+182532	Np-Appos
+DetAdj
+sub-CL
+V-O
+DetNP
+NPofNP
+182540	Np2CL
+DetCL
+V-ADV
+sub-CL
+V2CL
+182546	ClCl
+182548	Np2CL
+DetCL
+V-ADV
+sub-CL
+CLaCL
+V2CL
+182555	V2CL
+182557	ClCl
+182559	Intj2CL
+ADV-O-V-S
+All-NP
+DetNP
+sub-CL
+ADV-V-IO-S
+PrepNp
+DetNP
+DetNP
+DetNP
+NPofNP
+182571	Conj-CL
+182573	Np-Appos
+DetCL
+V2CL
+ClClClCl
+V-O
+DetNP
+NPofNP
+ADV-V-IO
+DetCL
+V-O
+V-O
+DetCL
+V-O
+V-ADV
+PrepNp
+DetCL
+V-O
+182591	CLaCL
+IO-V-O
+DetCL
+V-O-ADV
+PrepNp
+DetNP
+AdvpNp
+DetAdj
+182600	ADV-O-ADV-V
+PrepNp
+DetCL
+V-O
+ofNPNP
+DetNP
+AdvpNp
+DetNP
+182609	CLaCL
+IO-V
+All-NP
+V-O
+182614	ADV-ADV-V
+PrepNp
+DetCL
+V-O
+DetAdj
+182620	Conj-CL
+182622	sub-CL
+182624	that-VP
+V-IO-S
+DetNP
+182628	Conj-CL
+ClCl
+182631	sub-CL
+V-O
+DetCL
+V-O
+AdjpNp
+sub-CL
+S-O-V
+AdvpNp
+DetAdj
+DetCL
+V-O
+182643	Conj-CL
+ClCl
+182646	sub-CL
+ADV-V-O
+DetCL
+V-O
+AdjpNp
+S-O-V
+AdvpNp
+DetAdj
+DetNP
+182656	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+ADV-V-O
+V2CL
+S-P-VC
+AdjpNp
+ClCl
+S-IO-V
+AdvpNp
+sub-CL
+V-O
+DetAdj
+182673	sub-CL
+CLaCL
+CLaCL
+V-O
+DetNP
+NPofNP
+182680	V2CL
+182682	V-ADV
+O-V
+182685	Conj-CL
+182687	VC-S-P
+DetNP
+NPofNP
+182691	VC-P
+NPofNP
+sub-CL
+S-P-VC-ADV
+PrepNp
+DetAdj
+AdjpaAdjp
+182701	sub-CL
+S-P-VC
+DetNP
+NPofNP
+182706	Conj-CL
+CLaCL
+ADV-V
+182710	ADV-V
+2Advp_h1
+182713	Conj-CL
+CLaCL
+ADV-V
+182717	ADV-V
+2Advp_h1
+182720	CLaCL
+V2CL
+182723	V2CL
+182725	CLaCL
+V2CL
+182728	V-IO
+182730	O-V-ADV
+NpAdjp
+NpAdjp
+ClClCl
+V2CL
+V2CL
+V2CL
+PrepNp
+DetNP
+NPofNP
+182741	Conj-CL
+S-V-IO
+ADV-V
+PronNP
+182746	Conj-CL
+V-O-IO
+AdvpNp
+182750	PtclCL
+V-S-O
+O-V
+182754	PtclCL
+S-ADV-V
+PrepNp
+182758	CLaCL
+ADV-VC-S-P
+PrepNp
+DetNP
+182763	S-VC-P
+NP-all
+V2CL
+PrepNp
+DetNP
+NPofNP
+182770	Conj-CL
+CLaCL
+ADV-V-O
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+182782	O-ADV-V
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+AdjpNp
+182792	DetNP
+NPofNP
+182795	Np2CL
+V-O
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+S-O-ADV-V
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+NPofNP
+182811	Np2CL
+V-ADV-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+182818	ADV-V-ADV
+O-V
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+182829	Conj-CL
+CLaCL
+ADV-V-S-O
+BeVerb
+NpAdjp
+NpAdjp
+182836	ADV-S-V-O
+NpAdjp
+NpAdjp
+182840	Conj-CL
+S-ADV-V
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+182847	Conj-CL
+CLaCL
+ADV-ADV-V-O
+PrepNp
+182852	ADV-O-V
+PrepNp
+182855	ClCl
+CLaCL
+S-ADV-V-O
+DetNP
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+DetAdj
+182867	S-ADV-V-O
+DetAdj
+PrepNp
+DetAdj
+DetAdj
+sub-CL
+ADV-V-S
+PrepNp
+NPofNP
+DetNP
+NPofNP
+182879	Conj-CL
+CLaCL
+ADV-O-V-O2
+ClCl
+Np2CL
+Np2CL
+182886	ADV-V-O
+O-V
+182890	Np2CL
+All-NP
+DetCL
+Conj3CL
+V-ADV
+PrepNp
+182897	V-O
+ofNPNP
+DetNP
+182901	V-O
+ADV-VC-P
+182904	P-VC-ADV
+NP-CL
+NpAdjp
+V-O
+Conj3CL
+S-V
+182911	V2CL
+182913	V-O-ADV
+PrepNp
+DetNP
+182917	Conj-CL
+CLaCL
+ClCl2
+S-V
+V-S-O
+DetNP
+NP-Demo
+DetNP
+182926	ADV-V-O-ADV
+V-O
+PrepNp
+DetCL
+ADV-V-S
+182932	Conj-CL
+182934	DetCL
+CLaCL
+V2CL
+182938	ADV-V
+NpAdjp
+V-O-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+Conj3CL
+O-V-S
+DetNP
+182948	ADV-V
+182950	VC-S-P
+DetNP
+NPofNP
+NP-Demo
+DetNP
+182956	ClCl2
+sub-CL
+V-O-ADV
+All-NP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+182969	Conj-CL
+182971	ofNPNP
+NpAdjp
+ADV-V
+V2CL
+S-VC-ADV-P
+182977	Conj-CL
+ADV-V-ADV-O-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+NPofNP
+DetAdj
+182986	sub-CL
+ADV-V-O
+V2CL
+DetNP
+NPofNP
+182992	Conj-CL
+S-ADV-V-O-ADV-ADV
+V-ADV
+PrepNp
+DetNP
+182998	that-VP
+ClCl
+P-VC-S
+IO-V-O
+sub-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+183008	O-S-V-IO
+DetNP
+183011	Conj-CL
+S-V-ADV
+DetNP
+PrepNp
+183016	Conj-CL
+ClCl2
+ADV-S-ADV-V-ADV
+2Advp_h1
+PrepNp
+DetNP
+V-O-S-ADV
+DetNP
+183026	Np2CL
+ADV-V
+sub-CL
+183030	that-VP
+ADV-V
+PrepNp
+DetNP
+NPofNP
+183036	Conj-CL
+ADV-O-V-ADV
+ADV-V
+PrepNp
+183041	Conj-CL
+CLaCL
+V-ADV
+183045	V-S
+DetNP
+NPofNP
+183049	Conj-CL
+CLaCL
+S-VC-P
+AdvpNp
+NpAdjp
+ClCl
+ADV-V
+PrepNp
+V-ADV-O
+PrepNp
+183060	Conj3CL
+CLaCL
+183063	V2CL
+183065	V2CL
+183067	CLaCL
+ClCl
+IO2CL
+V2CL
+183072	V2CL
+183074	CLaCL
+ClCl
+IO2CL
+DetNP
+NPofNP
+V-O
+183081	V2CL
+183083	Conj-CL
+CLaCL
+ADV-S-V-O
+V-O
+DetNP
+183090	V2CL
+DetNP
+AdjpNp
+V-O
+183095	ADV-ADV-O-V
+PrepNp
+DetNP
+AdjpNp
+183100	Conj-CL
+ADV-S-V-O
+V-ADV
+PrepNp
+DetNP
+DetCL
+V2CL
+S-V
+DetNP
+183110	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetNP
+CLaCL
+V-ADV
+PrepNp
+NpAdjp
+VC-P
+183121	V-ADV-S
+NpaNp
+DetNP
+NPofNP
+183126	NpAdjp
+183128	Conj-CL
+CLandCL2
+sub-CL
+V-ADV
+DetNP
+NPofNP
+DetNP
+183137	CLaCL
+V-S
+AdjpNp
+V2CL
+AdjpNp
+NpAdvp
+DetNP
+NPofNP
+183146	S-VC-P
+183148	S-VC-P
+NpAdjp
+NPofNP
+DetNP
+PrepNp
+183154	Conj-CL
+CLaCL
+ADV-S-V-ADV
+V-O
+DetNP
+PrepNp
+183162	ADV-V
+183164	Conj-CL
+CLaCL
+CLaCL
+ADV-V-O
+V2CL
+DetNP
+183171	S-V
+DetCL
+V2CL
+183177	Np2CL
+V2CL
+183180	Conj-CL
+CLaCL
+CLaCL
+V-S
+DetAdj
+183186	V-O
+V2CL
+183189	V-O-IO
+DetNP
+NPofNP
+183193	Conj-CL
+CLaCL
+V-S-O
+183197	V-O-ADV
+DetNP
+183200	CLaCL
+that-VP
+S-V-ADV
+NpAdjp
+PrepNp
+183206	that-VP
+V-S-O
+DetNP
+DetNP
+NPofNP
+183212	Conj-CL
+V-S-ADV
+NpPp
+NP-Demo
+DetNP
+PrepNp
+NpaNp
+All-NP
+DetNP
+PrepNp
+183223	All-NP
+DetAdj
+183226	Conj-CL
+V-IO-S-ADV
+DetNP
+NPofNP
+PrepNp
+All-NP
+183233	Conj-CL
+ADV-S-V-ADV-ADV
+V-O
+NPofNP
+NumpNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+183244	CLaCL
+S-VC-P
+DetCL
+V2CL
+183249	O-V
+183251	Conj-CL
+183253	V-ADV
+PrepNp
+DetNP
+S-V-O-ADV-ADV
+Np-Appos
+DetNP
+PrepNp
+183261	CLaCL
+S-VC-P
+DetCL
+V2CL
+183266	O-V
+183268	CLaCL
+ADV-V-O-ADV
+PrepNp
+Demo-NP
+DetNP
+PrepNp
+Conj3Np
+183277	NpAdjp
+183279	IO-V-O
+NpAdjp
+V2CL
+183283	Conj-CL
+183285	V2CL
+ADV-V-IO-O
+V2CL
+O-V
+Conj2VP
+183292	CLaCL
+ClClCl
+S-V
+S-V
+S-V
+183298	ClClCl
+S-V
+S-V
+S-V
+183303	Conj-CL
+P-VC-S
+PtclCL
+S-ADV-V-ADV
+PrepNp
+183309	Conj-CL
+183311	V-S
+DetNP
+NPofNP
+183315	PrepNp
+DetNP
+PrepNp
+ClCl
+ADV-V-ADV
+O-V
+PrepNp
+DetAdj
+O2CL
+NpAdjp
+ADV-V
+PrepNp
+183328	Conj-CL
+183330	O-V
+O2CL
+NpAdjp
+ADV-V
+PrepNp
+AdjpNp
+183338	DetNP
+NpaNp
+PrepNp
+NpAdjp
+183343	ADV-V
+PrepNp
+DetAdj
+183347	Conj-CL
+183349	O-V
+O2CL
+183353	Intj2CL
+ClCl
+Conj-CL
+O2CL
+AdjpAdvp
+S-VC-P
+183360	ADV-V
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NPofNP
+S-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+183372	P-ADV-ADV-S-VC
+PrepNp
+NPofNP
+183376	Conj-CL
+S-P-ADV-VC
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+183385	Conj-CL
+S-ADV-V-O-ADV
+NpaNp
+All-NP
+DetNP
+V2CL
+183392	DetNP
+DetNP
+V-ADV
+DetNP
+NPofNP
+183398	Conj-CL
+S-O-V-ADV-ADV
+NpaNp
+DetNP
+183403	DetAdj
+DetNP
+NPofNP
+DetNP
+PrepNp
+ADV-V-ADV
+PrepNp
+183411	Conj-CL
+CLaCL
+ADV-V-O
+DetNP
+NPofNP
+NP-Demo
+DetNP
+183419	ADV-VC-P
+183421	P-VC-ADV
+NP-CL
+Np-Appos
+DetCL
+CLaCL
+ADV-V
+PrepNp
+183429	V-IO
+183431	S-V
+CLaCL
+V-IO
+183435	ADV-V
+CLaCL
+V2CL
+183439	ADV-V
+183441	Conj-CL
+CLaCL
+V-S-ADV
+Np-Appos
+DetNP
+CLaCL
+ADV-V-O
+183449	V-O
+183452	O-V
+183454	CLaCL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+CLaCL
+V2CL
+183462	V2CL
+183465	ClCl
+V2CL
+P2CL
+2Np
+Np-Appos
+NpaNp
+183472	NPofNP
+NpaNp
+183476	Conj-CL
+V-S-ADV
+DetNP
+PrepNp
+All-NP
+DetNP
+NPofNP
+183484	Conj-CL
+183486	NPofNP
+DetNP
+that-VP
+V-ADV
+PrepNp
+183492	Conj-CL
+ADV-V
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+183500	Conj-CL
+CLaCL
+183503	V2CL
+NP-CL
+S-VC-ADV-P
+PrepNp
+DetNP
+183509	Conj4CL
+ADV-ADV-V-O
+183512	that-VP
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+CLaCL
+V-O
+NPofNP
+183522	V-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+V2CL
+ADV-V-O
+DetNP
+DetNP
+NPofNP
+183532	ADV-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+183538	V-O
+DetNP
+NPofNP
+183542	V-ADV
+DetNP
+183545	Conj-CL
+ADV-S-V-ADV-ADV
+V2CL
+Np-Appos
+DetNP
+DetCL
+V-O
+PrepNp
+183554	ClCl
+ClCl2
+sub-CL
+S-VC-P
+PtclCL
+183560	P-S
+NpaNp
+183563	DetNP
+NP-CL
+S-V-O
+sub-CL
+P-VC
+183569	Conj-CL
+183571	V2CL
+DetNP
+PrepNp
+183575	Np2CL
+IO-O-V
+183578	Conj-CL
+ClCl
+S2CL
+183582	Np2CL
+183585	ClCl
+ClCl
+183588	NumpNP
+NpAdjp
+CLaCL
+S-V-O
+DetAdj
+NpAdjp
+183595	S-O
+DetAdj
+ClCl2
+ADV-V-S-O
+V2CL
+IO-V
+Conj-CL
+S-ADV-V-O
+NPofNP
+183606	V2CL
+183608	that-VP
+IO-O-V
+DetAdj
+183612	Conj-CL
+183614	ADV-V
+183616	Conj-CL
+183618	V-ADV
+PrepNp
+DetNP
+DetNP
+V-O
+Demo-NP
+DetNP
+183626	ClCl2
+V-ADV
+PrepNp
+ofNPNP
+DetNP
+CLaCL
+O-IO-ADV-ADV-V
+PrepNp
+183635	CLaCL
+S-ADV-V-O
+DetNP
+ofNPNP
+DetNP
+183641	ADV-V
+DetNP
+NPofNP
+183645	CLaCL
+O-IO-ADV-V
+183648	S-ADV-ADV-V-O
+PrepNp
+ADV-V
+V-O
+ofNPNP
+DetNP
+183655	CLaCL
+ADV-O-ADV-V
+DetNP
+NPofNP
+183660	S-ADV-V-O
+DetNP
+NPofNP
+183665	ADV-V-IO
+NP-Prep
+V-S
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+sub-CL
+V-ADV
+183675	Conj-CL
+S-ADV-V
+IO-S-V
+183679	Conj-CL
+183681	V-S
+ofNPNP
+DetNP
+183685	Conj-CL
+V-S-O
+DetCL
+V2CL
+183690	PrepNp
+183692	S-O-V
+AdvpNp
+183695	Conj-CL
+183697	PrepNp
+DetNP
+183700	DetNP
+NPofNP
+V-ADV
+PrepNp
+183705	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+DetNP
+183711	CLaCL
+S-V-ADV-ADV
+PrepNp
+NpaNp
+183716	V-O
+Conj2VP
+183719	DetNP
+NPofNP
+DetNP
+183723	P-S
+Conj3Np
+DetNump
+PrepNp
+183728	Np-Appos
+NP-CL
+NpAdjp
+S-V-ADV
+BeVerb
+PrepNp
+NpaNp
+NpAdjp
+183737	Conj3Np
+NP-CL
+Np-Appos
+DetCL
+VC-P
+ADV-S-V
+PrepNp
+NpNump
+183746	Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+183752	NP-CL
+NpAdjp
+S-V-O-ADV
+PrepNp
+DetCL
+V-ADV
+183759	Conj-CL
+ClCl2
+CLaCL
+V-S
+NpAdjp
+183765	S-V-ADV
+NpPp
+PrepNp
+PrepNp
+183770	PrepNp
+V-S-ADV
+DetCL
+V2CL
+DetCL
+V-O
+DetNP
+NPofNP
+183779	Conj-CL
+Conj3CL
+ADV-S-ADV-V-ADV
+PrepNp
+DetCL
+V-S
+PrepNp
+DetNP
+183788	V2CL
+183790	S-V-O
+DetNP
+NPofNP
+DetNP
+183795	Conj-CL
+CLaCL
+S-V-ADV
+PrepNp
+DetNP
+183801	ADV-V-ADV
+V2CL
+PrepNp
+DetCL
+ADV-V-O
+183807	Conj-CL
+CLaCL
+S-V-ADV
+PrepNp
+NPofNP
+DetNP
+183814	ADV-S-V-O
+V2CL
+DetNP
+183818	Conj-CL
+CLaCL
+S-V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+183826	ADV-V-O
+V2CL
+NpAdjp
+183831	O-V
+S-V
+DetCL
+V-O-ADV
+V2CL
+183837	Conj-CL
+183839	DetNP
+NPofNP
+P-VC-S
+Demo-NP
+DetNP
+183845	Conj-CL
+183847	CLaCL
+IO-V-S
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+183857	DetAdj
+PrepNp
+sub-CL
+CLaCL
+ADV-ADV-V
+V2CL
+183864	ADV-ADV-V
+V2CL
+183867	Conj-CL
+VC-P-S
+DetNP
+183871	S-VC-P
+DetNP
+DetNP
+NPofNP
+DetNP
+183877	Conj-CL
+ClCl
+S-VC-P
+NpPp
+PrepNp
+DetNP
+DetCL
+V2CL
+ClCl
+CLaCL
+ADV-V-S
+DetAdj
+183890	V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-ADV-V
+V2CL
+183899	Conj-CL
+CLaCL
+S-P
+NpPp
+PrepNp
+DetNP
+S-ADV-ADV-V-O
+sub-CL
+V2CL
+PrepNp
+DetNP
+183912	S-O-ADV-V
+S-ADV-V
+PrepNp
+183916	ADV-V
+PrepNp
+NPofNP
+183920	Conj-CL
+Conj3CL
+183923	Np2CL
+DetCL
+ADV-V
+PrepNp
+DetNP
+DetCL
+V2CL
+183931	ADV-ADV-V
+PrepNp
+Conj3Np
+183936	NPofNP
+DetNP
+V2CL
+183940	ADV-V
+183942	Conj-CL
+183944	Np2CL
+NpPp
+PrepNp
+DetNP
+AdjpNp
+CLaCL
+S-ADV-V
+ADV-V-O
+PrepNp
+NpAdjp
+AdjpaAdjp
+183956	DetNP
+183958	V-ADV
+PrepNp
+183961	Conj-CL
+CLaCL
+CLaCL
+S-ADV-V-O-ADV
+O-V
+183967	ADV-V
+PrepNp
+183971	PrepNp
+sub-CL
+S-V-O
+DetCL
+V2CL
+DetNP
+183978	Conj-CL
+CLaCL
+P-VC-S
+NP-CL
+S-ADV-P-VC
+183984	S2CL
+NP-CL
+CLaCL
+S-ADV-V
+2Advp_h1
+183990	ADV-V
+PrepNp
+183993	Conj-CL
+V-O
+ADV-V
+183997	Conj-CL
+CLaCL
+ClCl2
+PtclCL
+S-V
+V-IO
+184005	PtclCL
+S-ADV-V
+AdvpNp
+O-V
+O-V
+PrepNp
+184012	Conj-CL
+CLaCL
+V-ADV-S
+PrepNp
+NpaNp
+DetNP
+184019	DetNP
+NPofNP
+184022	ADV-V-O-ADV
+V-O
+PrepNp
+DetNP
+184027	Conj-CL
+184029	S-V-ADV-ADV
+NpaNp
+DetNP
+NPofNP
+184034	DetNP
+NPofNP
+O-V
+V-O
+184039	Conj-CL
+184041	V2CL
+PrepNp
+184044	Np2CL
+NpaNp
+NPofNP
+184048	NPofNP
+DetCL
+O-V
+DetNP
+NPofNP
+DetNP
+Conj2VP
+184057	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+NPofNP
+DetNP
+184064	CLaCL
+CLaCL
+S-V-ADV
+PrepNp
+184069	S2CL
+DetNP
+NPofNP
+184074	PrepNp
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+184081	Conj-CL
+V2CL
+184084	Conj-CL
+ClCl2
+V-S
+V2CL
+184089	Conj-CL
+CLaCL
+V-S-ADV
+NPofNP
+PrepNp
+DetNP
+184096	CLaCL
+V2CL
+184099	V2CL
+184101	Conj-CL
+ADV-V-O-ADV
+V2CL
+184105	ClCl2
+ClCl
+Np2CL
+Np2CL
+V2CL
+184111	Conj-CL
+S-ADV-V-O
+V2CL
+NpaNp
+DetNP
+184117	DetNP
+NPofNP
+DetNP
+184121	Conj-CL
+CLaCL
+V2CL
+184125	V-S
+184127	Conj-CL
+184129	P-S
+DetNP
+NPofNP
+184133	Conj-CL
+ADV-V-ADV
+V2CL
+184137	PrepNp
+Conj-CL
+ClCl
+P-S-VC
+sub-CL
+CLaCL
+IO-V
+aNpaNp
+184146	DetNP
+184148	DetNP
+184150	V-O
+184152	Conj-CL
+V-ADV
+PrepNp
+DetNP
+NP-CL
+NPofNP
+DetNP
+S-VC-P
+PrepNp
+DetNP
+184163	Conj-CL
+O-ADV-V-S
+V-ADV
+PrepNp
+DetNP
+NpAdjp
+NpPp
+NpAdjp
+PrepNp
+DetNP
+V-O
+184175	Conj-CL
+CLaCL
+ADV-ADV-V-O
+NpAdjp
+184180	CLaCL
+ADV-ADV-V
+PrepNp
+184184	ADV2CL
+PrepNp
+DetNP
+184188	Conj-CL
+CLaCL
+ADV-ADV-V-ADV
+V-O
+DetNP
+V2CL
+184196	NpAdjp
+ClCl
+184199	NpaNp
+184201	Np2CL
+Np-Appos
+NPofNP
+Np-Appos
+DetNP
+DetNP
+184208	ADV-O-V
+184210	Conj-CL
+V-IO-O
+DetNP
+NPDetAdj
+DetAdj
+V-ADV
+PrepNp
+DetNP
+184219	Conj-CL
+Conj3CL
+ADV-V-O
+AdjpNp
+184224	V-ADV-ADV
+NpaNp
+184227	V2CL
+184229	ADV-V-ADV-ADV
+V-O
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetAdj
+184237	Conj-CL
+184239	DetNP
+P-ADV-S-VC
+184242	Conj-CL
+ClCl
+184245	P2CL
+sub-CL
+V-S-ADV
+NpAdjp
+PrepNp
+184251	Conj-CL
+184253	that-VP
+ADV-V-IO-O
+ADV-V
+PrepNp
+DetNP
+184259	Conj-CL
+VC-P-S
+NpAdjp
+NPofNP
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+184268	Conj-CL
+184270	that-VP
+V-IO-O
+ADV-V
+PrepNp
+184275	Conj-CL
+V-IO
+184278	Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+184288	CLaCL
+V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+184296	V2CL
+184298	Conj-CL
+CLaCL
+S-ADV-V
+V-O
+DetCL
+V2CL
+DetCL
+V2CL
+184307	V-ADV
+Conj2Pp
+PrepNp
+DetNP
+184312	PrepNp
+DetNP
+184315	Conj-CL
+CLaCL
+Conj3CL
+V-ADV
+V-O
+DetCL
+V2CL
+184323	V-ADV
+PrepNp
+DetNP
+184327	V-O
+V-S-ADV-ADV
+NP-CL
+DetNP
+ADV-S-V
+PrepNp
+DetNP
+CLaCL
+V2CL
+184337	V2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+184343	V2CL
+184345	Conj-CL
+184347	DetCL
+V2CL
+ADV-V-S
+DetCL
+V2CL
+184353	Conj-CL
+184355	S-V-ADV
+AdjpNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+sub-CL
+ADV-V
+NpAdjp
+184367	Conj-CL
+S-ADV-V
+V-ADV
+PrepNp
+184372	Conj-CL
+V-O-S-O2
+DetNP
+NP-CL
+ADV-V-S
+PrepNp
+DetNP
+VC-P
+PrepNp
+184382	Conj-CL
+V-O-ADV
+184385	CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+184391	V-O
+O-IO-V-S
+DetNP
+184395	Conj-CL
+V-ADV
+ADV-V-O
+PrepNp
+All-NP
+DetNP
+O-V-IO-S
+DetNP
+184404	Conj-CL
+ClCl
+ADV-V-O-S
+PrepNp
+DetCL
+V-S
+DetNP
+DetNP
+sub-CL
+S-V-O
+BeVerb
+184416	Conj-CL
+184418	V-S
+NP-CL
+ADV-S-P
+184422	S-P-VC
+NPofNP
+DetNP
+184427	V-ADV
+PrepNp
+DetNP
+NPofNP
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+CLaCL
+S-VC-P
+NPofNP
+NpAdjp
+AdvpNp
+NpNump
+184443	S-V
+184445	Conj-CL
+ADV-S-V-O
+PrepNp
+DetCL
+V-S
+DetNP
+184452	Conj-CL
+CLaCL
+S-ADV-V-O
+NP-CL
+NpAdjp
+VC-P-ADV
+PrepNp
+NPofNP
+PrepNp
+NpNump
+S-ADV-V-O
+ADV-V
+PrepNp
+V-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+184471	ADV-V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+184477	Conj-CL
+184479	DetNP
+P-S
+DetCL
+V-O
+184484	Conj-CL
+184486	V-S
+DetNP
+184489	Np2CL
+S-V-O
+DetNP
+184493	V2CL
+184495	Conj-CL
+184497	DetNP
+ClCl
+V-O-S
+sub-CL
+S-V-O
+S-V-ADV
+PrepNp
+184505	Conj-CL
+CLaCL
+S-ADV-ADV-V
+184509	V2CL
+DetNP
+ADV-V
+V2CL
+184514	CLaCL
+ADV-O-V-ADV
+V-ADV
+ADV-V-O
+PrepNp
+PronNP
+PrepNp
+All-NP
+DetNP
+184524	ADV-V-ADV
+184526	Conj-CL
+184529	Np2CL
+DetNP
+NPofNP
+V-ADV
+PrepNp
+184536	ADV-S-V
+PrepNp
+DetNP
+184540	that-VP
+ClCl
+V-S
+DetNP
+NPofNP
+ADV-V-O
+DetNP
+184548	Conj-CL
+184550	DetNP
+V2CL
+ClCl
+ADV-V
+CLaCL
+ADV-V
+184557	V2CL
+184559	Conj-CL
+184561	V-ADV
+PrepNp
+DetNP
+V-S-ADV
+PrepNp
+sub-CL
+ADV-O
+Conj5Np
+184572	DetNP
+NPofNP
+DetNP
+184576	DetNP
+184578	Conj-CL
+S-V-O
+Conj2VP
+184583	Conj-CL
+184585	ClCl
+ADV-V
+notCLbutCL2CL
+V2CL
+V2CL
+184591	Conj-CL
+V-O-ADV
+184594	that-VP
+V2CL
+184597	Conj-CL
+S-ADV-V-ADV
+V-O
+DetNP
+NPofNP
+184604	Np2CL
+DetNP
+184607	Conj-CL
+CLaCL
+CLaCL
+V-S
+DetNP
+NPofNP
+184614	V-ADV
+184616	V-O
+IO-V-S
+V2CL
+184620	Conj-CL
+V-S
+DetNP
+NPofNP
+184625	Conj-CL
+S-V-IO-O
+IO-V-O
+DetCL
+V2CL
+184631	Conj-CL
+CLaCL
+ADV-V-IO-O-ADV
+V-O
+DetNump
+NpaNp
+184638	ADVaADV
+PrepNp
+All-NP
+DetNP
+184643	O-V
+184645	V-O-ADV
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+184652	V2CL
+184654	Conj-CL
+184656	PrepNp
+CLaCL
+CLaCL
+184660	PrepNp
+DetNP
+EitherOr4CL
+184664	O2CL
+184666	O2CL
+184668	O2CL
+184670	O2CL
+184672	ADV-V
+PrepNp
+NumpNP
+184676	CLaCL
+ClCl2
+PtclCL
+ADV-V
+PrepNp
+PronNP
+CLaCL
+ADV-V
+184685	ADV-V
+184687	ClCl2
+PtclCL
+S-ADV-V-O
+ADV-O-ADV-V-ADV
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NpPp
+PrepNp
+184703	Conj-CL
+ADV-V-ADV-ADV
+V2CL
+PrepNp
+DetNP
+V-ADV
+Conj2VP
+184712	Conj-CL
+CLaCL
+V-S-O
+Np-Appos
+DetNP
+NP-all
+DetCL
+V2CL
+184721	V-ADV
+PrepNp
+DetCL
+Conj3CL
+184726	PrepNp
+that-VP
+S-V-ADV
+PrepNp
+184732	PrepNp
+that-VP
+S-V
+184737	that-VP
+S-V
+Np-Appos
+NPofNP
+DetAdj
+184743	Conj-CL
+184745	CLaCL
+O-S-V
+184748	P-VC-S
+NP-CL
+ADV-V-O
+PrepNp
+184753	Conj-CL
+V-O
+V-O
+184757	Conj-CL
+ADV-S-V-IO-O
+V2CL
+DetNP
+O-V
+184763	Conj-CL
+ADV-V-ADV-ADV
+V-O
+PrepNp
+PrepNp
+NpAdjp
+VC-P
+184771	Conj-CL
+S-ADV-V-O
+DetNP
+V2CL
+184776	Conj-CL
+CLaCL
+ADV-V-IO-ADV
+V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+184785	O-V
+DetCL
+O-V
+NPofNP
+184790	Conj-CL
+S-V-O
+DetNP
+V2CL
+184795	Conj-CL
+184797	V2CL
+DetNump
+ClCl
+184801	DetNP
+sub-CL
+CLaCL
+ADV-V
+V-ADV
+PrepNp
+DetNP
+AdvpNp
+NpaNp
+184812	V-O
+sub-CL
+ADV-P-VC
+PrepNp
+AdjpNp
+184818	Conj-CL
+184820	PrepNp
+V-IO-O-S
+V2CL
+184824	Conj-CL
+184826	ClCl
+CLaCL
+ADV-VC-P-S
+184830	S2CL
+NpaNp
+NpNump
+184834	NpNump
+sub-CL
+PtclCL
+ADV-S-V-ADV-O
+V2CL
+PrepNp
+NP-Demo
+All-NP
+DetNP
+184844	Conj-CL
+VC-P-S
+AdvpAdjp
+184848	Conj-CL
+184850	PrepNp
+DetNP
+NPofNP
+V-O-ADV
+NpPp
+AdvPp
+PrepNp
+184858	Conj-CL
+CLaCL
+V-ADV
+184862	V-O
+184864	Conj-CL
+Conj3CL
+ADV-ADV-V-O
+V-O
+NpaNp
+DetNP
+NumpNP
+184872	DetNP
+NumpNP
+V-ADV
+PrepNp
+DetNP
+184878	V2CL
+184880	V-IO-ADV
+DetNP
+V-IO
+DetNP
+184885	Conj-CL
+CLaCL
+CLaCL
+V2CL
+184890	V-S
+184892	V-S
+Np-Appos
+DetCL
+V-ADV
+ofNPNP
+NpNump
+184899	Conj-CL
+184901	V-ADV
+PrepNp
+DetCL
+V-S-ADV
+BeVerb
+PrepNp
+V-ADV-S
+DetNP
+184910	V-O-ADV
+184912	O-S-V
+P-S-VC
+DetNP
+184916	Conj-CL
+184918	V2CL
+Conj3CL
+O2CL
+Np-Appos
+DetNP
+184924	S-O
+184927	that-VP
+S-V
+NPofNP
+NpAdjp
+DetAdj
+184933	Conj-CL
+184935	Conj-CL
+S-O-V
+P-S-VC
+184939	Conj-CL
+184941	V2CL
+P2CL
+DetNP
+NPofNP
+DetNP
+184947	Conj-CL
+S-ADV-V-O-ADV
+V-O
+IO-V-O
+184952	that-VP
+V-S
+Conj4CL
+S-O-V
+DetNP
+NPofNP
+DetNP
+184960	V-ADV
+PrepNp
+DetNP
+Conj3Np
+184967	V2CL
+184969	ADV-V
+DetNP
+AdjpNp
+184973	Conj-CL
+184975	PrepNp
+ClCl2
+sub-CL
+S-V-O
+ADV-V
+PrepNp
+Conj3CL
+V-O
+184984	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+184989	V-O
+184991	Conj-CL
+S-V-O
+PtclCL
+S-V-O
+O-V
+DetNP
+NPofNP
+184999	Conj-CL
+185001	PtclCL
+S-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+185007	Conj-CL
+O-V-S-ADV
+CLaCL
+V-O
+DetNP
+NP-all
+185014	O-V
+Conj2VP
+185018	Conj-CL
+ClCl2
+PtclCL
+S-V-O
+NpaNp
+185024	DetNP
+AdjpNp
+ClCl
+O-S-V
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+Conj3Np
+185038	DetNP
+185040	DetNP
+AdjpNp
+185043	Conj-CL
+185045	V-S
+NP-CL
+NPofNP
+DetCL
+ADV-V
+185051	S-ADV-V-O
+2Advp_h1
+PtclCL
+V-O
+DetNP
+NPofNP
+DetNP
+185059	Conj-CL
+CLandCL2
+V-ADV-ADV
+PrepNp
+NP-Demo
+DetNP
+AdvpNp
+NpNump
+185068	ADV-V-ADV-ADV
+V-O
+Conj3Np
+185073	PrepNp
+DetNP
+V2CL
+185077	Conj-CL
+185079	V-ADV
+PrepNp
+DetCL
+V-S
+S-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+185089	S-P-ADV
+DetNP
+NPofNP
+V2CL
+185094	Conj-CL
+185096	NpNump
+S-VC-P
+NpaNp
+185100	S-ADV-V-O
+V-ADV
+PrepNp
+NP-CL
+DetNP
+NPofNP
+O-V
+O-V-ADV
+PrepNp
+185110	Conj-CL
+S-V-ADV
+NpaNp
+DetNP
+185115	NpPp
+PrepNp
+BeVerb
+185119	Conj-CL
+ADV-V-O
+V2CL
+NpaNp
+DetNP
+NPofNP
+185126	Np-Appos
+DetNP
+NumpNP
+DetCL
+V-ADV
+185132	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+V-S-ADV-O-ADV
+DetNP
+PrepNp
+DetNP
+185144	Np2CL
+P-VC-S
+S-P-VC
+185148	ClCl
+V-O
+NpAdjp
+Conj3CL
+O-IO
+185154	O-IO
+185156	O-IO
+ADV-V-O
+O-V
+185160	Conj-CL
+185162	O-S-V
+V-S
+185165	V-O
+185167	Conj-CL
+V-ADV
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+DetNP
+185175	Conj-CL
+S-V-ADV-ADV
+PrepNp
+DetNP
+185181	Np-Appos
+DetNP
+NPofNP
+DetCL
+V2CL
+O-V
+185188	Conj-CL
+ADV-V-S-O
+PrepNp
+DetCL
+V-S
+DetNP
+185195	Conj-CL
+CLaCL
+S-V
+185199	IO-V-ADV-O
+PrepNp
+Demo-NP
+DetNP
+NPofNP
+O-V
+185206	Conj-CL
+ClCl2
+V-ADV
+DetNP
+AdvpNp
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+V-O-S
+NpAdjp
+185218	Conj-CL
+185220	NpPp
+PrepNp
+DetNP
+185225	Np2CL
+185227	V-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+P-ADV-VC
+185235	S-V-O
+185237	ADV-V
+185239	V-O-ADV
+PrepNp
+185242	ADV-V-ADV-ADV
+PrepNp
+V-O
+185246	Conj-CL
+CLaCL
+185249	DetNP
+NPofNP
+that-VP
+V-O
+185254	ADV-V
+185256	Conj-CL
+185258	V2CL
+DetNP
+ClCl
+185262	Np2CL
+intjNP
+NpAdjp
+AdjpaAdjp
+185267	V2CL
+ADV-VC-P
+PrepNp
+PrepNp
+185272	V-O
+V-ADV-O
+DetNP
+NPofNP
+185277	Conj-CL
+ClCl2
+ADV-V-S
+CLaCL
+V-O-S
+DetNP
+185284	V2CL
+185286	Conj-CL
+Conj3CL
+V-S-O
+DetNP
+DetNP
+NPDetAdj
+DetAdj
+185294	V-O
+DetNP
+185297	V-O-IO
+DetNP
+NPofNP
+185301	Conj-CL
+V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+185308	Conj-CL
+ClCl2
+S-V-ADV
+PrepNp
+All-NP
+O-V
+185315	PrepNp
+DetNP
+NPofNP
+185319	PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+sub-CL
+S-V-O
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+NPofNP
+185333	Conj-CL
+CLaCL
+CLaCL
+S-V-O
+NP-Demo
+DetNP
+185341	BeVerb
+PrepNp
+sub-CL
+ADV-V-O
+185346	V-O
+V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+185352	Conj-CL
+V-ADV-S
+Np-Appos
+PrepNp
+DetCL
+PtclCL
+S-VC-P
+NPofNP
+185361	Conj-CL
+CLaCL
+S-ADV-ADV-V-O-ADV
+DetNP
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+V-O
+PrepNp
+185375	CLaCL
+S-O-V
+PtclCL
+S-V-O-ADV
+Demo-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+185385	S-V-O
+PtclCL
+S-O-V
+DetCL
+V-O
+185391	Np2CL
+DetCL
+P-ADV-VC
+PrepNp
+All-NP
+185397	Conj-CL
+185399	V2CL
+DetNP
+185402	Np2CL
+CLaCL
+V-O
+S-ADV-V-O
+PrepNp
+DetNP
+NPofNP
+185410	V-O
+sub-CL
+ADV-V-ADV
+PrepNp
+185415	Conj-CL
+185417	PrepNp
+ClCl
+ADV-V
+sub-CL
+S-P-VC
+S-ADV-VC-P
+PrepNp
+PrepNp
+185426	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+DetCL
+V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+185437	CLaCL
+S-O-V-ADV
+DetNP
+DetCL
+V-ADV
+PrepNp
+185444	V-O-ADV
+PrepNp
+NPofNP
+185448	Conj-CL
+ADV-V-ADV-ADV
+V2CL
+PrepNp
+NPofNP
+sub-CL
+V-IO
+185456	Conj-CL
+185458	sub-CL
+S-V-ADV
+DetNP
+NPofNP
+BeVerb
+PrepNp
+185465	Conj-CL
+185467	V2CL
+Np-Appos
+DetNP
+NpaNp
+185473	Np2CL
+V2CL
+V-O
+CLaCL
+S-V-ADV
+PrepNp
+DetNP
+185481	V-O
+185483	Conj-CL
+ADV-V-O
+V2CL
+185487	Conj-CL
+V-ADV
+PrepNp
+AdjpNp
+185492	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+185498	PrepNp
+V-O-ADV
+PtclCL
+ADV-V
+185503	Conj-CL
+185505	DetNP
+CLaCL
+CLaCL
+S-O-V
+DetNP
+185511	S-O
+DetNP
+NPofNP
+DetNP
+185516	S-ADV-V-O
+DetNP
+NPofNP
+DetNP
+ADV-O-V
+DetNP
+185523	Conj-CL
+185525	PrepNp
+V-O
+185528	Conj-CL
+185530	V-IO-O
+ADV-ADV-V-O
+V2CL
+DetNP
+NPofNP
+185536	Conj-CL
+185538	CLaCL
+V-O
+S-V-O
+DetAdj
+DetNP
+ofNPNP
+185545	S-ADV-V-O
+V2CL
+DetNP
+NPofNP
+DetNP
+185551	Conj-CL
+185553	AdvpNp
+CLaCL
+185556	Np2CL
+185558	ADV-V-IO-O
+V-O
+NpPp
+PrepNp
+DetNP
+NPofNP
+185565	Conj-CL
+185567	PrepNp
+DetNP
+S-ADV-P-VC-ADV
+CLaCL
+V-O-ADV
+DetNP
+PrepNp
+185575	V-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+185582	Conj-CL
+CLaCL
+ADV-V-S-O
+PrepNp
+DetNP
+NpNump
+185589	V-O-ADV-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+PrepNp
+NpaNp
+All-NP
+185597	NP-CL
+ADV-V-S-O
+V2CL
+185601	Conj-CL
+185603	PrepNp
+aCLaCL
+185606	S-P
+DetNP
+185609	S-P
+DetNP
+185612	Conj-CL
+185614	DetNP
+NPofNP
+DetNP
+sub-CL
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+185623	ClCl
+V2CL
+185626	sub-CL
+O-ADV
+PrepNp
+NPofNP
+185631	CLaCL
+ClClCl
+ADV-V-O
+ADV-O
+ADV-O
+185637	O-ADV-V
+PrepNp
+DetNP
+185641	Conj-CL
+ClCl2
+PtclCL
+ADV-V
+PrepNp
+PronNP
+185648	S-IO
+NP-Demo
+DetNP
+185652	Conj-CL
+185654	sub-CL
+P-VC-S
+NPofNP
+PrepNp
+DetNP
+NPofNP
+185661	Conj-CL
+sub-CL
+ADV-ADV-V
+PrepNp
+185666	Conj-CL
+ClCl
+ADV-V-ADV
+PrepNp
+PronNP
+DetNP
+V-O
+Conj2VP
+185675	NpPp
+PrepNp
+sub-CL
+P-S-ADV
+DetNP
+DetNP
+NPofNP
+185683	ADV-V-ADV
+2Pp
+PrepNp
+PrepNp
+185688	Conj-CL
+ClCl2
+PtclCL
+CLaCL
+ADV-V
+PrepNp
+PronNP
+185696	V-O
+Conj3CL
+V-O
+DetCL
+V-IO
+185702	V-O
+DetNP
+PpNp2Np
+PrepNp
+185708	V-ADV-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+185714	Conj-CL
+ClCl2
+PtclCL
+CLaCL
+ADV-V
+PrepNp
+PronNP
+185722	ADV-V-O
+185724	V-ADV
+PrepNp
+DetNP
+NPofNP
+CLaCL
+O-V-IO
+AdvpNp
+Np-Appos
+DetNP
+DetCL
+V-IO-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+185742	that-VP
+V-S
+DetNP
+NPofNP
+DetNP
+185749	that-VP
+CLaCL
+ADV-ADV-P-VC
+PrepNp
+NP-Demo
+DetNP
+185756	ADV2CL
+NP-Demo
+DetNP
+185762	Np2CL
+185764	Np2CL
+sub-CL
+185767	sub-CL
+ADV-V-S
+PrepNp
+NpaNp
+185772	Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+ADV-ADV-V
+ADV-V
+PrepNp
+NpaNp
+185783	sub-CL
+CLaCL
+ADV-P-VC-ADV
+NpaNp
+185788	PrepNp
+DetNP
+185791	ADV2CL
+185793	Conj-CL
+185795	S-ADV-V
+Np2CL
+PrepNp
+185799	ADV-V
+PrepNp
+DetNP
+185803	CLaCL
+S-O-V
+DetCL
+V-O
+185808	S-O-V
+DetCL
+V-O
+185812	Conj-CL
+S-V-O
+DetCL
+O-V
+DetCL
+V-O
+185819	Conj-CL
+V-S-ADV-ADV
+DetNump
+PrepNp
+185825	Np2CL
+AdvpNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+185832	Conj-CL
+185834	V-O
+S-ADV-ADV-V
+DetNP
+sub-CL
+S2CL
+PrepNp
+DetNP
+185843	V-IO-O-ADV
+DetNP
+DetCL
+V-ADV
+Conj2Pp
+PrepNp
+NpaNp
+185852	PrepNp
+All-NP
+DetNP
+NPofNP
+DetAdj
+185858	S-O-ADV-V
+2Advp_h1
+185861	sub-CL
+CLaCL
+ClCl
+ADV-ADV-V
+PrepNp
+sub-CL
+S-ADV-V
+DetNP
+185870	ClCl
+V2CL
+sub-CL
+S-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+185879	CLaCL
+ADV-V-ADV
+PrepNp
+PronNP
+DetNP
+DetNP
+NPDetAdj
+DetAdj
+185889	ClCl
+ClCl
+ClCl
+185893	Np2CL
+Np-Appos
+NPofNP
+NpaNp
+DetNP
+185899	DetNP
+sub-CL
+CLaCL
+V-O-ADV
+PrepNp
+NpaNp
+185907	V-O-IO
+ClCl
+185910	Np2CL
+DetNP
+sub-CL
+ADV-S-V-ADV
+PrepNp
+CLaCL
+S-IO-V-ADV
+PrepNp
+DetNP
+NPofNP
+185921	S-V-O
+CLaCL
+ClCl
+P-VC-S
+DetNP
+sub-CL
+ADV-S
+DetNP
+185930	ClCl
+P-VC-S
+DetNP
+sub-CL
+ADV-S
+NpaNp
+DetNP
+185938	PtclCL
+O-V-S
+IO-V
+DetNP
+185943	Conj-CL
+185945	V-ADV
+PrepNp
+DetNP
+PrepNp
+ClCl
+P-S
+Np-Appos
+DetNP
+DetCL
+V-O
+O-V
+sub-CL
+185958	that-VP
+CLaCL
+CLaCL
+S-V-O
+AdjpNp
+NpaNp
+185965	V-O
+O-S-V
+185968	ADV-V
+185970	CLaCL
+V-O
+O-V
+185974	ADV-V
+185976	Conj-CL
+185978	NpAdjp
+V-O
+185982	Np2CL
+O-V
+NpAdjp
+185986	Conj-CL
+185988	PrepNp
+185990	PrepNp
+DetNP
+ADV-V
+185994	Conj-CL
+185996	V2CL
+CLaCL
+V-O-ADV
+Np-Appos
+DetNP
+NPofNP
+Conj4Pp
+PrepNp
+All-NP
+DetNP
+NPofNP
+186008	PrepNp
+All-NP
+DetNP
+NPofNP
+186013	PrepNp
+All-NP
+DetNP
+NPofNP
+186018	PrepNp
+All-NP
+DetNP
+NPofNP
+186024	DetNP
+NPofNP
+sub-CL
+O2CL
+186029	Conj-CL
+186032	CLaCL
+O-V
+186035	V2CL
+186037	Conj-CL
+186039	V-O
+V-O
+PrepNp
+DetNP
+Conj-CL
+S-VC-P
+ofNPNP
+186048	V2CL
+DetNP
+CLaCL
+S-V-ADV
+NpAdjp
+2Pp
+PrepNp
+PrepNp
+186058	S-ADV-ADV-V-ADV
+CLaCL
+V-O
+186062	O-V
+V-O
+186065	Conj-CL
+CLaCL
+ADV-S-V-ADV
+PrepNp
+NpAdjp
+PrepNp
+NP-Demo
+DetNP
+186074	ADV-V
+V-O
+186077	Conj-CL
+ADV-S-ADV-V
+AdvpNp
+CLaCL
+ADV-V
+PrepNp
+DetNP
+186085	V2CL
+186087	Conj-CL
+Conj3CL
+S-ADV-V-ADV
+NpAdjp
+V2CL
+PrepNp
+186094	ADV-V
+V2CL
+186097	CLaCL
+ADV-V-O-ADV
+V2CL
+DetNP
+NPofNP
+V-O
+NpaNp
+186106	CLaCL
+ADV-V-O-ADV
+V-O-ADV
+PrepNp
+DetNP
+AdjpNp
+PrepNp
+186114	V-O
+186116	Conj-CL
+CLaCL
+ADV-ADV-V-IO
+PrepNp
+DetNP
+V-O
+NumpNP
+DetNP
+186126	CLaCL
+V-O
+186129	O-S-ADV-V-IO
+NP-CL
+PtclCL
+O-V
+PrepNp
+DetCL
+V-S
+186137	V-ADV-S
+S-VC-P
+NPofNP
+Demo-NP
+DetAdj
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+186148	Conj-CL
+186150	S2CL
+DetCL
+V-O-ADV
+DetNP
+PrepNp
+186156	Conj-CL
+186158	DetNP
+CLaCL
+V2CL
+186162	S-V-ADV
+186164	Conj-CL
+ADV-S-V-ADV
+PrepNp
+DetCL
+V-S
+PrepNp
+NpAdjp
+186172	Conj-CL
+S-V-O-ADV
+NpAdjp
+NpAdjp
+ADV-P
+PrepNp
+DetNP
+186180	Conj-CL
+P-VC-S
+NP-CL
+NpAdjp
+VC-P
+S-ADV-ADV-V-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+186194	Conj-CL
+S-V-ADV
+DetNP
+PrepNp
+AdjpNp
+186200	Conj-CL
+186202	V2CL
+ClCl
+186205	Np2CL
+that-VP
+S-O-V
+DetNP
+NPofNP
+S-V
+AdjpNp
+Conj-CL
+186214	that-VP
+O-V
+186217	Conj-CL
+186219	V2CL
+DetNP
+ClCl2
+ClCl
+ClCl
+Np2CL
+Np2CL
+CLaCL
+V-ADV
+Conj2VP
+186230	PrepNp
+186232	CLaCL
+S-V
+ofNPNP
+186236	S2CL
+sub-CL
+186239	DetNP
+AdjpNp
+S-ADV-V-ADV
+186243	Conj-CL
+186245	V-ADV
+PrepNp
+DetCL
+V-S-ADV
+BeVerb
+PrepNp
+NpAdjp
+sub-CL
+V2CL
+186255	NPofNP
+DetNP
+NPofNP
+PrepNp
+186260	Np2CL
+S-V
+sub-CL
+S-V-O
+AdvpNp
+DetNP
+NPofNP
+186268	Conj-CL
+186270	ClCl2
+sub-CL
+V2CL
+186274	ClCl
+186276	Np2CL
+DetNP
+NPofNP
+V-S
+DetNP
+NPofNP
+186283	O-V-IO-ADV
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+NpPp
+PrepNp
+186291	Conj-CL
+ClCl
+V-IO-O
+DetNP
+NPofNP
+sub-CL
+S-V-IO
+AdvpNp
+All-NP
+V-IO
+186302	Conj-CL
+ADV-V-O-ADV
+PrepNp
+186306	Conj-CL
+186308	PrepNp
+Conj3CL
+S-V-O
+NpPp
+PrepNp
+186314	V-ADV-ADV
+PrepNp
+186319	Np2CL
+AdjpNp
+sub-CL
+CLaCL
+S-V-ADV-ADV
+NPofNP
+PrepNp
+PrepNp
+186328	ADV-V-O
+O-V-IO
+186332	V2CL
+ClClCl
+ADV-IO-O-V
+CLaCL
+ADV-S-V
+DetNP
+186339	S-ADV-P-VC
+DetNP
+NPofNP
+PrepNp
+PrepNp
+DetNP
+ADV-V-O
+ADV-V-IO
+V2CL
+186350	ClCl2
+sub-CL
+ADV-ADV-V-IO-ADV-ADV
+V2CL
+PrepNp
+DetCL
+VC-P
+NPofNP
+PtclCL
+ADV-ADV-V-IO-O
+PrepNp
+DetNP
+NPofNP
+V2CL
+O-V
+186367	ClCl
+ClClCl
+CLaCL
+V2CL
+186372	V-IO
+CLaCL
+V2CL
+186376	V2CL
+CLaCL
+V2CL
+186380	V-IO
+sub-CL
+Conj3CL
+S-V
+All-NP
+DetCL
+V2CL
+186388	S-V
+DetCL
+V2CL
+186392	IO-V
+DetCL
+V2CL
+186396	Conj-CL
+CLaCL
+186399	Np-Appos
+NpPp
+PrepNp
+DetNP
+DetNP
+PtclCL
+ADV-O-IO-V
+PrepNp
+186409	V-IO-O
+186411	Conj-CL
+ClCl2
+sub-CL
+S-ADV-V-O
+P-VC
+O-V-IO
+NpAdjp
+DetNP
+NPofNP
+ADV-S-V-O-IO
+2Advp_h2
+Np-Appos
+DetNP
+NpPp
+PrepNp
+NpAdjp
+DetCL
+V-O
+186430	Conj-CL
+CLaCL
+V-O
+BeVerb
+186435	S-VC-P
+186437	Conj-CL
+ClCl2
+V2CL
+ClCl2
+S-V
+DetNP
+V-S
+DetAdj
+186446	Conj-CL
+V-S
+DetNP
+186450	Conj-CL
+186452	NpPp
+PrepNp
+ADV-V-O
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetNP
+186462	Conj-CL
+S-ADV-O-V-ADV
+V2CL
+NpPp
+PrepNp
+PrepNp
+186469	Conj-CL
+186471	V-O
+ofNPNP
+DetNP
+CLaCL
+S-V
+All-NP
+NpAdjp
+ADV-V
+PrepNp
+186481	S-ADV-V
+PrepNp
+186484	Conj-CL
+ClCl
+ClCl2
+sub-CL
+S-ADV-V
+AdvpNp
+DetNP
+PrepNp
+ADV-V-S
+DetNP
+NPofNP
+sub-CL
+V-O
+ADV-V-S-O
+PrepNp
+DetNP
+186501	Conj-CL
+186503	sub-CL
+S-ADV-V-O
+PrepNp
+DetNP
+DetNP
+NPofNP
+PrepNp
+186511	ADV-S-P-VC
+PrepNp
+ofNPNP
+186515	Conj-CL
+186517	sub-CL
+ADV-S-V-O
+PrepNp
+NPofNP
+DetNP
+V-ADV-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+186529	sub-CL
+S-ADV-V-O
+DetAdj
+V2CL
+DetNP
+ofNPNP
+PrepNp
+NPofNP
+DetCL
+V2CL
+186540	Conj-CL
+ClCl2
+sub-CL
+S-ADV-V-O
+AdjpAdvp
+V2CL
+CLaCL
+186548	O-V
+DetNP
+NPofNP
+PrepNp
+186553	O-V
+DetNP
+NPofNP
+186557	CLaCL
+S-P-VC
+DetCL
+ADV-VC-P
+PrepNp
+PrepNp
+186564	S-V
+DetCL
+ADV-V-ADV
+PrepNp
+186569	ClCl2
+sub-CL
+S-V-ADV
+DetNP
+AdjpNp
+PrepNp
+DetNP
+CLaCL
+V-ADV-ADV
+PrepNp
+AdjpNp
+V-O
+186583	ADV-V
+V-ADV
+PrepNp
+DetNP
+NP-CL
+NPofNP
+ADV-V
+186591	Conj-CL
+ADV-V-O
+V2CL
+CLaCL
+V2CL
+186597	V2CL
+186599	CLaCL
+Conj3CL
+ADV-V
+186603	V-O
+AdjpNp
+NpNump
+NpAdjp
+AdjpAdvp
+186609	ADV-V-ADV
+V2CL
+186612	VC-S-P-ADV
+DetNP
+NPofNP
+NP-Demo
+DetNP
+DetAdj
+186619	Conj-CL
+186621	V-ADV
+PrepNp
+DetCL
+V-S-O
+V-O
+AdjpNp
+NpPp
+PrepNp
+DetNP
+P-S
+NpaNp
+Np-Appos
+DetNP
+DetCL
+V-O
+186637	NP-CL
+O-V
+186640	Conj-CL
+186642	PtclCL
+P-S
+DetNP
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+186651	V2CL
+186653	Conj-CL
+ClCl2
+S-V
+DetNP
+V-O
+186659	ClCl
+ClCl
+S-P-VC
+NP-Demo
+DetNP
+NpAdjp
+CLaCL
+O-V
+186669	sub-CL
+ADV-S
+DetNP
+NPofNP
+sub-CL
+ClCl2
+sub-CL
+VC-S-ADV-P
+DetNP
+P-VC-S-ADV
+AdvpNp
+DetNP
+NPofNP
+DetNP
+NP-Demo
+DetNP
+186686	CLaCL
+ClCl
+CLaCL
+S-V-ADV-ADV
+NPofNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+186699	V-O
+sub-CL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-O
+DetNP
+NPofNP
+186711	AdjpAdvp
+186713	CLaCL
+ClCl
+CLaCL
+S-V-ADV-ADV
+Np-Appos
+PrepNp
+DetNP
+PrepNp
+NP-Demo
+DetNP
+186724	V-O
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+186732	AdjpAdvp
+186734	CLaCL
+CLaCL
+S-ADV-ADV-V
+O-V
+PrepNp
+186740	ADV2CL
+PrepNp
+DetNP
+186744	ClCl
+ADV2CL
+PrepNp
+DetNP
+sub-CL
+S-O-V
+DetCL
+V2CL
+DetNP
+186754	S-VC-P
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+186762	sub-CL
+S-P-VC
+DetNP
+NPofNP
+AdvpNp
+All-NP
+DetNP
+NPofNP
+186771	Conj-CL
+186773	sub-CL
+P-VC
+AdvpNp
+DetNP
+NPofNP
+186779	Conj-CL
+ClCl
+V2CL
+PtclCL
+S-P-VC
+Np-Appos
+DetNP
+NpPp
+PrepNp
+186789	Conj-CL
+186791	sub-CL
+S-P-ADV
+NP-all
+DetNP
+NPofNP
+ADV-V-O
+NpAdjp
+NpAdjp
+AdjpAdjp
+sub-CL
+sub-CL
+S-ADV-V-O
+DetNP
+DetNP
+186806	Conj-CL
+186808	PrepNp
+DetCL
+V2CL
+sub-CL
+V-ADV
+PrepNp
+186815	Conj-CL
+ADV-V
+V2CL
+186819	Conj-CL
+186821	DetNP
+V2CL
+sub-CL
+ADV-ADV-V-ADV
+PrepNp
+DetNP
+186828	Conj-CL
+186830	DetNP
+PrepNp
+CLaCL
+ADV-S-O-V
+Np-Appos
+DetNP
+DetNP
+NPofNP
+NpaNp
+DetNP
+186841	DetNP
+186843	S-V-O
+DetNP
+NPofNP
+NpaNp
+186850	Np2CL
+S-O-V
+DetCL
+V-O
+DetNP
+AdvpNp
+DetNP
+186858	sub-CL
+CLaCL
+O-V-O2
+DetCL
+V2CL
+186866	Conj-CL
+186868	Np-Appos
+DetNP
+sub-CL
+CLaCL
+V-O
+Conj3Np
+DetNP
+186876	DetNP
+186878	All-NP
+186880	V-ADV
+NpaNp
+DetNP
+186884	DetNP
+NPofNP
+DetNP
+186888	Conj-CL
+V-S
+ClCl
+O-V
+O-ADV-V
+186894	ClCl
+S-IO
+Np-Appos
+DetNP
+sub-CL
+V-O
+NpaNp
+DetNP
+NpPp
+PrepNp
+DetNP
+186906	DetNP
+NpPp
+PrepNp
+DetNP
+186911	ClCl
+S-IO
+sub-CL
+CLaCL
+VC-P
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+186921	S-ADV-V
+Np-Appos
+DetNP
+DetCL
+V-ADV
+186927	Conj-CL
+186929	V2CL
+NPofNP
+DetAdj
+186933	Np2CL
+O-V
+AdvpNp
+186937	Conj-CL
+186940	AdvpNp
+Np-Appos
+DetAdj
+sub-CL
+CLaCL
+V-O-O2
+DetNP
+NpAdjp
+186949	S-ADV-ADV-V-O
+NPofNP
+DetNP
+NPofNP
+DetNP
+186956	sub-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+186963	S-V-O
+DetNP
+NPofNP
+186967	Conj-CL
+ClCl
+CLaCL
+P-VC
+186972	V-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+aCLaCL
+186980	S-V-O
+186982	S-V
+186985	PrepNp
+AdvpNp
+DetNP
+NPofNP
+DetNP
+CLaCL
+V-ADV-O
+PrepNp
+NpaNp
+186996	ClCl
+ADV-V
+PrepNp
+Conj2VP
+187001	sub-CL
+V-S-ADV-ADV
+Np-Appos
+DetNP
+NPofNP
+All-NP
+DetNP
+DetCL
+V-ADV
+PrepNp
+NPofNP
+PrepNp
+NP-Demo
+DetNP
+2Pp
+PrepNp
+NPofNP
+PrepNp
+NPofNP
+Np-Appos
+DetCL
+V-ADV
+PrepNp
+NpaNp
+DetNP
+187027	DetNP
+187030	Intj2CL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+187037	Np-Appos
+DetAdj
+sub-CL
+187041	DetNP
+NPofNP
+DetNP
+CLaCL
+S-ADV-V
+187047	O-V
+DetCL
+V2CL
+187051	ClCl2
+ADV-V-S
+V-S-O-ADV
+NpaNp
+DetNP
+187057	DetNP
+CLaCL
+ADV-V
+187061	V-O-ADV
+PrepNp
+V-O-ADV
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+187070	ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-O
+187078	PrepNp
+DetNP
+NPofNP
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+NP-CL
+S-VC-P
+DetNP
+187089	Conj-CL
+187091	NpaNp
+NP-CL
+V2CL
+S-ADV-V
+187096	NP-CL
+S-ADV-V
+ADV2CL
+PrepNp
+CLaCL
+ADV-S-ADV-V
+O-ADV-V
+PrepNp
+DetNP
+PrepNp
+DetNP
+187108	S-V-ADV
+O-ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+187117	Conj-CL
+187119	Np-Appos
+DetNP
+NPofNP
+ADV-V-ADV
+PrepNp
+DetCL
+CLaCL
+V-O
+DetNP
+187129	ADV-ADV-V-O
+PrepNp
+O-V
+AdjpNp
+187134	Conj-CL
+187136	O-V
+187138	V-O
+DetCL
+ADV-V-O-ADV
+PrepNp
+DetCL
+V2CL
+V-ADV
+PrepNp
+DetNP
+187149	Intj2CL
+O-V
+187152	PtclCL
+S-V-ADV
+NumpNP
+NpNump
+187157	Conj-CL
+S-ADV-V-ADV
+NpPp
+PrepNp
+BeVerb
+PrepNp
+DetNP
+187165	Conj-CL
+S-V
+AdvpNp
+NP-all
+DetNP
+NPofNP
+DetNP
+NPofNP
+187174	ADV-V
+187176	ADV-V
+AdjpNp
+187179	Conj-CL
+187182	Np2CL
+All-NP
+PtclCL
+S-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+AdvpNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+187199	Conj-CL
+S-V-ADV
+DetCL
+V-O-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+187210	Conj-CL
+187212	Np2CL
+All-NP
+S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+187220	Conj-CL
+IO-ADV-V
+DetCL
+ADV-V
+PrepNp
+DetNP
+AdjpNp
+187228	Conj-CL
+ClCl2
+sub-CL
+V-O-ADV
+PrepNp
+Conj3Np
+DetNP
+187236	DetNP
+187238	DetNP
+ADV-V-O
+Conj3CL
+ADV2CL
+187243	O-V
+187245	O-V
+187247	Conj-CL
+S-V-O-ADV-O2
+DetNP
+AdjpNp
+PrepNp
+PronNP
+DetNP
+S-V
+O-V
+187257	Conj-CL
+187259	NpPp
+PrepNp
+DetNP
+187263	Np2CL
+DetNP
+NPofNP
+V-ADV-O
+PrepNp
+DetNP
+187270	Conj-CL
+187273	Np2CL
+NpPp
+NpaNp
+187277	PrepNp
+187279	Conj-CL
+187281	PrepNp
+ClCl
+CLaCL
+V2CL
+187286	V-ADV
+PrepNp
+All-NP
+sub-CL
+ADV-ADV-S-VC-P
+PrepNp
+DetCL
+V-ADV
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-ADV
+187300	Conj-CL
+V-O-ADV-ADV
+PrepNp
+187304	S-V
+ofNPNP
+NpAdjp
+NpAdjp
+DetNP
+187310	Conj-CL
+V-ADV-ADV
+PrepNp
+187314	ClCl
+O-V
+sub-CL
+ADV-V-O
+ADV-V-O
+DetNP
+NPofNP
+187322	Conj-CL
+187324	ClCl
+O-V
+CLaCL
+CLaCL
+CLaCL
+V-O
+ofNPNP
+DetNP
+187333	O-V
+187335	V-ADV-O
+All-NP
+NPofNP
+NpaNp
+DetNP
+187341	DetNP
+187344	DetNP
+NPofNP
+187347	Np2CL
+AdjpNp
+NpAdjp
+V-ADV
+PrepNp
+NpAdjp
+ClClClCl
+V2CL
+V2CL
+V2CL
+V2CL
+187359	Conj-CL
+187361	DetNP
+187363	Np2CL
+ADV-O-V-ADV
+Demo-NP
+DetNP
+DetNP
+NPofNP
+PrepNp
+187371	S-P-VC
+O-V
+187374	P-S
+DetCL
+CLaCL
+V-IO
+187379	ADV-ADV-V
+PrepNp
+187382	Conj-CL
+187384	PrepNp
+DetNP
+NPofNP
+187388	PrepNp
+CLaCL
+ADV-V-ADV-O
+DetNP
+O-V
+187394	ADV-O
+DetNP
+O-V
+187398	Conj-CL
+CLaCL
+S-P-VC-ADV
+DetNP
+DetNP
+187404	S-ADV
+DetNP
+DetNP
+187408	CLaCL
+187410	DetNP
+that-VP
+aCLaCL
+187414	V2CL
+187416	V2CL
+P-ADV-VC-S
+NpaNp
+187421	S-V-O
+DetNP
+187424	ADV-S-V-ADV
+2Advp_h2
+DetNP
+187428	Conj-CL
+S-ADV-V-O
+NpPp
+PrepNp
+V2CL
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+187438	Conj-CL
+187440	sub-CL
+ADV-O-V
+PrepNp
+DetAdj
+187446	DetNP
+ADV-V
+EitherOrVp
+187452	Conj-CL
+187454	ClCl
+ADV-S-ADV-V
+PrepNp
+All-NP
+DetNP
+NPofNP
+sub-CL
+S2CL
+NPofNP
+187464	Conj-CL
+187466	sub-CL
+O-ADV-S-ADV-V
+PpNp2Np
+PrepNp
+DetNP
+CLaCL
+V-ADV
+187474	ADV-ADV-V
+PrepNp
+DetNP
+ADV-O
+2Advp_h2
+Np2CL
+187481	CLaCL
+S-ADV-V-O
+AdvpNp
+CLaCL
+O-V
+187487	O-V
+187489	ADV-V
+187491	Conj-CL
+O-S-V
+NP-all
+DetNP
+NPofNP
+DetNP
+187498	Conj-CL
+187500	ofNPNP
+DetNP
+that-VP
+V-O
+187505	Conj-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+187511	S-V-IO
+187514	Np2CL
+DetNP
+AdjpNp
+sub-CL
+V-S-O
+DetNP
+NPofNP
+V-IO-O
+DetNP
+187524	CLaCL
+V-O
+NPofNP
+DetCL
+V2CL
+187530	V-O
+187532	V-IO-O
+2Np
+NpAdjp
+ADV-V
+NpPp
+NpAdjp
+PrepNp
+NP-CL
+DetNP
+CLaCL
+ADV-S-ADV-V
+187544	S-V
+187546	Conj-CL
+ClCl2
+P-VC-S
+DetNP
+NPofNP
+P-S-VC
+AdvpNp
+DetNP
+NPofNP
+187556	ClCl
+CLaCL
+CLaCL
+VC-S-P
+ofNPNP
+DetNP
+V2CL
+187564	S-P
+DetNP
+V2CL
+187568	S-P-ADV
+NpAdjp
+V-O
+DetNP
+NPofNP
+187574	PrepNp
+DetNP
+sub-CL
+187578	CLaCL
+V2CL
+187581	V2CL
+187583	P-S
+NP-CL
+NP-Demo
+DetNP
+O-ADV-S-V
+S-V
+V2CL
+DetNP
+187593	V-IO
+that-VP
+Conj3CL
+V2CL
+187598	V-O
+187600	ADV-V-O
+V2CL
+187603	ClCl2
+sub-CL
+CLaCL
+ADV-V
+Conj2Pp
+PrepNp
+DetAdj
+187611	PrepNp
+DetNP
+AdjpNp
+187615	V-ADV
+P-VC-S
+187618	Conj-CL
+187620	that-VP
+ClCl2
+sub-CL
+V-S-O
+DetNP
+ADV-S-V
+AdjpNp
+DetNP
+PtclCL
+ADV-V-O
+V-S
+DetNP
+NPofNP
+187634	ClCl
+S-VC-P
+AdvpNp
+sub-CL
+ADV-S-V
+ADV-ADV-V
+PronNP
+DetNP
+NPofNP
+DetNP
+187645	Conj-CL
+187647	DetNP
+187649	Np2CL
+ADV-O-V
+PrepNp
+NP-Demo
+DetNP
+187655	ADV-ADV
+PrepNp
+187658	Conj-CL
+187660	DetNP
+Conj-CL
+P-VC-S
+DetNP
+NP-CL
+AdjpNp
+NPDetAdj
+DetAdj
+O-V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetCL
+V-ADV-O
+PrepNp
+DetNP
+187678	P-S
+NP-CL
+NP-Demo
+DetNP
+O-ADV-S-V
+S-V-ADV
+V2CL
+DetNP
+NPofNP
+187689	that-VP
+ADV-V-O
+PrepNp
+All-NP
+NPofNP
+DetCL
+V2CL
+187697	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+187702	NP-Demo
+DetNP
+PrepNp
+DetNP
+NPofNP
+V-S-O
+DetNP
+NPofNP
+V2CL
+187712	V-O
+ClCl
+V-O
+NpaNp
+DetNP
+187718	DetNP
+V2CL
+EitherOr3Vp
+187724	CLaCL
+V-S-ADV
+DetNP
+NPofNP
+NP-Demo
+DetNP
+Conj2Pp
+PrepNp
+NP-CL
+ADV-ADV-V
+187735	PrepNp
+NP-CL
+ADV-ADV-V
+187739	CLaCL
+V-O
+187742	O-ADV-V
+DetNP
+NPofNP
+PrepNp
+DetAdj
+187748	Conj-CL
+S-V-ADV
+Np-Appos
+Demo-NP
+DetNP
+DetCL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+187761	ADV-V-ADV
+Conj2VP
+187764	PrepNp
+DetNP
+NPofNP
+187768	Conj-CL
+S-V-ADV
+DetCL
+CLaCL
+ADV-V
+187774	V-O
+AdjpAdvp
+187777	Conj-CL
+CLaCL
+187780	Np2CL
+All-NP
+IO-V-S
+PrepNp
+187786	IO-V-O
+187788	CLaCL
+V-ADV
+O-V-ADV
+PrepNp
+DetNP
+187795	sub-CL
+ADV-V
+187798	Conj-CL
+CLaCL
+O-V-ADV
+V2CL
+187803	ADV-V-ADV
+PrepNp
+ADV-V
+187808	that-VP
+V-ADV
+O-V-ADV
+PrepNp
+DetNP
+187815	CLaCL
+ADV2CL
+187818	ConjConj
+O2CL
+187821	Conj-CL
+ClCl
+187824	BeVerb
+PrepNp
+DetNP
+NpPp
+PrepNp
+AdjpNp
+CLaCL
+S-ADV
+PrepNp
+187834	S-ADV
+PrepNp
+ClClCl
+CLaCL
+V-S-ADV
+PrepNp
+187841	S-ADV
+PrepNp
+CLaCL
+S-ADV
+PrepNp
+187847	S-ADV
+PrepNp
+DetNP
+CLaCL
+S-ADV
+PrepNp
+DetNP
+NPofNP
+187856	S-ADV
+PrepNp
+DetNP
+187860	Conj-CL
+187862	AdvpNp
+DetNP
+CLaCL
+ClCl2
+sub-CL
+V-O
+S-V-ADV
+PrepNp
+187871	that-VP
+S-V
+187874	V-ADV
+187876	Conj-CL
+CLaCL
+ClCl2
+sub-CL
+S-V
+187882	that-VP
+P-VC
+187885	V2CL
+187888	Np2CL
+O-V
+O-V
+DetNP
+NPofNP
+NpaNp
+DetNP
+187896	DetNP
+187898	O-ADV-ADV-V
+NP-Demo
+DetNP
+187902	Conj-CL
+ADV-ADV-ADV-V-O
+AdvPp
+PrepNp
+DetAdj
+187908	Conj-CL
+ClCl
+187911	sub-CL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+PrepNp
+DetNP
+V-ADV
+PrepNp
+Conj3CL
+ADV-ADV-V-O-ADV
+PrepNp
+DetNP
+187926	S-O-V-IO
+DetNP
+DetNP
+187930	S-O-V-ADV
+DetNP
+PrepNp
+187935	ClCl
+ADV-V-ADV
+2Advp_h1
+sub-CL
+O-V
+AdvpNp
+DetNP
+AdjpNp
+187944	Conj-CL
+V-S-ADV-ADV
+PrepNp
+PronNP
+DetNP
+V-IO-ADV
+PrepNp
+DetNP
+NP-CL
+O-S-V-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+187960	Conj-CL
+187962	V2CL
+187964	that-VP
+187966	NP-Demo
+DetNP
+PrepNp
+All-NP
+DetNP
+sub-CL
+O-V
+187974	ClCl2
+ADV2CL
+187977	Conj-CL
+187979	sub-CL
+ADV-V
+187982	Conj-CL
+187984	Np2CL
+NP-CL
+Demo-NP
+DetNump
+NumpNump
+CLaCL
+ADV-V-S
+PrepNp
+DetNP
+NpPp
+PrepNp
+DetNP
+187997	V-O
+that-VP
+S-P-VC-ADV
+PrepNp
+All-NP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+188008	Intj2CL
+Conj-CL
+188011	sub-CL
+ADV-V
+188014	Conj-CL
+V-O
+Demo-NP
+DetNP
+188019	CLaCL
+O-V-S-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+188026	CLaCL
+V-ADV
+V-O-ADV
+PrepNp
+188031	ADV-V
+188033	Conj-CL
+188035	PrepNp
+DetNP
+ClCl2
+V2CL
+CLaCL
+ADV-ADV
+AdjpNp
+PrepNp
+ADV-V-ADV
+V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+188049	ADV-V
+188051	V-O
+188053	ADV-O-V
+PrepNp
+AdvpNp
+DetNP
+188058	Conj-CL
+188060	V2CL
+188062	Np2CL
+AdvpNp
+Demo-NP
+DetNP
+PrepNp
+CLaCL
+ADV-V-ADV
+PrepNp
+188071	V-O
+188073	aCLaCL
+188075	sub-CL
+V-O-ADV
+PrepNp
+DetCL
+V2CL
+188082	sub-CL
+ADV2CL
+188085	Conj-CL
+V-ADV-ADV
+BeVerb
+PrepNp
+NPofNP
+DetNP
+PrepNp
+DetNP
+188094	Conj-CL
+188096	Np2CL
+NpAdjp
+O-V-ADV
+NPofNP
+NpNump
+NumpNump
+188103	CLaCL
+VC-P
+V2CL
+188107	ADV-V-O
+V-ADV
+PrepNp
+DetAdj
+188112	Conj-CL
+CLaCL
+ADV-S-V
+V-O
+DetNP
+188120	Np2CL
+DetNP
+NPofNP
+188124	Conj-CL
+CLaCL
+V-IO-O
+DetNP
+188129	CLaCL
+ADV-V
+188132	V-O
+DetNP
+188135	Conj-CL
+188137	V2CL
+DetNP
+188140	that-VP
+ADV-V-S
+DetNP
+DetNP
+DetNP
+that-VP
+ClCl
+188148	NumpNP
+ADV-V-S
+PrepNp
+V2CL
+Conj-CL
+CLaCL
+ADV-ADV-V
+PrepNp
+V2CL
+188158	ADV-ADV
+DetNP
+NPofNP
+DetNP
+188163	Conj-CL
+CLaCL
+V-IO-S
+DetNP
+188170	Np2CL
+CLaCL
+S-ADV-V-O-ADV
+NPofNP
+DetNP
+NpaNp
+DetNP
+NPofNP
+188179	DetNP
+PrepNp
+DetNP
+188183	ADV-V
+V2CL
+188186	Conj-CL
+188188	S-V-ADV-ADV
+NP-CL
+NpAdjp
+P-VC
+NPofNP
+O-V-S-ADV
+DetNP
+V2CL
+NumpNP
+Conj2Nump
+188199	PrepNp
+DetNP
+NP-Demo
+DetNP
+NPofNP
+DetNP
+188206	Conj-CL
+CLaCL
+188209	O-V-S
+All-NP
+DetCL
+V-O
+188214	S-V-ADV
+All-NP
+DetNP
+PrepNp
+All-NP
+Np-Appos
+DetAdj
+DetCL
+V-ADV
+PrepNp
+188225	Conj-CL
+188227	CLaCL
+ADV-P-VC-S
+DetNP
+NPofNP
+DetNP
+188233	ADV-V-O
+188235	P-VC-ADV
+NP-CL
+NPofNP
+Conj4CL
+ADV-S-V-ADV
+O-V
+PrepNp
+NPofNP
+188244	V2CL
+188246	V-ADV
+PrepNp
+188249	S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+188257	Conj-CL
+188259	ADV-V-O
+DetNP
+NPofNP
+DetNP
+188264	P-VC-ADV
+NP-CL
+ADV-S-V-ADV-ADV
+O-V
+PrepNp
+ofNPNP
+NpAdjp
+PrepNp
+ADV-V-S
+188274	Conj-CL
+V-ADV-ADV
+PrepNp
+NpaNp
+188279	CLaCL
+V2CL
+188282	O-V-ADV
+PrepNp
+188285	Conj-CL
+188288	Np2CL
+P-S
+DetCL
+V2CL
+188293	Conj-CL
+188295	PrepNp
+ClCl
+V-ADV
+V-ADV
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+188304	CLaCL
+S-V-O
+V2CL
+188308	ADV-V
+188310	CLandCL2
+ADV2CL
+PrepNp
+PtclCL
+CLaCL
+CLaCL
+ADV-V-S
+DetNP
+188319	V-O
+DetNP
+188322	V-O-ADV
+CLaCL
+ADV-V
+188326	V-O
+DetNP
+188330	Np2CL
+188333	V2CL
+188335	P-VC
+188337	ADV-V-O
+188339	CLaCL
+CLaCL
+V-ADV
+PrepNp
+188344	V2CL
+188346	ADV-V
+PrepNp
+DetNP
+NPofNP
+188351	Conj-CL
+V-ADV
+188354	ClCl
+188356	P-VC
+188358	PrepNp
+Np2CL
+All-NP
+NPofNP
+188364	NpaNp
+DetNP
+188367	DetNP
+NPofNP
+DetNP
+sub-CL
+V-O
+CLaCL
+S-ADV
+Conj4Np
+188378	All-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+188385	S-V-ADV
+188387	Conj-CL
+CLaCL
+V-ADV
+Conj2Pp
+PrepNp
+NpaNp
+188395	PrepNp
+NpaNp
+188399	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+188405	Conj-CL
+188407	V-S
+NP-CL
+S-VC-P
+188411	V-S
+NP-CL
+S-VC-P
+188415	ADV-V-S-ADV
+PrepNp
+PronNP
+DetNP
+AdjpNp
+188421	ClCl
+V-ADV
+Conj2VP
+188425	sub-CL
+S-V-O
+O-V
+188429	Conj-CL
+188432	V2CL
+NP-Demo
+DetNP
+188436	V-ADV
+CLaCL
+V-O
+188440	O-V
+NpaNp
+188444	ADV-V
+DetAdj
+188447	sub-CL
+188449	S-ADV-V
+Conj3Np
+188453	DetCL
+V2CL
+sub-CL
+ADV-V-S
+S-V-ADV
+PrepNp
+188460	ClCl2
+188462	Np2CL
+Np2CL
+Np2CL
+DetCL
+CLaCL
+V-O
+DetNP
+188470	V-O
+DetCL
+V-ADV
+PrepNp
+CLaCL
+ADV-V-O
+188477	DetNP
+NPofNP
+ADV-S-O-ADV
+PronNP
+DetNP
+ofNPNP
+PrepNp
+DetNP
+188486	ADV-V
+188489	DetNP
+NPofNP
+188492	Conj-CL
+188494	ClCl
+ADV-V-O
+2Advp_h1
+sub-CL
+ClCl
+V2CL
+sub-CL
+188502	P-S
+V2CL
+DetCL
+V-ADV
+PrepNp
+NPofNP
+188509	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+DetCL
+V-S-ADV-ADV-ADV
+PrepNp
+NPofNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+V-O
+188523	S-V-O
+BeVerb
+188526	Conj-CL
+188528	NpAdjp
+NpAdjp
+PrepNp
+188532	Conj-CL
+ADV-S-V-ADV-ADV
+V2CL
+DetNP
+PrepNp
+DetNP
+NpaNp
+188541	ClCl
+V-S
+ADV-V
+DetNP
+sub-CL
+ADV2CL
+188548	Conj-CL
+S-V
+188551	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+188556	V2CL
+188558	Conj-CL
+188560	PrepNp
+CLaCL
+S-ADV-V
+ofNPNP
+NPofNP
+NpaNp
+188567	PrepNp
+188569	PtclCL
+ADV-V-O-ADV
+PrepNp
+NPofNP
+DetNP
+188575	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+188580	Conj-CL
+V-ADV-O-ADV-ADV
+PrepNp
+DetCL
+V2CL
+V-O
+ADV-O-V
+DetNP
+188589	PrepNp
+ClCl
+ClCl2
+sub-CL
+V-ADV-ADV
+PrepNp
+PrepNp
+ADV-V-ADV
+PrepNp
+DetNP
+CLaCL
+CLaCL
+ADV-ADV-S-V-ADV
+AdjpAdvp
+BeVerb
+PrepNp
+188607	V2CL
+DetCL
+O-V
+NpaNp
+188612	V-IO-O
+188614	ADV-V-ADV-O
+PrepNp
+O-V
+DetNP
+AdjpNp
+188620	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V2CL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+ClCl
+ClCl2
+sub-CL
+V-S
+DetCL
+V-O
+188639	Np2CL
+ADV-VC-P-S-ADV
+PrepNp
+All-NP
+DetCL
+V-ADV
+188646	sub-CL
+CLaCL
+S-V
+All-NP
+DetCL
+V-O
+188653	S-V
+DetCL
+V-O
+188657	Conj-CL
+188659	AdvpNp
+DetCL
+V-O
+ClCl
+ClCl2
+sub-CL
+V-O
+NpaNp
+188668	ADV-V-O
+Conj4Np
+DetNP
+NPofNP
+188673	DetNP
+NPofNP
+188676	DetNP
+NPofNP
+188679	NpAdjp
+CLaCL
+ADV-ADV-S-V-O
+AdvpNp
+188684	VC-S-P
+188686	Conj-CL
+ClCl2
+sub-CL
+O-V
+V-O
+NpNpNpNp
+188693	Conj-CL
+ClCl
+188696	sub-CL
+ADV-V-O
+V-IO
+sub-CL
+V-IO-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+188706	Conj-CL
+188708	V-O
+NPofNP
+DetCL
+V2CL
+P-S
+S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+188719	Conj-CL
+188721	CLaCL
+CLaCL
+S-V-O
+NpAdjp
+NpAdjp
+188727	V-O
+188729	V-O-ADV-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+188736	DetCL
+V2CL
+ClCl
+V2CL
+sub-CL
+ADV-P-VC
+188743	Conj-CL
+V-ADV-S-O
+PrepNp
+V2CL
+188749	DetAdj
+ClCl
+CLaCL
+O-V
+188754	V-O-ADV
+ADV-V-O
+V2CL
+188758	V-O
+S-V
+188761	Conj-CL
+188763	ClCl
+CLaCL
+O-V
+NpNump
+NPofNP
+188769	V-ADV
+V-O
+188772	V-O
+S-V
+188775	Conj-CL
+188777	CLaCL
+O-V
+188780	ADV-ADV-V-O
+PrepNp
+V2CL
+188784	Conj-CL
+ADV-S-V-IO-O
+V2CL
+DetNP
+DetNP
+NPofNP
+188792	V2CL
+DetNP
+DetNP
+NPofNP
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+188803	DetNP
+188805	O-V-ADV
+DetNP
+Conj4Np
+188812	Conj-CL
+188814	DetNP
+188816	Np2CL
+V-S
+O-V
+188820	P-S-VC
+188822	Conj-CL
+188824	DetNP
+PrepNp
+DetNP
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NpaNp
+188835	V2CL
+sub-CL
+V-S
+ofNPNP
+DetNP
+188841	Conj-CL
+188843	that-VP
+S-V-O
+NPofNP
+Np-Appos
+NP-Demo
+DetNP
+DetCL
+V2CL
+ofNPNP
+DetNP
+188854	Conj-CL
+CLaCL
+V-ADV-S
+NpAdjp
+188860	V2CL
+PrepNp
+ClCl2
+sub-CL
+CLaCL
+S-V-ADV
+PrepNp
+188868	ADV-V-O
+NpaNp
+Conj6Np
+DetNP
+NPofNP
+188874	DetNP
+188876	DetNP
+188878	DetNP
+188880	DetNP
+188882	DetNP
+188884	AdvpNp
+AdvpNp
+DetNP
+NPofNP
+ADV-V-O
+VC-P
+ofNPNP
+188892	S-ADV-V-O
+CLaCL
+S-ADV-V-O
+DetNP
+NPofNP
+188898	V-ADV
+PrepNp
+VC-P
+ofNPNP
+188903	Conj-CL
+ClCl
+PtclCL
+188907	NpPp
+PrepNp
+V-O
+O-V
+V2CL
+DetNP
+PtclCL
+V-ADV
+PrepNp
+sub-CL
+ClCl2
+CLaCL
+ADV-ADV-V-S-O
+188921	ADV-V-O
+V2CL
+S-V-O
+All-NP
+DetCL
+V2CL
+O-V-ADV
+188929	that-VP
+CLaCL
+S-V-O
+Demo-NP
+DetNP
+V2CL
+188936	ADV-V-O
+V2CL
+188939	Conj-CL
+PtclCL
+188942	AdjpNp
+V-ADV
+ADV-V-ADV
+AdjpNp
+PrepNp
+V2CL
+PtclCL
+P-VC-ADV
+ADV-V-O
+PrepNp
+NumpNP
+DetCL
+ADV-V-ADV
+PrepNp
+NumpNP
+PrepNp
+188959	Conj-CL
+ClCl2
+sub-CL
+ADV2CL
+ClCl2
+ADV-S-P-VC
+ADV-V-O
+O-V
+NpPp
+PrepNp
+188970	Conj-CL
+ADV-S-ADV-V-O
+NP-CL
+NpPp
+PrepNp
+S-ADV-V-O
+All-NP
+DetNP
+ofNPNP
+VC-P
+ofNPNP
+188982	Conj-CL
+P-S
+DetNP
+188986	Conj-CL
+188988	sub-CL
+S-V
+AdvpNp
+DetNP
+PrepNp
+188994	ADV-P-VC
+aPpaPp
+188997	PrepNp
+188999	PrepNp
+189001	ADV-V-O
+189003	S-V
+DetCL
+V-O-ADV
+V2CL
+189008	Conj-CL
+V-ADV-S-ADV
+BeVerb
+All-NP
+NpaNp
+DetNP
+189015	DetAdj
+V-O
+189018	Conj-CL
+V-S-ADV
+aNpaNp
+189022	DetNP
+189024	DetNP
+189026	that-VP
+CLaCL
+S-O-V
+189030	V-ADV
+189032	Conj-CL
+V-ADV-O-ADV
+PrepNp
+NP-Demo
+DetNP
+189039	Np2CL
+NpAdjp
+NpPp
+AdjpNp
+PrepNp
+CLaCL
+V-O
+NumpNP
+189048	V-O
+PpNp2Np
+PrepNp
+CLaCL
+V-O-ADV
+DetNump
+NumpNump
+PrepNp
+DetAdj
+189059	PrepNp
+DetCL
+V2CL
+sub-CL
+V-O
+189065	Conj-CL
+CLaCL
+ADV-V-ADV-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+V2CL
+189074	ADV-V-O-ADV
+V-ADV
+PrepNp
+DetNP
+NpaNp
+DetAdj
+189081	DetNP
+189083	ClCl
+V-ADV
+sub-CL
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V2CL
+189094	that-VP
+CLaCL
+ADV-S-P-VC-ADV
+PrepNp
+DetNP
+PrepNp
+AdjpNp
+NpAdjp
+V2CL
+189104	ADV2CL
+PrepNp
+NumpNP
+NumpNump
+NP-CL
+S-ADV-O-V
+NPofNP
+189112	Conj-CL
+189114	Np2CL
+NpAdjp
+AdjpNp
+O-V
+NpNump
+sub-CL
+V-O
+NpAdjp
+PtclCL
+Conj3CL
+V-O
+189126	V-O
+DetNP
+189129	V-ADV-ADV
+PrepNp
+ADV-V
+189133	Conj-CL
+ADV-V-O-ADV
+V2CL
+DetNP
+NpaNp
+189140	ClCl
+V-ADV
+sub-CL
+V-O
+DetNP
+NP-CL
+O-V
+189148	ClCl2
+ADV2CL
+189151	V-S-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+AdjpNp
+NpAdjp
+V2CL
+189161	Conj-CL
+189163	S-V-O
+NpAdjp
+NumpNP
+189167	Conj-CL
+189169	DetNP
+NPofNP
+DetNP
+189173	Np2CL
+DetNP
+AdjpNp
+V2CL
+NPofNP
+DetNP
+189180	Conj-CL
+S-V-IO-O
+DetNP
+189184	Conj-CL
+CLaCL
+ADV-ADV-S-V-ADV
+PrepNp
+AdjpNp
+AdvpAdjp
+V-O
+DetNP
+AdjpNp
+PrepNp
+NpAdjp
+189196	ADV-V-O-ADV
+DetNP
+NPofNP
+V-ADV
+189201	Conj-CL
+CLaCL
+ClCl2
+V-S-O
+V-S-ADV
+NpAdjp
+PrepNp
+DetNP
+NP-Demo
+189211	S-V-O
+V2CL
+189214	Conj-CL
+CLaCL
+ADV-V-IO
+V2CL
+NPofNP
+DetNP
+NPofNP
+NP-Demo
+DetNP
+189224	V-O-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+V-O
+189230	Conj-CL
+CLaCL
+V-O
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NP-CL
+O-V-S
+DetNP
+189242	S-V-IO
+189244	Conj-CL
+189246	ADV-V
+PrepNp
+CLaCL
+S-V-ADV
+AdjpNp
+NPofNP
+DetNP
+NPofNP
+189255	S-ADV-ADV-V
+189257	CLaCL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+189266	Np2CL
+ClCl
+V-ADV
+Conj2Pp
+PrepNp
+DetNP
+189273	PrepNp
+ADV-VC-P-ADV
+VC-P
+NPofNP
+ClCl
+V-O
+sub-CL
+O2CL
+NPofNP
+DetNP
+NPofNP
+189285	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+189292	Conj-CL
+Conj4CL
+ClCl2
+ADV-S-ADV-V
+V-O-S
+DetNP
+NPofNP
+189300	V2CL
+189302	ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+189308	V-O
+189310	Conj-CL
+189312	DetNP
+189314	Np2CL
+V-ADV
+Conj2Pp
+PrepNp
+DetNP
+189320	PrepNp
+ADV-VC-P-ADV
+VC-P
+NPofNP
+189325	Conj-CL
+189327	DetNP
+PrepNp
+DetNP
+NPofNP
+ClCl
+Conj3CL
+CLaCL
+ADV-V-O
+NPDetAdj
+DetAdj
+189338	V-O
+189340	CLaCL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+189346	O-ADV
+PrepNp
+DetNP
+189350	CLaCL
+ClCl
+V-O
+DetNP
+NPDetAdj
+DetAdj
+V2CL
+189358	ADV-V
+V2CL
+sub-CL
+ClCl
+CLaCL
+S-P-VC
+Demo-NP
+DetNP
+NPofNP
+189368	V2CL
+CLaCL
+V2CL
+BeVerb
+189373	V2CL
+189375	Conj-CL
+V-O
+V2CL
+189379	Conj-CL
+VC-S-P
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+PrepNp
+189387	Conj-CL
+CLaCL
+ClCl2
+sub-CL
+ADV-V-ADV
+V2CL
+DetNP
+V-O
+NpaNp
+189398	ADV-V-O
+V-O
+NPofNP
+DetNP
+PtclCL
+P-VC-S
+189405	Conj-CL
+189407	that-VP
+CLaCL
+S-V
+DetNP
+NPofNP
+189414	DetNP
+NPofNP
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+O2-O-V
+V2CL
+189423	Conj-CL
+CLaCL
+V2CL
+189427	ADV-V-O
+V2CL
+189430	Conj-CL
+S-ADV-V-O
+DetNP
+NPofNP
+V2CL
+189436	Conj-CL
+189438	V2CL
+DetNP
+189441	CLaCL
+ADV-V-O
+AdjpNp
+189445	ADV-ADV-V
+NPofNP
+189448	ClCl
+IO-ADV-V-O
+sub-CL
+ADV-V
+PrepNp
+DetNP
+NPofNP
+189456	Conj-CL
+189458	sub-CL
+S-V
+Np-Appos
+NP-Demo
+DetNP
+NPofNP
+DetCL
+V-O-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+AdjpNp
+189472	Conj-CL
+189475	Np2CL
+S-ADV-P-VC
+PrepNp
+189479	S-P-VC
+All-NP
+DetAdj
+189483	Conj-CL
+189485	CLaCL
+V2CL
+189488	V2CL
+sub-CL
+CLaCL
+CLaCL
+S-P-VC
+NP-Demo
+DetNP
+NPofNP
+189497	V2CL
+189499	CLaCL
+V2CL
+189502	V2CL
+189504	Conj-CL
+189506	AdvPp
+PrepNp
+DetNP
+189510	S-VC-P
+NpAdjp
+S-V-O
+189514	S-V-IO-ADV
+sub-CL
+V-O
+NPofNP
+DetCL
+V2CL
+189521	Conj-CL
+189523	V-O
+189525	PrepNp
+ClCl
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+ADV-V-O
+ADV-V
+189536	Conj-CL
+189538	PrepNp
+DetNP
+ClCl
+O-V
+sub-CL
+S-V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+189549	ClCl
+O-ADV-V
+V2CL
+O-V
+V2CL
+189555	V-O
+189557	sub-CL
+189559	sub-CL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+189567	Conj-CL
+189569	V-O
+NPofNP
+NpAdjp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetAdj
+O-V-IO
+DetNP
+NPofNP
+189581	Conj-CL
+189583	O2CL
+NumpNP
+NPofNP
+189587	Conj-CL
+189589	CLaCL
+V-O
+ofNPNP
+DetNP
+189594	ADV-ADV-V-O
+V2CL
+189598	Conj-CL
+S-O-V
+189601	Conj-CL
+189603	O2CL
+NumpNP
+NPofNP
+189608	CLaCL
+V-O
+ofNPNP
+DetNP
+189613	V-O
+189615	Conj-CL
+ClCl
+189618	DetNP
+DetNP
+NPofNP
+DetNP
+that-VP
+ADV-V
+sub-CL
+S-P-ADV-ADV-VC
+DetNP
+NPofNP
+NP-Demo
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+189639	Conj-CL
+189641	ClCl
+IO-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+189649	sub-CL
+V2CL
+PrepNp
+DetNP
+AdjpNp
+189655	CLaCL
+S-ADV-P-VC
+DetAdj
+AdjpPp
+PrepNp
+AdvPp
+PrepNp
+189663	S-ADV-P-VC
+DetAdj
+PP-Adjp
+PrepNp
+AdvPp
+PrepNp
+189670	Conj-CL
+ClCl2
+sub-CL
+ADV-P-ADV-VC
+PrepNp
+DetNP
+AdjpNp
+O-S-IO-V
+DetNP
+189680	Conj-CL
+ClCl2
+sub-CL
+ADV-P-ADV-VC
+PrepNp
+DetAdj
+O-S-V-IO
+DetNP
+189689	ClCl
+S-V-O
+AdjpNp
+O-V
+AdjpNp
+sub-CL
+aCLaCL
+189697	CLaCL
+O-V
+DetAdj
+189701	O-V
+DetAdj
+189704	CLaCL
+O-V
+189707	O-V
+DetAdj
+189710	ADV-V-O
+CLaCL
+O-V
+189714	O2CL
+189716	Conj-CL
+CLaCL
+V-O-S-ADV
+NP-all
+DetNP
+P-VC
+189723	V-O
+189725	Conj-CL
+189727	ClCl
+CLaCL
+S-VC-P
+DetCL
+V-O-ADV
+PrepNp
+DetNP
+189735	S-V-O
+DetNP
+DetNP
+NPofNP
+sub-CL
+S-P-ADV
+DetAdj
+PP-Adjp
+PrepNp
+PrepNp
+DetNP
+189747	S-P
+NpaNp
+DetNP
+189751	DetNP
+PrepNp
+189754	CLaCL
+ADV-S-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+189761	S-ADV-V
+PrepNp
+189764	Conj-CL
+CLaCL
+P-VC-S
+S-V
+NpaNp
+DetNP
+189771	DetNP
+189773	S-V
+ofNPNP
+DetNP
+AdjpNp
+189778	CLaCL
+S-V
+All-NP
+DetCL
+CLaCL
+V-O
+DetNP
+NPofNP
+189787	V-O
+189789	S-V
+DetCL
+O-V
+V-ADV
+PrepNp
+189795	Conj-CL
+CLaCL
+S-VC-P
+NpAdjp
+189800	V-O-ADV
+NpaNp
+189803	V-ADV-ADV
+PrepNp
+189806	Conj-CL
+S-V-ADV-ADV
+NpAdjp
+NpAdjp
+ADV-P
+PrepNp
+DetNP
+NPofNP
+CLaCL
+V2CL
+189817	V-O
+V-ADV
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+189827	Conj-CL
+S-ADV-V-O
+AdvpNp
+DetNP
+V2CL
+DetNP
+NPofNP
+189835	Conj-CL
+V-S
+CLaCL
+V-S
+DetAdj
+189841	V-S-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+189848	Conj-CL
+CLaCL
+V-S
+AdvpNp
+DetAdj
+189854	V2CL
+189856	Conj-CL
+CLaCL
+ADV-ADV-ADV-V-O-ADV
+PrepNp
+DetNP
+V-O
+DetNP
+NPofNP
+V-ADV
+PrepNp
+PrepNp
+189868	O2CL
+NpPp
+PrepNp
+DetNP
+NPofNP
+189874	Conj-CL
+189876	V2CL
+189878	Np2CL
+Np-Appos
+V-O
+189883	sub-CL
+CLaCL
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+189891	V-O
+DetNP
+NPofNP
+sub-CL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+189900	Conj-CL
+189903	Np2CL
+that-VP
+CLaCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+189913	S-ADV-O
+DetAdj
+189916	Conj-CL
+CLaCL
+ADV-ADV-V
+189920	S-V
+189922	Conj-CL
+189924	PrepNp
+All-NP
+PrepNp
+NpaNp
+189929	NpAdjp
+sub-CL
+CLaCL
+S-O-ADV-V
+DetCL
+V2CL
+V-ADV-ADV
+PrepNp
+189938	ADV-ADV-V
+PrepNp
+189941	Conj-CL
+189943	Conj-CL
+ClCl
+ClCl
+ClCl
+189948	Np2CL
+sub-CL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+V-O
+NumpNP
+sub-CL
+189961	sub-CL
+ADV-S-V-ADV
+AdvpNp
+PrepNp
+NPofNP
+NP-Demo
+DetNP
+DetNP
+189970	Conj-CL
+189972	ClCl
+V-O
+NpaNp
+189976	DetNP
+V-O
+189979	Conj-CL
+189982	Intj2CL
+Np2CL
+Np-Appos
+189986	sub-CL
+S-ADV-V-ADV
+PrepNp
+PrepNp
+189991	Conj-CL
+189993	ClCl2
+sub-CL
+O-ADV-V
+NpaNp
+189998	DetNP
+ADV-ADV-V
+sub-CL
+S-ADV-V
+PrepNp
+190004	Conj-CL
+190006	PrepNp
+DetNP
+NPofNP
+CLaCL
+P-VC-S
+DetCL
+S-ADV-V
+DetNP
+190015	S-IO
+ADV-V
+PrepNp
+190019	CLaCL
+190021	sub-CL
+CLaCL
+S-V-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+190029	V-ADV
+PrepNp
+DetNP
+190033	that-VP
+V-O
+ofNPNP
+NP-Demo
+DetAdj
+190039	V-O
+190041	CLaCL
+ClCl2
+sub-CL
+V-S
+DetNP
+NPofNP
+V-O
+190049	ClCl2
+sub-CL
+V2CL
+V-IO
+190054	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+ADV-ADV-V-ADV
+DetNP
+PrepNp
+190062	ADV-V-ADV-ADV
+PrepNp
+190065	V2CL
+V-IO
+190068	Conj-CL
+190070	DetNP
+DetNP
+V-IO-O
+190074	Conj-CL
+190076	DetNP
+ClCl2
+sub-CL
+V-O
+NpPp
+PrepNp
+NPofNP
+CLaCL
+PtclCL
+190086	NP-Demo
+DetNP
+CLaCL
+V2CL
+190091	V-ADV
+PrepNp
+DetNP
+190095	PtclCL
+V-O
+190098	Conj-CL
+CLaCL
+S2CL
+NP-CL
+NpAdjp
+NpPp
+PrepNp
+V-O
+NpAdjp
+AdjpaAdjp
+V2CL
+190110	V2CL
+190112	S-ADV-V-IO
+V-ADV
+PrepNp
+DetNP
+V2CL
+190118	PtclCL
+190120	Conj3CL
+ClCl
+V-O
+V2CL
+190126	V2CL
+sub-CL
+CLaCL
+V2CL
+190131	V2CL
+190133	ADV-V-S
+PrepNp
+Conj2VP
+190138	PtclCL
+190140	DetNP
+sub-CL
+V-O
+DetCL
+V2CL
+190147	AdvpNp
+sub-CL
+V-O
+All-NP
+DetCL
+V-IO
+that-VP
+190155	NpAdjp
+O-V
+O-V
+O-V
+190160	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+DetCL
+V-ADV
+PrepNp
+190168	S-V-ADV
+PrepNp
+NPofNP
+NpaNp
+190174	Conj-CL
+CLaCL
+ClCl2
+V-S-ADV
+PrepNp
+AdjpNp
+V-S
+NumpNP
+NP-CL
+AdjpNp
+S-V-ADV
+190186	S-V-O-ADV
+190188	ClCl2
+ClCl
+Np2CL
+Np2CL
+V-O
+190194	Conj-CL
+190196	V2CL
+ADV-V-O-IO
+V2CL
+DetNP
+190201	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetCL
+V-S
+V2CL
+190209	Conj-CL
+CLaCL
+S-ADV-V-ADV
+NpPp
+PrepNp
+190215	that-VP
+V2CL
+ADV-V-O
+PrepNp
+NpAdjp
+DetNP
+190222	V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+V-O
+190229	Conj-CL
+S-VC-P
+190232	Conj-CL
+190234	V2CL
+DetNP
+ClCl
+CLaCL
+PtclCL
+S-V
+DetNump
+190242	S-P
+DetNump
+190245	V-ADV
+V-O-IO
+DetNP
+sub-CL
+ADV-S
+NP-Demo
+DetAdj
+190253	Conj-CL
+190255	ClCl
+ADV-V
+V2CL
+S-V-O
+DetNP
+NPofNP
+190262	Conj-CL
+CLaCL
+ADV-V-IO
+190266	PrepNp
+DetNP
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+190274	ClCl
+CLaCL
+ADV-V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+190284	ADV2CL
+190286	ADV2CL
+sub-CL
+190289	DetNP
+NPofNP
+DetNP
+PrepNp
+190294	Conj-CL
+190296	PrepNp
+DetNP
+ClCl
+V-S
+CLaCL
+ADV-V-O
+O-V
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+190310	ADV-V
+190312	Conj-CL
+ClCl
+190315	ClCl
+190317	V2CL
+190319	V2CL
+CLaCL
+ADV-V
+190323	V2CL
+190325	Conj-CL
+190327	sub-CL
+S-ADV-ADV-V
+DetNP
+V2CL
+2Pp
+PrepNp
+NpPp
+PrepNp
+DetNP
+PrepNp
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+190346	Conj-CL
+V-S
+CLaCL
+ADV-S-O-V
+190351	V-ADV
+PrepNp
+NP-Demo
+DetNP
+190356	Conj-CL
+190358	sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+AdvPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+190371	CLaCL
+V-ADV
+ClClClCl
+V2CL
+V2CL
+V2CL
+V2CL
+PrepNp
+ADV-V-S-ADV
+PronNP
+PrepNp
+DetNP
+190384	CLaCL
+V-S
+DetNP
+190388	V-O
+190390	sub-CL
+P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+190396	ClClClClClCl
+V2CL
+V2CL
+V2CL
+V2CL
+V2CL
+V2CL
+190404	Conj-CL
+190406	ADV-V-S-ADV
+PronNP
+PrepNp
+V-O-ADV
+NpaNp
+190412	PrepNp
+190414	V-O
+190416	P-VC-S
+PrepNp
+DetNP
+ADV-S-V
+PronNP
+DetNP
+NPofNP
+DetNP
+190425	CLaCL
+ADV-S-ADV-V-ADV
+PrepNp
+Demo-NP
+DetNP
+CLaCL
+S-VC-P
+PrepNp
+DetNP
+190435	S-P
+DetNP
+NPofNP
+PrepNp
+DetNP
+V-O
+190442	S-ADV-ADV-V-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+190448	V-O
+DetNP
+NPofNP
+190452	CLaCL
+S-V-O
+PtclCL
+S-V-O
+O-V
+DetNP
+NPofNP
+190460	S-V-O
+PtclCL
+S-V
+190465	ClCl2
+ADV-VC-S-P
+Demo-NP
+DetNP
+PrepNp
+NpAdjp
+CLaCL
+S-V
+DetAdj
+190475	S-V
+DetAdj
+190479	BeVerb
+PrepNp
+DetNP
+CLaCL
+S-V
+DetAdj
+190486	S-V
+DetAdj
+190489	Conj-CL
+190491	V2CL
+190493	Np2CL
+190495	Conj-CL
+190497	ClCl2
+P-S
+DetNP
+ADV-S-V
+AdvpNp
+DetNP
+190504	Conj-CL
+V-O-IO-ADV-ADV
+PrepNp
+DetCL
+V-S
+CLaCL
+ADV-V-S
+190512	ADV-V
+190514	S-VC-P-ADV
+NpAdjp
+PrepNp
+AdjpNp
+CLaCL
+O-ADV-V
+DetNP
+190522	O-ADV-V
+190524	Conj-CL
+CLaCL
+S-VC-P
+PrepNp
+NP-Demo
+DetNP
+190531	V-ADV-ADV
+PrepNp
+190534	V-O-ADV
+PrepNp
+DetNP
+NPofNP
+190539	Conj-CL
+CLaCL
+ADV-V-ADV
+PrepNp
+190545	PrepNp
+PrepNp
+ClCl2
+sub-CL
+CLaCL
+O-ADV-V
+AdvpNp
+DetNP
+190554	O-V
+190556	ADV-V-O
+PrepNp
+DetCL
+V-IO-O-S
+NP-Demo
+DetNP
+sub-CL
+ADV-ADV-ADV-V-O
+PrepNp
+V2CL
+190567	Conj-CL
+190569	DetNP
+190571	O-S-V
+DetNP
+NPofNP
+DetNP
+190576	Conj-CL
+CLaCL
+PtclCL
+PtclCL
+S-V-O
+DetNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-IO-ADV
+NpaNp
+190592	V-ADV
+PrepNp
+190596	that-VP
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+190602	sub-CL
+ClCl2
+S-V
+DetNP
+NPofNP
+DetNP
+PtclCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+190614	Conj-CL
+V-ADV-O
+AdvPp
+PrepNp
+AdjpNp
+DetCL
+CLaCL
+190622	PrepNp
+that-VP
+VC-P
+190626	V-O
+DetAdj
+NP-Demo
+DetNP
+190632	NpNump
+PrepNp
+DetNP
+V2CL
+CLaCL
+S-P
+DetAdj
+190640	S-P
+DetAdj
+190644	DetNP
+V2CL
+PrepNp
+190648	Np2CL
+DetNP
+that-VP
+ADV-VC-P
+CLaCL
+sub-CL
+S-P
+DetNP
+NPofNP
+DetNP
+NpNpNp
+190660	sub-CL
+S2CL
+AdvpNp
+Demo-NP
+DetNP
+190666	ClCl
+V-ADV-ADV
+DetNP
+V-O
+All-NP
+O-V
+190673	Conj-CL
+CLaCL
+S-ADV-ADV-V-O
+DetNP
+ADV-V
+ADV-O-V-ADV
+DetNP
+PrepNp
+DetNP
+190683	V-O-ADV
+DetNP
+NPofNP
+190688	Np2CL
+DetNP
+Np-Appos
+DetAdj
+190694	ClCl
+V-S-ADV-ADV-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+PrepNp
+sub-CL
+CLaCL
+S-V
+All-NP
+DetCL
+V-O
+190708	S-V
+DetCL
+V-O
+190712	Conj-CL
+190714	AdvpNp
+DetNP
+sub-CL
+O-V
+190719	Conj-CL
+ADV-S-V-O
+V2CL
+DetNP
+190724	Conj-CL
+S-V-O-ADV
+DetNP
+190728	ClCl
+CLaCL
+V-O
+S-V-ADV
+DetNP
+PrepNp
+190735	ADV-V-O
+sub-CL
+P-VC-S
+DetNP
+DetNP
+NPofNP
+DetNP
+190744	V-IO
+S-ADV-V-ADV
+PtclCL
+190748	S-ADV-V-O
+DetNP
+NPofNP
+DetNP
+S2CL
+2Advp_h1
+PrepNp
+190756	Conj-CL
+V-S-O-ADV
+AdjpNp
+190761	Np2CL
+NpAdjp
+O-V
+NpAdjp
+190766	Conj-CL
+190768	DetNP
+ClCl
+190771	ClCl
+S-P
+sub-CL
+ADV-S
+Np-Appos
+DetNP
+190778	DetNP
+ClClClClCl
+ADV-V
+ADV-V
+ADV-V
+ADV-V
+V-O
+NpaNp
+DetNP
+NPofNP
+190789	DetNP
+190791	Conj-CL
+190793	O-V-ADV
+NP-all
+PrepNp
+190797	Conj-CL
+190799	V2CL
+DetNP
+190802	CLaCL
+CLaCL
+CLaCL
+O-V
+All-NP
+O-V
+190809	V-IO
+190811	V-O-ADV
+PrepNp
+DetNP
+190815	ClCl2
+V2CL
+V-O
+190819	Conj-CL
+ClCl
+S-ADV-P-VC
+V-O
+sub-CL
+VC-P-ADV
+190826	Conj-CL
+190828	V-O
+DetNP
+ClCl
+ADV-S-ADV-V
+2Advp_h2
+DetCL
+O-V
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+P-VC-S
+S-ADV-V
+PrepNp
+NPofNP
+190847	S-ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+190853	Conj-CL
+190855	DetCL
+V2CL
+Conj-CL
+S-V-O
+V2CL
+190861	Conj-CL
+190863	S-P-ADV-VC
+NpPp
+DetAdj
+PrepNp
+PrepNp
+DetNP
+190870	Conj-CL
+190872	DetNP
+190874	V-O
+DetAdj
+190877	Conj-CL
+190880	V-IO
+that-VP
+P-VC-S
+NP-CL
+S-V-O-ADV
+Conj5Np
+190890	PrepNp
+DetNP
+NPofNP
+DetNP
+CLaCL
+S-ADV-ADV-V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+190900	ADV-O
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+NpAdjp
+190908	Conj-CL
+190910	V-O
+DetNump
+PrepNp
+CLaCL
+190915	PrepNp
+190918	All-NP
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+CLaCL
+Conj4CL
+V-IO
+DetNP
+190933	V2CL
+190935	V2CL
+190937	V2CL
+190939	ADV-V-O
+V2CL
+190942	ADV-V
+DetNP
+NPDetAdj
+DetAdj
+190947	Conj-CL
+Conj3CL
+S-O-V
+NPofNP
+190952	VC-S-P-ADV
+NP-Demo
+DetNP
+PrepNp
+190957	ADV-V-O
+DetCL
+V2CL
+190961	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+S-V-ADV-ADV
+NpAdjp
+PrepNp
+DetNP
+V2CL
+190974	Conj-CL
+ADV-V-O
+V-O
+S-V
+P-VC-S
+190980	Conj-CL
+190982	that-VP
+S-V
+Np-Appos
+DetNP
+190987	Conj-CL
+V-ADV
+190991	Np2CL
+Np-Appos
+NPofNP
+190995	Conj-CL
+190997	DetCL
+V2CL
+that-VP
+V2CL
+191002	Conj-CL
+191004	AdjpAdvp
+191006	Np2CL
+NPofNP
+191009	Conj-CL
+ADV-S-V-O
+V2CL
+DetNP
+S-V-ADV
+PrepNp
+191016	Conj-CL
+ClCl2
+V-S
+191020	O-V
+O-IO-V
+191023	Conj-CL
+191026	Np2CL
+V2CL
+191029	Conj-CL
+191031	DetNP
+ClCl
+V2CL
+S-V-O
+DetNP
+NPofNP
+191038	Conj-CL
+CLaCL
+ADV-V
+191042	V-O-ADV
+V-O
+DetNP
+191046	Conj-CL
+S-ADV-V-O-IO
+All-NP
+DetNP
+V2CL
+DetNP
+191053	Conj-CL
+ADV-V-ADV
+V2CL
+DetNP
+191058	Conj-CL
+191060	S2CL
+NpAdjp
+ADV-VC-P
+191064	S-VC-P
+191066	S-P
+191068	Conj-CL
+CLaCL
+ClCl
+V-O
+V-O
+DetNP
+P-VC
+191077	PrepNp
+DetNP
+sub-CL
+ADV-P-VC
+DetNP
+191083	Conj-CL
+191085	V-ADV
+PrepNp
+DetNP
+PrepNp
+sub-CL
+V-O
+sub-CL
+O-V
+ADV-V
+191095	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+DetNP
+191102	V2CL
+DetNP
+PrepNp
+191106	Np2CL
+ADV-V
+V2CL
+sub-CL
+S-V
+ADV-ADV-S-V
+PrepNp
+DetNP
+NPofNP
+191116	Conj-CL
+CLaCL
+ADV-V
+V2CL
+191121	V-O-ADV
+V2CL
+191124	Conj-CL
+ADV-S-V-ADV
+V2CL
+191128	that-VP
+ADV-V-ADV
+PrepNp
+AdjpNp
+V2CL
+191134	Conj-CL
+191136	V2CL
+PrepNp
+DetNP
+191140	O-IO-V
+DetNP
+NPofNP
+ofNPNP
+DetCL
+V2CL
+Np2CL
+DetAdj
+191149	ClCl2
+sub-CL
+ADV-O-V
+V-O
+191154	Conj-CL
+191156	PrepNp
+DetNP
+that-VP
+191160	NP-Demo
+DetNP
+sub-CL
+S-P-VC
+AdvpNp
+NPofNP
+191167	Conj-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+V-O
+Conj2VP
+191175	DetCL
+V2CL
+191178	Conj-CL
+ClCl2
+V-S-O
+ADV-V-O-ADV
+V2CL
+PrepNp
+DetCL
+CLaCL
+VC-P-S
+PrepNp
+191190	that-VP
+ADV-V-S-O
+DetNP
+NPofNP
+DetNP
+V2CL
+191197	Conj-CL
+191199	S-V-ADV-ADV
+NpAdjp
+NpAdjp
+PrepNp
+NpAdjp
+CLaCL
+V-IO-O
+191207	V2CL
+191209	Conj-CL
+CLaCL
+ADV-V-IO-O
+V-O
+NumpNP
+NPofNP
+NumpNP
+191218	PrepNp
+V-ADV
+PrepNp
+ADV-V
+191223	Conj-CL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+191229	V-O-ADV-ADV
+PrepNp
+191232	ADV-V-O
+S-V-ADV
+PrepNp
+191236	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+DetCL
+V-S-ADV
+V-O
+DetNP
+191246	V-IO-S
+NP-CL
+NP-Demo
+DetNP
+IO-V-O
+DetNP
+sub-CL
+V-S-O
+O-V
+191256	Conj-CL
+191258	DetAdj
+V2CL
+191261	Np2CL
+DetNP
+NPofNP
+NumpNP
+191266	Conj-CL
+191268	ClCl2
+ADV2CL
+191271	Np2CL
+AdjpNp
+sub-CL
+ADV-P-VC
+PrepNp
+VC-P
+O-V-ADV
+PrepNp
+NumpNP
+191281	Conj-CL
+V-S-ADV
+DetAdj
+191286	DetNP
+NPofNP
+Np2CL
+NumpNP
+191291	Conj-CL
+191293	AdvpNp
+S-P-VC
+AdvpNp
+PrepNp
+NumpNP
+191299	Conj-CL
+S-V-ADV
+DetAdj
+191303	ClCl
+191305	Np2CL
+V2CL
+NP-CL
+DetNP
+NPofNP
+O-V-ADV
+V-ADV
+PrepNp
+sub-CL
+191315	sub-CL
+191317	NpAdjp
+CLaCL
+V-O
+O-ADV-V
+191322	V-O
+O-ADV-V
+191326	ClCl
+191328	PrepNp
+DetNP
+NPofNP
+Np2CL
+AdjpNp
+CLaCL
+191335	that-VP
+S-VC-P
+NpAdjp
+NpAdjp
+CLaCL
+V-O
+O-ADV-V
+191343	V-O
+O-ADV-V
+191346	ClCl
+ADV-ADV-V-O-ADV
+PrepNp
+ofNPNP
+DetNP
+PrepNp
+PtclCL
+S-ADV-ADV-O-V
+V2CL
+PrepNp
+191357	Conj-CL
+191359	DetCL
+V2CL
+CLaCL
+V-ADV-O
+PrepNp
+DetNP
+191366	V-IO
+DetCL
+O-V
+DetNP
+NumpNP
+191372	Conj-CL
+191375	Np2CL
+NumpNP
+191379	that-VP
+CLaCL
+IO-V
+All-NP
+DetCL
+V2CL
+191386	ADV-S-V
+PrepNp
+DetCL
+ADV-V
+AdvpNp
+O-V
+191393	Conj-CL
+CLaCL
+O-V-ADV
+Np-Appos
+NP-Demo
+DetNP
+NPofNP
+DetCL
+ADV-V-O
+S-V-ADV
+PrepNp
+191405	V-O-ADV
+PrepNp
+191408	Conj-CL
+ADV-V-ADV-ADV
+V-O
+V-ADV
+PrepNp
+191414	Conj-CL
+ClCl2
+ClCl
+V2CL
+sub-CL
+V-ADV-ADV
+PrepNp
+NpaNp
+191423	PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+V-O-ADV
+NPofNP
+DetNP
+191433	PrepNp
+DetNP
+AdvpNp
+CLaCL
+ADV-V-O
+ADV-V
+PrepNp
+V-S
+NP-CL
+ADV-S-ADV-V
+PrepNp
+NPofNP
+191446	ADV-V
+V-O
+191449	Conj-CL
+ClCl2
+sub-CL
+191453	ADV-V
+PrepNp
+191456	that-VP
+S-O-V
+DetNP
+ofNPNP
+191461	Conj-CL
+ClCl
+ADV-S-V
+V2CL
+DetCL
+V2CL
+sub-CL
+V-IO
+191470	Conj-CL
+ClCl2
+V-S-O
+DetNP
+191475	DetNP
+NPofNP
+PrepNp
+ADV-V-O
+DetNP
+191481	Conj-CL
+191483	that-VP
+S-O-V
+DetNP
+ofNPNP
+191488	Conj-CL
+CLaCL
+V-O-ADV
+PrepNp
+DetNP
+191494	ADV-V-O
+V-O-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+DetNP
+191502	Conj-CL
+ClCl2
+V-S
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+191511	Conj-CL
+ClCl2
+V-S-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+V-S-ADV-O
+All-NP
+DetNP
+NPofNP
+DetNP
+V2CL
+V-O-ADV-ADV-ADV
+DetNP
+NpAdjp
+PrepNp
+All-NP
+CL-NP
+O-V
+191535	V2CL
+Np-Appos
+DetCL
+V-ADV
+DetNP
+PrepNp
+NPofNP
+CLaCL
+P-S
+PrepNp
+191546	S-P
+PrepNp
+191549	Conj-CL
+191551	NpPp
+NPofNP
+DetNP
+PrepNp
+DetNP
+PrepNp
+191558	Np2CL
+DetNP
+NPofNP
+191562	Conj-CL
+191564	V2CL
+191566	ClCl2
+sub-CL
+S-V
+S-V
+DetNP
+191572	Conj-CL
+ClCl2
+sub-CL
+V2CL
+ADV-V-ADV-ADV
+V-O
+DetNP
+PrepNp
+191581	that-VP
+CLaCL
+sub-CL
+V-ADV-S-O
+PrepNp
+NP-Demo
+DetNP
+AdvpNp
+NpPp
+PrepNp
+191593	PrepNp
+NPofNP
+sub-CL
+191597	CLaCL
+V-S-ADV
+PrepNp
+191601	Conj5CL
+V-S-O-IO
+DetNP
+NPofNP
+191606	V-O
+191608	V-O-ADV
+191610	V-O
+NpaNp
+191613	DetNP
+NpPp
+NPofNP
+PrepNp
+191618	ADV-V-O-ADV-ADV
+PrepNp
+PrepNp
+PrepNp
+ADV-ADV-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+191628	Conj-CL
+ADV-V-O-ADV
+V-ADV
+PrepNp
+DetNP
+V-O
+DetCL
+V2CL
+191637	CLaCL
+191639	Conj-CL
+VC-S-P
+DetNP
+NPofNP
+NPofNP
+191645	S-O-V-O2
+NPofNP
+191648	Conj-CL
+V-ADV-ADV
+BeVerb
+NpPp
+PrepNp
+PrepNp
+DetNP
+191656	Conj-CL
+CLaCL
+S-V-O
+NpaNp
+DetNP
+191662	DetNP
+O-V
+191665	S2CL
+DetNP
+NPofNP
+DetNP
+191670	Conj-CL
+ClCl
+ADV-V-O
+DetCL
+O-V
+sub-CL
+S-V-O-ADV
+NP-all
+DetNP
+V2CL
+191681	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+NPofNP
+DetNP
+ClCl2
+CLaCL
+V-S-O-ADV
+DetNP
+PrepNp
+DetNP
+191694	V2CL
+CLaCL
+V-S-ADV
+NpaNp
+DetNP
+191700	DetNP
+PrepNp
+DetNP
+191704	V-ADV
+191706	PrepNp
+191708	CLaCL
+ADV-O-V
+PrepNp
+AdjpNp
+191713	P-VC-S
+DetCL
+V-IO-O
+NP-Demo
+DetNP
+191719	Conj-CL
+191721	V2CL
+PrepNp
+CLaCL
+V-O-S-O2
+191727	CLaCL
+S-P-VC
+DetNP
+NPofNP
+PrepNp
+191733	P2CL
+PrepNp
+191736	Conj-CL
+S-V-ADV-ADV
+PrepNp
+191740	that-VP
+CLaCL
+ClCl2
+sub-CL
+191745	P2CL
+PrepNp
+191748	ADV-ADV-V-O
+PrepNp
+191751	ClCl
+ClCl2
+sub-CL
+191755	P2CL
+PrepNp
+S-V-O
+NP-all
+DetNP
+sub-CL
+V-O
+VerbBe
+S-P-VC
+191765	Conj-CL
+V-O
+ADV-V-O
+P2CL
+191770	Conj-CL
+191772	DetNP
+191774	ADV-O-V
+PrepNp
+AdjpNp
+191778	Conj-CL
+V-O
+ADV-V-O
+PrepNp
+DetNP
+NP-Demo
+DetNP
+191786	Conj3CL
+S-V-O
+191789	V-O-IO
+191791	V-ADV
+NpAdjp
+191794	Conj-CL
+191796	PrepNp
+DetNP
+sub-CL
+ADV-V-IO
+PrepNp
+DetNP
+NPofNP
+DetNP
+191805	Conj-CL
+S-V-O-ADV-O2
+DetNP
+V2CL
+191810	Conj-CL
+V-O
+O-V
+AdjpNp
+191815	Conj-CL
+S-ADV-V-ADV
+O-V
+Conj2VP
+191821	Conj-CL
+V-O
+O-V
+191825	Conj-CL
+S-ADV-V
+O-V
+AdvpNp
+191830	Conj-CL
+191832	DetNP
+NPofNP
+DetNP
+ClCl
+O-V
+ClCl
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetAdj
+ADV-O-V
+191845	Conj-CL
+ADV-S-V-ADV-ADV
+V-O
+DetNP
+PrepNp
+191851	ClCl
+S-VC-P
+DetNP
+191855	sub-CL
+P-VC-S
+DetNP
+191859	Conj-CL
+ADV-V
+V-O-ADV
+PrepNp
+DetNP
+191865	Conj-CL
+O-V-IO-S
+DetNP
+NPofNP
+DetNP
+191871	CLaCL
+CLaCL
+V2CL
+191875	V-O
+NP-Demo
+DetNP
+191879	V-O-IO
+DetNP
+191882	Conj-CL
+191884	V2CL
+ADV-V
+191887	Conj-CL
+191889	V-O
+Conj-CL
+191892	NP-Demo
+DetCL
+V2CL
+191897	Np2CL
+NP-CL
+O-V-S
+DetCL
+V2CL
+PrepNp
+NPofNP
+S-V
+All-NP
+DetCL
+V-ADV
+PrepNp
+Demo-NP
+DetNP
+191913	PtclCL
+ADV-V
+PrepNp
+191917	Conj-CL
+ClCl
+CLaCL
+V-S-O-ADV
+NpaNp
+DetNP
+191924	DetNP
+V-ADV-O
+PrepNp
+DetNP
+PrepNp
+PronNP
+DetNP
+191932	V-O
+DetNP
+sub-CL
+191936	that-VP
+ADV-V-O
+PrepNp
+NP-Demo
+DetNP
+191942	Conj-CL
+ClCl
+ADV-V-O
+V2CL
+NpAdjp
+V-O
+S-P-VC
+sub-CL
+V-O-ADV
+ofNPNP
+sub-CL
+V-O-IO
+NpaNp
+DetNP
+191957	DetNP
+NPofNP
+DetNP
+191961	Conj-CL
+V-O-ADV
+191965	Np2CL
+191967	that-VP
+CLaCL
+ADV-V
+Conj2VP
+191973	notCLbutCL2CL
+V-O
+ADV-O-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+CLaCL
+V-S
+S-IO-O-V
+191984	ADV2CL
+191986	Conj-CL
+191988	V-O
+ofNPNP
+DetNP
+PrepNp
+191993	V-O
+ofNPNP
+NpaNp
+191998	Conj-CL
+192000	O2CL
+192002	Conj-CL
+192004	PrepNp
+Conj-CL
+CLaCL
+V-O-IO
+NPofNP
+192010	O-IO
+NPofNP
+DetNP
+DetNP
+192015	Conj-CL
+CLaCL
+ADV-V-O
+V-O-ADV
+ofNPNP
+PrepNp
+DetNP
+192023	ADV-V
+V-ADV
+PrepNp
+DetNP
+NPofNP
+192029	Conj-CL
+ADV-S-V-O-ADV
+V2CL
+Np-Appos
+NPofNP
+DetNP
+DetCL
+V-O
+S-P-VC
+192040	Np2CL
+192042	sub-CL
+CLaCL
+S-V-ADV
+ofNPNP
+V-O
+192048	S-P-VC
+CLaCL
+V-S-O
+DetNP
+NPofNP
+DetNP
+192055	V-O-IO
+DetNP
+NPofNP
+192059	Conj-CL
+S-V
+NumpNP
+192063	Conj-CL
+S-ADV-V-ADV
+DetAdj
+V-O
+192068	Conj-CL
+CLaCL
+S-V-O
+NpaNp
+DetAdj
+192074	DetAdj
+192076	CLaCL
+ADV-S-ADV-V-O
+AdvpNp
+DetNump
+192081	V2CL
+192083	ADV-S-V
+AdvpNp
+DetNP
+192087	Conj-CL
+ClCl
+S-ADV-P-VC
+DetNP
+PrepNp
+DetNP
+ofNPNP
+NPofNP
+sub-CL
+S-V-O-O2
+DetNump
+192099	Conj-CL
+192101	DetNP
+CLaCL
+S-V
+DetNP
+NPofNP
+NP-Demo
+DetNP
+Conj2VP
+192111	S-V
+DetCL
+V-O
+CLaCL
+O-V
+NP-Demo
+DetNP
+192119	O2CL
+Np-Appos
+DetNP
+NpPp
+PrepNp
+EitherOrVp
+192128	Conj-CL
+ClCl
+O-ADV-V
+ADV-V
+sub-CL
+CLaCL
+P-VC
+192136	P-VC-ADV
+NPofNP
+P-VC
+ofNPNP
+DetNP
+192142	Conj-CL
+192144	that-VP
+V-S
+DetAdj
+AdvpNp
+PrepNp
+DetNP
+sub-CL
+V-O-O2
+DetNP
+Conj3Np
+NPofNP
+192156	NPofNP
+192158	NPofNP
+192160	Conj-CL
+ClCl
+CLaCL
+S-ADV-VC-P
+192165	P2CL
+sub-CL
+S-ADV-V
+192169	Conj-CL
+192171	V2CL
+NPofNP
+DetNP
+192175	Np2CL
+192177	Conj-CL
+ADV-V-O
+V-O-O2
+192181	Conj-CL
+192183	PrepNp
+ADV-V-O
+S-VC-P
+DetNP
+ofNPNP
+192189	Conj-CL
+192191	PronNP
+PrepNp
+NPofNP
+192195	DetNP
+NPofNP
+ClCl
+V-ADV
+PrepNp
+NPofNP
+sub-CL
+PtclCL
+V-O-O2
+DetNP
+NPofNP
+NPofNP
+DetNP
+NPofNP
+192210	Conj-CL
+CLaCL
+S-O-O2-V
+192214	ADV-P-VC
+ofNPNP
+192217	Conj-CL
+ClCl2
+V-S
+All-NP
+DetNP
+192223	DetNP
+192225	PrepNp
+NP-CL
+Np-Appos
+DetNP
+DetCL
+CLaCL
+V-O
+V-ADV
+PrepNp
+192235	V-O
+Conj3Np
+NpPp
+PrepNp
+DetNP
+192241	NpPp
+PrepNp
+DetNP
+192245	NpPp
+PrepNp
+DetNP
+CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+192254	ADV-O-V
+S-V-O
+AdjpNp
+192258	Conj-CL
+ADV-V-O
+V2CL
+DetNP
+AdjpNp
+V-ADV-O
+PrepNp
+DetNP
+DetNP
+NPofNP
+192269	Conj-CL
+CLaCL
+V-O
+S-V-ADV-O
+AdjpNp
+NpAdjp
+NpNump
+192279	that-VP
+S-O-V
+Np-Appos
+NP-Demo
+DetNP
+DetNP
+AdjpAdvp
+192287	Conj-CL
+CLaCL
+S-ADV-V-ADV
+All-NP
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+192297	S-ADV-O-V
+PrepNp
+DetNP
+NPofNP
+All-NP
+DetNP
+NP-CL
+O-V
+192306	Conj-CL
+ClCl2
+192309	PrepNp
+DetNP
+that-VP
+ADV-V
+NpaNp
+NpAdjp
+192318	Np2CL
+NP-CL
+O-V
+ADV-ADV-V-ADV-S
+PrepNp
+NP-CL
+PrepNp
+S-ADV-V
+192327	Conj-CL
+V-O-ADV
+192331	Np2CL
+CLaCL
+P-S-VC
+192336	DetNP
+sub-CL
+V-S-O
+V2CL
+192341	Conj-CL
+192343	ClCl
+V2CL
+ADV-V
+192347	Conj-CL
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+192353	CLaCL
+S-VC
+192356	S-V
+DetNP
+192359	ADV-V-ADV
+PrepNp
+192362	Conj-CL
+ClCl2
+sub-CL
+V-O
+NpaNp
+192368	ADV-V
+192370	Conj-CL
+CLaCL
+V-S
+S-V-ADV
+192375	ADV-ADV-S
+DetNP
+192379	ClClCl
+CLaCL
+V-S-ADV
+PrepNp
+192384	S-ADV
+PrepNp
+S-V
+aNpaNp
+192389	NpAdjp
+192391	PpNp2Np
+PrepNp
+NpaNp
+192395	S-V
+aNpaNp
+192399	PpNp2Np
+PrepNp
+NpAdjp
+192403	Conj-CL
+CLaCL
+ADV-V-ADV-O
+PrepNp
+NP-all
+PrepNp
+DetNP
+NPofNP
+192412	V-ADV-ADV-ADV
+V-ADV
+PrepNp
+DetNP
+NpaNp
+192418	V-ADV
+PrepNp
+NpaNp
+192422	PrepNp
+DetNP
+NPofNP
+192426	V-ADV-ADV
+PrepNp
+192429	Conj-CL
+192431	PrepNp
+DetNP
+NPofNP
+ADV-V-O
+V2CL
+sub-CL
+S-V-IO-O
+NP-CL
+NpaNp
+192441	ADV-ADV-V-O-S
+CLaCL
+V2CL
+192445	V2CL
+AdjpNp
+DetCL
+V-O
+192450	Conj-CL
+Conj3CL
+V-ADV
+AdvPp
+PrepNp
+Conj4Np
+192460	V-ADV
+PrepNp
+192463	V-ADV-ADV
+BeVerb
+PrepNp
+PrepNp
+DetNP
+NPofNP
+192470	Conj-CL
+S-ADV-ADV-V
+PrepNp
+DetNP
+NPofNP
+2Advp_h1
+192477	ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+192484	Conj-CL
+ClCl2
+sub-CL
+V-O
+V-ADV-S
+PrepNp
+192491	that-VP
+V-S
+DetNP
+NPofNP
+192496	ClCl
+Conj3CL
+ADV-S-V-ADV
+NpPp
+PrepNp
+DetNP
+PrepNp
+DetNP
+192505	S-V
+NpPp
+PrepNp
+NPofNP
+192510	S-ADV-V-ADV
+NpPp
+PrepNp
+DetNP
+PrepNp
+sub-CL
+P-S-VC-ADV
+NPofNP
+DetCL
+V-S
+All-NP
+DetCL
+V2CL
+192524	S-IO-ADV
+NpaNp
+DetCL
+ADV-V
+PrepNp
+192530	DetCL
+V2CL
+PrepNp
+Demo-NP
+DetNP
+192536	Conj-CL
+Conj5CL
+VC-S-P
+NpAdjp
+PrepNp
+DetNP
+192543	S-P
+NP-Demo
+DetNP
+192547	V-ADV
+NPofNP
+192550	V-ADV
+PrepNp
+NP-all
+DetNP
+192555	S-V-ADV-ADV
+BeVerb
+PrepNp
+PrepNp
+ADV-V-S
+NPofNP
+192562	Conj-CL
+ClCl
+ClCl
+CLaCL
+VC-S-P
+PrepNp
+Conj3Np
+192572	P-S-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NPofNP
+NPofNP
+NpaNp
+192581	V-S-ADV
+PrepNp
+NpaNp
+192585	NPofNP
+DetCL
+V-ADV
+DetNP
+sub-CL
+S-V
+DetNP
+NPofNP
+DetNP
+192595	Conj-CL
+ADV-V-O
+S-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+NpAdjp
+NpaNp
+192607	Conj-CL
+192609	V-S-O
+V2CL
+CLaCL
+V2CL
+192614	V-O
+DetNP
+NPofNP
+sub-CL
+V-S
+DetNP
+NPofNP
+192622	Conj-CL
+V-O-IO
+192625	V-O
+NpaNp
+DetNP
+192629	All-NP
+DetNP
+192632	ClCl2
+sub-CL
+V-ADV
+192636	V-ADV
+PrepNp
+that-VP
+ADV-P-S-VC
+DetNP
+192643	AdvpNp
+sub-CL
+V-O
+S-V
+that-VP
+P-VC-S
+DetNP
+NPofNP
+DetNP
+192654	V-IO
+that-VP
+192657	2Advp_h1
+NP-Demo
+DetNP
+sub-CL
+PtclCL
+S-V
+192664	CLaCL
+S-V
+NpaNp
+DetNP
+192669	DetNP
+192671	S-ADV-V
+DetNP
+NPofNP
+2Advp_h1
+192676	Conj-CL
+192678	CLaCL
+ADV-ADV-V-S-ADV
+ofNPNP
+DetNP
+PrepNp
+Conj3Np
+192686	NpAdjp
+192689	PrepNp
+NP-Demo
+DetNP
+sub-CL
+S2CL
+192695	Conj-CL
+V-ADV
+PrepNp
+All-NP
+DetCL
+V-ADV
+PrepNp
+NPofNP
+All-NP
+DetNP
+192706	Conj-CL
+V-ADV-ADV
+PrepNp
+All-NP
+192711	that-VP
+V-O
+CLaCL
+V-O
+Np-Appos
+NP-all
+DetCL
+V-O
+V2CL
+192721	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+192727	Conj-CL
+CLaCL
+V-ADV-ADV
+BeVerb
+DetNP
+PrepNp
+DetNP
+192735	ADV-ADV-V-ADV
+DetNP
+V2CL
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+192744	Conj-CL
+S-V-ADV-ADV
+All-NP
+DetNP
+PrepNp
+ADV-V-O
+PrepNp
+DetNP
+192753	Conj-CL
+V-S
+Np-Appos
+DetNP
+NPofNP
+DetAdj
+DetCL
+VC-P
+192762	Conj-CL
+ClCl
+V-S-O
+NpaNp
+DetNP
+192768	DetNP
+DetCL
+ADV-V-O
+sub-CL
+V-O
+DetNP
+192775	Conj-CL
+V-S-ADV
+PrepNp
+NpAdjp
+Np-Appos
+DetCL
+VC-P
+VC-P
+PrepNp
+DetNP
+NPofNP
+DetNump
+192788	Conj-CL
+ADV-V-IO-O
+V2CL
+DetNP
+NpaNp
+192794	DetCL
+ADV-IO-V-O
+192797	Conj-CL
+CLaCL
+V2CL
+192801	V-O
+IO-O-V
+192804	Conj-CL
+CLaCL
+V2CL
+192808	V-O-ADV
+DetCL
+V-O-ADV-IO
+PrepNp
+192813	Conj-CL
+V-S
+DetNP
+NP-CL
+NPofNP
+DetAdj
+ADV-V-S
+V-S
+DetNP
+192823	Conj-CL
+V-O-ADV
+NpaNp
+192828	ClCl
+ADV-V-IO-O
+V2CL
+DetNP
+sub-CL
+V2CL
+192835	Conj-CL
+192837	ClCl
+ADV-V
+V2CL
+192841	Conj-CL
+192844	V-S-ADV
+PrepNp
+DetNP
+V-O-S
+NpAdjp
+O-V
+NPofNP
+192852	V-O-ADV
+PrepNp
+DetNP
+NP-CL
+ADV-V
+PrepNp
+192859	Conj-CL
+192861	DetNP
+NPofNP
+DetNP
+192865	DetNP
+ClCl
+P-VC-S
+DetNP
+ADV-O-ADV-V
+DetNP
+PrepNp
+DetNP
+NPofNP
+192875	S-IO-V-O
+NpAdjp
+NpAdjp
+V2CL
+192880	ADV-V
+192882	Conj-CL
+CLaCL
+ClCl
+ADV-V
+V2CL
+sub-CL
+V-IO
+192890	V-O
+DetNP
+192893	Conj-CL
+192895	sub-CL
+V-S
+DetNP
+V2CL
+192900	S-ADV
+DetNP
+PrepNp
+192904	Conj-CL
+192906	PrepNp
+ADV-V-O
+O-V-ADV-ADV
+Demo-NP
+DetNP
+PrepNp
+PrepNp
+DetCL
+S-V
+192916	Conj-CL
+192918	that-VP
+ADV-ADV-V-O-ADV
+2Advp_h1
+PrepNp
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+192928	Conj-CL
+192930	V-O
+V2CL
+CLaCL
+V-O
+192935	V-ADV
+PrepNp
+192938	Conj-CL
+192940	ADV-V-ADV-ADV-ADV
+2Advp_h1
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+ADV-S-V
+DetNP
+NPofNP
+DetNP
+192954	Conj-CL
+CLaCL
+ADV-ADV-V
+V-O
+V2CL
+192960	V-IO-ADV
+192962	ClCl
+S-VC-P
+Np-Appos
+DetNP
+NPofNP
+DetCL
+ADV-V
+PrepNp
+O-V-ADV
+PrepNp
+DetNP
+AdjpNp
+192975	Conj-CL
+O-ADV-ADV-ADV
+DetNP
+PrepNp
+DetCL
+V2CL
+192982	ClCl
+CLaCL
+P-S
+Np-Appos
+Demo-NP
+DetNP
+DetNP
+AdjpNp
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetCL
+ADV-V
+PrepNp
+192999	DetNP
+NPofNP
+DetCL
+V-O
+PrepNp
+PrepNp
+DetNP
+sub-CL
+aCLaCL
+193009	S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+V2CL
+193017	S-IO
+NP-CL
+NP-Demo
+DetNP
+ADV-V
+PrepNp
+193024	Conj-CL
+S-V-O
+V-ADV-O
+PrepNp
+DetCL
+Conj-CL
+P-VC-ADV-S
+PrepNp
+DetCL
+O-V
+O-V
+193036	Conj-CL
+V-ADV-S
+AdvpNp
+Np-Appos
+PrepNp
+DetCL
+S-V-O
+NPofNP
+VC-P
+193046	Conj-CL
+193048	CLaCL
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+193054	S-P-VC
+DetCL
+V-O
+193058	Conj-CL
+CLaCL
+S-ADV-P
+193062	CLaCL
+S-VC-P
+DetNP
+NpPp
+PrepNp
+PrepNp
+DetAdj
+193070	S-P
+DetCL
+V2CL
+PrepNp
+DetCL
+V2CL
+193077	Conj-CL
+193079	S2CL
+NpaNp
+DetCL
+V2CL
+193084	DetCL
+V2CL
+PtclCL
+S2CL
+DetCL
+V2CL
+193091	Conj-CL
+S-ADV-VC-P
+PrepNp
+NPofNP
+PrepNp
+DetCL
+V2CL
+193099	Conj-CL
+S-VC-P-ADV
+DetCL
+V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+193108	CLaCL
+ClCl
+S-V-IO-ADV-O
+sub-CL
+V-IO-S
+DetNP
+NPofNP
+sub-CL
+V-ADV-ADV
+Conj2VP
+193119	PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+193126	V-ADV-ADV
+PrepNp
+O-V
+DetNP
+NumpNP
+NPofNP
+DetNP
+193134	ClCl2
+ClCl
+Np2CL
+Np2CL
+193139	DetNP
+DetCL
+ClCl
+V2CL
+sub-CL
+O2CL
+DetNP
+193147	Conj-CL
+193149	PrepNp
+that-VP
+ADV-V-S
+DetNP
+NPofNP
+193155	Conj-CL
+S-ADV-V-O
+ADV-V
+DetNP
+NPofNP
+193161	Conj-CL
+193164	Np2CL
+PrepNp
+ADV-V
+Conj2Pp
+AdvPp
+PrepNp
+193171	PrepNp
+193173	Conj-CL
+193175	ClCl
+193177	Np2CL
+ClCl
+ADV-V-ADV-S
+sub-CL
+ADV-O-V
+O-ADV-V
+193184	Conj-CL
+193186	ClCl2
+sub-CL
+V-O-ADV
+PrepNp
+Conj3Np
+193193	PtclCL
+ADV-V
+193196	Conj-CL
+193198	ADV2CL
+193200	Conj-CL
+193202	Conj-CL
+2CLaCL
+ADV-S-V
+DetCL
+V-O
+ADV-O
+AdvpNp
+193210	CLaCL
+S-V-O
+DetCL
+ADV-V
+DetNP
+NPofNP
+193217	V-O
+193219	Conj-CL
+193221	that-VP
+V-S
+S-V-ADV
+Np-Appos
+Demo-NP
+DetCL
+V2CL
+PrepNp
+NP-CL
+Conj-CL
+ADV-V
+PrepNp
+193234	Conj-CL
+S-O-V
+AdvpNp
+NpPp
+PrepNp
+193240	Conj-CL
+193243	Np2CL
+193245	Conj-CL
+193247	P-VC
+193249	Conj-CL
+ADV-V-ADV-ADV
+V2CL
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+193259	Conj-CL
+V-O-S
+AdvpNp
+DetNP
+193264	Conj-CL
+193266	V-ADV
+PrepNp
+DetNP
+V-ADV
+ADV-V-ADV
+PrepNp
+193273	Conj-CL
+CLaCL
+S-V-ADV-ADV
+PrepNp
+AdvpNp
+ofNPNP
+193280	ADV-V-ADV
+V-O
+DetNP
+193285	Np2CL
+ClCl2
+sub-CL
+V2CL
+V-O-ADV
+Demo-NP
+DetNP
+PrepNp
+sub-CL
+notCLbutCL2CL
+S2CL
+DetNP
+NPofNP
+S-V
+DetAdj
+193301	Conj-CL
+V-IO-S-ADV-ADV
+PrepNp
+V-O
+193306	Conj-CL
+ADV-ADV-V
+VC-P
+PrepNp
+193311	Conj-CL
+CLaCL
+VC-S-P-ADV
+DetNP
+NPofNP
+PrepNp
+NPofNP
+V-ADV
+PrepNp
+DetNP
+193322	CLaCL
+ADV-ADV-V-O
+V-ADV
+PrepNp
+DetNP
+V-ADV
+PrepNp
+DetNP
+V-S-ADV
+PrepNp
+DetNP
+193335	ClCl
+ADV-V
+193338	V2CL
+sub-CL
+ADV-V-ADV
+PrepNp
+193344	ADV-S-V
+193346	V2CL
+193348	CLaCL
+S-V-ADV
+Np-Appos
+DetCL
+VC-P
+NPofNP
+DetNump
+193356	V-ADV-ADV
+DetNP
+V-O
+193360	Conj-CL
+193363	Np2CL
+DetNP
+NPofNP
+DetNP
+193368	Conj-CL
+193370	V-O
+NpPp
+PrepNp
+DetCL
+V2CL
+193376	Np2CL
+V-ADV
+PrepNp
+193380	Conj-CL
+CLaCL
+V-S-O
+Np-Appos
+NpPp
+PrepNp
+ofNPNP
+DetNP
+DetNP
+193390	V-O
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+193396	Conj-CL
+193398	V2CL
+DetNP
+V-ADV
+PrepNp
+193403	Conj-CL
+ADV-V-O
+V-O
+DetNP
+193408	Conj-CL
+193410	PrepNp
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+Conj3Np
+193417	NPofNP
+DetNP
+193420	ClCl2
+sub-CL
+ADV2CL
+PrepNp
+V-ADV
+PrepNp
+NpaNp
+193429	ClCl2
+ADV-VC-S-P-ADV
+PrepNp
+PrepNp
+PrepNp
+DetNP
+ADV-V-O-ADV
+DetNP
+PrepNp
+193439	Conj-CL
+S-VC-P
+NpaNp
+ofNPNP
+DetNP
+193445	DetNP
+NPofNP
+DetNP
+193449	Conj-CL
+CLaCL
+ADV-V
+V-O
+193454	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+193460	Conj-CL
+S-V-ADV
+DetNP
+193464	Conj-CL
+193466	CLaCL
+V-O-ADV
+PrepNp
+NPofNP
+DetNP
+193472	V2CL
+DetNP
+NPofNP
+193476	Conj-CL
+193478	CLaCL
+V-O
+S-V-ADV
+NpAdjp
+PrepNp
+DetNP
+193485	V-O
+S-P-VC
+AdvpNp
+PrepNp
+193490	Conj-CL
+193492	V2CL
+193494	Np2CL
+193496	Conj-CL
+193498	PrepNp
+V-O
+S-P-VC
+AdvpNp
+PrepNp
+193504	Conj-CL
+193506	DetNP
+193508	Np2CL
+193510	Conj-CL
+ClCl2
+V-S
+AdvpNp
+NpAdjp
+S-V-ADV
+AdjpNp
+193518	ClCl
+ADV-S-P-VC
+PrepNp
+AdvpNp
+PrepNp
+sub-CL
+P-VC
+AdvpNp
+193527	Conj-CL
+193529	DetNP
+193531	Np2CL
+O-V
+193534	Conj-CL
+ADV-ADV-V-S
+ADV-V-S
+193538	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetNP
+DetNP
+193545	ClCl
+V-S-O
+DetNP
+DetNP
+NPofNP
+DetNP
+sub-CL
+193553	that-VP
+ADV-V-O-ADV
+sub-CL
+S-V-ADV
+193558	Conj-CL
+ADV-V-ADV
+V-ADV
+193562	Conj-CL
+CLaCL
+S-V-O-ADV
+Np-Appos
+DetNP
+DetCL
+V-O
+V2CL
+193571	ADV-V-ADV
+V-O
+193575	P-VC-S
+DetCL
+V-O
+193579	Conj-CL
+O-V-ADV
+NpAdjp
+V-ADV
+PrepNp
+193585	Conj-CL
+ClCl2
+sub-CL
+V-S
+CLaCL
+V-S
+Conj3Np
+DetNP
+NPofNP
+DetNP
+193598	V-O-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+193603	ClCl2
+sub-CL
+S-VC-P
+DetNP
+V-IO
+193609	Conj-CL
+193611	ClCl2
+sub-CL
+IO-V
+ADV-V
+2Advp_h1
+193617	Conj-CL
+ClCl2
+sub-CL
+V2CL
+ADV-V
+2Advp_h1
+193624	Conj-CL
+ADV-V-S-ADV
+PrepNp
+DetNP
+BeVerb
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+193638	Conj-CL
+193640	Conj-CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+193646	Conj-CL
+193648	PrepNp
+193650	that-VP
+S-VC
+193653	Conj-CL
+193656	ofNPNP
+sub-CL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+193663	Conj-CL
+ADV-S-V-O-ADV
+V2CL
+AdjpNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+193672	Conj-CL
+V-O-ADV
+V-O
+193676	V-O
+Conj3CL
+S-V-O
+DetNP
+NPofNP
+193682	V-O
+O-IO-V
+193685	V-O
+S-P-VC
+Np-Appos
+193689	Conj-CL
+S-V-O-ADV
+DetNP
+193693	S-VC-P
+DetNP
+NPofNP
+DetAdj
+193698	Conj-CL
+193700	V-IO
+S-V
+193703	Conj-CL
+193705	DetNP
+PrepNp
+NpaNp
+DetNP
+193710	DetNP
+ADV-V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+193716	Conj-CL
+S-V-ADV
+193719	that-VP
+V-O-ADV
+DetNP
+V-ADV-ADV
+PrepNp
+All-NP
+DetNP
+ADV-V-ADV
+2Pp
+PrepNp
+DetNP
+PrepNp
+193732	Conj-CL
+193734	V2CL
+PtclCL
+S-P-VC
+DetNP
+193739	Conj-CL
+ADV-V-O-ADV
+193742	that-VP
+P-VC
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NpAdjp
+VC-S-P-ADV
+AdvpNp
+PrepNp
+PrepNp
+Demo-NP
+DetNP
+193756	Conj-CL
+ClCl
+S-ADV-V-ADV
+DetNP
+V-O
+DetNP
+sub-CL
+CLaCL
+V-ADV-O-ADV
+BeVerb
+PrepNp
+AdjpNp
+V-O
+PrepNp
+DetCL
+V-ADV
+PrepNp
+193774	V-O
+V-O
+S-ADV-V
+AdjpNp
+PrepNp
+193780	Conj-CL
+V-O-ADV
+PrepNp
+NpAdjp
+193785	Conj-CL
+S-O-V-IO
+193788	Conj-CL
+V-S-ADV
+NpaNp
+DetNP
+193793	DetNP
+ADV-V-O
+193796	Conj-CL
+S-ADV-ADV-V-O-IO
+CLaCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+193805	V2CL
+V-O
+NpAdjp
+DetNP
+193810	Conj-CL
+ClCl
+VC-P-S-ADV-ADV
+aNpaNp
+193815	DetNP
+193817	DetNP
+PrepNp
+PronNP
+DetNP
+PrepNp
+sub-CL
+VC-P
+P-VC-ADV
+PrepNp
+PrepNp
+193828	Conj-CL
+193830	V-O
+Conj3Np
+DetNP
+193834	DetNP
+193836	DetNP
+PrepNp
+CLaCL
+V-IO-O-O2
+NP-Demo
+DetNP
+sub-CL
+V-O
+DetNP
+193847	S-ADV-ADV-V-ADV-O
+ADV-V
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+NPofNP
+O-V-ADV
+PrepNp
+193857	ClCl
+ADV-S
+sub-CL
+V-O-ADV
+PrepNp
+193863	Conj-CL
+193865	NpAdjp
+AdjpAdvp
+BeVerb
+193869	Conj-CL
+ADV-V
+V-O
+193873	Conj-CL
+193876	CLaCL
+V-O
+193879	V-IO-O
+DetNP
+S-V-ADV-ADV
+BeVerb
+PrepNp
+NpaNp
+NpAdjp
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+193891	PrepNp
+DetNP
+193894	Conj-CL
+ADV-S-V-O-ADV
+DetNP
+V-O
+V-O
+DetNP
+193901	Conj-CL
+S-V-ADV
+193904	ClCl
+V2CL
+V-O
+193908	Conj-CL
+193910	PrepNp
+ClCl
+PtclCL
+ClCl
+O-V-S
+AdjpNp
+O-V-ADV
+AdjpNp
+NPofNP
+PrepNp
+Conj-CL
+ADV-V
+V-O
+193924	Conj-CL
+CLaCL
+S-V-ADV-ADV
+NpAdjp
+V-O
+S-V
+193931	V-S
+DetNP
+NPofNP
+193935	Conj-CL
+S-V-O
+V-S
+DetNP
+NPofNP
+193941	Conj-CL
+CLaCL
+V-O
+NP-CL
+DetCL
+ADV-V-ADV
+PrepNp
+NpaNp
+193950	PrepNp
+O-V
+193953	O-V-ADV
+DetNP
+DetNP
+NPofNP
+193958	Conj-CL
+193960	sub-CL
+V-O
+V-O
+NpAdjp
+Np-Appos
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+V-ADV
+PrepNp
+DetNP
+193973	Conj-CL
+V-O-S
+AdjpNp
+NPofNP
+NpaNp
+DetNP
+193980	NP-CL
+S-V-O
+Conj2VP
+193985	Conj-CL
+193987	V-ADV
+PrepNp
+193990	Np2CL
+NPofNP
+PrepNp
+193994	Conj-CL
+ClCl
+CLaCL
+ADV-V
+PrepNp
+194000	ADV2CL
+PrepNp
+DetNP
+NPofNP
+sub-CL
+194006	NP-CL
+194008	ADV-V
+PrepNp
+Conj3Np
+DetNP
+194013	DetNP
+NP-CL
+S-ADV-V
+194017	NP-CL
+S-ADV-V
+194020	ADV-V-O
+CLaCL
+194023	DetNP
+V-ADV
+PrepNp
+194027	ClCl
+IO2CL
+DetNP
+V-O
+194032	sub-CL
+194034	sub-CL
+ADV-O-V
+PrepNp
+AdjpNp
+PrepNp
+DetAdj
+194041	Conj-CL
+V-S-ADV-ADV
+AdvpNp
+AdjpNp
+NpNump
+PrepNp
+V2CL
+194049	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+ADV-V-O
+NpaNp
+194061	NP-CL
+DetAdj
+aCLaCL
+194065	O-ADV
+PrepNp
+194068	O-ADV
+PrepNp
+194071	Conj-CL
+194073	DetNP
+194075	Np2CL
+V-IO
+sub-CL
+ADV-V-O
+O-V
+194081	Conj-CL
+ADV-V-O
+V-O
+DetNP
+NPofNP
+194087	Conj-CL
+V-S-ADV
+DetNP
+V2CL
+194092	Conj-CL
+V-S-ADV
+AdvpNp
+DetNP
+194097	ClCl
+O-V
+ClCl
+V-O
+sub-CL
+S-VC-P
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetAdj
+194109	Conj-CL
+V-O-S-ADV-ADV
+AdvpNp
+DetNP
+V2CL
+CLaCL
+O-V-IO
+194118	ClCl2
+sub-CL
+S-VC-P
+DetNP
+NPofNP
+DetAdj
+V-O
+194126	Conj-CL
+194128	AdvpNp
+PrepNp
+P-S
+DetNP
+NPofNP
+DetAdj
+194135	Conj-CL
+194137	NPofNP
+DetNP
+AdjpNp
+V2CL
+ClCl2
+PtclCL
+S-VC-P
+DetNP
+V-O
+NpaNp
+194149	Conj-CL
+194151	V2CL
+DetAdj
+V-O
+CLaCL
+194156	DetNP
+sub-CL
+P-VC
+PrepNp
+DetNP
+PronNP
+194163	aCLaCL
+194165	ClCl
+S-ADV
+sub-CL
+O-V
+AdjpAdvp
+O-V
+194172	S-O-V
+AdjpNp
+194175	Conj-CL
+194178	Np2CL
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+194185	Conj-CL
+194187	ClCl
+PtclCL
+IO-V
+ADV-ADV-VC-P
+PrepNp
+PrepNp
+DetNP
+194195	Conj-CL
+CLaCL
+VC-ADV-P
+AdvpNp
+NpAdjp
+194201	CLaCL
+ClCl
+S-V-ADV-ADV
+PrepNp
+All-NP
+DetNP
+PrepNp
+NpAdjp
+S-V
+DetNP
+194212	V-S-ADV
+DetNP
+NPofNP
+DetNP
+194217	Conj-CL
+194219	V-ADV
+NpAdjp
+DetNP
+194223	Np2CL
+PrepNp
+NPofNP
+DetNP
+NPofNP
+194229	Conj-CL
+ADV-V
+O-V
+194233	Conj-CL
+S-ADV-V-O-ADV
+V-O
+DetNP
+DetCL
+V2CL
+DetNP
+194241	ADV-S-P-VC
+NP-Demo
+DetNP
+194245	Conj-CL
+S-ADV-ADV-V
+All-NP
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+V-O
+DetCL
+V2CL
+V-O
+DetNP
+194260	Conj-CL
+V-ADV-S-ADV
+NpaNp
+All-NP
+DetNP
+AdjpAdvp
+PrepNp
+194268	Np-Appos
+DetCL
+V-O-ADV
+PrepNp
+DetNP
+V-O
+194275	Conj-CL
+194277	Np2CL
+NP-CL
+NpPp
+NP-CL
+NpAdjp
+NpAdjp
+ADV-P
+VC-P
+2Np
+NpAdjp
+AdjpaAdjp
+194289	S-ADV-V-ADV
+BeVerb
+NPofNP
+NpaNp
+DetNP
+194295	DetNP
+PrepNp
+Np-Appos
+NPofNP
+DetAdj
+S-V-O
+DetNP
+NPofNP
+DetNP
+S-ADV-IO-V-O
+V2CL
+DetNP
+DetNP
+NPofNP
+DetNP
+194311	CLaCL
+ADV-V-O-ADV
+V2CL
+194315	V-O-ADV
+PrepNp
+NP-CL
+NpAdjp
+ADV-ADV-V-S-ADV
+BeVerb
+194322	Conj-CL
+CLaCL
+P-VC
+NPofNP
+194327	S-V
+194329	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetNP
+NP-CL
+S-V-ADV-ADV
+BeVerb
+PrepNp
+DetNP
+NpaNp
+DetNP
+194342	that-VP
+V-S
+DetNP
+NPofNP
+194347	ADV-V-O
+V2CL
+NpaNp
+194352	Conj-CL
+Conj-CL
+ADV-V-ADV
+DetNP
+PrepNp
+DetNP
+194359	Conj-CL
+ADV-ADV-ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+NpAdjp
+PrepNp
+DetNP
+V-O
+CL-NP
+O-V
+194371	Conj-CL
+CLaCL
+V-O
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+194379	ADV-ADV-V-O
+V2CL
+DetNP
+NPofNP
+Np-Appos
+DetNP
+194386	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+194395	NpNump
+PrepNp
+NpAdjp
+V2CL
+194400	Conj-CL
+ClCl2
+CLaCL
+P-VC-S
+194405	V-O-ADV
+DetNP
+PrepNp
+DetNP
+194410	PrepNp
+ADV-V-O-ADV
+DetCL
+V2CL
+PrepNp
+DetAdj
+194417	notCLbutCL2CL
+VC-P
+V2CL
+194422	V2CL
+V-IO-ADV-ADV
+ADV-VC-P
+PrepNp
+DetNP
+194428	that-VP
+V-S
+Conj3CL
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+NpAdjp
+194439	V2CL
+194441	ADV-V
+DetNP
+AdjpNp
+194445	Conj-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+194451	ADV-V-O-IO
+V-ADV
+PrepNp
+DetNP
+NP-all
+NpaNp
+DetNump
+194459	All-NP
+DetAdj
+194462	Conj-CL
+VC-P
+Conj4Np
+Np-Appos
+DetNP
+194469	Np-Appos
+NPofNP
+194472	NpPp
+DetAdj
+PrepNp
+194476	V-ADV-O
+PrepNp
+DetNP
+194480	Conj-CL
+CLaCL
+V-ADV-ADV-S
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+194488	V-O
+194490	Conj-CL
+CLaCL
+S-ADV-V-ADV
+DetNP
+V2CL
+PrepNp
+DetNP
+194498	ADV-V-O
+V2CL
+S-P
+DetNP
+194503	Conj-CL
+V-ADV
+ADV-V-O
+PrepNp
+DetCL
+V2CL
+194510	Conj-CL
+194512	S-ADV-V-ADV
+NpPp
+PrepNp
+PrepNp
+PronNP
+DetNP
+BeVerb
+PrepNp
+NP-CL
+NpAdjp
+V-ADV-ADV
+NpNump
+PrepNp
+ADV-S-P
+194527	S-V-ADV-ADV
+PrepNp
+PrepNp
+NP-Demo
+All-NP
+DetCL
+V2CL
+194535	Conj-CL
+CLandCL2
+V-ADV
+PrepNp
+DetCL
+CLaCL
+V-S
+194543	V2CL
+194545	CLaCL
+S-ADV-V-ADV
+PronNP
+V2CL
+194550	S-V-ADV
+DetNP
+NPofNP
+DetCL
+ADV-V-O
+194556	Conj-CL
+194558	PrepNp
+P-S
+NP-CL
+NP-Demo
+DetNP
+O-V-ADV-ADV
+PrepNp
+V2CL
+194567	Conj-CL
+V-ADV
+194570	Conj-CL
+194572	V2CL
+NpAdjp
+ADV-P
+PrepNp
+CLaCL
+S-ADV-V-O
+194579	ADV-V-O
+DetCL
+V-ADV-ADV
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+194587	Conj-CL
+194589	O2CL
+194591	Conj-CL
+S-V-IO-O
+NpaNp
+NpPp
+PrepNp
+NP-CL
+Np-Appos
+DetAdj
+S-VC-P-ADV
+Np-Appos
+NpAdjp
+AdjpPp
+PrepNp
+NpaNp
+194606	PrepNp
+NpaNp
+DetNP
+194610	All-NP
+DetNP
+194613	CLaCL
+ADV-V-O-S-ADV
+NpaNp
+DetNP
+194618	DetNP
+NPofNP
+PrepNp
+NPofNP
+194623	V-O
+194625	Conj-CL
+194627	that-VP
+S-VC-P
+DetCL
+V-O
+V-O
+DetNP
+194634	Conj-CL
+PtclCL
+ADV-O-V-ADV
+AdvPp
+PrepNp
+All-NP
+AdjpNp
+Demo-NP
+PrepNp
+ADV-S-V
+194645	Conj-CL
+S-V-O
+AdvpNp
+NpPp
+NpAdjp
+PrepNp
+194652	ADV-V-ADV
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+194658	ADV-V-O
+DetNP
+NPofNP
+V-O
+194663	AdvpNp
+NPofNP
+S-V-O
+S-V
+194668	Conj-CL
+CLaCL
+V-S-ADV
+NPofNP
+NpPp
+PrepNp
+PrepNp
+DetNP
+194677	CLaCL
+ClCl
+V-ADV
+sub-CL
+S-V
+AdvpNp
+DetNP
+194685	O-ADV-V
+194687	Conj-CL
+194689	PrepNp
+194691	Np2CL
+intjNP
+NpaNp
+194695	NPofNP
+NpAdvp
+DetNP
+DetCL
+V-ADV
+PrepNp
+All-NP
+ADV-V-S
+DetNP
+V-S
+CLaCL
+O-V-S
+DetNP
+194709	V-ADV
+PrepNp
+DetNP
+NPofNP
+194714	Conj-CL
+ADV-V-IO-ADV-O
+V-ADV
+Conj2Pp
+PrepNp
+194720	PrepNp
+All-NP
+DetNP
+PrepNp
+All-NP
+DetNP
+NpPp
+PrepNp
+194729	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NP-CL
+ADV-V
+194737	S-V-O
+ADV-V
+194740	Conj-CL
+V-O-ADV
+194743	ClCl
+V-ADV
+PrepNp
+sub-CL
+CLaCL
+P-VC
+PrepNp
+194751	V-ADV-S
+DetNP
+194754	Conj-CL
+V-ADV
+DetCL
+V-ADV
+PrepNp
+194760	Conj-CL
+ClCl2
+V-ADV
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+CLaCL
+ADV-V
+V-O
+DetNP
+194772	ADV-V-IO
+V2CL
+194775	Conj-CL
+CLaCL
+S-V
+ofNPNP
+DetNP
+194781	V-O
+194783	Conj-CL
+S-P-VC-ADV
+PrepNp
+194787	Conj-CL
+194789	PrepNp
+ClCl
+PtclCL
+S-V-ADV
+DetNP
+NPofNP
+VerbBe
+PrepNp
+ClCl
+sub-CL
+V-IO-ADV
+PrepNp
+DetNP
+sub-CL
+V-IO-O
+DetNP
+194806	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+PronNP
+DetNP
+PrepNp
+194814	V-O
+V-S-ADV
+NpaNp
+DetNump
+194819	NpPp
+PrepNp
+194822	that-VP
+CLaCL
+ADV-V-S
+DetNP
+194827	V-IO
+194829	Conj-CL
+S-V-O
+NpaNp
+NpPp
+PrepNp
+DetNP
+194836	that-VP
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+194843	Conj-CL
+194845	O-S-V
+S-V-ADV
+PrepNp
+NPofNP
+194851	S-IO
+194853	Conj-CL
+ADV-V-O
+CLaCL
+V2CL
+194858	P-VC
+O-V
+194861	Conj-CL
+194863	CLaCL
+ADV-V
+VerbBe
+194867	ADV-S-V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+194874	NpaNp
+DetNP
+NPofNP
+194878	DetNP
+NPofNP
+that-VP
+S-VC-P
+194884	V-O
+194886	V2CL
+sub-CL
+194889	NpaNp
+194891	sub-CL
+O-V
+S-V
+194895	Conj-CL
+ADV-V-IO-O
+O-V
+NpaNp
+DetNP
+194901	DetNP
+194903	Conj-CL
+ClCl2
+CLaCL
+ADV-V-S-ADV
+PrepNp
+DetNP
+194910	V2CL
+194912	V-O-ADV
+AdjpNp
+194915	Conj-CL
+S-V-IO-O
+ofNPNP
+NpAdjp
+194920	Conj-CL
+ADV-ADV-V
+V2CL
+PrepNp
+194925	Conj-CL
+194927	PrepNp
+194929	DetNP
+NP-CL
+NPofNP
+O-V-ADV-ADV
+PrepNp
+ADV-VC-P
+PrepNp
+that-VP
+V-S
+V-S
+All-NP
+DetCL
+V-ADV-ADV
+PrepNp
+NpaNp
+DetNP
+NPofNP
+194947	DetNP
+NpaNp
+194950	PrepNp
+194952	ADV-V-O-ADV
+ofNPNP
+DetNP
+DetCL
+V-O
+DetNP
+194959	Conj-CL
+194961	that-VP
+ADV-V-S
+CLaCL
+CLaCL
+V-S
+DetNP
+194968	V-ADV-ADV
+PrepNp
+DetNP
+AdjpNp
+194973	V-ADV-S-ADV
+PrepNp
+DetNP
+NPofNP
+NpPp
+PrepNp
+NPofNP
+PrepNp
+All-NP
+DetNP
+194984	ADV-S-P
+V-ADV
+PrepNp
+NPofNP
+194989	Conj-CL
+194991	DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+194997	Conj-CL
+S-V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+ADV-V-ADV-O
+PrepNp
+195005	Conj-CL
+CLaCL
+V-O-ADV
+PrepNp
+PrepNp
+195011	ADV-V-O
+V-O
+DetNP
+NPofNP
+195016	Conj-CL
+195018	V-ADV
+PrepNp
+DetCL
+V-S-O
+V-ADV
+PrepNp
+195025	V-ADV
+PrepNp
+DetNP
+195029	Conj-CL
+CLaCL
+S-ADV-V-ADV-ADV
+V-O
+PrepNp
+PrepNp
+NpAdjp
+195037	V-ADV-ADV-O
+BeVerb
+PrepNp
+PrepNp
+DetNP
+DetNP
+195044	Conj3CL
+P-VC-S
+PrepNp
+DetNP
+195049	S-VC-P
+DetNP
+PrepNp
+DetNP
+195054	P-VC-S
+DetNP
+195057	S-VC-ADV-P
+PrepNp
+PrepNp
+DetNP
+195062	CLaCL
+S-ADV-V
+PrepNp
+195066	ADV-V-ADV-S
+PrepNp
+NP-CL
+S-V
+195071	CLaCL
+P-S-VC
+PrepNp
+195075	S-VC-P
+DetNP
+DetNP
+NPofNP
+DetNP
+195081	Conj-CL
+CLaCL
+S-ADV-V
+DetNP
+PrepNp
+DetNP
+195088	S-O-ADV-V
+DetNP
+195091	ClCl
+V-S
+NpAdjp
+V-ADV
+PrepNp
+S-ADV-P
+195098	ClCl
+195100	PrepNp
+sub-CL
+V-ADV
+PrepNp
+DetNP
+sub-CL
+S-V-ADV
+PrepNp
+195109	notCLbutCL2CL
+VC-S-P
+DetNP
+sub-CL
+V-ADV
+PrepNp
+DetNP
+195117	S-V-ADV
+BeVerb
+NP-CL
+DetNP
+NPDetAdj
+DetAdj
+S-V-O
+All-NP
+PrepNp
+DetNP
+195128	Conj3CL
+P-VC
+PrepNp
+DetNP
+195133	S-ADV-V
+DetNP
+PrepNp
+195137	S-O-ADV-V
+DetNP
+195140	CLaCL
+ADV-V
+PrepNp
+DetAdj
+195145	S-O-ADV-V
+DetAdj
+195148	Conj-CL
+195150	S-V-O
+NP-CL
+Np-Appos
+P-VC
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+S-ADV-V
+notPPbutPP
+Conj3Pp
+PrepNp
+195165	PrepNp
+NPofNP
+195168	PrepNp
+NPofNP
+PrepNp
+195172	Conj-CL
+CLaCL
+CLaCL
+S-P-VC
+DetNP
+195178	V-ADV
+PrepNp
+195181	V-O
+NpAdjp
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+NpPp
+PrepNp
+AdjpAdvp
+NpaNp
+195194	CLaCL
+S-V-ADV
+PrepNp
+195198	V-ADV
+195200	S-VC-P
+195202	ADV-V
+S-P-VC
+DetCL
+ADV-V
+PrepNp
+PrepNp
+sub-CL
+P-ADV-VC
+195211	sub-CL
+ClCl
+ADV-S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+NP-all
+AdvpNp
+PrepNp
+sub-CL
+195222	DetNP
+PrepNp
+S-ADV-V
+NpaNp
+DetNP
+195228	DetNP
+PrepNp
+Np-Appos
+195232	O-S-V-ADV
+195235	Np2CL
+NPofNP
+AdjpNp
+DetCL
+VC-P
+PrepNp
+DetNP
+NPofNP
+DetNP
+195245	Conj-CL
+195247	DetNP
+NPofNP
+DetNP
+sub-CL
+ClCl
+V-ADV-S-ADV-O
+PrepNp
+DetAdj
+PrepNp
+NpaNp
+195258	sub-CL
+195260	S-P-VC
+195262	Conj-CL
+Conj3CL
+V2CL
+195266	ADV-V
+195269	that-VP
+S-ADV-VC-P
+DetNP
+195273	Conj-CL
+195275	ClCl
+Conj-CL
+P2CL
+S-P-VC
+195280	Conj-CL
+195282	ADV-VC
+195284	P-VC-S
+DetNP
+195287	Conj-CL
+195289	ADV2CL
+195291	Conj-CL
+195293	ClCl
+ClCl
+P-VC
+sub-CL
+O-V-IO
+DetCL
+V-O
+O-V-ADV
+PrepNp
+195305	NPofNP
+195307	PrepNp
+DetAdj
+V-O
+DetNP
+NPofNP
+sub-CL
+V-S
+Np-Appos
+DetNP
+195317	Conj-CL
+S-VC-P
+V2CL
+PrepNp
+DetNP
+195323	Conj-CL
+CLaCL
+V-O
+195328	Conj-CL
+195330	sub-CL
+S-ADV-VC-P
+Conj3Np
+DetNP
+195336	DetNP
+195338	V-IO-S-ADV
+DetNP
+195341	ClCl
+S-V-ADV
+PrepNp
+ADV-V-S
+NPofNP
+Np-Appos
+O-S-ADV-V
+NP-CL
+DetCL
+ADV-V
+PrepNp
+195353	ADV-ADV-VC-S-P
+V-O
+ofNPNP
+DetNP
+NPofNP
+DetNP
+195360	S-ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+NP-CL
+ADV-V-S
+BeVerb
+DetNP
+195369	CLaCL
+ADV-V-O
+DetNP
+S-V-ADV
+DetNP
+PrepNp
+195377	ClCl
+ClCl
+ClCl2
+V2CL
+P2CL
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+S-VC-P
+195393	ADV-S-V
+PrepNp
+PrepNp
+NP-CL
+195398	S-P-VC
+PrepNp
+P-ADV-VC
+CLaCL
+S-ADV-V-O
+195404	ClCl2
+sub-CL
+V-IO
+DetNP
+ADV-V-S-ADV
+PrepNp
+ADV-V
+PrepNp
+195413	Conj-CL
+V-S-ADV
+195416	that-VP
+CLaCL
+V-O
+S-V-ADV-ADV
+DetNP
+PrepNp
+PrepNp
+195424	V-ADV
+PrepNp
+195427	CLaCL
+S-ADV-V-O
+195431	Np2CL
+DetCL
+V-O-ADV
+V-ADV
+PrepNp
+ClCl2
+PtclCL
+ADV-V-O
+PrepNp
+S-V-ADV
+DetNP
+Conj2VP
+195444	PrepNp
+S-VC-P
+DetCL
+V-ADV
+PrepNp
+NpAdjp
+195451	CLaCL
+S-V
+195455	that-VP
+S-VC-P
+DetNP
+NPofNP
+DetNP
+195461	CLaCL
+ADV-ADV-V-S
+DetNP
+NpaNp
+DetNP
+195467	PpNp2Np
+PrepNp
+DetNP
+NPofNP
+195473	V-O
+S-V
+DetNP
+ClCl2
+V2CL
+P2CL
+DetNP
+NPofNP
+DetNP
+195483	Conj-CL
+CLaCL
+V-S-O
+DetNP
+NumpNP
+S-V
+195490	V-O
+DetNP
+195493	Conj-CL
+195495	CLaCL
+V2CL
+DetNP
+195499	V-O
+S-V
+O-V
+195503	Conj-CL
+195506	Np2CL
+NP-CL
+S-VC-ADV-P
+V2CL
+Np2CL
+195513	CLaCL
+V2CL
+195516	V2CL
+195518	Conj-CL
+CLaCL
+CLaCL
+V2CL
+195523	V-O
+ADV-V
+195526	ADV-V-ADV
+PrepNp
+NP-Demo
+DetNP
+195531	S-VC-P
+PrepNp
+195534	VC-S-P
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+NpPp
+PrepNp
+Np-Appos
+DetNump
+DetCL
+CLaCL
+V-ADV
+PrepNp
+195548	V-O
+195550	CLaCL
+V-S-ADV-O
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+195558	V-O
+DetNP
+NP-CL
+S-VC-P
+BeVerb
+195564	V-O-ADV
+PrepNp
+DetNP
+195569	V-O
+DetNP
+S-VC-P
+Np-Appos
+DetNP
+NPofNP
+195576	S-VC-P
+NP-CL
+S-VC-P
+195580	CLaCL
+ADV-V-O
+DetNP
+V-ADV
+PrepNp
+DetNP
+195587	CLaCL
+V-O
+195591	DetNP
+V-O
+195594	Conj-CL
+VC-S-P
+DetNP
+2Pp
+PrepNp
+PrepNp
+DetNP
+NPofNP
+NpaNp
+195605	CLaCL
+V-S-O
+DetNP
+195611	O-V
+CLaCL
+O-V-S-ADV
+PrepNp
+DetNP
+195617	S2CL
+DetNP
+Np-Appos
+Np-Appos
+NPofNP
+DetNP
+NpPp
+PrepNp
+195626	Conj-CL
+195628	O-V-S
+P-VC
+PrepNp
+AdjpNp
+195634	DetNP
+CLaCL
+V2CL
+195638	V2CL
+195640	CLaCL
+V-S-O
+S-V-ADV
+DetNP
+PrepNp
+195647	PrepNp
+195649	NP-CL
+P-S-ADV-VC
+PrepNp
+195654	ADV-O-V
+195656	CLaCL
+V-S
+195660	ADV-O-V
+PrepNp
+DetCL
+O-S-V
+VC-P-S
+PrepNp
+DetNP
+195670	Np2CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+S-P-VC
+NPofNP
+DetNP
+195679	CLaCL
+V-S
+195683	ClCl2
+sub-CL
+195686	that-VP
+V-O-ADV
+PrepNp
+DetNP
+V2CL
+195692	O-V
+AdjpAdvp
+195695	Conj-CL
+195697	PtclCL
+PtclCL
+195700	V-O
+CLaCL
+S-V
+DetNP
+195705	S-V-ADV
+DetNP
+NPofNP
+DetNP
+Conj2VP
+195711	PrepNp
+DetNP
+NPofNP
+DetNP
+195716	Conj-CL
+CLaCL
+ADV-S-V-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+NPofNP
+DetNP
+195726	VC-S-P
+DetNP
+NPofNP
+DetNP
+195731	Conj-CL
+V-S-ADV
+AdvpNp
+NpaNp
+DetNP
+195737	DetNP
+NPofNP
+PrepNp
+DetNP
+195742	Conj-CL
+ClCl2
+V-S
+195746	DetNP
+NPofNP
+DetNP
+PrepNp
+O-ADV-V
+195752	Conj-CL
+195754	DetNP
+ClCl
+195757	NpaNp
+195759	Np2CL
+ADV-V-S
+DetNP
+NPofNP
+195765	DetNP
+NPofNP
+DetNP
+O-V
+NP-CL
+PtclCL
+O-V-IO
+195773	Conj-CL
+V-ADV-S
+BeVerb
+NpAdjp
+NpPp
+NpNump
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+DetAdj
+V-ADV
+PrepNp
+NpNump
+Conj2Nump3
+195790	DetNP
+V-O-ADV
+DetNP
+195794	Conj-CL
+V-O-ADV
+PrepNp
+195798	Conj-CL
+195800	CLaCL
+V-ADV
+195803	V-IO
+DetNP
+195806	Conj-CL
+S-V
+195809	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+V-S-O
+DetNP
+Np-Appos
+DetNP
+P-VC
+195819	CLaCL
+195821	P-VC
+195823	V-S
+Np-Appos
+DetNP
+DetCL
+V-O
+DetNP
+CLaCL
+V-O-S
+DetNP
+DetNP
+195835	ClCl
+CLaCL
+S-ADV-O-V
+All-NP
+DetNP
+AdjpNp
+195843	sub-CL
+V2CL
+DetAdj
+S-V-O-ADV
+DetNP
+AdjpNp
+PrepNp
+195851	CLaCL
+CLaCL
+O-V-S-ADV
+Demo-NP
+NPofNP
+DetNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+195862	V-O
+DetNP
+NPofNP
+195866	V-ADV-S
+PrepNp
+DetNP
+NPofNP
+195871	CLaCL
+ADV-V-ADV-S
+PrepNp
+PrepNp
+Conj4Np
+195877	DetNP
+NPofNP
+195880	DetNP
+195882	DetNP
+NPofNP
+195885	ADV-V-ADV
+AdjpNp
+AdvpAdjp
+195889	Conj-CL
+CLaCL
+P-VC-S
+DetNP
+NPofNP
+DetAdj
+195896	V-ADV-S
+PrepNp
+DetNP
+195900	Conj-CL
+CLaCL
+V-ADV-O
+PrepNp
+DetNP
+S-V
+NpaNp
+DetCL
+V-O
+Conj3Np
+195913	DetNP
+195915	Conj3CL
+ClCl
+ADV-O-V-ADV
+V-O-ADV
+PrepNp
+PrepNp
+DetNP
+O2CL
+aNpaNp
+195925	DetNP
+195927	DetNP
+195929	CLaCL
+O-V
+ofNPNP
+DetNP
+DetNP
+195935	O-V
+DetNP
+195939	DetCL
+O-V
+DetNP
+ClCl
+V-O-ADV
+ADV-V-O-O2
+DetNP
+NPofNP
+DetNP
+NPofNP
+NPofNP
+195952	V-S
+DetNP
+NPofNP
+195956	VerbBe
+S-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+195963	Conj-CL
+CLaCL
+V-S
+DetAdj
+195970	AdjpNp
+sub-CL
+O-V
+195974	CLaCL
+V-S
+195978	CLaCL
+V-O
+NP-Demo
+DetNP
+195983	ADV-V-O
+PrepNp
+AdjpNp
+195987	Conj-CL
+195989	DetAdj
+CLaCL
+ADV-V-S
+NumpNP
+Conj2Nump
+195995	NP-Demo
+DetNP
+195998	S-ADV-V-O
+PrepNp
+AdjpNp
+196002	Conj-CL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+196010	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+CLaCL
+196017	V-S
+DetNP
+NPofNP
+O-V
+196022	V-O
+NpaNp
+DetNP
+196026	DetNP
+NP-CL
+O-V-S
+DetNP
+196031	Conj-CL
+ClCl2
+sub-CL
+VC-P-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+V-O
+ofNPNP
+DetNP
+NP-CL
+O-V
+196051	Conj-CL
+CLaCL
+S-ADV-V-O-IO-ADV
+PronNP
+PrepNp
+DetCL
+S-V-O
+196059	sub-CL
+ClCl
+196062	ADV-O-V
+S-V-ADV
+PrepNp
+DetNP
+sub-CL
+S-V-O
+S-VC-P
+PrepNp
+DetNP
+196072	Conj-CL
+ClCl
+V-S
+Np-Appos
+NpPp
+PrepNp
+DetNP
+P-S-ADV
+NPofNP
+DetAdj
+196083	CLaCL
+S-V-ADV-ADV
+PrepNp
+196089	Np2CL
+196091	that-VP
+ADV-V-ADV
+PrepNp
+sub-CL
+196096	O-V
+NP-CL
+Demo-NP
+DetNP
+O-S-V
+sub-CL
+ADV-VC-S-P
+DetNP
+PrepNp
+196106	CLaCL
+V-S
+196110	PtclCL
+PtclCL
+196113	ClCl2
+sub-CL
+ADV-S-V-ADV
+ADV-V-O
+V-O
+DetNP
+NPofNP
+DetNP
+196123	PrepNp
+DetNP
+ClCl
+ADV-V-S-O-ADV
+V2CL
+P-VC
+PtclCL
+V-O
+CLaCL
+ADV-ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+196139	V2CL
+196142	PtclCL
+PtclCL
+196145	ClCl2
+sub-CL
+ADV-S-V-ADV
+PrepNp
+NpaNp
+196151	ADV-V-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+196158	CLaCL
+S-P-VC
+DetCL
+V-ADV
+PrepNp
+DetNP
+196165	S-P-VC
+DetCL
+V-ADV
+PrepNp
+DetNP
+196171	ClCl
+ADV-V
+sub-CL
+196175	V-S
+S-V-ADV
+196178	CLaCL
+S-ADV-V
+DetNP
+ADV-V
+196183	CLaCL
+O-V
+DetNP
+NPofNP
+196189	CLaCL
+ADV-V
+196192	ADV-V
+196194	P-VC-S
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+196201	CLaCL
+V-S
+196205	ADV-V-S
+S-V
+196208	CLaCL
+V-S
+196212	CLaCL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+196218	O-ADV-V
+196220	PtclCL
+PtclCL
+196223	that-VP
+CLaCL
+CLaCL
+O-V
+O-V
+196229	O-V
+O-V
+196232	O-ADV-V
+DetNP
+NPofNP
+196236	ClCl2
+sub-CL
+CLaCL
+O-V-IO
+DetAdj
+196242	ADV-V
+ADV-ADV-V
+sub-CL
+V-IO-O
+DetAdj
+196248	Conj-CL
+196250	PrepNp
+DetNP
+sub-CL
+ADV-S
+Np-Appos
+DetCL
+ADV-V
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+196263	Conj-CL
+ClCl2
+sub-CL
+S-V-O-ADV
+DetNP
+PrepNp
+DetAdj
+ClCl
+ADV-V-S
+V-S
+DetNP
+NPofNP
+DetNP
+sub-CL
+S-V-O
+All-NP
+DetCL
+V-ADV
+PrepNp
+NpAdjp
+196284	Conj-CL
+ClCl
+ADV-V-S-O
+DetNP
+DetNP
+sub-CL
+ClCl
+O-V
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+CLaCL
+S-ADV-V
+All-NP
+DetCL
+V-ADV
+PrepNp
+196303	V-O
+NpAdjp
+196306	Conj-CL
+notCLbutCL2CL
+196309	DetNP
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-O
+DetNP
+sub-CL
+V-S-ADV
+DetNP
+PrepNp
+196321	S-ADV-V
+DetCL
+V-ADV
+PrepNp
+196327	DetCL
+ADV-V
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+AdjpNp
+NPofNP
+DetNP
+196339	Conj-CL
+196341	DetNP
+that-VP
+CLaCL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+196349	ClCl
+CLaCL
+V-S-ADV-O
+DetNP
+DetNP
+196355	O2CL
+DetNP
+sub-CL
+VC-P-S
+ofNPNP
+DetNP
+196362	Conj-CL
+ClCl
+CLaCL
+S-V-O
+All-NP
+DetCL
+O-V
+DetNP
+196371	ADV-V-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-V-S
+DetNP
+NPofNP
+196379	Conj-CL
+ClCl
+S-V-ADV
+DetCL
+V-O
+DetNP
+PrepNp
+DetNP
+sub-CL
+196389	ofNPNP
+DetNP
+sub-CL
+ADV-V
+PrepNp
+BeVerb
+196396	CLaCL
+ADV-V-S-ADV
+PrepNp
+NpaNp
+DetNP
+196402	DetNP
+NPofNP
+PrepNp
+DetNP
+AdjpNp
+196408	CLaCL
+ADV-V-ADV
+PrepNp
+196412	V2CL
+196414	Conj-CL
+CLaCL
+196417	BeVerb
+AdvpNp
+PrepNp
+PrepNp
+DetNP
+sub-CL
+S-P-VC-ADV
+196425	CLaCL
+V2CL
+196428	V2CL
+196430	Conj-CL
+ADV-V-ADV-S
+BeVerb
+PrepNp
+DetNP
+196436	Conj-CL
+V-S-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+PrepNp
+196444	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+196452	Np2CL
+ClCl
+S-VC-P-ADV
+PrepNp
+PrepNp
+DetNP
+IO-S-V
+S-V
+196461	S-V-ADV
+PrepNp
+196464	CLaCL
+V-S
+196468	ClCl
+ADV-V-S-O
+V-O
+sub-CL
+ADV-V-IO-ADV
+BeVerb
+PrepNp
+DetNP
+196478	PronNP
+that-VP
+196481	CLaCL
+ADV-VC-S-P
+DetNP
+196485	that-VP
+V-ADV
+VerbBe
+PrepNp
+196490	S-P-VC
+DetCL
+V-O
+DetNP
+196495	Conj-CL
+S-ADV-V-ADV
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+CLaCL
+V2CL
+196505	V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+196511	Conj-CL
+S-V
+Demo-NP
+DetNP
+NPDetAdj
+DetAdj
+196518	V-S
+CLaCL
+S-V
+196522	S-V
+196524	S-P-VC
+DetCL
+ADV-V
+PrepNp
+196529	CLaCL
+S-P-VC
+DetCL
+VC-P
+PrepNp
+DetNP
+PrepNp
+DetNP
+196538	ADV-V
+PrepNp
+DetNP
+196542	S-P-VC
+DetCL
+ADV-V
+PrepNp
+DetNP
+PrepNp
+196549	CLaCL
+196551	O-V
+Conj2VP
+196555	O-S-V
+DetNP
+NPofNP
+196560	DetCL
+V-O
+ofNPNP
+DetNP
+that-VP
+S-P-VC
+DetNP
+196568	Conj-CL
+196570	S-O-V
+O-V-S
+DetNP
+DetNP
+NPofNP
+DetNP
+ADV-ADV-V-O
+PrepNp
+DetNP
+196580	CLaCL
+S-V-O
+DetNP
+DetNP
+196585	O-V-ADV
+PrepNp
+DetNP
+NPofNP
+196590	S-V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+NpAdjp
+196597	Conj-CL
+CLaCL
+S-ADV-V-O
+DetCL
+V-O
+DetNP
+196604	S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+196610	Conj-CL
+ClCl2
+sub-CL
+196614	V-S
+DetNP
+196617	DetNP
+that-VP
+196620	S-O-V
+AdjpNp
+Conj2VP
+196625	S2CL
+sub-CL
+CLaCL
+S-ADV-V
+NpPron
+196631	S2CL
+DetNP
+NPofNP
+CLaCL
+V-O
+DetNP
+196638	V-ADV-ADV
+PrepNp
+DetNP
+196642	Conj-CL
+V-S
+S-V-ADV
+PrepNp
+DetNP
+196648	Conj-CL
+V-ADV
+PrepNp
+NpPp
+NpAdjp
+NPofNP
+DetNP
+VC-P
+PrepNp
+DetNP
+NP-CL
+O-V-S-IO
+Np-Appos
+DetNP
+NPofNP
+196664	Conj-CL
+VC-P-S
+NPofNP
+DetNP
+196669	Conj-CL
+S-ADV-V-ADV-ADV
+DetNP
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+196678	S-VC-P
+PrepNp
+196681	V-S-ADV
+NpPp
+PrepNp
+DetNP
+V-O
+196688	DetNP
+V-IO-O
+V2CL
+196692	Conj-CL
+196694	DetNP
+NPofNP
+PrepNp
+DetNP
+sub-CL
+O-V
+196701	Conj-CL
+ClCl
+196704	Np-Appos
+DetNP
+DetNP
+ADV-S-ADV-O-V
+NpAdjp
+P-VC
+PrepNp
+Np-Appos
+V2CL
+NpAdjp
+P-VC
+sub-CL
+ADV-V-S-ADV
+196718	CLaCL
+V-S
+196722	ClCl2
+sub-CL
+V-O
+NpaNp
+DetNP
+NPofNP
+DetNP
+196730	P-VC-S
+DetCL
+196733	V-IO-O
+V2CL
+CLaCL
+PtclCL
+S-V-O
+196739	PtclCL
+V-IO-O
+NpAdjp
+V2CL
+196746	Np2CL
+CLaCL
+ADV-O-V
+196750	S-VC-P
+DetNP
+Conj-CL
+ADV-V-O
+Np-Appos
+DetNP
+DetCL
+V2CL
+196759	PtclCL
+S-P-VC-ADV
+NP-CL
+NPofNP
+DetNP
+NPofNP
+CLaCL
+S-V-IO-O
+DetNP
+196769	CLaCL
+S-ADV-V
+PrepNp
+196773	S2CL
+NpaNp
+DetNP
+NPofNP
+196778	DetNP
+NPofNP
+196781	CLaCL
+V-S
+196785	CLaCL
+S-V-ADV
+All-NP
+DetCL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+196794	CLaCL
+S-ADV-V-ADV
+PtclCL
+S-V-ADV
+PrepNp
+DetNP
+NP-CL
+O-S-V-IO
+2Advp_h1
+PrepNp
+DetNP
+196806	S-VC-ADV-P
+DetNP
+NP-CL
+O-V-IO
+PrepNp
+NPofNP
+NpAdjp
+V-ADV
+PrepNp
+NpAdjp
+196818	PrepNp
+DetNP
+196821	Np2CL
+Demo-NP
+DetNP
+sub-CL
+CLaCL
+ADV-V
+196828	V-ADV-ADV
+V2CL
+196832	ClCl
+V2CL
+CLaCL
+V-O
+DetNP
+NPofNP
+196839	V-ADV
+196841	CLaCL
+V-S
+DetNP
+196846	ADV-V-O
+196849	DetNP
+ClCl
+ClCl
+196853	that-VP
+O-ADV-V
+sub-CL
+CLaCL
+O-V
+NumpNP
+196860	S-ADV-VC-P
+O-ADV-V
+ofNPNP
+O-O2-V
+196866	DetNP
+196868	Np2CL
+196870	that-VP
+P-VC-S
+CLaCL
+S-ADV-V
+DetNP
+NPofNP
+PrepNp
+NP-Demo
+DetNP
+196881	that-VP
+P-VC-S
+PrepNp
+DetNP
+NP-CL
+S-V
+ADV-V
+196890	DetNP
+196892	Np2CL
+that-VP
+196895	sub-CL
+ADV-V-O
+aPpaPp
+196899	PrepNp
+NP-Demo
+DetNP
+196903	PrepNp
+DetNP
+196906	S-V-O
+O-ADV-V
+196910	O-V
+sub-CL
+S-P-VC
+DetNP
+PrepNp
+DetAdj
+196917	Conj-CL
+ClCl
+196920	V-S
+196922	P-VC
+sub-CL
+S-V-O-ADV
+DetNP
+AdjpNp
+DetNP
+PrepNp
+NpaNp
+196931	sub-CL
+ADV-S-O-V-O2
+DetNP
+DetCL
+V-ADV
+196937	CLaCL
+P-S
+DetNP
+196941	S-V
+S-ADV-V
+DetCL
+V2CL
+PrepNp
+NpaNp
+196950	DetNP
+ClCl
+196953	that-VP
+S-V
+Np-Appos
+DetCL
+VC-P
+ClCl2
+sub-CL
+V-S
+V-IO-O
+196964	DetNP
+S-VC
+Np-Appos
+DetCL
+V-IO
+196970	Conj-CL
+CLaCL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+196977	ClCl
+V2CL
+sub-CL
+ADV-V
+PrepNp
+196983	sub-CL
+196985	CLaCL
+O-V
+196988	ADV-V-ADV
+PrepNp
+196991	Conj-CL
+CLaCL
+CLaCL
+V-O-S
+DetNP
+NPofNP
+DetNP
+196999	V-ADV
+PrepNp
+DetNP
+197004	DetNP
+ClCl
+ClCl2
+V2CL
+V-O
+NP-CL
+S-V-IO-O
+All-NP
+O-V
+PtclCL
+S-VC-P
+DetNP
+197017	CLaCL
+V-ADV
+PrepNp
+DetNP
+197022	V-ADV
+PrepNp
+197025	ADV-V-O-S-ADV
+PrepNp
+DetNP
+DetNP
+197031	Np2CL
+197033	Conj-CL
+197036	S-O-V-ADV
+V2CL
+197039	Conj-CL
+197041	DetNP
+PrepNp
+PtclCL
+S-V-IO-ADV
+V2CL
+197048	DetNP
+S-VC-P
+AdjpNp
+that-VP
+CLaCL
+V-O
+DetNP
+NPofNP
+DetCL
+V-O
+197059	V-O
+ofNPNP
+DetNP
+197063	PtclCL
+197065	that-VP
+CLaCL
+P-S-VC
+197069	S-V
+DetNP
+197073	CLaCL
+V-O
+DetNP
+NPofNP
+197079	DetNP
+that-VP
+P-VC-ADV
+PrepNp
+197085	ADV-S-O-V
+DetCL
+V2CL
+197089	V-O-ADV
+PrepNp
+NpAdjp
+sub-CL
+ADV-V-S
+NpaNp
+DetCL
+V2CL
+197098	DetCL
+V2CL
+197101	Conj-CL
+197103	PrepNp
+DetNP
+that-VP
+CLaCL
+S-VC-P
+DetCL
+V2CL
+197111	S-P
+DetCL
+V2CL
+197115	S-V-O-ADV
+V-O
+O-ADV-S-V
+197119	CLaCL
+S-V
+197122	S-ADV-V
+PrepNp
+DetNP
+NPofNP
+197127	Conj-CL
+ADV-S-V-ADV-ADV
+PrepNp
+NP-Demo
+DetNP
+NPofNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+197141	that-VP
+V-IO-O
+All-NP
+O-V
+197146	Conj-CL
+ClCl2
+sub-CL
+V-ADV-S
+PrepNp
+DetNP
+V-O
+S-V-ADV
+PrepNp
+197156	Conj-CL
+V-ADV-ADV
+NumpNP
+197160	Conj-CL
+CLaCL
+S-V-ADV
+AdjpAdjp2
+PrepNp
+DetNP
+NPofNP
+197169	DetNP
+that-VP
+197172	PrepNp
+DetNP
+AdjpNp
+sub-CL
+CLaCL
+S-V
+197180	that-VP
+S-VC-ADV-P
+DetNP
+NPofNP
+DetNP
+197186	Conj-CL
+ADV-V-ADV-ADV
+PrepNp
+DetNP
+NumpNP
+PrepNp
+DetNP
+197194	Conj-CL
+197196	PronNP
+that-VP
+S-ADV-O-ADV-V
+PrepNp
+DetNP
+AdjpNp
+197203	Conj-CL
+ClCl
+197206	sub-CL
+V-ADV
+PrepNp
+DetNP
+DetNP
+V-O
+All-NP
+O-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+sub-CL
+S-V-ADV
+AdvpNp
+PrepNp
+DetNP
+197223	Conj-CL
+V-ADV-ADV
+PrepNp
+DetNP
+NP-CL
+NPofNP
+DetNP
+ADV-V-O-O2
+DetNP
+197233	Conj-CL
+V-S
+AdjpNp
+NP-CL
+S-V-ADV
+ofNPNP
+DetNP
+PrepNp
+197242	CLaCL
+S-ADV-V-ADV
+197245	that-VP
+S-V-ADV
+2Pp
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+197254	ClCl
+197256	that-VP
+CLaCL
+V2CL
+197260	V-O
+ofNPNP
+DetNP
+sub-CL
+V-O
+V2CL
+197267	Conj-CL
+197269	DetNP
+PrepNp
+ClCl2
+sub-CL
+ADV-O-V
+NpaNp
+197276	ADV-V
+2Advp_h1
+197280	PrepNp
+DetAdj
+197283	Np2CL
+sub-CL
+V-S
+DetNP
+NPofNP
+197290	DetNP
+ClCl
+V2CL
+S-V
+DetNP
+NPofNP
+197297	CLaCL
+V-S-O
+DetNP
+DetNP
+NP-CL
+O-V-IO-S
+DetNP
+197305	V2CL
+197307	Conj-CL
+ClCl2
+ADV-S-V
+S-V-O-ADV
+DetNP
+197313	that-VP
+S-V
+DetNP
+NPofNP
+197318	Conj-CL
+197320	DetNP
+PrepNp
+ADV-P-VC
+PrepNp
+197325	Conj-CL
+197327	that-VP
+ADV-ADV-V-O-S
+NpAdjp
+DetNP
+197332	Conj-CL
+CLaCL
+197335	DetNP
+that-VP
+ADV2CL
+Demo-NP
+DetNP
+NP-CL
+197342	ADV-V-IO-S
+PrepNp
+DetNP
+DetNP
+NPofNP
+197348	V-S
+NpaNp
+197351	NP-all
+DetNP
+NPofNP
+197355	Conj-CL
+ADV-O-V-S-ADV
+Demo-NP
+AdjpNp
+DetNP
+V-ADV
+2Pp
+PrepNp
+DetNP
+PrepNp
+DetNP
+197367	CLaCL
+ADV-V-S
+PrepNp
+NPofNP
+DetAdj
+197373	V-S-ADV
+PrepNp
+197376	Conj-CL
+VC-P-ADV-S
+PrepNp
+DetNP
+PrepNp
+DetAdj
+NpAdjp
+Np-Appos
+DetCL
+VC-ADV-P
+O-V
+NumpNP
+197389	ClCl
+ClCl
+ADV-V-S
+PrepNp
+NPofNP
+Np-Appos
+DetCL
+V2CL
+NpNpNp
+V-O
+DetNP
+ofNPNP
+DetNP
+sub-CL
+ClCl
+CLaCL
+S-ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+197410	V-O
+DetNP
+Conj-CL
+ClCl
+S-ADV-P-VC
+DetAdj
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+S-ADV-V-ADV
+197423	Conj-CL
+VC-S-P-ADV
+AdjpNp
+ADV-V-ADV
+NumpNP
+Conj2Nump
+197430	PrepNp
+DetNP
+NPofNP
+197435	CLaCL
+O-V
+S-V
+DetNP
+197441	that-VP
+ADV-ADV-V
+AdjpNp
+V-O
+P-VC
+197448	DetCL
+V2CL
+197451	Np2CL
+197453	sub-CL
+197455	sub-CL
+V-S
+DetNP
+PrepNp
+DetNP
+197461	ADV-S-ADV-V
+PrepNp
+ADV-V-S
+PrepNp
+197467	DetNP
+ClCl
+V2CL
+CLaCL
+V-O
+DetNP
+NPofNP
+197475	V2CL
+197477	Conj-CL
+CLaCL
+ADV-VC-P-S
+DetNP
+197482	CLaCL
+V-O
+DetNP
+NPofNP
+197487	V2CL
+197489	Conj-CL
+VC-P-ADV
+PrepNp
+Demo-NP
+DetNP
+197495	Conj-CL
+197497	DetAdj
+DetCL
+V2CL
+CLaCL
+P-VC
+197503	ADV-V-ADV-S
+V-O
+DetNP
+197507	Conj-CL
+197509	S-V-IO
+Np2CL
+DetCL
+V-O-O2
+CLaCL
+V-O
+DetNP
+NPofNP
+197518	V2CL
+197521	P-VC-S
+Np-Appos
+DetNP
+DetCL
+197526	CLaCL
+V2CL
+197529	V2CL
+197531	Conj-CL
+197533	DetCL
+V2CL
+P-VC
+sub-CL
+ClCl
+S-V
+DetNP
+S-VC-P
+PrepNp
+DetNP
+197544	CLaCL
+ADV-V-O-S-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+197554	sub-CL
+ADV-S-ADV-V
+AdjpNp
+197558	CLaCL
+V-S
+DetNP
+197563	DetAdj
+that-VP
+P-VC-S
+DetCL
+V-O-O2
+197569	Conj-CL
+197571	PrepNp
+DetAdj
+DetNP
+sub-CL
+O-V-ADV
+PrepNp
+197578	Conj-CL
+197580	ClCl
+S-ADV-V
+DetNP
+NPofNP
+PrepNp
+S-V
+197587	Conj-CL
+ClCl
+ADV-ADV-V-O-S
+PrepNp
+O-V
+DetAdj
+sub-CL
+notCLbutCL2CL
+ADV-V-O
+DetNP
+O2-V-O-ADV
+AdvpNp
+NpAdjp
+DetNP
+O2-O-V-ADV
+DetNP
+197604	Conj-CL
+CLaCL
+V-S
+DetNP
+197610	PtclCL
+PtclCL
+197613	ClCl
+ADV-V-S-O
+DetNP
+V-ADV-O
+PrepNp
+sub-CL
+ADV-V-O
+O-S-V
+DetNP
+197623	Conj-CL
+197625	PtclCL
+O-S-V
+AdvpNp
+DetNP
+197630	Conj-CL
+CLaCL
+CLaCL
+S-V-O
+DetNP
+DetNP
+197637	V-IO-O
+All-NP
+O-S-V
+197642	AdjpNp
+AdjpAdvp
+sub-CL
+S-V
+197647	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+S-V-O
+DetNP
+DetAdj
+197655	V2CL
+ADV-S-O-V
+AdvpNp
+DetNP
+O-V
+197661	Conj-CL
+197663	S-V-O
+DetNP
+O-V-IO
+NP-all
+DetNP
+DetNP
+sub-CL
+197671	DetNP
+sub-CL
+V-O
+DetNP
+197676	S-ADV-V-O
+DetCL
+ADV-V-O
+DetNP
+Np-Appos
+DetNP
+DetCL
+V-O
+197685	PtclCL
+PtclCL
+197688	that-VP
+CLaCL
+S-V-O
+DetCL
+CLaCL
+O-V
+DetNP
+NPofNP
+197697	V-O
+DetCL
+V-O
+NpAdjp
+197702	CLaCL
+ADV-ADV-V
+PrepNp
+197706	V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+197712	PtclCL
+PtclCL
+197715	that-VP
+ClCl
+CLaCL
+V-S
+197720	P-VC
+sub-CL
+CLaCL
+S-V-O
+DetAdj
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+197731	S-V
+DetCL
+V2CL
+197735	Conj-CL
+197737	sub-CL
+S-V-O-ADV
+DetNP
+PrepNp
+AdvpNp
+DetNP
+O-V-ADV
+PrepNp
+197746	Conj-CL
+197748	O-V
+sub-CL
+P-VC
+NPofNP
+197753	ClCl
+ADV-V-O
+sub-CL
+197757	NP-CL
+CLaCL
+ADV-S-V-O
+PrepNp
+All-NP
+NpPp
+PrepNp
+DetNP
+DetNP
+NPofNP
+197768	V2CL
+ClCl
+S-ADV
+DetCL
+O-V
+DetAdj
+PrepNp
+NPofNP
+S-ADV
+DetCL
+O-V
+DetAdj
+PrepNp
+NPofNP
+197784	V-ADV-O
+PrepNp
+CLaCL
+197788	sub-CL
+V2CL
+197792	DetNP
+NPDetAdj
+DetAdj
+sub-CL
+notCLbutCL2CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+O2CL
+DetNP
+NPofNP
+DetCL
+V-O
+197807	ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+S-ADV-VC-P
+DetNP
+NPofNP
+197815	CLaCL
+P-VC-S
+DetCL
+V-ADV
+PrepNp
+197822	that-VP
+P-VC-S
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+197829	CLaCL
+S-V-ADV
+PrepNp
+197833	V-IO
+DetNP
+197836	Conj-CL
+CLaCL
+S-ADV-ADV-O-V
+PrepNp
+DetNP
+197843	sub-CL
+S-V
+197846	CLaCL
+S-VC-P
+Np-Appos
+DetNP
+DetCL
+CLaCL
+V2CL
+197854	V2CL
+197856	S-V-O
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+197863	Conj-CL
+197865	Np-Appos
+DetNP
+AdjpAdvp
+DetNP
+sub-CL
+197871	S-V-ADV
+Np-Appos
+DetNP
+NP-CL
+197876	O-V-IO-S
+DetNP
+V-O
+NP-CL
+PronNP
+DetNP
+O-V
+PrepNp
+S-O-V
+DetNP
+197887	Conj-CL
+197889	Np2CL
+DetNP
+AdjpNp
+V-O
+PrepNp
+197895	CLaCL
+aCLaCL
+197898	O-ADV-V
+NPofNP
+197901	O-V
+NPofNP
+197905	S-ADV-V
+DetNP
+NPofNP
+PrepNp
+sub-CL
+197911	O-V-S
+197914	DetNP
+sub-CL
+S-V-O
+ADV-O-V
+PrepNp
+NpAdjp
+197921	Conj-CL
+S-VC-P
+DetCL
+V-ADV
+PrepNp
+197927	Conj-CL
+197929	V-ADV
+PrepNp
+sub-CL
+O-V
+197934	CLaCL
+O-ADV-ADV-V
+PrepNp
+197939	that-VP
+O-ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+197946	CLaCL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+197954	ADV-V-O
+197956	ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+O-V
+197965	CLaCL
+ADV-V-S-O-ADV
+V2CL
+O-ADV-V
+PrepNp
+197971	O-ADV-V
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+AdjpNp
+197980	that-VP
+S-V-O-ADV
+PrepNp
+DetNP
+197985	VC-S-P
+DetCL
+V-O
+NP-CL
+ADV-S-V
+PrepNp
+197992	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V-O
+PtclCL
+V-O
+sub-CL
+ADV-S-V
+PrepNp
+198003	Conj-CL
+ClCl2
+sub-CL
+O-ADV-V
+DetNP
+ofNPNP
+ADV-O-V
+DetNP
+AdjpNp
+198013	ADV-V-S-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetNP
+198023	Conj-CL
+ClCl
+V-O-S
+NpAdjp
+sub-CL
+V-O
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+DetCL
+V2CL
+198036	Conj-CL
+CLaCL
+V-ADV-S
+PrepNp
+DetNP
+198042	ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+198047	Conj-CL
+VC-P-S
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetAdj
+198055	Conj-CL
+198057	CLaCL
+V-O
+DetNP
+DetNP
+198063	that-VP
+S-V-ADV
+AdjpNp
+PrepNp
+PrepNp
+ClCl
+ADV-V-O
+sub-CL
+V-S
+198073	Conj-CL
+198075	V-O
+sub-CL
+S-V-O
+O-V
+O-V
+198082	DetNP
+ClCl
+S-ADV-V-ADV
+ofNPNP
+AdjpNp
+sub-CL
+S-O-V
+AdjpNp
+198092	Np-Appos
+NpPp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+CLaCL
+198103	S-V-O
+NpaNp
+NumpNP
+NpAdjp
+198108	NumpNP
+198110	S-P-VC-ADV
+PrepNp
+198114	DetNP
+V-O
+S-V
+DetNP
+198119	Conj-CL
+VC-S-P
+NpAdjp
+PrepNp
+DetNP
+198125	Conj-CL
+ClCl
+V-S
+DetNP
+ADV-P
+DetNP
+AdvpNp
+198133	Conj-CL
+ClCl
+CLaCL
+V-O-S
+DetNP
+DetNP
+198140	ADV-V-IO
+V2CL
+DetCL
+V2CL
+198145	AdvPp
+PrepNp
+DetNP
+O-V
+198150	Conj-CL
+ClCl2
+sub-CL
+V2CL
+198155	DetNP
+NPofNP
+ClCl
+V-O
+DetNP
+AdjpNp
+V2CL
+sub-CL
+ADV-S-V
+198165	Conj-CL
+198167	V2CL
+198169	V-O-ADV-ADV
+NumpNP
+PrepNp
+Np-Appos
+DetNP
+NumpNP
+DetAdj
+S-V-ADV
+DetCL
+V2CL
+198180	Conj-CL
+198182	DetNP
+V-O
+CL-NP
+O-V
+that-VP
+S-VC-ADV-P
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+198195	Conj-CL
+ADV-V-ADV-ADV-S
+NpAdjp
+NpPron
+198200	that-VP
+198202	CLaCL
+V2CL
+198205	V-O
+sub-CL
+V-O
+PrepNp
+DetNP
+198211	Conj-CL
+198213	sub-CL
+S-V
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+198221	ADV-V-ADV-ADV
+V-ADV
+PrepNp
+PrepNp
+DetNP
+PrepNp
+198228	Conj-CL
+CLaCL
+CLaCL
+S-ADV-V
+198233	ADV-V-ADV-S
+PrepNp
+DetNP
+198237	S-ADV-V
+DetNP
+S-V
+NpAdjp
+198242	Conj-CL
+CLaCL
+ADV-V-O
+V-O
+AdvpNp
+NpNump
+Conj2Nump
+NumpNump
+198251	CLaCL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+198257	ADV-V
+PrepNp
+DetNP
+198261	V2CL
+198263	Conj-CL
+198265	ClCl
+S-VC
+ADV-V
+198269	Conj-CL
+CLaCL
+V-O
+V-O-ADV
+PrepNp
+DetNP
+198276	ADV-VC-S-P
+DetNP
+PrepNp
+DetNP
+NP-CL
+ADV-V
+PrepNp
+198284	ClCl
+ADV-S-V
+DetNP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+CLaCL
+that-VP
+198296	NpAdjp
+sub-CL
+ADV-S
+198300	that-VP
+notCLbutCL2CL
+V-ADV-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+ADV-S-V
+DetNP
+NPofNP
+198312	Conj-CL
+S-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NP-CL
+ClCl
+ADV-V-O
+DetNP
+V-S
+DetNP
+198324	Conj-CL
+198326	sub-CL
+198328	DetNP
+that-VP
+CLaCL
+S-ADV-VC-P
+198333	S2CL
+DetNP
+NPofNP
+V-S-ADV
+PrepNp
+DetNP
+198340	V-ADV-ADV
+PrepNp
+V-O
+DetNP
+198345	Conj-CL
+198347	V-O-ADV
+PrepNp
+DetNP
+198351	Np2CL
+198353	CLaCL
+V-IO-S
+DetNP
+198358	PtclCL
+PtclCL
+198361	ClCl
+V-O
+notCLbutCL2CL
+sub-CL
+V-O
+sub-CL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+198372	V2CL
+198374	ClCl
+V-O
+notNPbutNP
+Np-Appos
+DetNP
+DetCL
+V2CL
+NP-CL
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+NpAdjp
+O-S-IO-V
+DetNP
+NPofNP
+DetNP
+sub-CL
+O-S-V
+Np-Appos
+DetNP
+DetNP
+198398	Conj-CL
+198400	PrepNp
+ClCl
+O-V
+sub-CL
+V-O
+DetNP
+NPofNP
+DetNP
+198409	CLaCL
+V-S
+198414	P-VC-S
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+O-V-S
+198422	Conj-CL
+198424	ClCl
+Conj-CL
+198427	AdjpNp
+sub-CL
+CLaCL
+V2CL
+198432	V-O
+O-V
+198435	ClCl
+S-O-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetAdj
+sub-CL
+198444	BeVerb
+O-V-IO-ADV
+NpPp
+PrepNp
+DetNP
+V2CL
+198451	Conj-CL
+198453	DetNP
+PtclCL
+PtclCL
+198457	notCLbutCL2CL
+S-V-IO-O
+DetNP
+NpPp
+PrepNp
+DetNP
+S-V-IO-O
+DetNP
+NPofNP
+DetNP
+NPDetAdj
+NpPp
+PrepNp
+DetNP
+DetAdj
+198473	Conj-CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+DetCL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+198484	O-V-IO
+DetNP
+198487	Conj-CL
+198489	PrepNp
+198491	Np2CL
+NP-Demo
+DetNP
+198496	DetNP
+S-VC-P
+DetNP
+NPofNP
+DetNP
+198502	CLaCL
+S-ADV-V
+DetCL
+V-ADV
+PrepNp
+2Advp_h1
+198509	S-ADV-V-ADV
+DetCL
+V-ADV
+PrepNp
+2Advp_h1
+198515	Conj-CL
+198517	that-VP
+aCLaCL
+198520	V-O
+198522	ADV-V
+198525	CLaCL
+S-ADV-V
+All-NP
+O-V-IO-S
+DetNP
+PrepNp
+198532	O-ADV-V-ADV
+DetCL
+V-ADV
+PrepNp
+2Advp_h1
+ClCl
+V-ADV
+PrepNp
+DetNP
+notCLbutCL2CL
+sub-CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+O2CL
+DetNP
+NPofNP
+DetCL
+V-O
+198553	Conj-CL
+198555	DetNP
+NPofNP
+DetCL
+V-O
+that-VP
+198561	Np2CL
+All-NP
+O-V-IO
+ADV-V-ADV
+PrepNp
+198567	V-O-ADV
+PrepNp
+DetNP
+AdjpNp
+198572	Conj-CL
+198574	DetNP
+NPofNP
+DetNP
+NPofNP
+that-VP
+CLaCL
+S-V-O
+All-NP
+DetCL
+CLaCL
+V-O
+DetNP
+198587	V-ADV
+PrepNp
+NpAdjp
+198591	V-O-S-ADV
+PrepNp
+DetNP
+AdjpNp
+198596	Conj-CL
+CLaCL
+198599	DetAdj
+PrepNp
+sub-CL
+198603	S-VC-P
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+198612	ClCl
+PtclCL
+S-VC-P
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+ADV-S-V-O
+NpaNp
+DetNP
+198623	DetNP
+198625	that-VP
+ADV-V
+PrepNp
+DetNP
+198630	CLaCL
+V-S
+198634	ADV-V-ADV
+PrepNp
+198637	ClCl
+198639	V-ADV
+PrepNp
+sub-CL
+ADV-S-V-O
+Np-Appos
+DetNP
+DetCL
+V-O
+S-V-O-ADV
+PrepNp
+DetNP
+AdjpNp
+198653	BeVerb
+PrepNp
+DetNP
+Conj-CL
+VC-S-P
+NPofNP
+198660	S-V-ADV
+All-NP
+DetCL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+198668	V2CL
+PrepNp
+198671	AdvpCL
+that-VP
+198674	DetNP
+sub-CL
+PtclCL
+198678	Np2CL
+DetCL
+VC-P
+PrepNp
+DetNP
+DetNP
+198685	PtclCL
+PtclCL
+198688	S-V-O
+DetCL
+V2CL
+NpAdjp
+198693	S-VC-P
+DetNP
+NPofNP
+DetNP
+198698	CLaCL
+S-V-ADV-O
+DetNP
+NPofNP
+PrepNp
+DetAdj
+DetNP
+198706	V2CL
+198709	Np-Appos
+DetNP
+DetCL
+ADV-V
+PrepNp
+DetNP
+sub-CL
+CLaCL
+S-ADV-V
+PrepNp
+198720	ADV-V
+198722	S-VC-P
+Np-Appos
+Np-Appos
+DetNP
+DetCL
+V2CL
+DetCL
+ADV-V
+PrepNp
+DetNP
+198734	sub-CL
+S-V-ADV
+PrepNp
+Demo-NP
+DetNP
+PrepNp
+DetNP
+198742	Conj-CL
+S-P-VC-ADV
+AdvpNp
+DetNP
+NP-CL
+O-S-V
+DetNP
+NPofNP
+PrepNp
+DetNP
+ofNPNP
+DetNP
+198755	Conj-CL
+V-ADV-S-ADV
+PrepNp
+DetAdj
+198760	ADV-V-S-O
+IO-V-O-ADV
+DetNP
+V2CL
+198765	Conj-CL
+198767	DetNP
+PtclCL
+PtclCL
+198771	ClCl2
+sub-CL
+AdvpCL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+198782	V-O
+ofNPNP
+DetNP
+ADV-V-O-ADV
+PrepNp
+198788	ClCl
+S-V-O
+DetCL
+CLaCL
+V-O
+ofNPNP
+DetNP
+198796	V-O
+ofNPNP
+DetNP
+NpAdjp
+S-V-O-ADV
+DetNP
+AdjpNp
+198804	Conj-CL
+CLaCL
+S-P-VC
+DetNP
+NPofNP
+AdjpNp
+198811	S-P-VC
+DetNP
+NPofNP
+AdjpNp
+198816	ClCl
+S-ADV-V
+DetCL
+CLaCL
+V-O
+ofNPNP
+DetNP
+198824	V-O
+ofNPNP
+DetNP
+PrepNp
+S-ADV
+PrepNp
+198832	sub-CL
+ClCl
+V-O-S
+DetNP
+AdjpNp
+V2CL
+S-V-ADV
+PrepNp
+DetNP
+Np2CL
+AdvpNp
+DetCL
+V-O
+PrepNp
+198848	Np-Appos
+DetNP
+DetCL
+ADV-V
+PrepNp
+AdvpCL
+sub-CL
+CLaCL
+V-S
+DetNP
+198859	V2CL
+198861	S-V-ADV
+DetCL
+V-O
+Demo-NP
+DetNP
+PrepNp
+DetNP
+198869	O-V-ADV
+ADV-V-ADV
+PrepNp
+PrepNp
+198874	Conj-CL
+198876	NpPp
+V2CL
+PrepNp
+DetNP
+NPofNP
+198882	NP-Demo
+DetNP
+S-V-O
+O-V
+198887	Conj-CL
+198890	DetNP
+PrepNp
+that-VP
+V-ADV-S
+PrepNp
+DetNP
+NPofNP
+S-O-V
+198899	Conj-CL
+sub-CL
+V-O
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+P-VC-ADV
+DetAdj
+198909	ClCl
+S-VC-P
+DetNP
+DetCL
+V2CL
+S-ADV-V-O
+DetNP
+198917	CLaCL
+S-P-VC
+DetNP
+NP-CL
+O-S-V-IO
+198923	P-VC
+198925	Conj-CL
+198927	NP-CL
+PpNp2Np
+PrepNp
+S-ADV-V
+sub-CL
+198933	PrepNp
+DetNP
+CLaCL
+P-VC-S
+DetCL
+ADV-V
+198940	P-VC-S
+DetCL
+V-O
+198944	Conj-CL
+198947	PrepNp
+that-VP
+198950	V-ADV
+PrepNp
+sub-CL
+ADV-V-IO-ADV
+BeVerb
+PrepNp
+DetNP
+198958	CLaCL
+ADV-S-V-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+198967	ADV-ADV-V
+PrepNp
+198970	Conj-CL
+198972	DetNP
+DetNump
+PtclCL
+S-V-O
+AdvpNp
+V2CL
+198980	Np-Appos
+198982	Np2CL
+ADV-V
+PrepNp
+CLaCL
+O-V
+NPofNP
+NpAdjp
+198990	CLaCL
+S-V
+198994	that-VP
+S-VC-P
+DetNP
+NPofNP
+DetNP
+199001	DetNP
+CLaCL
+PtclCL
+S-O-V
+Np-Appos
+DetNump
+199008	S-P-VC
+PpNp2Np
+PrepNp
+199012	Conj-CL
+199014	DetNP
+NPofNP
+Np-Appos
+sub-CL
+ClCl
+S-V-O
+V-O
+P2CL
+NpPp
+PrepNp
+DetNump
+199026	Conj-CL
+199028	ADV-V-S-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+sub-CL
+ADV-V-O
+ADV-V
+PrepNp
+DetNP
+sub-CL
+V-O-S
+O-V
+DetAdj
+199043	Conj-CL
+VC-P-S
+Np-Appos
+DetNP
+NPofNP
+DetAdj
+DetNP
+199051	Conj-CL
+199053	PrepNp
+DetNP
+NPofNP
+ClCl
+CLaCL
+V-ADV
+199060	V-ADV
+PrepNp
+DetNP
+sub-CL
+S-V-O
+AdvpNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+NPofNP
+O-V
+199073	Conj-CL
+CLaCL
+S-O-ADV-V
+PrepNp
+199078	V-S-O
+P-VC
+PrepNp
+199082	ClCl2
+sub-CL
+O-V
+V-O-IO
+DetNP
+199088	Conj-CL
+ADV-S-V-ADV
+DetNP
+NPofNP
+PrepNp
+199094	Conj-CL
+199096	DetNP
+CLaCL
+S-ADV-V
+DetNP
+NPDetAdj
+DetAdj
+199103	S-ADV-VC-P
+DetNP
+NPDetAdj
+DetAdj
+199108	ClCl
+CLaCL
+ADV-V-S-O
+DetNP
+V-O
+199114	O-V
+sub-CL
+199117	PrepNp
+that-VP
+S-P-VC
+DetNP
+NPofNP
+199123	S-V-ADV
+PrepNp
+DetNP
+199128	PrepNp
+NP-Demo
+DetNP
+sub-CL
+S-ADV-V
+DetNP
+AdjpNp
+199136	Conj-CL
+ADV-V-ADV
+O-V-IO
+PrepNp
+DetNP
+199142	Conj-CL
+ClCl2
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+ADV-S-V-ADV
+AdvpNp
+notADVbutADV
+AdvPp
+PrepNp
+199156	Conj-CL
+CLaCL
+S-V-O-ADV
+DetAdj
+PrepNp
+DetNP
+199164	P-VC-S
+199166	Conj-CL
+S-VC-P-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+199173	aCLaCL
+199176	that-VP
+P-VC
+199180	CLaCL
+ADV2CL
+199183	V-O
+DetNP
+199186	Conj-CL
+S-ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetAdj
+199194	Conj-CL
+ClCl2
+ADV-S-V
+DetNP
+CLaCL
+V-S-ADV
+PrepNp
+DetNP
+199203	V2CL
+199205	Conj-CL
+V-S-ADV
+DetAdj
+199209	ADV-S-O-V-ADV
+ADV-V
+199212	Conj-CL
+CLaCL
+V-IO-S
+199217	CLaCL
+S-ADV-VC-P
+DetNP
+AdjpNp
+199222	P2CL
+DetCL
+V-O
+199226	ClCl2
+sub-CL
+S-V-O
+O-V
+DetNP
+NPofNP
+199233	PrepNp
+DetNP
+CLaCL
+ADV-P-VC
+PrepNp
+DetNP
+199240	S-ADV-V
+PrepNp
+199243	S-O-V
+DetCL
+ADV-V
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+199251	Conj-CL
+199253	Np2CL
+DetCL
+V-O
+DetNP
+NPofNP
+DetCL
+V-O
+S-P-VC
+199262	S-P-ADV-VC
+PrepNp
+199265	PtclCL
+S-V-IO-O
+DetNP
+199269	Conj-CL
+S-V-O
+NpPp
+PrepNp
+DetNP
+199275	ADV-O-V
+O-V
+199279	DetNP
+ClCl
+O-V
+S-O-V
+O-V
+199285	CLaCL
+V-S
+199289	CLaCL
+O-V
+AdjpNp
+199293	S-V
+199295	CLaCL
+199297	PrepNp
+DetNP
+sub-CL
+notCLbutCL2CL
+P-VC
+PrepNp
+DetNP
+P2CL
+PrepNp
+DetNP
+199308	ADV-V-O
+PrepNp
+199311	ClCl2
+sub-CL
+ClCl
+O-V-S-ADV
+PrepNp
+sub-CL
+ADV-V-S
+DetNP
+NPofNP
+ClCl
+O-V
+sub-CL
+O-O2-V-ADV
+All-NP
+PrepNp
+199327	notCLbutCL2CL
+V-ADV
+PrepNp
+O-V
+DetNP
+AdjpNp
+199334	Conj-CL
+199336	NpPp
+PrepNp
+DetNP
+PtclCL
+S-VC-P
+O-V
+O-V
+199344	Conj-CL
+199346	ADV-V
+199348	O-IO-V
+199351	DetNP
+that-VP
+S-VC-P
+DetNP
+199356	Conj-CL
+CLaCL
+199359	P-VC
+199362	Np2CL
+DetNP
+sub-CL
+V2CL
+199367	P-VC
+199369	Conj-CL
+CLaCL
+V-ADV-S
+ADV-V
+PrepNp
+DetNP
+DetNP
+199378	CLaCL
+O-V
+199382	P-VC
+199384	Conj-CL
+CLaCL
+ADV-ADV-V
+PrepNp
+199389	VC-P-S
+NP-CL
+DetCL
+V-O
+O-S-ADV-V
+199395	ClCl
+199397	sub-CL
+P-VC
+PrepNp
+S-O-V
+199402	Conj-CL
+CLaCL
+V-O
+O-V
+199408	PrepNp
+DetNP
+sub-CL
+ADV-V-S
+DetNP
+NPofNP
+199415	Conj-CL
+CLaCL
+ADV-S-V-ADV
+PrepNp
+DetNP
+PrepNp
+199424	Np2CL
+DetNP
+sub-CL
+V2CL
+PtclCL
+O-V-ADV
+AdjpNp
+O-S-V
+199433	CLaCL
+ClCl
+V-S
+DetNP
+S-V-ADV-O
+DetNP
+PrepNp
+199441	ClCl
+V-S-O
+NpaNp
+DetNP
+199446	DetNP
+sub-CL
+V-O
+199450	Conj-CL
+199452	DetNP
+CLaCL
+ADV-ADV-P-VC
+NpAdjp
+PrepNp
+199458	V-ADV
+PrepNp
+DetCL
+V-O
+199463	CLaCL
+CLaCL
+V-O
+199467	ADV-V
+199469	O-S-ADV-V
+ADV-V
+P-VC-S
+199473	Conj-CL
+199475	DetAdj
+PrepNp
+ClCl
+O-S-V
+ADV-V
+sub-CL
+S-ADV-V-O
+199483	PtclCL
+V-O
+CLaCL
+ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+199492	V-O
+DetNP
+199495	P-VC-S
+NP-CL
+NP-Demo
+DetNP
+199500	O-V
+CLaCL
+V-O
+199504	ADV-V
+199506	O-S-ADV-V
+ADV-V
+P-VC-S
+199510	Conj-CL
+CLaCL
+ADV-V-S
+PrepNp
+Np-Appos
+DetNP
+AdjpNp
+DetNP
+NPofNP
+DetNP
+DetNP
+199522	V-ADV
+199524	ClCl2
+sub-CL
+S-V
+CLaCL
+V-ADV
+PrepNp
+199531	V2CL
+199534	Np2CL
+DetCL
+V-ADV
+PrepNp
+sub-CL
+V-S
+DetNP
+S-ADV-V
+NPofNP
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+V2CL
+199549	Conj-CL
+199551	PrepNp
+DetNP
+NP-CL
+O-V-S
+O-V
+DetCL
+V-ADV
+PrepNp
+sub-CL
+199561	sub-CL
+S-ADV-V
+199564	Conj-CL
+199566	PrepNp
+DetNP
+V-O
+NP-Demo
+DetNP
+S-VC-ADV-P
+DetNP
+199575	S-VC-P
+DetNP
+199578	Conj-CL
+199580	Conj-CL
+PtclCL
+ADV-S-V
+PrepNp
+DetNP
+DetNP
+199587	PtclCL
+199589	DetNP
+that-VP
+ADV-V-S
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+199597	PrepNp
+Np-Appos
+DetNP
+NP-CL
+P-VC-S
+DetNP
+199604	Conj-CL
+S-V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+199610	Conj-CL
+CLaCL
+S-V-O
+NpPp
+PrepNp
+V-O
+199617	S-V-ADV-O
+PrepNp
+DetNP
+199621	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+PrepNp
+NpaNp
+DetNP
+199631	ADV-ADV-V-O
+PrepNp
+199635	DetNP
+199637	sub-CL
+S-V
+Demo-NP
+DetNP
+199642	Conj-CL
+199644	DetNP
+PtclCL
+S-V
+AdvpNp
+199649	PtclCL
+CLaCL
+S-V-ADV
+NpPp
+PrepNp
+DetNP
+PrepNp
+199657	S2CL
+PrepNp
+DetNP
+199661	Conj-CL
+S-P-VC
+Np-Appos
+NP-Demo
+DetNP
+DetCL
+ADV-V-O
+DetNP
+199671	Np-Appos
+PrepNp
+DetCL
+V-ADV-ADV
+PrepNp
+VC-P
+NpPp
+PrepNp
+PtclCL
+199681	DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+ADV-V-ADV-ADV
+PrepNp
+199689	V-O
+O-V
+199692	CLaCL
+V2CL
+199696	PtclCL
+S-P-VC
+AdvpNp
+PrepNp
+DetNP
+199702	CLaCL
+V2CL
+199706	that-VP
+ADV-S-ADV-V
+PrepNp
+DetNP
+199711	Conj-CL
+V-S-ADV
+PrepNp
+DetNP
+NPofNP
+199717	Conj-CL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+199724	Conj-CL
+Conj3CL
+ADV-ADV-V-ADV
+PrepNp
+DetNP
+199730	S-V-ADV
+All-NP
+DetNP
+PrepNp
+199735	ADV-V-O
+V2CL
+199738	Conj-CL
+CLaCL
+V-S-ADV-O
+NpaNp
+DetNP
+199744	DetNP
+PrepNp
+NpAdjp
+ADV-V
+PrepNp
+199751	V-O-ADV
+PrepNp
+199754	Np2CL
+Demo-NP
+DetNP
+V2CL
+199759	Conj-CL
+ADV-S-IO-V-O
+PrepNp
+DetNP
+O-V
+DetNP
+199766	Conj-CL
+S-O-V
+199769	Conj-CL
+199771	V-O
+sub-CL
+V-O
+V-O
+199776	Conj-CL
+S-ADV-ADV-V-ADV
+DetNP
+ADV-V
+DetNP
+PrepNp
+DetNP
+199784	Conj-CL
+ClCl2
+sub-CL
+V-O
+V-O
+199790	V2CL
+PrepNp
+S-ADV-O-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+199798	Conj-CL
+ADV-V-ADV
+ADV-ADV-V
+PrepNp
+DetNP
+199804	Conj-CL
+CLaCL
+S-ADV-V-ADV-ADV
+CLaCL
+V2CL
+199810	ADV-V
+PrepNp
+DetNP
+NpAdvp
+V-ADV-ADV
+PrepNp
+DetAdj
+PrepNp
+DetAdj
+199820	CLaCL
+V-ADV-S
+DetNP
+199824	S-ADV-V
+DetNP
+PrepNp
+199828	Conj-CL
+199830	CLaCL
+V2CL
+DetNP
+199834	O-V-ADV
+PrepNp
+DetNP
+199838	Np2CL
+DetNP
+P-VC-S
+Demo-NP
+DetNP
+NPofNP
+S-O-V
+199846	Conj-CL
+199849	Np2CL
+199851	Conj-CL
+199853	DetNP
+ClCl
+ADV-S-O-V
+CLaCL
+V2CL
+199859	ADV-V
+199861	Conj-CL
+ADV-IO-V-S-ADV
+DetNP
+199865	ClCl
+S-VC-P
+DetNP
+NPofNP
+DetNP
+CLaCL
+S-ADV-V-ADV
+DetCL
+V-O
+2Advp_h1
+PrepNp
+DetNP
+199878	V-O
+DetNP
+NPofNP
+DetNP
+199883	Conj-CL
+199885	DetNP
+199887	PrepNp
+S-ADV-VC-P
+DetNP
+NPofNP
+199892	CLaCL
+V-S
+199896	ClCl
+ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+P-VC-S
+DetNP
+NPofNP
+sub-CL
+199906	CLaCL
+ADV-V
+199909	ADV-V
+199911	Conj-CL
+199913	CLaCL
+ADV-V
+199916	ADV-V
+199919	PrepNp
+DetNP
+S-ADV-V-O
+199923	Conj-CL
+ClCl
+ClCl2
+sub-CL
+ADV-V-S
+S-P-VC
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+CLaCL
+P-ADV-VC
+199936	S2CL
+NpaNp
+199939	DetCL
+V-O
+199942	Conj-CL
+199944	AdvPp
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+that-VP
+S-P-VC
+ofNPNP
+NumpNP
+DetNP
+199955	CLaCL
+S-VC-P
+DetCL
+V-ADV
+PrepNp
+199961	V-ADV-S
+PrepNp
+DetNP
+AdjpNp
+V-O
+199967	Conj-CL
+199969	P-VC-S
+DetNP
+NPofNP
+199974	aCLaCL
+199976	O-V
+199978	O2CL
+DetNP
+NPofNP
+199982	ClCl2
+sub-CL
+O-V
+PtclCL
+O-V
+AdvpNp
+DetNP
+NPofNP
+199991	O-V-ADV-ADV
+Demo-NP
+DetNP
+PrepNp
+DetNP
+V-ADV
+PrepNp
+DetNP
+200000	Conj-CL
+200002	sub-CL
+ADV-V-S
+DetNP
+NPofNP
+200007	Conj-CL
+200009	ClCl
+Conj3CL
+S-V
+200013	V-O
+200015	ADV-V
+PrepNp
+DetNP
+NPofNP
+O-S-ADV-V
+ADV-V
+ADV-S-V
+200023	Conj-CL
+200025	DetAdj
+ClCl
+PtclCL
+V-O
+sub-CL
+200031	O-S-ADV-V
+ADV-V
+ADV-S-V
+200035	Conj-CL
+200037	ClCl
+ClCl
+S-P-VC
+PrepNp
+DetNP
+S-P-VC
+PrepNp
+DetNP
+ClCl
+S-P-VC
+PrepNp
+Demo-NP
+DetNP
+S-ADV-VC-P
+PrepNp
+NP-Demo
+DetNP
+200055	Conj-CL
+ClCl
+200058	that-VP
+V-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ClCl2
+sub-CL
+200067	that-VP
+S-VC
+V-ADV
+PrepNp
+DetNP
+NPofNP
+200074	Conj-CL
+200076	S-P-VC
+200079	DetNP
+P2CL
+NP-CL
+O-ADV-ADV-V-IO
+DetNP
+200085	CLaCL
+V-O
+O-ADV-V
+PrepNp
+Conj2VP
+200093	S-P-VC
+DetCL
+V-O
+O-S-V-ADV
+PrepNp
+PrepNp
+DetNP
+200102	that-VP
+O-IO-V
+DetNP
+200106	Conj-CL
+200108	DetNP
+ClCl2
+sub-CL
+V-O
+DetNP
+NPofNP
+DetNP
+200116	that-VP
+CLaCL
+S-VC
+200120	CLaCL
+ADV-V-O
+PrepNp
+200124	ClCl2
+sub-CL
+V-O-S
+DetNP
+O-V
+200130	Conj-CL
+200132	DetCL
+V-O
+PrepNp
+200136	sub-CL
+S-O-V-ADV
+DetAdj
+AdjpAdvp
+200142	O-S-V
+PrepNp
+200145	Conj-CL
+200147	DetNP
+PrepNp
+DetNP
+AdjpNp
+V-O
+ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+CLaCL
+ADV-P-VC
+NPofNP
+200163	CLaCL
+V-O
+DetNP
+200167	S-V-O
+DetNP
+200171	PrepNp
+ClCl
+CLaCL
+P-VC
+NPofNP
+200177	O-V-ADV
+200179	that-VP
+P-VC
+200183	DetNP
+PtclCL
+PtclCL
+200187	that-VP
+S-VC-P
+All-NP
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+200196	Conj-CL
+ClCl
+S-ADV-V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+200209	Conj-CL
+200211	sub-CL
+S-O-V
+DetNP
+200216	that-VP
+P-VC
+NPofNP
+200220	Conj-CL
+ClCl
+V-O
+O-V
+sub-CL
+S-ADV-V-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+200231	O-V
+O-S-V-ADV
+PrepNp
+DetNP
+200236	Conj-CL
+S-O-V
+AdvpNp
+O-V-ADV
+PrepNp
+DetNP
+200243	CLaCL
+V2CL
+200247	S-P-VC
+DetNP
+NPofNP
+200252	DetNP
+ClCl2
+sub-CL
+P-VC
+NPofNP
+DetNP
+O-V
+DetNP
+NPofNP
+DetNP
+200263	Conj-CL
+200265	V-O
+Np-Appos
+NP-CL
+200269	S-O-IO-V
+DetNP
+PrepNp
+DetNP
+O-S-ADV-V
+200275	S-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+200282	ClCl
+S-ADV-ADV-V
+PrepNp
+O-V
+Np-Appos
+AdjpNp
+DetNP
+200291	DetNP
+ClCl
+200294	sub-CL
+S-P-VC
+DetNP
+NPofNP
+V-O
+200300	sub-CL
+CLaCL
+S-ADV-V
+PrepNp
+DetNP
+200306	V2CL
+notCLbutCL2CL
+ADV-V
+PrepNp
+S-O-V
+200313	PrepNp
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+ADV-V-O
+V-O
+DetNP
+NPDetAdj
+DetAdj
+200324	CLaCL
+S-P-VC
+PrepNp
+Np-Appos
+DetNP
+DetAdj
+200331	O-V
+O-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+200338	CLaCL
+S-P-VC-ADV
+PrepNp
+200343	PrepNp
+DetNP
+sub-CL
+ADV-VC-S-P
+PrepNp
+200349	ClCl
+ClCl2
+sub-CL
+V-O
+DetNP
+ADV-V
+PrepNp
+DetAdj
+sub-CL
+CLaCL
+P-VC
+200361	P2CL
+DetNP
+NPofNP
+200365	Conj-CL
+200367	Np2CL
+sub-CL
+O-V
+DetNP
+ADV-V-O
+200373	S-V-O-ADV
+NpPp
+PrepNp
+PrepNp
+200378	ClCl2
+sub-CL
+O-V
+ADV-S-ADV-V-O
+PrepNp
+200384	S-O-V
+DetCL
+VC-P
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+200394	PrepNp
+sub-CL
+P-ADV-VC
+PrepNp
+DetNP
+200400	CLaCL
+V-S
+DetAdj
+200405	PtclCL
+200407	that-VP
+CLaCL
+P-VC-S
+200411	O-V
+200414	CLaCL
+CLaCL
+S-O-ADV-V
+200418	V-O
+DetNP
+NPofNP
+200422	S-V-O
+200424	Conj-CL
+S-ADV-V-O
+DetNP
+NPofNP
+200429	V-S
+DetCL
+CLaCL
+V2CL
+200434	V2CL
+200436	PtclCL
+PtclCL
+200439	ClCl2
+sub-CL
+S-O-V
+DetNP
+AdjpNp
+O-ADV-V-ADV
+2Advp_h1
+PrepNp
+DetNP
+200450	DetAdj
+200452	that-VP
+O-V
+200455	CLaCL
+CLaCL
+S-V
+200459	S2CL
+DetNP
+200463	ClCl2
+sub-CL
+S-O-V
+DetNP
+NPofNP
+ADV-V-O-ADV
+2Advp_h1
+PrepNp
+DetNP
+200473	PtclCL
+S-P-VC-ADV
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+S-V
+200481	Conj-CL
+S-V
+DetNP
+200485	O2-O-V
+200488	ClCl2
+sub-CL
+S-V-O
+S-P-VC
+DetNP
+NPofNP
+200496	VC-P-S
+DetNP
+NPofNP
+DetCL
+V-O
+ADV-S-V
+P-VC
+NPofNP
+200505	Conj-CL
+CLaCL
+ADV-V-O
+200509	S-V-O
+200511	CLaCL
+ClCl2
+sub-CL
+200515	that-VP
+ADV-V-O
+VC-P
+AdjpNp
+AdjpAdvp
+200521	CLaCL
+V-O
+200524	O-V
+DetNP
+NPofNP
+200528	CLaCL
+200530	Np-Appos
+DetNP
+NPofNP
+sub-CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+200539	CLaCL
+V2CL
+200542	V2CL
+200544	Conj-CL
+200546	DetAdj
+PrepNp
+CLaCL
+O-ADV-V
+NumpNP
+200552	O-V
+200555	PtclCL
+PtclCL
+200558	ADV-S-V
+AdvpCL
+S-V
+200562	Conj-CL
+200564	sub-CL
+V-ADV
+PrepNp
+200568	Conj-CL
+CLaCL
+S-V
+200572	V-ADV
+PrepNp
+DetNP
+200576	Conj-CL
+ADV-V-O
+V2CL
+NpAdjp
+AdjpPp
+PrepNp
+200583	Conj-CL
+V-O-S-ADV
+DetNP
+NPofNP
+200589	Np2CL
+200591	S2CL
+NpaNp
+200594	DetNP
+NPofNP
+sub-CL
+ADV-V
+200600	CLaCL
+aCLaCL
+200603	S-V
+200605	S2CL
+DetNP
+NPofNP
+200609	sub-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+200617	S-V-O
+DetNP
+NPofNP
+DetCL
+V-O
+sub-CL
+S-V
+200626	sub-CL
+S-V-O
+V2CL
+200631	sub-CL
+P-VC
+PrepNp
+DetNP
+NPofNP
+DetNP
+200638	Conj4CL
+ADV-V-ADV
+O-V
+200642	V-O-ADV
+PrepNp
+DetNP
+200646	V-O-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+200653	ClCl
+V2CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+S-VC-P
+V2CL
+200664	Conj-CL
+CLaCL
+CLaCL
+V2CL
+200669	V2CL
+200671	V-ADV
+V2CL
+200674	Conj-CL
+200676	NpaNp
+DetNP
+200679	DetCL
+200681	V-O-ADV
+DetAdj
+P-VC
+PtclCL
+S-VC-P
+DetCL
+CLaCL
+V2CL
+200690	V2CL
+200693	that-VP
+P-VC
+200697	CLaCL
+ADV2CL
+200700	P-ADV-VC
+200703	that-VP
+S-VC
+200706	Conj-CL
+200708	Conj-CL
+ADV-V-S
+ofNPNP
+DetNP
+200714	ClCl
+Conj3CL
+S-O-V
+Np-Appos
+DetNP
+DetCL
+VC-P
+200722	V-O
+ofNPNP
+DetNP
+200727	that-VP
+CLaCL
+V-ADV
+PrepNp
+DetNP
+200733	V2CL
+Conj-CL
+ADV-V
+CLaCL
+V2CL
+200739	V2CL
+200741	Conj-CL
+200743	P-VC-S
+200746	ADV-V
+200748	V-O-ADV
+NPDetAdj
+PrepNp
+DetNP
+DetAdj
+AdvpAdjp
+200755	Conj-CL
+VC-P-ADV
+PrepNp
+CLaCL
+ADV-O-V-S
+PronNP
+DetNP
+DetNP
+200764	V-O
+ofNPNP
+DetNP
+200768	Conj-CL
+200770	AdvpNp
+DetNP
+ADV-V
+200774	Conj-CL
+200776	CLaCL
+O-V-ADV
+PrepNp
+ofNPNP
+DetNP
+200782	CLaCL
+V2CL
+200785	V2CL
+200787	Conj-CL
+200789	PpNp2Np
+PrepNp
+DetNP
+ClCl
+ADV-VC-P-S
+Demo-NP
+PrepNp
+DetNP
+sub-CL
+O-ADV-V
+DetNP
+200802	ADV-V-S-O
+NpAdjp
+O-V
+Demo-NP
+200807	Conj-CL
+S-VC-P
+PrepNp
+200811	Conj-CL
+200813	DetAdj
+200815	PrepNp
+sub-CL
+V-O
+ofNPNP
+DetNP
+200821	Conj-CL
+200823	that-VP
+P-VC
+200826	Conj-CL
+ADV-V-S-ADV-O-ADV
+DetAdj
+PrepNp
+that-VP
+CLaCL
+VC-P
+200834	V2CL
+PrepNp
+CLaCL
+ADV-V-O
+DetNP
+NPofNP
+Np-Appos
+DetCL
+V2CL
+200844	V-O-ADV
+200847	NP-CL
+DetNP
+NPofNP
+200851	ADV-S-V
+ADV-V
+Conj-CL
+ADV-V-ADV
+200856	Conj-CL
+CLaCL
+V-S
+DetNP
+NPofNP
+200864	CLaCL
+that-VP
+S-VC-P
+DetNP
+NPofNP
+200870	that-VP
+ADV-V
+200873	Conj-CL
+CLaCL
+ClCl2
+ADV-ADV-V
+ADV-V
+200879	ClCl2
+S-V-O
+ofNPNP
+DetNP
+S-ADV-V
+200886	ClCl
+O-V
+S-ADV-V
+PrepNp
+200891	ClCl
+200893	DetNP
+NPofNP
+sub-CL
+V-O
+DetAdj
+sub-CL
+200900	DetAdj
+that-VP
+ClCl2
+sub-CL
+S-O-V-O2
+P-VC
+200908	PrepNp
+DetNP
+NPofNP
+that-VP
+ClCl
+P-VC
+O-V
+200916	Conj-CL
+CLaCL
+200919	DetNP
+PrepNp
+S-VC-P
+200925	DetNP
+200927	that-VP
+S-P-VC
+Demo-NP
+DetNP
+200932	Conj-CL
+200934	ClCl
+ClCl2
+PtclCL
+P-VC
+ADV-V
+200940	that-VP
+ADV-ADV-V
+P-VC
+200944	Conj-CL
+200946	ClCl
+O-V-IO
+ADV-V-O
+ofNPNP
+DetNP
+200953	ClCl
+ClCl
+CLaCL
+V-IO-ADV
+200958	ADV-V
+ADV-ADV-V-O
+V2CL
+PtclCL
+S-V-O
+AdvpNp
+P-VC
+ofNPNP
+200967	Conj-CL
+CLaCL
+V-O
+200972	CLaCL
+S-P-VC
+NPofNP
+200976	S-P-VC
+ofNPNP
+DetNP
+200980	CLaCL
+200982	that-VP
+IO-V-S
+DetNP
+200987	P-VC
+200989	CLaCL
+V-S
+DetNP
+200994	Conj-CL
+200996	P-S-VC
+PrepNp
+DetAdj
+CLaCL
+201001	P-VC
+201003	V-O
+ofNPNP
+DetNP
+201007	CLaCL
+201009	that-VP
+S-O-ADV-V
+DetNP
+201013	ClCl2
+sub-CL
+CLaCL
+S-P-VC
+201018	O-V
+DetNP
+NPofNP
+O-V
+201024	PrepNp
+DetNP
+that-VP
+V-S-O
+NPofNP
+NpAdjp
+V2CL
+201033	sub-CL
+ADV-VC-S-P
+PrepNp
+V-O
+201038	CLaCL
+V2CL
+201042	CLaCL
+ADV-S-V-ADV
+PrepNp
+201046	S-V-O
+201048	Conj-CL
+V-O-ADV
+201051	CLaCL
+201053	that-VP
+V-O-ADV
+201057	V-O
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+201064	CLaCL
+V-S
+201068	Conj-CL
+ClCl
+201071	Np2CL
+sub-CL
+V-ADV
+PrepNp
+201077	DetNP
+Conj-CL
+CLaCL
+V-O
+201082	P-S-VC
+DetCL
+V-ADV
+PrepNp
+201087	Conj-CL
+201090	Np2CL
+201092	Conj-CL
+V-O
+201095	Conj-CL
+201097	DetNP
+ClCl
+ADV-S-ADV-V
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+sub-CL
+CLaCL
+S-V
+DetCL
+ADV-V
+201110	S-P-VC
+DetCL
+V2CL
+201114	CLaCL
+V-O-S
+Np-Appos
+PrepNp
+DetNP
+DetCL
+P-VC
+PrepNp
+201124	PtclCL
+S-P-VC
+AdvpNp
+201129	DetNP
+ClCl2
+sub-CL
+P-VC
+PtclCL
+ADV-V-O
+201136	Conj-CL
+ClCl
+201139	that-VP
+V2CL
+S-V
+DetNP
+NPofNP
+201145	PtclCL
+PtclCL
+201149	Np2CL
+DetCL
+notCLbutCL2CL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV
+S-P-VC
+201162	P2CL
+201164	Conj-CL
+S-VC-P
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+201173	CLaCL
+IO-S-V
+DetNP
+201177	CLaCL
+S-O-V
+DetNP
+DetNP
+NPofNP
+201183	CLaCL
+O-V-ADV
+DetNP
+AdjpNp
+PrepNp
+201189	V-O
+201191	CLaCL
+ClCl2
+sub-CL
+O-V
+NP-all
+DetAdj
+ADV-V
+PrepNp
+201200	ClCl
+S-O-V
+DetNP
+sub-CL
+V-O
+DetNP
+NPofNP
+201208	Conj-CL
+ClCl
+CLaCL
+O-ADV-V
+2Advp_h1
+201214	V-ADV
+PrepNp
+sub-CL
+ADV-V-O
+ofNPNP
+DetAdj
+DetNP
+201222	O-V-IO-S
+Demo-NP
+DetNP
+DetNP
+201227	Conj-CL
+S-ADV-V-O
+P-VC-S
+O-V-IO
+201232	Conj-CL
+201234	DetNP
+PtclCL
+PtclCL
+201238	that-VP
+S-VC-P
+DetNP
+NPofNP
+DetNP
+201244	CLaCL
+CLaCL
+S-P-VC
+All-NP
+S-V-ADV
+PrepNp
+201251	P2CL
+201253	ADV-V-O-S
+DetNP
+201256	S-VC-P
+DetNP
+201259	CLaCL
+201261	sub-CL
+ADV-S-V
+PrepNp
+201265	CLaCL
+CLaCL
+V2CL
+201269	V2CL
+201271	O-V
+201274	DetNP
+sub-CL
+AdvpCL
+sub-CL
+Conj3CL
+V2CL
+201281	V2CL
+201283	V2CL
+201286	sub-CL
+CLaCL
+O-V
+201290	ADV-V
+201292	S-VC-P
+DetNP
+NPDetAdj
+DetAdj
+201297	S-O-V-ADV
+DetNP
+NPDetAdj
+DetAdj
+DetNP
+NPofNP
+PrepNp
+DetNP
+201307	CLaCL
+Conj3CL
+S-V-O
+NP-CL
+DetNP
+NpaNp
+201314	ADV-VC-P
+ADV-ADV-VC-S-P
+DetNP
+S-V
+DetNP
+201320	V-O
+DetNP
+201323	V2CL
+201325	CLaCL
+S-V-O
+DetNP
+201329	V2CL
+CLaCL
+P-VC
+201333	ADV-V-ADV-ADV
+PrepNp
+DetNP
+201337	CLaCL
+S-VC-P
+DetNP
+NPDetAdj
+DetAdj
+201344	V-O
+DetAdj
+201347	V-O-S
+DetAdj
+sub-CL
+ClCl
+V-O-S
+DetNP
+S-V-O
+DetNP
+201356	Conj-CL
+O-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+201363	Conj-CL
+201365	AdjpNp
+S-ADV-VC-P
+PrepNp
+NP-Demo
+DetNP
+201371	CLaCL
+S-V
+O-S-V
+201375	CLaCL
+O-V
+DetNP
+NPofNP
+201380	VC-P
+2Np
+AdjpNp
+AdjpNp
+201386	PrepNp
+DetNP
+sub-CL
+201390	DetNP
+NPofNP
+sub-CL
+ADV-V-O
+201395	CLaCL
+S-V-O-ADV
+PrepNp
+201399	S-V-O-ADV
+PrepNp
+201402	CLaCL
+O-V-ADV
+V-O
+201406	O-V-ADV
+ADV-V-O
+201409	O-V-ADV
+Demo-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+201416	S-ADV-V-ADV-ADV
+PrepNp
+DetAdj
+PrepNp
+NP-Demo
+DetNP
+201423	Conj-CL
+201425	NpPp
+PrepNp
+ClCl
+CLaCL
+O-V
+201431	V2CL
+ADV-O-V
+201436	Demo-NP
+DetNP
+V2CL
+PtclCL
+S-V-O
+O-V
+ofNPNP
+201444	V-ADV-S-ADV
+DetNP
+PrepNp
+DetNP
+201449	CLaCL
+P-VC
+201452	V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+201461	Conj-CL
+CLaCL
+V-O-S
+DetAdj
+201468	PrepNp
+DetNP
+NPofNP
+ClCl2
+sub-CL
+S-VC-P
+DetNP
+V-IO-ADV
+201478	DetNP
+CLaCL
+V-IO
+201482	ADV-V
+201484	CLaCL
+201486	Np2CL
+DetNP
+NP-CL
+O-S-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+201498	sub-CL
+ADV-VC-P
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+201505	Conj4CL
+201507	DetNP
+NPDetAdj
+DetAdj
+DetNP
+NPofNP
+S-V-O
+201514	ClCl
+V-O
+S-V-IO-O
+NpAdjp
+201519	ADV-V-ADV
+2Advp_h1
+PrepNp
+DetNP
+201524	ADV-V-S-O-ADV
+PrepNp
+DetNP
+NPofNP
+201529	CLaCL
+201531	Np2CL
+DetNP
+NPofNP
+O-V-IO
+201536	S-V-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+201543	S-P-VC
+NpaNp
+201546	DetNP
+201549	DetAdj
+sub-CL
+V-O
+201554	DetNP
+201556	AdjpNp
+NpAdjp
+PrepNp
+DetNP
+ADV-O-V
+PrepNp
+AdjpNp
+AdjpAdvp
+201566	DetAdj
+CLaCL
+CLaCL
+ADV-ADV-V-O
+PrepNp
+AdjpNp
+201573	ADV2CL
+PrepNp
+201576	sub-CL
+S-ADV-V-O-O2
+P-VC
+201581	DetNP
+PtclCL
+201584	BeVerb
+PrepNp
+DetNP
+NPofNP
+that-VP
+201590	P-VC
+201593	sub-CL
+CLaCL
+201596	ADV-S-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+201602	ADV-V-O-S
+V2CL
+DetNP
+201606	ADV-S-V
+CLaCL
+O-S-V
+DetNP
+201611	V-ADV
+PrepNp
+DetNP
+V2CL
+201616	P-VC
+NPofNP
+DetNP
+201620	ClCl2
+sub-CL
+ADV-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-V-O
+201629	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V2CL
+ClCl2
+PtclCL
+O-ADV-V
+O-V
+DetNP
+sub-CL
+201641	V2CL
+201643	V2CL
+that-VP
+ClCl
+P-S
+PrepNp
+DetNP
+S-P
+PrepNp
+DetNP
+201653	Conj-CL
+V-O-ADV
+O-V
+201657	Conj-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+201663	Conj-CL
+CLaCL
+V-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NP-CL
+ADV-V-S-ADV
+BeVerb
+DetAdj
+201675	V-ADV
+201677	Conj-CL
+CLaCL
+S-V-ADV
+PrepNp
+201683	that-VP
+aCLaCL
+201686	S-O-V
+NpAdjp
+201689	S-P-VC
+All-NP
+O-V-S-ADV
+PrepNp
+201694	Conj-CL
+S-V-ADV-ADV
+PrepNp
+201698	Conj-CL
+V-S
+NpPp
+Np-Appos
+NpAdjp
+V2CL
+2Pp
+PrepNp
+PrepNp
+DetNP
+NPofNP
+NpaNp
+201711	Np-Appos
+DetNP
+NPofNP
+201715	Conj-CL
+201717	DetCL
+CLaCL
+V-O-ADV
+DetNP
+201722	V-O-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+S-V
+Np-Appos
+ofNPNP
+DetNP
+201732	Conj-CL
+V-S-ADV-ADV
+DetNP
+PrepNp
+201738	Np2CL
+O-V
+201741	Conj-CL
+201743	V2CL
+DetNP
+ClCl
+CLaCL
+S-ADV-VC-P
+Demo-NP
+DetNP
+PrepNp
+201752	P2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+201764	Conj-CL
+V-S-O
+DetNP
+Conj3Np
+DetNP
+201770	DetNP
+NPofNP
+201773	DetNP
+201775	Conj-CL
+ClCl2
+sub-CL
+201779	that-VP
+V2CL
+PtclCL
+ADV-V-ADV-ADV
+PrepNp
+CL-NP
+ADV-V
+NumpNP
+201789	PrepNp
+DetNP
+V-ADV-ADV
+PrepNp
+DetNP
+201796	DetNP
+201798	Np2CL
+ADV-V-O-S
+O-V
+DetAdj
+201803	ADV-V-ADV
+201806	PtclCL
+S-VC-P
+NumpNP
+DetNP
+201812	sub-CL
+S-V-ADV
+PrepNp
+DetNP
+sub-CL
+O-V
+DetNP
+NPofNP
+NP-Demo
+DetNP
+201823	Conj-CL
+201825	sub-CL
+S-V-ADV
+PrepNp
+DetNP
+sub-CL
+S-ADV-VC-P
+DetNP
+PrepNp
+201834	CLaCL
+O-V
+201838	PrepNp
+CLaCL
+S-V
+Np-Appos
+DetNP
+NPofNP
+201845	ClCl
+V2CL
+sub-CL
+V-O
+201850	Conj-CL
+201852	DetNP
+201854	Np2CL
+sub-CL
+V2CL
+201858	Conj-CL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+201865	Conj-CL
+201867	that-VP
+ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+201874	Conj-CL
+201876	DetNP
+CLaCL
+CLaCL
+S-V
+201882	V-ADV
+PrepNp
+sub-CL
+V2CL
+that-VP
+ADV-VC-P
+201889	V-ADV
+PrepNp
+201892	Conj-CL
+201894	Np-Appos
+DetCL
+VC-P
+DetNP
+ClCl
+V-S
+AdvpNp
+sub-CL
+V-ADV
+PrepNp
+201905	Conj-CL
+ADV-S-V-O
+V2CL
+DetNP
+S-O-ADV-V-ADV
+AdjpNp
+PrepNp
+DetNP
+201914	Conj-CL
+VC-S-P-ADV
+PrepNp
+DetNP
+AdvPp
+PrepNp
+NpNump
+201922	Conj-CL
+201924	NpPp
+PrepNp
+DetAdj
+PrepNp
+DetNP
+NpaNp
+201931	sub-CL
+V-O-ADV
+PrepNp
+DetNP
+201936	Conj-CL
+ClCl2
+S-V-O
+DetNP
+sub-CL
+201942	that-VP
+S-V
+201945	Conj-CL
+S-ADV-V
+PrepNp
+DetNP
+201950	Conj-CL
+201952	DetNP
+PrepNp
+201955	Np2CL
+ClCl2
+sub-CL
+VC-P
+PtclCL
+ADV-V-S
+DetNP
+NPofNP
+201964	that-VP
+O-V-IO-S
+PtclCL
+O2-V-O
+DetNP
+DetNP
+201972	DetNP
+V-S
+DetNP
+NPofNP
+201978	DetNP
+201980	that-VP
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+AdjpNp
+201989	DetNP
+S-VC-P
+NpaNp
+DetNP
+201994	DetNP
+201996	CLaCL
+S-ADV-V
+DetCL
+V-ADV
+PrepNp
+PtclCL
+V2CL
+202004	S-ADV-V-ADV
+All-NP
+DetCL
+CLaCL
+V2CL
+202010	V-ADV
+PrepNp
+2Advp_h1
+PrepNp
+DetNP
+202016	V-O
+202019	ClCl2
+202021	Np2CL
+202023	that-VP
+S-VC-P
+Np-Appos
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+DetCL
+ADV-V
+PrepNp
+DetNP
+202036	Conj-CL
+CLaCL
+ADV-V
+O-V
+202041	V-O-ADV-ADV
+Np-Appos
+DetNP
+NPofNP
+202046	CLaCL
+S-V
+DetNP
+202050	V-O
+202052	Conj-CL
+CLaCL
+S-ADV-V-ADV
+sub-CL
+V2CL
+202058	V-ADV
+PrepNp
+202061	Conj-CL
+notCLbutCL2CL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+VC-ADV-P
+PrepNp
+DetNP
+NP-CL
+ADV-V-O-S
+DetNP
+202074	Conj-CL
+S-ADV-V-O-ADV
+Np-Appos
+DetAdj
+DetCL
+CLaCL
+VC-P-ADV
+PrepNp
+PrepNp
+DetNP
+202085	V-O
+202087	DetNP
+that-VP
+CLaCL
+ADV-V
+202092	V2CL
+202094	that-VP
+202096	PrepNp
+DetNP
+sub-CL
+V-ADV
+202101	Conj-CL
+S-ADV-ADV-V-ADV-ADV
+DetNP
+sub-CL
+V-ADV
+P-VC-S
+V-O
+PrepNp
+ofNPNP
+DetNP
+202113	Np2CL
+sub-CL
+VC-P
+ADV-V-S
+ofNPNP
+DetNP
+202120	Conj-CL
+202122	Np2CL
+sub-CL
+V-O
+CLaCL
+S-V
+202128	S-V
+DetNP
+AdjpNp
+V-O
+CLaCL
+CLaCL
+V-ADV
+DetNP
+202137	V-O
+202140	ADV-V-O
+202144	Np2CL
+V2CL
+202147	V2CL
+202149	V-S
+DetNP
+202152	Conj-CL
+202154	DetAdj
+202157	Conj-CL
+202159	NpPp
+PrepNp
+PtclCL
+V-S-O
+Demo-NP
+DetCL
+V-O
+DetNP
+NPofNP
+DetAdj
+ClCl
+V2CL
+sub-CL
+S-ADV-V
+AdvpNp
+202175	Conj-CL
+S-ADV-V-ADV
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+202182	Conj-CL
+CLaCL
+VC-P
+202186	S-V-ADV
+PrepNp
+202190	DetNP
+V-O
+DetNP
+202195	Np-Appos
+DetNP
+NPofNP
+DetCL
+V2CL
+202201	Np2CL
+ADV-V
+sub-CL
+P-VC
+202207	DetNP
+PtclCL
+202210	that-VP
+ClCl2
+sub-CL
+V2CL
+V-O
+DetNP
+NPofNP
+DetNP
+202219	Conj-CL
+V-O
+DetNP
+202223	Conj-CL
+CLaCL
+S-V-O-ADV
+DetNP
+DetNP
+202231	Np2CL
+CLaCL
+202234	sub-CL
+V-O
+202238	that-VP
+ADV-O-V
+202242	PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+sub-CL
+202249	that-VP
+S-O-V
+202252	Conj-CL
+202254	O-V
+NpAdjp
+202257	Np2CL
+202259	CLaCL
+V-S-ADV
+DetCL
+V2CL
+V-ADV-ADV
+NpaNp
+DetNP
+202267	DetNP
+202269	S-ADV-V
+DetNP
+NPofNP
+202274	DetNP
+CLaCL
+V-O
+202278	V-O
+S-V
+202281	Conj-CL
+S-V-ADV
+Np-Appos
+NpPp
+PrepNp
+DetAdj
+DetCL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+202293	V-O
+O-V
+PrepNp
+202297	Conj-CL
+CLaCL
+S-V-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+202305	V-IO-O
+O-V-S
+202308	Conj-CL
+CLaCL
+V-S-O
+NpaNp
+DetNP
+202314	DetNP
+202317	ClCl
+O-V
+sub-CL
+S-O-V
+Demo-NP
+DetNP
+AdjpNp
+202325	ClCl2
+sub-CL
+V-O-ADV
+CLaCL
+S-V-ADV
+PrepNp
+202332	CLaCL
+V-S
+DetAdj
+202336	V-O
+ofNPNP
+aNpaNp
+202340	DetNP
+202342	DetNP
+202344	Conj-CL
+202346	Np-Appos
+NpPp
+NpAdjp
+PrepNp
+P-VC-ADV
+NP-Demo
+DetNP
+CLaCL
+S-ADV-V-O
+202357	that-VP
+V-ADV-S
+that-VP
+CLaCL
+S-V-ADV
+AdjpNp
+PrepNp
+DetNP
+202366	ADV-S-V
+All-NP
+DetNP
+202370	Conj-CL
+CLaCL
+O-ADV-ADV-V
+PrepNp
+202376	P-VC-ADV
+NP-Demo
+DetNP
+that-VP
+V-S-O
+CLaCL
+V-ADV
+PrepNp
+DetNP
+202386	notCLbutCL2CL
+ADV-ADV
+PrepNp
+DetNP
+sub-CL
+O-V-ADV
+AdvpNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V2CL
+PrepNp
+202401	Conj-CL
+202403	PrepNp
+Demo-NP
+DetNP
+that-VP
+V-O
+202409	Conj-CL
+CLaCL
+S-ADV-ADV-V-ADV
+DetNP
+PrepNp
+DetAdj
+202417	PrepNp
+DetNP
+NpPp
+PrepNp
+DetAdj
+PrepNp
+AdjpNp
+P-VC
+ADV-V-ADV
+PrepNp
+DetNP
+202429	Conj-CL
+CLaCL
+VC-P-S
+DetNP
+NPofNP
+DetAdj
+202437	PrepNp
+PrepNp
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-O
+202445	Conj-CL
+CLaCL
+V-O
+DetNP
+202451	PrepNp
+ADV-V
+PrepNp
+DetNP
+202456	that-VP
+ADV-V-ADV
+2Advp_h1
+PrepNp
+DetNP
+202462	Conj-CL
+202464	NpaNp
+DetNP
+202467	DetNP
+that-VP
+ClCl
+ClCl2
+sub-CL
+S-V-O
+P-VC
+V2CL
+sub-CL
+V-O
+202478	Conj-CL
+S-ADV-V-ADV
+DetNP
+PrepNp
+NumpNP
+NPofNP
+DetNP
+PrepNp
+NP-CL
+P-VC-S
+NP-CL
+O-V-ADV-S
+PrepNp
+202492	Conj-CL
+CLaCL
+CLaCL
+V-IO-O-ADV
+202497	S-V
+DetNP
+202500	S-VC-P
+DetNP
+NpPp
+PrepNp
+DetCL
+V-ADV
+PrepNp
+202508	Conj-CL
+CLaCL
+S-ADV-V-O
+DetNP
+V-O
+NPofNP
+NpAdjp
+NpAdjp
+NPofNP
+DetNP
+NPofNP
+DetNP
+202521	V-ADV-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+202527	Conj-CL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+202535	Conj-CL
+202537	Np-Appos
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetCL
+V-O
+O-V
+CLaCL
+ADV-S-ADV-V-ADV
+PrepNp
+Demo-NP
+DetNP
+AdjpNp
+202554	V-IO
+202556	Conj-CL
+CLaCL
+202559	notCLbutCL2CL
+sub-CL
+ADV-V-ADV
+PrepNp
+DetAdj
+sub-CL
+P-VC
+202567	ADV-O-V
+O-V
+DetNP
+DetCL
+V2CL
+202573	Conj-CL
+202575	DetNP
+ClCl
+202578	sub-CL
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+CLaCL
+O-ADV-V-ADV
+DetAdj
+PrepNp
+202591	O-ADV-ADV-V
+202593	Conj-CL
+CLaCL
+202596	DetNP
+NpPp
+NpAdjp
+PrepNp
+DetAdj
+that-VP
+P-VC
+202604	CLaCL
+V-ADV-ADV-ADV
+PrepNp
+DetNP
+202609	sub-CL
+ADV-V-O
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+202616	Conj-CL
+ClCl
+202619	DetNP
+that-VP
+O-V
+AdvpNp
+DetNP
+sub-CL
+CLaCL
+S-ADV-V
+NPofNP
+PrepNp
+DetAdj
+202631	V-ADV
+PrepNp
+DetNP
+202635	Conj3CL
+ADV-S-ADV-V-O
+DetNP
+Np-Appos
+NpAdjp
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+202646	that-VP
+V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+202653	V-ADV
+PrepNp
+NpAdvp
+202659	Intj2CL
+V2CL
+NpaNp
+DetCL
+V-ADV
+PrepNp
+NPofNP
+202667	DetNP
+NPofNP
+DetNP
+202671	Conj-CL
+ClCl
+ADV-S-V-ADV
+V-O
+DetNP
+PrepNp
+sub-CL
+202679	BeVerb
+ClCl
+202682	Np2CL
+NPofNP
+202685	DetNP
+NPofNP
+V-ADV
+PrepNp
+NPofNP
+202691	CLaCL
+O-ADV-V-S-ADV
+ofNPNP
+DetNP
+DetAdj
+202697	ClCl2
+sub-CL
+V-S
+202701	ADV-V
+CLaCL
+S-V-ADV
+BeVerb
+PrepNp
+202707	O-V-IO
+202709	Conj-CL
+202711	Np-Appos
+DetNP
+DetCL
+VC-P
+PrepNp
+sub-CL
+CLaCL
+O-V-ADV
+DetNP
+PrepNp
+DetNP
+202723	V-O-ADV
+PrepNp
+202726	ClCl
+ADV-ADV-V-O-S
+PrepNp
+DetNP
+sub-CL
+V-O
+NP-CL
+S-V-O
+DetNP
+202736	Conj-CL
+202738	DetNP
+PrepNp
+ClCl
+202742	that-VP
+ADV-V-O
+202745	DetNP
+PrepNp
+202748	Conj-CL
+VC-S-P
+NpAdjp
+PrepNp
+DetCL
+ClCl
+V2CL
+sub-CL
+V-ADV
+PrepNp
+DetNP
+202760	Conj-CL
+CLaCL
+S-V-ADV
+Np-Appos
+NpPp
+PrepNp
+NPofNP
+DetNP
+202769	V-O-ADV
+202772	Np2CL
+O-V
+DetNP
+202776	CLaCL
+V-S
+DetNP
+202780	V-IO
+DetNP
+202783	CLaCL
+V-S
+NpaNp
+202788	V-IO
+DetNP
+202791	Conj-CL
+S-V-IO-ADV
+DetNP
+202795	ClCl
+V-S
+DetNP
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+202804	PtclCL
+PtclCL
+202807	CLaCL
+202809	sub-CL
+ADV-S-ADV-V
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+DetNP
+202819	sub-CL
+V2CL
+AdjpNp
+202823	CLaCL
+S-V-O
+DetCL
+V-O
+DetNP
+NPofNP
+202830	S-ADV-V-O
+DetCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+NpAdjp
+202841	CLaCL
+202843	sub-CL
+O-S-V
+202846	ClCl2
+P-VC-S
+P-S-VC
+AdvpNp
+DetNP
+NPDetAdj
+DetAdj
+202855	sub-CL
+S-O-V
+DetNP
+202859	ADV-S-V
+DetNP
+NPofNP
+202863	Conj-CL
+O-V
+202867	Np2CL
+PrepNp
+NP-Demo
+DetNP
+202872	Conj-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+202880	Np2CL
+ofNPNP
+DetNP
+202884	Conj-CL
+202886	PrepNp
+DetNP
+aCLaCL
+202890	V2CL
+202892	ADV-V
+202894	Conj-CL
+S-V-O
+Np-Appos
+DetNP
+DetCL
+CLaCL
+V2CL
+202902	V2CL
+S-V
+202906	S-IO-V
+202908	CLaCL
+V-S
+202912	notCLbutCL2CL
+ADV-S-V
+PrepNp
+NP-Demo
+DetNP
+ADV2CL
+PrepNp
+202920	ClCl
+P-VC-S
+NPofNP
+NP-Demo
+DetNP
+ADV-S-V-ADV
+DetNP
+NPofNP
+NP-Demo
+DetNP
+202932	sub-CL
+S-V-ADV
+PrepNp
+DetNP
+PrepNp
+202938	Conj-CL
+O-V-ADV
+202941	ADV-V-O
+AdjpNp
+V2CL
+202945	Conj-CL
+202947	DetNP
+ClCl
+CLaCL
+202951	PrepNp
+DetNP
+that-VP
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+202960	that-VP
+V-S
+V-S
+DetNP
+NPofNP
+DetNP
+P-VC-S
+Demo-NP
+DetNP
+NPofNP
+DetNP
+202972	Conj-CL
+202974	DetNP
+ADV-ADV-S-P-VC
+AdjpNp
+DetNP
+PrepNp
+202981	V2CL
+sub-CL
+O-V
+DetNP
+sub-CL
+ADV-S-O-V
+202988	Conj-CL
+202990	DetCL
+V-ADV
+PrepNp
+DetNP
+ADV-V
+202996	ClCl
+ClCl2
+sub-CL
+O-V
+DetNP
+V-ADV
+PrepNp
+DetNP
+sub-CL
+P-VC
+NPofNP
+203008	CLaCL
+O-V-S
+203011	ADV-V-ADV
+V2CL
+PrepNp
+203015	Conj-CL
+ClCl
+203018	S-O-V-ADV
+AdjpNp
+PrepNp
+PrepNp
+sub-CL
+203024	DetNP
+NPofNP
+Np-Appos
+DetNP
+203029	O-V
+Np2CL
+S-V-O
+DetNP
+NPofNP
+203035	S-IO-V
+DetNP
+NPofNP
+203040	PrepNp
+V2CL
+sub-CL
+203044	ClCl
+CLaCL
+V-O
+ofNPNP
+DetNP
+203050	V-O
+ofNPNP
+DetNP
+sub-CL
+AdvpCL
+CLaCL
+Conj3CL
+V-ADV
+DetNP
+203060	V-ADV
+DetNP
+203063	V2CL
+203065	V-O
+203068	sub-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+203074	V-ADV
+PrepNp
+203077	Conj-CL
+CLaCL
+ADV-S-V-ADV
+AdvpNp
+PpNp2Np
+PrepNp
+DetNP
+PrepNp
+203086	ClCl
+203088	PrepNp
+DetNP
+sub-CL
+ADV-P-VC
+sub-CL
+203094	DetNP
+NPofNP
+DetNP
+PtclCL
+O2CL
+DetNP
+NPofNP
+DetNP
+203103	Conj-CL
+CLaCL
+S-V
+203108	CLaCL
+CLaCL
+S-ADV-V-ADV
+DetCL
+V-ADV
+PrepNp
+PrepNp
+203116	ADV2CL
+PrepNp
+DetCL
+V-O
+203121	S-V-O
+DetCL
+V-O
+DetCL
+V-O
+203127	ClCl
+S-ADV-ADV-V
+PrepNp
+DetNP
+sub-CL
+S-ADV-ADV-V
+All-NP
+DetCL
+V-ADV
+PrepNp
+PrepNp
+DetNP
+203140	Conj-CL
+ClCl
+ClCl2
+sub-CL
+CLaCL
+S-V-O
+ofNPNP
+DetNP
+203149	ADV-V
+S-ADV-V-O
+sub-CL
+notCLbutCL2CL
+ClCl
+V2CL
+sub-CL
+V-O
+DetNP
+sub-CL
+V-O
+DetNP
+203163	DetCL
+CLaCL
+V-O
+203167	ADV-V-O
+DetNP
+NPofNP
+DetCL
+V-O
+203174	Np2CL
+DetNP
+NP-CL
+O-V
+PrepNp
+DetNP
+AdjpNp
+CLaCL
+S-ADV-ADV-V
+PrepNp
+203186	Np2CL
+DetNP
+AdjpNp
+V-O
+CLaCL
+O-V
+203193	O-V
+203195	Conj-CL
+203197	that-VP
+S-P-VC
+DetNP
+NPofNP
+NpAdjp
+203203	Conj-CL
+203205	O-S-V
+sub-CL
+V-IO-S
+DetNP
+ADV-V
+203211	Conj-CL
+ADV-S-ADV-ADV-ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+203218	DetNP
+that-VP
+203221	ofNPNP
+DetNP
+sub-CL
+V-ADV-ADV
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+DetNP
+V-O
+Np-Appos
+DetAdj
+NpPp
+PrepNp
+DetNP
+PrepNp
+203238	Conj-CL
+Conj3CL
+ClCl2
+S-V
+ClCl2
+203244	DetAdj
+PrepNp
+DetNP
+sub-CL
+V-O-S
+NPofNP
+Np-Appos
+ADV-V-ADV
+203253	CLaCL
+that-VP
+O-V-IO-S-ADV
+DetNP
+PrepNp
+DetNP
+203260	that-VP
+CLaCL
+ADV-V
+PrepNp
+203265	ADV-V
+PrepNp
+DetNP
+PrepNp
+DetNP
+203271	V-O
+DetNP
+203274	ADV-V-O
+V-O
+203277	CLaCL
+ADV-V-O-ADV
+PrepNp
+DetNP
+203282	V-O
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+203289	V-ADV
+DetNP
+NP-CL
+ADV-V
+BeVerb
+203295	Conj-CL
+V-ADV
+PrepNp
+Np-Appos
+203302	Np2CL
+ofNPNP
+DetNP
+203306	CLaCL
+V-S
+203310	CLaCL
+O-S-ADV-V-ADV
+O-S-V
+203314	V-ADV
+PrepNp
+203318	ADV-V-O-ADV
+2Advp_h1
+ofNPNP
+DetNP
+PrepNp
+DetNP
+203326	ClCl2
+sub-CL
+ADV-V-O
+ADV-V-O-ADV
+PrepNp
+203333	Np-Appos
+203335	Np2CL
+O-ADV
+DetNP
+NPofNP
+O2CL
+AdvpNp
+NpaNp
+DetNP
+203344	DetNP
+203346	ClCl
+203348	CLaCL
+CLaCL
+S-ADV-V-O-ADV
+DetCL
+V2CL
+sub-CL
+ADV-O-V
+DetNP
+203357	VC-P-ADV
+203359	CLaCL
+S-P-VC
+203362	ADV-S
+sub-CL
+203365	DetCL
+V-O
+203368	PrepNp
+that-VP
+ADV-S-P-VC
+203372	Conj-CL
+ClCl2
+sub-CL
+Conj3CL
+V-O
+DetNP
+NPofNP
+203380	V-O
+DetNP
+NPofNP
+203384	V-ADV
+203386	V-O
+O-V-IO
+203389	CLaCL
+S-V-O-O2
+Np2CL
+NpaNp
+DetNP
+203395	DetNP
+203398	sub-CL
+VC2CL
+203401	Conj-CL
+ClCl
+ClCl2
+sub-CL
+S-V-O
+Np-Appos
+ofNPNP
+DetNP
+NpaNp
+DetNP
+203412	DetNP
+S-V-O
+AdvpNp
+V-O
+ofNPNP
+DetNP
+sub-CL
+203420	sub-CL
+203422	sub-CL
+S-V-IO
+AdvpNp
+203426	PtclCL
+PtclCL
+203429	CLaCL
+ADV-VC-S-P-ADV
+DetNP
+NPofNP
+203434	S-P-ADV
+DetCL
+V-O
+203438	ClCl2
+sub-CL
+O-V
+ClCl
+P-VC
+sub-CL
+V-O
+203446	ADV-ADV-V
+PrepNp
+All-NP
+203450	S-V-O
+O-V
+203453	Conj-CL
+sub-CL
+203456	DetNP
+S-V-ADV-O
+DetCL
+V-O
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+203467	PrepNp
+PrepNp
+DetCL
+V2CL
+sub-CL
+203473	V2CL
+sub-CL
+V2CL
+that-VP
+S-VC
+203479	PtclCL
+PtclCL
+203482	CLaCL
+S-O-V
+DetCL
+V-O
+PtclCL
+O-V
+203489	S-V-O
+DetCL
+O-V
+DetCL
+V-O
+203495	CLaCL
+ADV-S-V-ADV
+O-V
+DetNP
+203500	CLaCL
+V2CL
+203504	PtclCL
+PtclCL
+203507	that-VP
+S-V-O
+NpPp
+PrepNp
+203512	V-ADV-S-ADV
+PrepNp
+DetNP
+V-O
+ADV-V
+PrepNp
+203520	BeVerb
+NpPp
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+O-V-S
+DetNP
+203532	Conj-CL
+CLaCL
+V-IO-S
+Np-Appos
+203539	P-VC-S
+ADV-V
+PrepNp
+203544	V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+203550	Np2CL
+203552	Conj-CL
+203554	DetNP
+VC-P
+NP-CL
+CLaCL
+IO-S-V-O
+DetNP
+203561	V-IO
+203563	Conj-CL
+CLaCL
+ADV-V
+V-O
+DetNP
+203569	V-IO
+NPofNP
+Np-Appos
+203573	Conj-CL
+ADV-ADV-V-ADV-S
+PrepNp
+DetNP
+PrepNp
+DetNP
+203580	Conj-CL
+203582	O-V-ADV
+O-V
+203585	Conj-CL
+V-S-O
+O-ADV-V-IO
+NPofNP
+DetCL
+V2CL
+PrepNp
+203593	Conj-CL
+203595	sub-CL
+O-V-S
+DetNP
+that-VP
+203600	CLaCL
+V-O
+O-V-ADV
+ofNPNP
+PrepNp
+DetNP
+203607	that-VP
+IO-O-V
+DetAdj
+203611	Conj-CL
+ADV-S-V-ADV
+V-O
+DetNP
+203616	Conj-CL
+VC-P
+203619	Conj-CL
+ClCl2
+sub-CL
+V2CL
+203624	CLaCL
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+203630	S-V-ADV
+DetNP
+PrepNp
+203635	sub-CL
+S-V-ADV
+DetNP
+PrepNp
+S-V-O-ADV
+AdvpNp
+DetNP
+PrepNp
+203644	ADV-V-O
+203647	Np2CL
+PrepNp
+203650	CLaCL
+V-O
+203653	ClCl2
+sub-CL
+203656	DetAdj
+that-VP
+O-S-ADV-V
+ADV-V
+ADV-S-V
+O-V-ADV
+AdvpNp
+203664	ClCl
+203666	NpAdjp
+that-VP
+V-O
+203670	sub-CL
+V-O
+S-V-O
+AdvpNp
+203675	ClCl
+203677	PrepNp
+that-VP
+P-VC
+AdjpNp
+sub-CL
+O-V-ADV
+PrepNp
+203686	Np-Appos
+203688	Np2CL
+203691	CLaCL
+O-ADV-V
+ADV-O-ADV-V
+ADV-V
+203696	V-ADV
+203700	Np2CL
+PrepNp
+O-V-ADV
+203704	O-ADV-V
+DetNP
+NPofNP
+PrepNp
+203710	O-ADV-V
+DetNP
+NPofNP
+PrepNp
+203715	PtclCL
+PtclCL
+203718	ADV-S-V-ADV
+2Advp_h1
+PrepNp
+ADV-V-O-ADV
+203723	ADV-V-S
+ofNPNP
+DetNP
+203727	ClCl
+V-ADV
+PrepNp
+DetNP
+ADV-V
+AdvPp
+PrepNp
+203735	P-S-VC
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+NpAdjp
+203743	Conj-CL
+ClCl2
+sub-CL
+ADV2CL
+PtclCL
+203749	that-VP
+V-ADV
+V-O-IO
+203753	Conj-CL
+203755	sub-CL
+CLaCL
+V2CL
+203759	V-O-IO
+ADV-V
+203762	V-O-ADV
+PrepNp
+sub-CL
+P-S-VC
+P-VC-S
+AdvpNp
+203769	Conj-CL
+ADV-V-O
+ADV-S-V
+DetNP
+203776	Np2CL
+ADV-V
+ADV-V-O
+DetNP
+203782	S-VC-P
+Conj3Np
+DetNP
+203786	DetNP
+203788	DetNP
+203791	PrepNp
+DetNP
+sub-CL
+ADV-ADV
+PrepNp
+203798	sub-CL
+V-O
+O-V
+AdvpNp
+DetNP
+NPofNP
+203805	CLaCL
+ADV-V-O
+PrepNp
+203809	V2CL
+203813	Np2CL
+V-IO-O
+DetNP
+203817	V-ADV
+203820	DetNP
+203822	ADV-P-VC
+AdjpNp
+PrepNp
+203826	ADV-V-O
+Np2CL
+203829	S-V-O
+DetCL
+V-O
+DetNP
+203835	V-IO-O
+DetNP
+203839	that-VP
+CLaCL
+S-P
+PrepNp
+DetNP
+203845	S-P-VC
+DetNP
+PrepNp
+203849	O-ADV-ADV-V
+DetNP
+NP-CL
+O-S-V-IO
+PrepNp
+203855	Conj-CL
+S-ADV-V-O
+DetNP
+ADV-V
+PrepNp
+DetNP
+NPofNP
+203864	that-VP
+CLaCL
+S-P
+PrepNp
+DetNP
+203870	S-P
+DetNP
+PrepNp
+203874	Conj-CL
+ClCl2
+sub-CL
+ADV2CL
+ADV-V
+PrepNp
+NpPron
+DetNP
+203883	PtclCL
+PtclCL
+203886	ClCl
+203888	Np2CL
+DetCL
+V-ADV
+PrepNp
+O-S-V
+DetNP
+NP-CL
+O-S-V
+203897	O-V
+AdjpAdvp
+sub-CL
+S-ADV-V
+PrepNp
+DetNP
+203904	Conj-CL
+203907	Np2CL
+NP-CL
+PtclCL
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+203919	ClCl2
+sub-CL
+O2-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+S-V
+203927	ClCl2
+sub-CL
+V-O
+O-V
+DetNP
+NPDetAdj
+DetAdj
+203935	CLaCL
+S-V-O
+DetNP
+203940	ClCl
+O-V-IO
+AdjpNp
+sub-CL
+VC-P-ADV
+PrepNp
+PrepNp
+DetNP
+NP-CL
+DetNP
+NPofNP
+DetNP
+203953	O-S-ADV-V
+O-V
+DetNP
+CLaCL
+ADV-V-O
+203959	V2CL
+203962	sub-CL
+CLaCL
+ADV-V
+PrepNp
+203967	P-VC
+PrepNp
+203970	ClCl
+ADV-V-O-O2
+V-ADV
+PrepNp
+203975	Conj-CL
+203977	ADV-S-O-ADV-V
+2Advp_h2
+DetNP
+203981	S-V-O
+sub-CL
+ClCl
+S-V
+S-V
+AdvpNp
+203989	PrepNp
+Demo-NP
+DetNP
+that-VP
+CLa2CL
+S-P
+PrepNp
+DetNP
+NPofNP
+203999	S-P
+PrepNp
+S-P
+PrepNp
+204005	Np2CL
+DetCL
+CLaCL
+V-O
+DetNP
+NPofNP
+204012	V-O
+DetCL
+V-O
+204016	Conj-CL
+ClCl
+S-V-ADV
+DetCL
+V-O
+PrepNp
+DetNP
+NPofNP
+CLaCL
+S-V-O
+204027	V-IO-O
+204030	NpAdjp
+ADV-P
+DetNP
+CLaCL
+Np2CL
+204037	S-V
+V-O
+CLaCL
+IO-V-O
+204042	ADV-IO
+DetNP
+204045	CLaCL
+V-S
+204049	CLaCL
+CLaCL
+ClCl2
+sub-CL
+S-V-O
+O-V
+DetNP
+NPofNP
+204058	S-V-O
+DetNP
+NPofNP
+204062	CLaCL
+ADV-V
+PrepNp
+204066	O-ADV-V
+PrepNp
+204069	S-O-ADV-V
+DetCL
+ADV-V-O
+DetNP
+NPofNP
+204075	Conj-CL
+CLaCL
+S-ADV-VC-P
+DetNP
+NP-CL
+O-V
+204082	P2CL
+DetNP
+AdjpNp
+V-O
+204087	O-V-IO-ADV
+ADV-V
+PrepNp
+204091	Conj-CL
+204093	Np2CL
+Np-Appos
+DetNP
+DetNP
+NP-CL
+NPDetAdj
+DetAdj
+O-V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+S-O-V-O2
+204107	V-O-O2
+All-NP
+O-V-IO-S
+204111	ClCl
+O-V-IO
+O-V-IO
+NPDetAdj
+DetAdj
+204118	AdvpCL
+sub-CL
+S-V
+DetNP
+204123	CLaCL
+ADV-V-S
+ofNPNP
+DetNP
+204128	V2CL
+204131	V2CL
+204133	CLaCL
+V2CL
+204136	V-ADV
+PrepNp
+204140	sub-CL
+V-O
+V2CL
+sub-CL
+V-ADV
+PrepNp
+DetNP
+sub-CL
+S-P-ADV-VC
+DetNP
+204151	Conj-CL
+204153	sub-CL
+V2CL
+sub-CL
+ClCl2
+sub-CL
+V2CL
+V2CL
+204162	PrepNp
+sub-CL
+V-S
+DetNP
+ofNPNP
+DetNP
+204169	Conj-CL
+CLaCL
+ADV-ADV-V-O
+PrepNp
+204174	sub-CL
+204176	DetNP
+that-VP
+CLaCL
+V-O
+DetNP
+204182	ClCl2
+sub-CL
+V-IO-S
+DetNP
+ADV-V
+204188	ClCl
+V2CL
+V-ADV
+204192	CLaCL
+S-VC-P
+DetNP
+NPDetAdj
+DetAdj
+204198	S-P-VC
+DetNP
+NPofNP
+DetNP
+204203	CLaCL
+204205	Np2CL
+NpAdjp
+All-NP
+NpPp
+PrepNp
+ADV-V-O
+204212	ClCl
+204214	Np2CL
+All-NP
+DetCL
+O-V
+sub-CL
+O-V
+NpAdjp
+204222	ADV-S-P-VC-ADV
+PrepNp
+DetNP
+NP-CL
+O-V-IO
+204228	ClCl
+V-ADV
+PrepNp
+S-ADV
+PrepNp
+204235	sub-CL
+204237	DetNP
+O-V-ADV
+PrepNp
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-ADV-V
+PrepNp
+204248	ClCl
+S-VC-P
+DetNP
+S-P
+DetNP
+204255	Np2CL
+DetCL
+ClCl
+V-ADV
+PrepNp
+S-ADV
+PrepNp
+NpAdjp
+sub-CL
+ADV-ADV-V-O
+PrepNp
+V-O
+204269	sub-CL
+ADV-S-V-ADV
+PrepNp
+sub-CL
+204274	S2CL
+DetNP
+204277	V2CL
+204279	V-O
+204281	ADV-V
+PrepNp
+DetNP
+204285	V2CL
+204288	sub-CL
+CLaCL
+V-ADV
+PrepNp
+204293	S-ADV-V
+DetNP
+NPofNP
+PrepNp
+O-V
+PtclCL
+O-V
+204301	V-ADV
+204304	PrepNp
+DetNP
+NPofNP
+that-VP
+CLaCL
+O-V
+NpAdjp
+204312	VC-P
+AdjpNp
+204315	ClCl2
+sub-CL
+V-O-S
+DetNP
+S-O-V
+204321	V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+204327	ClCl
+ClCl2
+sub-CL
+O-V
+DetNP
+NPofNP
+V-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+CLaCL
+S-O-V
+ofNPNP
+DetNP
+NPofNP
+DetNP
+204345	V-ADV
+PrepNp
+ofNPNP
+DetNP
+204351	sub-CL
+CLaCL
+S-P-VC
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+204359	S-V
+DetNP
+NPofNP
+204364	DetNP
+NPDetAdj
+DetAdj
+that-VP
+204369	sub-CL
+V-O
+204373	AdjpNp
+AdjpAdvp
+that-VP
+S-O-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+204383	ClCl
+S-P-VC
+NPofNP
+sub-CL
+V-O
+O-S-V-IO
+204391	sub-CL
+S-ADV-V-O
+DetNP
+O-V-S
+ofNPNP
+DetNP
+204398	Conj-CL
+204400	sub-CL
+O-V-IO
+All-NP
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+204408	notCLbutCL2CL
+S-O-V
+CLaCL
+S-V-O
+204413	ClCl
+V-O
+sub-CL
+ClCl
+CLaCL
+CLaCL
+S-V
+204421	O-V
+204423	S-V
+DetNP
+NPofNP
+sub-CL
+O-V-IO
+NP-CL
+PtclCL
+O2-V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+204437	sub-CL
+V-O
+204440	ClCl2
+sub-CL
+S-O-V
+DetNP
+204445	that-VP
+O-ADV-V
+AdjpAdvp
+204450	sub-CL
+P-VC
+PrepNp
+DetNP
+S-O-V
+DetNP
+DetAdj
+204458	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+P-ADV-VC
+PrepNp
+DetNP
+204466	S-V-O-ADV
+PrepNp
+DetNP
+ADV-V-O-S
+PrepNp
+DetNP
+204474	DetNP
+NP-CL
+O-S-V-IO
+ADV-VC-S-P-ADV
+DetNP
+NPofNP
+204482	sub-CL
+O-V
+AdvpNp
+204486	ClCl2
+sub-CL
+O-V
+DetNP
+NPofNP
+O-V
+AdvpNp
+DetAdj
+204495	Conj-CL
+204497	NP-all
+PrepNp
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-V-O
+DetCL
+V-O
+204507	ClCl2
+sub-CL
+CLaCL
+ADV-V
+204512	V-IO
+O-ADV-V
+204515	Conj-CL
+ADV-O-ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+204521	S-O-V
+DetCL
+O-V
+AdvpNp
+DetNP
+NPofNP
+204529	sub-CL
+204531	DetNP
+PrepNp
+O-S-V
+NpAdjp
+204536	Conj-CL
+ADV-V-O
+EitherOrVp
+204541	aNpaNp
+204544	DetNP
+NPofNP
+204547	Conj-CL
+sub-CL
+204550	Np-Appos
+DetNP
+DetCL
+ADV-V
+PrepNp
+DetNP
+NPofNP
+that-VP
+V-O-ADV
+204560	ClCl2
+sub-CL
+V-S
+Np-Appos
+DetNP
+NP-CL
+O-S-V-IO-ADV
+PrepNp
+DetNP
+DetNP
+NP-CL
+NPofNP
+DetNP
+S-ADV-V
+PrepNp
+DetNP
+S-V-ADV
+PrepNp
+204579	Conj-CL
+204581	AdvpNp
+sub-CL
+ADV-P-VC
+PrepNp
+PrepNp
+204588	sub-CL
+ADV-V
+204591	O2-V-O
+204593	Conj-CL
+204595	V-S
+S-V-O
+All-NP
+DetCL
+V-O
+O-V-IO
+DetNP
+204603	Conj-CL
+ClCl
+O-V
+sub-CL
+CLaCL
+ADV-V-O
+DetNP
+204611	O2CL
+204613	Conj-CL
+204615	sub-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+NPofNP
+204622	V-O
+S-V-IO
+204625	Conj-CL
+204627	PrepNp
+sub-CL
+P-VC
+PrepNp
+204632	Conj-CL
+CLaCL
+ADV-V-ADV
+PrepNp
+DetCL
+V-O
+204640	NpPp
+PrepNp
+ADV-V
+204644	Conj-CL
+ClCl2
+sub-CL
+O-V-IO
+S-V-O
+DetNP
+ofNPNP
+DetNP
+204653	Conj-CL
+204655	DetNP
+ClCl
+V-ADV-S
+that-VP
+S-V
+sub-CL
+CLaCL
+204663	sub-CL
+ADV-V
+DetNP
+2Advp_h1
+PrepNp
+204670	sub-CL
+V2CL
+PrepNp
+204674	Conj-CL
+ADV-S-V-O-ADV
+V2CL
+DetNP
+Conj3Pp
+PrepNp
+204681	PrepNp
+204683	PrepNp
+204685	aCLaCLaCL
+204687	ClCl
+ADV2CL
+PrepNp
+sub-CL
+ADV-V-ADV
+PrepNp
+204694	ClCl
+ADV2CL
+PrepNp
+sub-CL
+CLaCL
+ADV-V
+PrepNp
+DetNP
+204703	ADV-V-O
+204705	ClCl
+ADV2CL
+PrepNp
+sub-CL
+S-V
+DetNP
+NPofNP
+NP-Demo
+DetNP
+204715	CLaCL
+ADV-V-O
+O-IO-V
+204719	ADV-V-O
+V-ADV
+204722	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V-S
+Np-Appos
+DetNP
+NPofNP
+DetNP
+V-O-ADV
+PrepNp
+NP-all
+DetNP
+sub-CL
+CLaCL
+notCLbutCL2CL
+V-ADV
+PrepNp
+O-V
+O-V
+204743	O-V-IO
+DetCL
+V2CL
+204747	ClCl
+S-O-V
+sub-CL
+CLaCL
+ADV-V
+PrepNp
+DetAdj
+204755	V-IO
+204758	S-P-VC
+All-NP
+O-V-S
+DetNP
+PrepNp
+that-VP
+CLaCL
+ADV-V
+PrepNp
+DetAdj
+204769	V-IO
+204771	CLaCL
+CLaCL
+ADV2CL
+204775	ADV-V-O
+204777	CLaCL
+ADV-ADV
+204780	V-O
+204782	Conj-CL
+204784	PrepNp
+DetNP
+NPofNP
+PrepNp
+204789	NP-CL
+O-V-IO
+Conj3CL
+CLaCL
+ADV2CL
+204795	ADV-V-O
+204797	CLaCL
+ADV-ADV
+204800	V-O
+204802	sub-CL
+V-ADV
+PrepNp
+DetNP
+204807	Conj-CL
+204810	Np-Appos
+NP-CL
+O-V
+DetNP
+ADV-V-O
+O-V
+204817	CLaCL
+204819	that-VP
+V-O
+O-V
+204825	ADV-V-ADV
+PrepNp
+PrepNp
+204829	CLaCL
+CLaCL
+ADV2CL
+204833	ADV-V-O
+204835	CLaCL
+ADV-ADV
+204838	V-O
+204840	PtclCL
+PtclCL
+204843	that-VP
+ClCl
+CLaCL
+CLaCL
+V2CL
+204849	V-S
+204851	S-V
+DetNP
+CLaCL
+S-V
+204856	S-P-VC
+DetNP
+NPofNP
+PrepNp
+204862	sub-CL
+S-V
+DetNP
+sub-CL
+V-S
+DetNP
+NPofNP
+204870	Conj-CL
+204872	sub-CL
+V-O
+DetNP
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-S-ADV
+PrepNp
+DetNP
+204883	Conj-CL
+aCLaCL
+204886	S-ADV-O-V
+AdvpNp
+204889	CLaCL
+CLaCL
+ADV-V-O
+204893	V-S
+ofNPNP
+DetNP
+204897	O-S-V-ADV
+DetNP
+NPofNP
+PrepNp
+204902	Conj-CL
+ADV-O-ADV-V-O2
+PrepNp
+Demo-NP
+DetNP
+204908	PtclCL
+PtclCL
+204911	O-V-IO-ADV
+PtclCL
+O2-V-O
+DetNP
+PrepNp
+DetNP
+NPofNP
+204919	ADV-ADV-V-O-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+204925	ClCl
+CLaCL
+V2CL
+204929	V2CL
+sub-CL
+S-V
+DetNP
+NPofNP
+BeVerb
+204936	O-ADV-V-IO
+PrepNp
+204939	ClCl
+V-S
+AdvpCL
+notCLbutCL2CL
+ADV-V-IO
+PrepNp
+ADV-ADV-V-IO
+PrepNp
+DetNP
+204949	CLaCL
+ADV-ADV-V
+PrepNp
+Demo-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+204959	that-VP
+S-V-O-ADV
+DetNP
+PrepNp
+204964	Conj-CL
+ClCl
+S-V-O
+PronNP
+DetNP
+sub-CL
+CLaCL
+S-O-V
+204974	that-VP
+S-ADV-V
+PrepNp
+DetNP
+204979	ClCl
+CLaCL
+V-ADV
+PrepNp
+DetNP
+204985	V-ADV
+PrepNp
+DetNP
+CLaCL
+ADV-V-O
+DetNP
+204992	V-ADV
+PrepNp
+DetNP
+204997	DetNP
+NPofNP
+205000	ADV-ADV-V
+PrepNp
+205003	O-ADV-V
+205006	that-VP
+CLaCL
+V-O
+205011	ADV-O-V
+S-O-V
+205015	PrepNp
+that-VP
+ADV-V
+PrepNp
+205021	ADV-V
+205024	V-S
+205026	V2CL
+that-VP
+ClCl
+V-S-ADV
+PrepNp
+DetAdj
+O-O2-V
+205034	Conj-CL
+205036	sub-CL
+S-P-VC
+DetNP
+PrepNp
+205042	sub-CL
+ADV-O-V
+PrepNp
+205046	ClCl
+CLaCL
+ADV-O-V
+PrepNp
+DetNP
+205052	V2CL
+S-V-O
+DetNP
+205056	CLaCL
+O-V-S
+205060	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+205066	Np2CL
+DetNP
+205070	ofNPNP
+DetNP
+sub-CL
+S-V-O
+DetNP
+sub-CL
+205077	All-NP
+sub-CL
+205080	Np2CL
+All-NP
+O-V-IO
+NpAdjp
+205085	Conj-CL
+205087	DetNP
+AdjpNp
+that-VP
+V-O
+NpaNp
+Np-Appos
+DetNP
+AdjpNp
+AdjpNp
+205097	Np-Appos
+O-V
+Np-Appos
+205101	S-O-V-ADV-ADV
+PrepNp
+DetNP
+V-O
+DetNP
+NP-CL
+205108	O-V-IO
+V2CL
+205111	Conj-CL
+205113	Np2CL
+PrepNp
+DetNP
+NP-CL
+O-V-ADV-ADV
+PrepNp
+DetCL
+S-V
+DetNP
+PrepNp
+205124	V-O-IO
+ofNPNP
+DetNP
+DetNP
+NP-CL
+O-V-IO-ADV
+PrepNp
+DetNP
+205133	ClCl
+P-VC
+CLaCL
+IO-O-V
+205138	O-V
+DetNP
+NPofNP
+205142	ClCl
+205144	that-VP
+S-P-VC
+All-NP
+O-V-IO
+PrepNp
+sub-CL
+CLaCL
+O-V-IO
+DetNP
+NP-CL
+O-V-IO
+205156	Conj3CL
+S-V
+205160	that-VP
+ADV-V
+PrepNp
+205165	that-VP
+S-O-V
+205168	S-ADV-V
+PrepNp
+205171	ClCl2
+notCLbutCL2CL
+ADV-V
+PrepNp
+DetNP
+ADV2CL
+PrepNp
+O-V-IO
+sub-CL
+Conj4CL
+P-VC
+205183	S-P-VC
+NP-all
+DetAdj
+205187	S-P
+DetAdj
+205190	V-ADV
+PrepNp
+205193	Conj-CL
+ClCl
+CLaCL
+ADV-VC-P
+PrepNp
+DetNP
+205200	S-P-VC
+PrepNp
+DetNP
+S-ADV-V
+PrepNp
+205207	Np2CL
+NpAdjp
+PrepNp
+DetNP
+NP-CL
+NPofNP
+O-V-IO
+sub-CL
+205216	sub-CL
+S2CL
+205219	CLaCL
+ClCl2
+sub-CL
+VC-P
+PrepNp
+CLaCL
+S-V-O-ADV
+PrepNp
+DetNP
+NP-CL
+NPofNP
+O-V-IO
+205232	V2CL
+205234	ClCl
+ClCl
+S-V
+NpPp
+PrepNp
+sub-CL
+ADV-S
+DetNP
+NPofNP
+DetNP
+sub-CL
+S-V
+DetNP
+205248	Conj-CL
+CLaCL
+ADV-ADV-V
+PrepNp
+205254	PrepNp
+DetNP
+sub-CL
+V-O
+S-V-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+205264	CLaCL
+S-V-IO-O
+DetNP
+NPofNP
+205269	ClCl
+S-V-O
+DetNP
+sub-CL
+205274	PrepNp
+DetNP
+sub-CL
+S-ADV-VC-P
+PrepNp
+DetNP
+205281	notCLbutCL2CL
+205283	that-VP
+V-O-ADV
+PrepNp
+DetNP
+that-VP
+V-O-ADV
+PrepNp
+DetAdj
+205293	PrepNp
+DetNP
+sub-CL
+S-ADV-VC-P
+PrepNp
+DetNP
+205300	V-O-ADV
+PrepNp
+DetNP
+205304	S-P-VC
+DetNP
+NPDetAdj
+DetAdj
+205309	ClCl2
+sub-CL
+O-V-ADV
+PrepNp
+DetNP
+S-V-O-ADV
+PrepNp
+DetNP
+205318	Conj-CL
+205320	PrepNp
+sub-CL
+V-S-ADV
+BeVerb
+AdvpNp
+PrepNp
+205327	Conj-CL
+ClCl
+ClCl
+notCLbutCL2CL
+ADV-V-ADV
+PrepNp
+ADV-ADV
+PrepNp
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+sub-CL
+205343	sub-CL
+205345	S-P
+Np2CL
+PrepNp
+S-P
+PrepNp
+sub-CL
+S-P-VC
+AdvpNp
+PrepNp
+sub-CL
+205356	DetNP
+that-VP
+S-O-V
+205360	ClCl
+ClCl
+ClCl
+S-O-V-IO
+DetNP
+NP-CL
+O-V-IO
+sub-CL
+205369	sub-CL
+205371	CLaCL
+S-P
+PrepNp
+205375	S-P
+PrepNp
+sub-CL
+V-ADV
+BeVerb
+PrepNp
+sub-CL
+205383	DetNP
+that-VP
+CLaCL
+S-O-V
+205389	sub-CL
+O-V
+205393	Np2CL
+205396	O-V-IO
+that-VP
+P-S-VC-ADV
+P-VC-S
+PrepNp
+V-O
+DetNP
+NP-CL
+NPDetAdj
+DetAdj
+O-V-IO
+V-O-ADV
+PrepNp
+NPofNP
+205412	Np2CL
+NpAdjp
+CLaCL
+S-O-ADV-V
+AdvpNp
+DetNP
+205419	S-O-V
+205421	CLaCL
+205423	that-VP
+S-O-V
+205426	ClCl
+CLaCL
+V-IO-O
+DetNP
+NPofNP
+205432	V2CL
+sub-CL
+205435	S-P-VC
+DetNP
+NP-CL
+ADV-V-O
+PrepNp
+PrepNp
+205442	ADV-S-V-ADV-ADV
+O-V
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+P-VC-S
+NP-CL
+ADV-V-S
+PrepNp
+NpaNp
+205458	DetNP
+NPofNP
+205461	Conj-CL
+205463	AdvpNp
+Np-Appos
+DetCL
+V-O
+DetNP
+sub-CL
+ADV-V-S-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+205474	Conj-CL
+S-ADV-V-ADV-ADV
+DetNP
+V-O
+NpaNp
+DetNP
+205481	PpNp2Np
+Conj2Pp
+PrepNp
+DetNP
+205486	PrepNp
+DetNP
+PrepNp
+Conj3Np
+205493	Conj-CL
+CLaCL
+S-ADV-V
+V-O
+All-NP
+DetCL
+V-ADV
+PrepNp
+205503	O-V
+205506	O2CL
+Np-Appos
+DetNP
+205511	S-VC
+205513	Conj-CL
+V-S-ADV
+AdvpNp
+Np-Appos
+DetCL
+V-O
+PrepNp
+205521	Conj-CL
+ClCl2
+sub-CL
+205525	S-VC
+CLaCL
+V-ADV
+PrepNp
+DetNP
+205531	V-ADV
+205533	Conj-CL
+205535	O-V
+205537	Conj-CL
+205539	O2CL
+Np-Appos
+DetNP
+205543	ClCl
+205545	ClCl
+205547	that-VP
+S-VC
+Conj-CL
+205551	sub-CL
+O-V
+S-V
+sub-CL
+V-S
+DetNP
+NP-CL
+205559	O-V
+205561	O-V-IO
+PpNp2Np
+PrepNp
+205565	Conj-CL
+CLaCL
+S-ADV-V-O
+Np-Appos
+V-O
+205571	CLaCL
+V-O
+DetNP
+ofNPNP
+DetNP
+205577	V-O
+ofNPNP
+DetNP
+NPDetAdj
+DetAdj
+205583	Conj-CL
+VC-P-ADV-S
+DetNP
+205587	Conj-CL
+205589	DetNP
+DetNP
+205592	DetNP
+PrepNp
+DetNP
+205596	Np2CL
+DetNP
+NP-CL
+O-V-IO-S
+DetNP
+PtclCL
+V-O
+205604	Conj-CL
+Conj3CL
+S-V-O
+Conj3Np
+DetNP
+205610	DetNP
+205612	DetNP
+NPofNP
+DetAdj
+DetNP
+205617	V-O
+205619	ClCl
+V-ADV-ADV
+PrepNp
+sub-CL
+VC-P
+NPofNP
+DetNP
+NP-CL
+S-VC-P
+NPofNP
+NP-Demo
+DetNP
+205632	Conj-CL
+VC-S-P
+DetCL
+205636	DetAdj
+that-VP
+V-S
+S-V-ADV
+AdjpNp
+PrepNp
+DetNP
+205644	Conj-CL
+V-O-S
+DetNP
+NpaNp
+Np-Appos
+205650	AdjpNp
+205652	Conj-CL
+CLaCL
+CLaCL
+S-VC-P-ADV
+NP-Demo
+DetNP
+DetNP
+205660	V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+205667	S-V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+205672	Conj-CL
+CLaCL
+CLaCL
+V-S
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+DetNP
+NPofNP
+DetNP
+205684	V-IO
+DetNP
+205687	V-O
+DetNP
+205690	Conj-CL
+205692	DetNP
+Np-Appos
+DetNP
+DetNP
+PtclCL
+S-P-VC
+AdvpNp
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+205706	ADV-VC
+205708	Conj-CL
+CLaCL
+205711	NpaNp
+DetNP
+205714	DetNP
+O-V
+sub-CL
+P-VC
+205719	V2CL
+205721	Conj-CL
+S-ADV-V
+BeVerb
+AdvpNp
+DetNP
+PrepNp
+Conj2VP
+205730	Conj-CL
+S-V-O-ADV
+DetNP
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+205739	PrepNp
+DetNP
+NPofNP
+205744	S-ADV-V-IO
+DetNP
+205747	CLaCL
+S-ADV-V-ADV
+Conj2Pp
+PrepNp
+205752	PrepNp
+NP-CL
+DetNP
+ADV-S-V
+All-NP
+DetAdj
+205759	ADV-V-O
+PrepNp
+205762	ADV-O-V
+205765	DetCL
+V2CL
+O-V-IO
+205770	O-V-S
+205772	Conj-CL
+205774	O-S-V
+NPofNP
+NpAdjp
+V2CL
+DetNP
+DetNP
+205781	ADV-V-IO
+DetNP
+205785	CLaCL
+ClCl2
+sub-CL
+ADV-V
+V-ADV
+PrepNp
+DetAdj
+205793	ClCl2
+sub-CL
+ADV2CL
+ADV-O-V
+205798	Conj-CL
+V-O-S-O2-ADV
+DetNP
+V2CL
+PrepNp
+Np-Appos
+DetNP
+205806	Conj-CL
+S-V
+BeVerb
+Np-Appos
+Conj2VP
+205813	Conj-CL
+205815	PtclCL
+S-P-VC
+AdvpNp
+PrepNp
+DetNP
+NPofNP
+205822	CLaCL
+V-S
+205826	ADV-VC
+205829	NpAdjp
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+VC-P
+NPofNP
+ADV-V-S-O
+DetNP
+PtclCL
+S-V-O
+S-ADV-P
+PrepNp
+DetNP
+PrepNp
+205846	Conj-CL
+ADV-V-S
+205849	Conj-CL
+ADV-S-V
+205852	Conj-CL
+V-O-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+205860	Conj-CL
+VC-P
+205863	Conj-CL
+205865	PrepNp
+DetNP
+sub-CL
+CLaCL
+ADV-V
+205871	V-O
+DetNP
+205874	Conj-CL
+CLaCL
+V-S-ADV-ADV
+DetNP
+PrepNp
+205881	O-V
+AdjpNp
+NPofNP
+NP-Demo
+DetNP
+205887	CLaCL
+V2CL
+205891	ClCl2
+sub-CL
+ADV-V-S-O
+BeVerb
+PtclCL
+ADV-IO-V-O
+205898	Conj-CL
+205900	DetNP
+CLaCL
+V-O-S
+205904	ADV-V-O
+PrepNp
+DetNP
+NPofNP
+205910	DetAdj
+ADV-ADV-V-S
+V-O
+205914	sub-CL
+205916	DetNP
+NPofNP
+DetNP
+O-V-ADV
+V-O
+ADV-V-O
+AdjpNp
+V2CL
+205925	Conj-CL
+CLaCL
+V-ADV-ADV-S
+PrepNp
+DetNP
+DetNP
+205932	CLaCL
+V-O
+DetNP
+205937	S-VC-P
+DetNP
+NPofNP
+DetAdj
+205943	CLaCL
+ADV-S-O-V
+PrepNp
+205947	S-V-IO-ADV
+PrepNp
+205951	DetNP
+ClCl
+PtclCL
+S-P-VC
+ClCl
+S-V-O-IO
+NpaNp
+DetNP
+NPDetAdj
+DetAdj
+205962	DetNP
+O-V
+205966	ClCl
+S-ADV-VC-P
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+NP-Demo
+DetNP
+CLaCL
+205976	sub-CL
+P-VC-S
+PrepNp
+NP-Demo
+DetNP
+DetNP
+NPDetAdj
+DetAdj
+S-V
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+ADV-V-IO
+DetAdj
+205992	ADV-S-ADV-VC-P
+DetNP
+NPDetAdj
+DetAdj
+205997	Conj-CL
+205999	DetNP
+Conj-CL
+P-VC-S
+206004	DetNP
+ClCl
+206007	that-VP
+P-VC
+ClCl
+ClCl
+CLaCL
+S-ADV-V
+PrepNp
+206015	ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+sub-CL
+V-IO
+DetNP
+S-V-O
+All-NP
+DetCL
+VC-P
+PrepNp
+DetNP
+ofNPNP
+DetNP
+206032	DetNP
+P-VC-S
+206035	Conj-CL
+CLaCL
+ADV-ADV-V-ADV
+O-V
+PrepNp
+DetAdj
+206043	S-ADV-V-ADV-O
+PrepNp
+206046	Conj-CL
+206048	that-VP
+O-V-IO-ADV
+PrepNp
+DetNP
+Conj-CL
+V-O
+V-IO-O
+DetNP
+NPofNP
+DetAdj
+206059	Conj-CL
+V-ADV-ADV
+206062	notCLbutCL2CL
+O2CL
+O2CL
+DetNP
+206067	Conj-CL
+VC-S-P
+DetNP
+206071	Conj-CL
+CLaCL
+ADV-V-S-O
+DetNP
+DetNP
+206077	V2CL
+206079	Conj-CL
+CLaCL
+CLaCL
+S-ADV-V-ADV
+DetNP
+V-O-ADV
+PrepNp
+ofNPNP
+DetNP
+206089	ADV-V-O
+NpAdjp
+206092	CLaCL
+V-ADV
+PrepNp
+206098	Np2CL
+DetNP
+NPofNP
+DetAdj
+206103	Conj-CL
+V-IO-O
+206106	Conj-CL
+CLaCL
+V-ADV-ADV-S
+DetNP
+206113	V-IO-O-ADV
+sub-CL
+206116	that-VP
+O-V-ADV
+AdjpNp
+PrepNp
+206121	Conj-CL
+V-S-ADV-ADV
+DetNP
+V-O
+NpaNp
+DetNP
+AdjpNp
+206129	DetNP
+AdjpNp
+206132	Conj-CL
+206134	ClCl2
+V2CL
+P2CL
+DetNP
+206139	Conj-CL
+ClCl2
+sub-CL
+V-O-S
+NpaNp
+DetNP
+206146	DetNP
+V-ADV
+206149	ClCl
+V2CL
+V2CL
+206154	DetNP
+ClCl
+CLaCL
+V-O-S
+206159	V2CL
+sub-CL
+S-ADV-V-ADV-O
+PrepNp
+206165	DetAdj
+CLaCL
+S-O-V
+206170	PrepNp
+DetNP
+V2CL
+sub-CL
+O2-O-V
+NPofNP
+206177	Conj-CL
+ClCl2
+sub-CL
+V-S-O
+DetNP
+Demo-NP
+DetNP
+CLaCL
+ADV-V
+206187	CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+206193	DetNP
+P-VC-S
+206196	Conj-CL
+S-O-ADV-V-IO
+DetNP
+206200	Conj-CL
+206202	DetNP
+ClCl
+PtclCL
+IO-V
+PtclCL
+206208	that-VP
+CLaCL
+O-V-ADV
+V-O
+206213	O-V-ADV
+V-O
+206217	ClCl
+206219	NpAdjp
+PrepNp
+sub-CL
+ADV-V-IO-ADV
+BeVerb
+ADV-S-O-V
+PrepNp
+DetCL
+V-O-IO
+AdjpNp
+206230	ADV-S-V-O
+PrepNp
+DetNP
+V-O
+206235	Conj-CL
+S-V-ADV
+DetAdj
+206239	ClCl
+ClCl2
+sub-CL
+O-V
+ADV-VC-P
+NPofNP
+DetNP
+S-V-IO
+All-NP
+DetCL
+O2-O-V
+DetNP
+206252	Conj-CL
+CLaCL
+S-ADV-V-ADV-O
+DetNP
+V-O
+NP-Demo
+DetNP
+DetNP
+206261	V-ADV-ADV
+PrepNp
+PrepNp
+NpAdjp
+CLaCL
+VC-P
+206268	ADV-P
+206270	Conj-CL
+ClCl
+VC-P
+NPofNP
+DetNP
+S-VC-P
+PrepNp
+206278	Conj-CL
+206280	DetAdj
+ClCl2
+V2CL
+P2CL
+DetNP
+NPofNP
+206287	Conj-CL
+206289	ClCl
+ClCl
+V2CL
+V2CL
+V-O
+206296	DetNP
+O-V
+DetNP
+NPofNP
+206302	DetNP
+ClCl
+ADV-V-O
+sub-CL
+ADV-O
+206308	Conj-CL
+206310	sub-CL
+V2CL
+206313	Conj-CL
+V-O
+DetNP
+206317	Conj-CL
+ADV-V-ADV
+V-IO-O
+DetNP
+PrepNp
+DetCL
+VC-P
+NP-CL
+NP-CL
+ofNPNP
+S-VC-ADV-P
+CLaCL
+ADV-O-V
+206331	CLaCL
+ADV-O-ADV
+PrepNp
+AdjpNp
+AdvpaAdvp
+206338	ADV-O
+DetNP
+206341	Conj-CL
+CLaCL
+V-O-S
+AdvpNp
+DetNP
+206347	V-ADV
+PrepNp
+DetNP
+206351	Conj-CL
+206353	BeVerb
+Np2CL
+Np-Appos
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetAdj
+206362	Conj-CL
+206364	Demo-NP
+DetNP
+NPofNP
+DetAdj
+sub-CL
+CLaCL
+ClCl
+P-VC-S
+PrepNp
+DetNP
+DetNP
+ADV-V-S
+DetNP
+206378	V-ADV
+BeVerb
+AdvpAdvpAdvp
+206382	Conj-CL
+206384	DetNP
+DetNP
+NPofNP
+DetAdj
+notCLbutCL2CL
+206390	Np2CL
+DetNP
+NPofNP
+DetAdj
+that-VP
+206396	P-VC
+NPofNP
+DetAdj
+206401	DetNP
+O-V
+O-V
+206405	Conj-CL
+206407	sub-CL
+S-V-O
+DetNP
+DetNP
+CLaCL
+V-O
+DetNP
+NPofNP
+206416	ClCl
+V-O
+AdjpNp
+IO-O
+AdjpNp
+206422	O2CL
+DetNP
+206425	Conj-CL
+ClCl
+VC-S-P
+DetNP
+ADV-P-ADV
+PrepNp
+DetAdv
+PrepNp
+206434	Conj-CL
+ClCl
+206437	PrepNp
+notCLbutCL2CL
+V-O
+206441	PrepNp
+P-VC
+sub-CL
+206445	DetNP
+CLaCL
+V-O-IO
+DetNP
+NPofNP
+206451	ADV-V-O
+PrepNp
+DetNP
+NPofNP
+206456	Conj-CL
+aCLaCL
+206459	S-O-V
+DetNP
+206462	V-ADV-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+2Np
+NpaNp
+DetNP
+NPofNP
+206472	DetNP
+NPofNP
+DetNP
+NPofNP
+NpaNp
+Np-Appos
+NPofNP
+DetNP
+206481	Np-Appos
+DetNP
+206484	Conj-CL
+206486	V-O
+206488	NpaNp
+DetNP
+206491	DetNP
+O-V
+DetNP
+206495	Np2CL
+V2CL
+P2CL
+DetNP
+NPofNP
+206502	DetNP
+ClCl2
+V2CL
+P2CL
+DetNP
+NPofNP
+206509	Conj-CL
+ADV-V-S-O-ADV
+PrepNp
+Demo-NP
+DetNP
+DetNP
+PrepNp
+DetAdj
+206519	PrepNp
+206521	DetNP
+sub-CL
+ADV-S-V
+sub-CL
+V-S
+DetNP
+V2CL
+206529	S-V
+NpAdjp
+AdvpAdjp
+206533	Conj-CL
+ADV-V-IO
+O-ADV-V
+NpAdjp
+AdjpAdvp
+DetNP
+ofNPNP
+DetNP
+206542	Conj-CL
+ClCl2
+sub-CL
+V-O
+DetNP
+206548	DetNP
+V2CL
+206551	Conj-CL
+ADV-V-O
+V-O
+DetNP
+DetNP
+206557	Conj-CL
+206559	DetAdj
+sub-CL
+P-VC
+sub-CL
+ClCl
+ADV-V-ADV-S-ADV
+PrepNp
+DetNP
+DetNP
+PrepNp
+DetNP
+sub-CL
+VC-P-S
+DetNP
+NPofNP
+Demo-NP
+DetNP
+DetNP
+that-VP
+CLaCL
+V-S
+ofNPNP
+DetNP
+206583	V2CL
+206585	Conj-CL
+CLaCL
+V-S
+DetNP
+206590	aCLaCL
+206592	V-O
+DetNP
+NPofNP
+NpaNp
+DetAdj
+206598	Np-Appos
+DetAdj
+DetCL
+V-ADV
+206604	ADV-V
+PrepNp
+DetNP
+sub-CL
+V-O
+ADV-S-V
+V-O
+ofNPNP
+DetNP
+CLaCL
+S-ADV-O-V
+NPofNP
+DetNP
+ofNPNP
+DetNP
+206620	V-ADV-S
+NpaNp
+206624	Conj-CL
+ClCl
+Conj3CL
+S-V
+DetCL
+V2CL
+206631	P-VC-S
+ofNPNP
+DetNP
+206636	that-VP
+ADV-V
+sub-CL
+S-V
+AdvpNp
+206642	Conj-CL
+ClCl
+V-S
+sub-CL
+206647	DetNP
+S-ADV-V
+NPofNP
+206651	Conj-CL
+206653	AdjpNp
+V-ADV
+PrepNp
+O-V
+206658	Conj-CL
+206660	PrepNp
+DetNP
+NpPp
+PrepNp
+CLaCL
+VC-P
+NPofNP
+DetNP
+206669	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+that-VP
+V-O
+DetNP
+NPofNP
+DetNP
+206680	Conj-CL
+V-S
+DetNP
+206684	Conj-CL
+CLaCL
+V2CL
+206688	V-O
+DetNP
+NPofNP
+206692	Conj-CL
+V-S-ADV
+AdvpNp
+Np-Appos
+DetCL
+V-ADV-ADV-ADV
+PrepNp
+DetAdj
+V-O-ADV
+NPofNP
+NpaNp
+206704	AdvpNp
+NpNump
+206707	Conj-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+206715	PrepNp
+DetNP
+sub-CL
+P-VC-ADV-S
+DetAdj
+V2CL
+206722	Conj-CL
+CLaCL
+VC-P-S
+PrepNp
+DetNP
+NP-CL
+ADV-V
+206730	P-S
+PrepNp
+DetNP
+NP-CL
+NpAdjp
+ADV-ADV-S-V
+PrepNp
+BeVerb
+206739	Conj-CL
+ADV-ADV-ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetAdj
+sub-CL
+P-VC-S
+DetNP
+DetNP
+206750	Conj-CL
+CLaCL
+ClCl
+ADV-S-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+Np-Appos
+DetNP
+P-ADV-VC
+PrepNp
+DetNP
+206763	V-O
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+206769	Conj-CL
+CLaCL
+CLaCL
+V2CL
+206774	V-ADV
+Conj2Pp
+PrepNp
+Np-Appos
+206779	PrepNp
+NP-CL
+DetNP
+AdjpNp
+O-V-S
+DetNP
+206787	CLaCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+206793	ADV-V-O
+ADV-V-O
+206796	Conj-CL
+CLaCL
+V-S
+NpaNp
+DetNP
+206802	DetNP
+AdjpNp
+206805	V-ADV
+PrepNp
+DetNP
+206809	Conj-CL
+V-S-ADV
+DetNump
+206813	Conj-CL
+CLaCL
+CLaCL
+S-V-ADV-ADV
+DetNP
+AdjpNp
+DetNP
+206821	V-ADV-ADV
+PrepNp
+DetNP
+206825	CLaCL
+ADV-V-O
+V2CL
+V-S
+DetNP
+206831	ADV-V
+206833	Conj-CL
+CLaCL
+V-S-ADV
+AdvpNp
+Np-Appos
+V-O
+206840	V-ADV
+PrepNp
+DetNP
+206844	Conj-CL
+V-O
+CLaCL
+S-V
+DetNP
+206851	Np2CL
+DetNP
+NP-CL
+S-VC-P
+PrepNp
+DetNP
+NPofNP
+ADV-V
+PrepNp
+DetNP
+ADV-V-ADV
+PrepNp
+AdjpNp
+206865	Conj-CL
+CLaCL
+ADV-V-S
+AdvpNp
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+206877	CLaCL
+V2CL
+206880	V2CL
+206882	Conj-CL
+206884	DetNP
+that-VP
+V-S
+S-ADV-V
+PrepNp
+206890	Conj-CL
+V-ADV-ADV-S
+PrepNp
+DetNP
+206895	Conj-CL
+S-V-ADV-ADV-ADV
+PrepNp
+DetNP
+V2CL
+206901	Conj-CL
+206903	sub-CL
+V2CL
+V-ADV
+PrepNp
+DetNP
+206909	V-O
+206911	NumpNP
+NpPp
+PrepNp
+CLaCL
+S-ADV
+PrepNp
+DetNP
+206919	S-ADV
+PrepNp
+DetNP
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+206927	Conj-CL
+206930	Np2CL
+206933	that-VP
+CLaCL
+V-O
+DetNP
+NPofNP
+206939	ADV-V-O
+ADV-V-O
+206942	CLaCL
+ADV-V-ADV
+O-V
+PrepNp
+DetNP
+206948	CLaCL
+V-O
+S-V
+DetNP
+206954	that-VP
+P-VC
+206959	Np2CL
+ADV-V
+O-V
+206965	that-VP
+P-VC
+DetNP
+ClCl
+206970	Np2CL
+sub-CL
+S-V-O
+V-IO-O
+ADV-V-O
+S-O-V
+206978	Np2CL
+206981	V2CL
+Np2CL
+NP-CL
+S-VC-P
+Np2CL
+206988	CLaCL
+ClCl
+ADV-O-V
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+206996	CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+207003	V-ADV
+PrepNp
+DetNP
+NpaNp
+NpaNp
+NPofNP
+207010	NPofNP
+207012	NpaNp
+NPofNP
+207015	NPofNP
+207017	V-S-ADV
+Np-Appos
+DetNP
+207021	DetNP
+that-VP
+CLaCL
+V-O
+DetNP
+207027	O-V-IO
+207029	Conj-CL
+ClCl2
+CLaCL
+V-S-ADV
+Np-Appos
+NP-Demo
+DetNP
+DetNP
+NPofNP
+207039	S-V-ADV-ADV
+DetNP
+P-VC-S
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetAdj
+CLaCL
+V-S
+DetNP
+207051	CLaCL
+V-ADV
+PrepNp
+DetAdj
+207057	S-IO
+207059	Conj-CL
+ADV-V-O-IO
+O-V
+aNpaNp
+207064	DetNP
+207066	DetNP
+207068	Conj-CL
+V-S-ADV
+DetNP
+V-O
+DetNP
+207074	Conj-CL
+207076	DetNP
+ClCl
+S-IO
+ClCl2
+sub-CL
+V-O-S
+DetNP
+S-V-O
+207085	Conj-CL
+CLaCL
+ADV-V
+O-V
+207091	V-O
+NpAdjp
+207094	ClCl
+207096	PtclCL
+V-O
+ofNPNP
+DetNP
+207101	PtclCL
+O-V
+207104	Conj-CL
+207106	Np-Appos
+Np-Appos
+NpPp
+PrepNp
+DetNump
+DetCL
+VC-P
+PrepNp
+sub-CL
+V-S
+207117	Conj-CL
+CLaCL
+207120	DetNP
+AdjpNp
+V-O
+DetNP
+207126	ClCl2
+sub-CL
+Conj3CL
+ADV-V-ADV-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+207137	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+207145	V-O-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+ADV-V
+2Advp_h1
+207154	Conj-CL
+CLaCL
+ADV-ADV-VC-P-S
+PrepNp
+NpNump
+DetNP
+NPofNP
+207162	S-P
+PrepNp
+207165	CLaCL
+ClCl
+V-S
+DetNP
+S-V
+DetNP
+207172	CLaCL
+V-ADV
+PrepNp
+DetAdj
+207178	S-IO
+207181	DetNP
+CLaCL
+CLaCL
+CLaCL
+V-O-ADV
+DetNP
+NPofNP
+207189	V-O
+DetNP
+NPofNP
+207193	CLaCL
+V-O
+DetNP
+NPofNP
+207198	V-ADV
+PrepNp
+DetNP
+NPofNP
+207203	notCLbutCL2CL
+VC-P
+P2CL
+207207	CLaCL
+V-S
+207211	Np2CL
+NpaNp
+DetNP
+NPofNP
+207216	DetNP
+NPofNP
+207220	DetNP
+ClCl
+ClCl2
+sub-CL
+V-O
+V2CL
+P-S
+DetCL
+CLaCL
+ADV-V
+207231	V2CL
+207233	Conj-CL
+aCLaCL
+207237	AdvpNp
+AdjpNp
+AdjpNp
+DetNP
+PrepNp
+DetNP
+S-ADV-V-ADV
+BeVerb
+PrepNp
+NP-Demo
+DetNP
+207250	CLaCL
+sub-CL
+207253	that-VP
+S-VC-P
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+207261	sub-CL
+ADV-O-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+207268	ADV-V-O-ADV-S-IO-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+207276	Conj-CL
+V-ADV
+207279	VC-P-S
+Conj5Np
+Np-Appos
+207283	Np-Appos
+DetCL
+VC-P
+207287	Np-Appos
+NpPp
+PrepNp
+NPofNP
+DetNP
+207293	NPofNP
+DetNP
+207296	AdjpNp
+PpNp2Np
+PrepNp
+DetNP
+NPofNP
+207303	Np-Appos
+V-ADV
+V2CL
+207308	V-S-ADV
+AdvpNp
+PrepNp
+207312	CLaCL
+CLaCL
+V2CL
+207316	V-ADV
+PrepNp
+DetNP
+207320	ADV-V-O
+PrepNp
+Demo-NP
+DetNP
+207325	Conj-CL
+ClCl2
+S-ADV-V
+V-S-ADV
+PrepNp
+DetNP
+207332	Conj-CL
+207334	DetNP
+that-VP
+P-VC
+207338	Conj-CL
+207341	Np2CL
+O-V
+AdjpNp
+207346	ADV2CL
+207348	Conj-CL
+207350	CLaCL
+V-ADV-O
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+DetNP
+207359	V2CL
+207361	Conj-CL
+CLaCL
+V2CL
+207365	ADV-O-V-ADV
+O-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+207372	Conj-CL
+207374	NP-CL
+NP-Demo
+DetNP
+O-V-S
+DetNP
+DetNP
+P-VC
+DetNP
+207383	Conj-CL
+CLaCL
+207386	Np-Appos
+207388	that-VP
+P-VC
+DetNP
+DetNP
+sub-CL
+VC-P
+207395	V-O-ADV
+PrepNp
+DetNP
+207399	Conj-CL
+207401	S-ADV-V
+DetNP
+AdjpNp
+DetNP
+sub-CL
+notCLbutCL2CL
+VC-P-ADV
+PrepNp
+DetNP
+P2CL
+AdvPp
+PrepNp
+NpAdjp
+V-O
+DetNP
+NPofNP
+DetNP
+207419	Conj-CL
+207421	sub-CL
+V-ADV
+PrepNp
+DetNP
+Conj3CL
+S-V
+207428	S-V
+207430	S2CL
+207433	DetNP
+V-ADV
+PrepNp
+DetNP
+NP-CL
+O-V-ADV
+207440	CLaCL
+V-S
+Np-Appos
+207444	V-O-ADV-ADV
+DetNP
+PrepNp
+DetNP
+AdjpAdvp
+NpNump
+NpAdjp
+NumpNumpNump
+207453	Conj-CL
+ClCl2
+P-VC
+ADV-V-S
+DetNP
+207460	DetNP
+ClCl2
+V2CL
+V2CL
+207465	S-V-O-ADV
+NPofNP
+DetNP
+207469	S-P-VC
+207471	that-VP
+P-VC
+DetNP
+207475	CLaCL
+V-S
+207478	CLaCL
+CLaCL
+V-O
+DetNP
+207483	V-IO
+207485	O-ADV
+DetNP
+207488	S-ADV-P
+NP-CL
+V-S-IO-ADV
+DetNP
+V-ADV
+PrepNp
+207495	Conj-CL
+ClCl2
+sub-CL
+V2CL
+207500	DetNP
+Np-Appos
+DetNP
+207504	Np2CL
+NPofNP
+AdjpAdvp
+207510	Intj2CL
+Np2CL
+that-VP
+V-O
+207516	V-O
+DetNP
+NPofNP
+207522	Np2CL
+NPofNP
+207527	Intj2CL
+Np2CL
+that-VP
+V-O
+207533	V-O
+DetNP
+NPofNP
+207538	DetAdj
+207540	Np2CL
+NPofNP
+207543	ClCl
+V-S
+DetNP
+sub-CL
+207548	DetAdj
+V-O
+207551	Conj-CL
+207554	Np2CL
+207556	that-VP
+V-O
+207560	V-O
+DetNP
+NPofNP
+207564	PtclCL
+PtclCL
+207567	CLaCL
+207569	sub-CL
+VC-P
+V-O
+207573	V-ADV
+ADV-V
+207577	sub-CL
+V2CL
+V-O
+DetNP
+NPofNP
+207583	S-V-O
+207585	V-ADV
+ADV-ADV-V
+207588	Conj-CL
+O-V-ADV
+V-O
+ADV-V-O
+AdjpNp
+DetNP
+207595	Conj-CL
+207597	O-V
+V-O
+207600	ADV-S-V-O
+V2CL
+DetNP
+ClCl
+S-V
+DetNP
+NP-CL
+O-V-S
+DetNP
+CLaCL
+S-ADV-V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+207619	Np2CL
+DetCL
+V-O
+207623	Conj-CL
+207625	O-V
+DetNP
+DetNP
+207629	Np2CL
+S-P
+207633	DetNP
+ClCl
+207636	sub-CL
+207638	S-V
+sub-CL
+V2CL
+PrepNp
+S-O-V
+207644	Conj-CL
+207646	Demo-NP
+DetNP
+PrepNp
+DetNP
+that-VP
+S-ADV-V
+NP-Demo
+DetNP
+207655	Conj-CL
+notCLbutCL2CL
+207658	DetNP
+that-VP
+ADV-V
+ClCl2
+sub-CL
+207664	S-V
+sub-CL
+V2CL
+S-P
+PrepNp
+207670	CLaCL
+S-VC-P
+Np-Appos
+DetNP
+NpaNp
+DetCL
+V-ADV
+PrepNp
+207679	DetCL
+V-O
+207683	that-VP
+P-S-VC
+ofNPNP
+DetNP
+207688	Conj-CL
+ClCl
+V-S
+AdvpNp
+NP-CL
+NpAdjp
+O-V-S
+DetNP
+ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+V-O
+ADV-S-V-O
+PronNP
+DetNP
+DetNP
+AdjpNp
+V2CL
+207709	O-V-ADV
+DetNP
+AdjpNp
+PrepNp
+All-NP
+Np2CL
+intjNP
+O-V-S-ADV
+O-V
+DetNP
+EitherOrVp
+207722	PrepNp
+207724	ADV-ADV-V
+PronNP
+V-IO-ADV
+DetNP
+NP-CL
+PrepNp
+NpAdjp
+O-V
+V2CL
+PrepNp
+DetCL
+V-S
+PrepNp
+AdjpNp
+CLaCL
+ADV-V-IO
+PrepNp
+NpNump
+207743	V-O
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+207750	Conj-CL
+207752	V2CL
+CLaCL
+ADV-ADV-V
+PrepNp
+207757	V-O
+DetNP
+NP-CL
+NPofNP
+DetNP
+O-V-ADV
+sub-CL
+aCLaCL
+207766	S-V-ADV
+207768	S-ADV-V-ADV
+PrepNp
+NpAdjp
+AdvPp
+PrepNp
+AdjpNp
+Demo-NP
+207776	Conj-CL
+Conj-CL
+S-ADV-V-O-ADV
+V2CL
+207782	Np2CL
+ADV-V-O-IO
+PrepNp
+NP-Demo
+DetNP
+DetNP
+DetNP
+207791	PrepNp
+ADV-P-VC-S
+V-O
+NP-CL
+NpaNp
+207797	O-S-V-ADV
+DetNP
+PrepNp
+DetNP
+AdjpNp
+207803	Conj-CL
+CLaCL
+ClCl
+V-O
+V-S-ADV
+DetNP
+AdjpNp
+PrepNp
+207812	VC-P-ADV
+ofNPNP
+Conj2Pp
+aPpaPp
+207817	PrepNp
+207819	PrepNp
+All-NP
+DetNP
+NpaNp
+207825	PrepNp
+NPofNP
+DetNP
+207829	Conj-CL
+CLaCL
+ADV-ADV-V
+O-V
+V-S
+207835	S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+207840	Conj-CL
+ClCl2
+sub-CL
+ClCl
+V-ADV
+VerbBe
+PrepNp
+DetNP
+V-S
+AdvpCL
+207851	S-V-ADV-ADV
+NpNump
+PrepNp
+NpAdjp
+S-ADV-V
+ClCl2
+ClCl
+Np2CL
+Np2CL
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+S-ADV-V-ADV
+Np-Appos
+Demo-NP
+DetNP
+DetCL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+ADV-V-O
+PronNP
+S-V-ADV
+PrepNp
+DetNP
+207879	ADV-V-ADV-ADV
+PrepNp
+PrepNp
+NP-CL
+Np-Appos
+DetCL
+VC-P
+S-VC-P-ADV
+PrepNp
+O-V
+ofNPNP
+207891	Conj-CL
+207893	sub-CL
+V2CL
+ADV-V
+PrepNp
+DetNP
+ADV-V-S
+BeVerb
+NpNpNpNp
+EitherOr4Np
+207903	DetNP
+207907	NpaNp
+207909	NpaNp
+207911	Conj3Np
+NPofNP
+207914	Np-Appos
+DetNP
+207917	NPofNP
+207919	S-V-ADV-O-ADV
+NP-all
+BeVerb
+DetNP
+Conj2Pp
+PrepNp
+NpaNp
+207927	Np-Appos
+DetNP
+NPofNP
+DetNP
+207932	PrepNp
+DetNP
+NPofNP
+207936	Conj-CL
+ClCl
+CLaCL
+ADV-ADV-S-V
+PrepNp
+NP-Demo
+DetNP
+V-ADV
+PrepNp
+NPofNP
+DetNP
+207948	VC-S-P
+NpPp
+NPofNP
+PrepNp
+DetNP
+PrepNp
+NumpNump
+ClCl2
+ClCl
+Np2CL
+Np2CL
+207960	V-S
+DetNP
+NP-CL
+O-V-S-ADV-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+NPofNP
+PrepNp
+Np-Appos
+DetCL
+VC-P-ADV
+DetCL
+V-O
+sub-CL
+CLaCL
+V-ADV
+VerbBe
+PrepNp
+207981	V-O
+DetNP
+NPofNP
+NP-Demo
+DetNP
+207987	Conj-CL
+Conj-CL
+CLaCL
+S-V-O-ADV
+PrepNp
+NPofNP
+DetNP
+207995	CLaCL
+ADV-V-ADV
+P-VC
+207999	V-S
+All-NP
+DetNP
+NPofNP
+208004	Conj-CL
+P-VC-ADV-ADV
+All-NP
+DetCL
+V-ADV
+sub-CL
+VC-S-ADV-P
+NP-Demo
+DetNP
+DetNP
+AdjpNp
+NPofNP
+NP-CL
+S-VC-P
+NPofNP
+208020	Conj-CL
+208022	PrepNp
+NPofNP
+CLaCL
+CLaCL
+VC-S-P
+DetNP
+NPofNP
+208030	ADV-V-S
+DetCL
+V-ADV
+PrepNp
+208035	O-V-S
+DetNP
+NPofNP
+208039	Conj-CL
+V-S
+208042	Np2CL
+DetNP
+NpAdjp
+V-ADV-ADV
+PrepNp
+All-NP
+NP-CL
+ADV-V-ADV-S-ADV
+Conj2VP
+208052	PrepNp
+Np-Appos
+DetNP
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NP-CL
+ADV-V-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+208070	Conj-CL
+V-O
+Np-Appos
+NpaNp
+NP-CL
+Np-Appos
+DetCL
+VC-P
+S-VC-P
+208081	Conj-CL
+208083	V2CL
+208085	Np2CL
+Np-Appos
+NPofNP
+CL-NP
+O-V-ADV
+PrepNp
+Demo-NP
+DetNump
+V-O
+DetNP
+NPofNP
+NP-CL
+DetNP
+NpaNp
+NPofNP
+208101	ADV-V-S-ADV
+PrepNp
+V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+208109	Conj-CL
+CLaCL
+CLaCL
+V-O-IO
+208114	V-S-ADV
+DetNP
+PrepNp
+208118	V-ADV
+PrepNp
+DetNP
+NumpNP
+208123	Conj-CL
+ADV-VC-S-ADV-P
+PrepNp
+DetCL
+V-S
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+208134	Conj-CL
+CLaCL
+208137	PrepNp
+DetNP
+sub-CL
+V-S
+NpAdjp
+208143	V-O
+NP-CL
+All-NP
+DetNP
+ADV-V
+BeVerb
+208150	Conj-CL
+CLaCL
+CLaCL
+208154	V2CL
+sub-CL
+S2CL
+208158	V-ADV
+PrepNp
+NPofNP
+NpAdjp
+208163	CLaCL
+V-S-ADV
+NpAdjp
+208168	V-ADV
+AdjpNp
+sub-CL
+S-V-O-IO
+DetNP
+V2CL
+208175	Conj-CL
+V-ADV-S
+BeVerb
+PrepNp
+Np-Appos
+NpPp
+NpAdjp
+PrepNp
+All-NP
+Np-Appos
+NpPp
+PrepNp
+DetNP
+208189	Conj-CL
+ClCl
+ClCl2
+V-S
+NP-Demo
+DetNP
+CLaCL
+V-S
+DetNP
+208199	V2CL
+sub-CL
+V-S-O
+NpAdjp
+ADV-V-S
+DetNP
+AdjpNp
+208207	Conj-CL
+CLaCL
+V2CL
+208211	V-ADV
+208214	S-VC-P
+All-NP
+Np-Appos
+DetCL
+V2CL
+208220	Conj-CL
+ADV-S-V-ADV-ADV
+NP-CL
+DetNP
+AdjpNp
+NPofNP
+ADV-V
+PrepNp
+208229	S-V-O
+Conj3Np
+Conj3Np
+208235	DetCL
+V-ADV
+NpNpNpNpNp
+DetNP
+aNpaNp
+208242	NpaNp
+208244	DetNP
+aNpaNp
+208248	NpaNp
+208250	DetNP
+NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+208257	2Np
+2Np
+DetNP
+AdjpNp
+V2CL
+aNpaNp
+208265	NpaNp
+208267	V-S-ADV-O
+DetNP
+AdjpNp
+DetNP
+NPofNP
+DetNP
+208274	Conj-CL
+CLaCL
+V-S
+208278	V-ADV
+208280	NpPp
+PrepNp
+V-S-O
+P-VC
+208285	Conj-CL
+208287	V2CL
+that-VP
+ADV-V
+VerbBe
+208292	Conj-CL
+CLaCL
+ADV-S-V-O
+V-ADV
+DetNP
+PrepNp
+DetNump
+DetNP
+NPofNP
+208304	Np2CL
+NpaNp
+NpAdjp
+208308	NP-all
+DetCL
+V-ADV
+S-ADV-P-VC
+208313	V-O
+DetNP
+NPofNP
+208317	Conj-CL
+notCLbutCL2CL
+ClCl
+ClCl2
+sub-CL
+S-V
+S-V
+sub-CL
+VC-P
+NPofNP
+NpAdjp
+DetNP
+S-VC-P
+DetCL
+208332	PrepNp
+Np-Appos
+DetNP
+ClCl
+ClCl2
+Conj-CL
+VC-P
+PrepNp
+DetNP
+AdjpNp
+V-S
+DetNP
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+All-NP
+208352	Conj3CL
+V-S
+NpaNp
+DetNP
+NPofNP
+208358	DetNP
+NPofNP
+208361	S-O-V
+DetNP
+NPofNP
+208365	S-ADV-V
+DetNP
+NPofNP
+208369	CLaCL
+ADV-ADV-V-ADV
+AdvPp
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+208377	PrepNp
+DetNP
+NPofNP
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+DetNP
+NPofNP
+208387	V2CL
+208389	Conj-CL
+ClCl
+CLaCL
+V-O-ADV-ADV
+PrepNp
+DetNP
+208396	O-ADV-ADV
+PrepNp
+DetNP
+O2CL
+Conj3Np
+208403	NPofNP
+208406	S-V-ADV
+DetNP
+PrepNp
+208410	S-ADV
+DetNP
+PrepNp
+sub-CL
+V-S
+NPDetAdj
+NPofNP
+DetAdj
+AdjpaAdjp
+208421	Conj-CL
+208423	V2CL
+All-NP
+PtclCL
+S-V-O
+DetNP
+NPofNP
+208430	ClCl2
+ClCl
+Np2CL
+Np2CL
+V-O
+NP-Demo
+DetNP
+208439	Np2CL
+Np-Appos
+Np-Appos
+DetNP
+NpAdjp
+V-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+NP-CL
+Conj3Np
+208453	O-V-ADV-S-ADV
+PrepNp
+DetNP
+PrepNp
+NPofNP
+S-V
+NpAdjp
+DativeAdjp
+DetNP
+NpaNp
+AdjpNp
+V2CL
+208466	NPofNP
+DetNP
+PrepNp
+NPofNP
+V2CL
+208472	O-S-V-ADV
+DetNP
+V-O
+DetNP
+NPofNP
+DetNP
+ADV-VC-P-S
+V-S-ADV
+PrepNp
+208482	Conj-CL
+208484	PrepNp
+ClCl
+V-O-ADV-ADV
+DetNP
+PrepNp
+PrepNp
+sub-CL
+208492	PrepNp
+NPofNP
+sub-CL
+ADV-V
+208497	ClCl
+CLaCL
+CLaCL
+ADV-V-S
+PrepNp
+ofNPNP
+DetNP
+208505	V-S
+DetNP
+NPofNP
+208509	ADV-S-V-ADV
+AdvpNp
+DetNP
+NPofNP
+PrepNp
+sub-CL
+CLaCL
+ADV-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+208521	V-O
+S-V-O
+DetNP
+NPofNP
+208527	NPofNP
+V-O-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+208533	ClCl2
+ClCl
+Np2CL
+Np2CL
+P-S
+V2CL
+208540	PrepNp
+PrepNp
+PrepNp
+Np-Appos
+DetNP
+that-VP
+CLaCL
+V2CL
+EitherOrVp
+208552	S-VC-P-ADV
+DetNP
+NPofNP
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+208560	Conj-CL
+208562	CLaCL
+P-VC
+208566	that-VP
+ADV-V-IO-S-O
+DetNP
+ADV-V-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+V2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+that-VP
+aCLaCL
+208585	V-ADV
+PrepNp
+208588	S-V-O
+DetNP
+NPofNP
+208593	O-V-S
+Demo-NP
+DetNP
+DetNP
+All-NP
+208599	Conj-CL
+ADV-V-O
+CLaCL
+ADV-V
+DetNP
+NPofNP
+DetNP
+208607	O-V-ADV
+DetNP
+NPofNP
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+NP-CL
+O-S-V
+EitherOrVp
+208621	Conj-CL
+CLaCL
+ADV-S-V-ADV
+PrepNp
+DetNP
+208629	DetNP
+NPofNP
+ClCl
+V-ADV
+PrepNp
+NPofNP
+sub-CL
+PtclCL
+V-O-O2
+DetNP
+NPofNP
+NPofNP
+DetNP
+NPofNP
+208644	Conj-CL
+208646	All-NP
+NPofNP
+that-VP
+O2-V-S-O
+aNpaNp
+208652	Np-Appos
+208654	DetNP
+Demo-NP
+DetNP
+NP-CL
+O-S-V
+208660	Conj-CL
+CLaCL
+ADV-V-ADV
+V2CL
+DetNP
+208667	PrepNp
+NpaNp
+DetNP
+208671	DetNP
+AdjpNp
+ClCl
+O-V
+ClCl
+Np2CL
+Np2CL
+208679	Conj-CL
+ClCl
+S-ADV
+PrepNp
+CLaCL
+CLaCL
+V2CL
+208687	V-S-ADV-ADV
+NPofNP
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+DetNP
+NPofNP
+208698	V-O
+DetNP
+NPofNP
+DetNP
+AdjpNp
+208704	Conj-CL
+CLaCL
+P-VC-S
+DetNP
+208709	P2CL
+NpaNp
+DetNP
+NPofNP
+208714	All-NP
+NP-CL
+NpPp
+PrepNp
+PtclCL
+O-V-S
+Np-Appos
+DetNP
+NPofNP
+208724	aCLaCL
+208726	ADV-V
+NpAdjp
+AdjpNp
+208730	V-O-ADV
+208732	V-ADV
+PrepNp
+NP-Demo
+DetNP
+NPDetAdj
+DetAdj
+208739	Conj-CL
+Conj-CL
+CLaCL
+S-V
+DetCL
+V-O
+DetNP
+NPofNP
+208748	V-ADV-S
+PrepNp
+NP-Demo
+DetNP
+NpAdjp
+AdvpAdjp
+208755	Conj-CL
+V-O
+BeVerb
+2Np
+NpaNp
+DetNP
+NPofNP
+DetNP
+208764	DetNP
+NpaNp
+DetNP
+NPofNP
+DetNP
+208770	DetNP
+208772	Conj-CL
+CLaCL
+V-ADV-S
+All-NP
+208777	S-ADV-V
+AdjpNp
+NpaNp
+208781	PrepNp
+DetNP
+208784	Conj-CL
+CLaCL
+S-ADV-V-O-O2
+All-NP
+DetCL
+V2CL
+PrepNp
+DetNP
+208793	CLaCL
+O-V
+NpaNp
+DetNP
+208798	DetNP
+208801	sub-CL
+PtclCL
+S-O-V
+208805	Conj-CL
+ADV-V-O-ADV-ADV
+CLaCL
+ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+208813	V-ADV-O
+PrepNp
+PrepNp
+NpaNp
+208818	NPofNP
+CLaCL
+V-O
+DetNP
+208823	V-O-ADV
+PrepNp
+All-NP
+DetNP
+208828	Conj-CL
+S-V-O-ADV-ADV
+DetNP
+DetCL
+V2CL
+PrepNp
+PrepNp
+DetNP
+208837	Conj-CL
+S-V-ADV-ADV
+NpaNp
+208841	PrepNp
+DetNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetAdj
+208850	Conj-CL
+208852	S-V
+AdjpNp
+NpAdjp
+P-ADV-VC
+PrepNp
+NPofNP
+NPofNP
+PrepNp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+VC-P
+DetCL
+V-O-ADV
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+S-ADV-V-O
+V-O
+S-V-O
+NpaNp
+208879	V-ADV
+PrepNp
+DetNP
+O-V
+208884	Conj-CL
+208886	V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+V-ADV
+PrepNp
+208893	Conj-CL
+S-V-O-ADV
+V-O
+O-ADV-V
+PrepNp
+208899	Conj-CL
+208901	ClCl
+CLaCL
+S-ADV-V-ADV
+NpaNp
+208908	O-V
+ADV-V
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+Np-Appos
+DetNP
+208917	Conj-CL
+ADV-V-O
+V-O-ADV
+DetNP
+AdjpNp
+208923	Conj-CL
+CLaCL
+ADV-V-S
+NpaNp
+DetNP
+NPofNP
+208930	DetNP
+208932	CLaCL
+CLaCL
+ADV-V
+V2CL
+208937	V2CL
+208939	V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+Conj3CL
+V2CL
+208946	V2CL
+208948	V-O
+DetNP
+208951	Conj-CL
+CLaCL
+CLaCL
+V-S-O
+All-NP
+DetNP
+CLaCL
+S-V
+208960	V-O
+DetNP
+208964	that-VP
+S-VC-P
+DetCL
+ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+208976	V-ADV-ADV
+NpaNp
+208979	PrepNp
+DetCL
+V-ADV
+208983	Conj-CL
+ClCl2
+V-S-O
+NpaNp
+DetNP
+208989	DetNP
+V-S-ADV-ADV-ADV
+All-NP
+DetNP
+PrepNp
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+209000	Conj-CL
+209002	V2CL
+DetNP
+PrepNp
+DetNP
+ClCl2
+ClCl
+Np2CL
+Np2CL
+CLaCL
+ADV-V-ADV
+PrepNp
+209014	O-ADV-V-ADV
+sub-CL
+ADV-V-ADV
+AdjpNp
+NpaNp
+209020	DetCL
+V-S
+209023	S-V-O
+Np-Appos
+DetNP
+NPofNP
+Conj3Np
+209030	DetNP
+NPofNP
+DetNP
+NPofNP
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+PtclCL
+CLaCL
+O-S-V
+209043	PrepNp
+NPofNP
+V-S-O
+V2CL
+209048	Conj-CL
+CLaCL
+CLaCL
+S-O-V
+DetAdj
+AdjpaAdjp
+209056	V-O
+S-V-IO
+Np-Appos
+209062	DetNP
+NPofNP
+DetNP
+O-S-V-ADV
+DetNP
+PrepNp
+209069	Conj-CL
+CLaCL
+ADV-O-V-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+NP-CL
+O-V
+Conj2VP
+209081	DetNP
+NPofNP
+209084	S-V-IO-O-ADV
+Np-Appos
+DetNP
+NpPp
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+All-NP
+209094	Conj-CL
+209096	Np2CL
+that-VP
+209099	PrepNp
+sub-CL
+S2CL
+AdvpNp
+DetNP
+NPofNP
+209106	Conj-CL
+S-O-V-ADV
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+NPofNP
+All-NP
+DetNP
+V-S
+DetNP
+NPofNP
+209119	Conj-CL
+209121	Conj2VP
+209123	PrepNp
+DetCL
+V-S
+ofNPNP
+DetNP
+sub-CL
+PtclCL
+CLaCL
+V-S-ADV
+NPofNP
+PrepNp
+NPofNP
+DetNP
+209137	V-O
+NP-CL
+Np-Appos
+DetNP
+AdjpNp
+V-IO
+V-S
+PtclCL
+O-S-V-ADV
+PrepNp
+NP-CL
+NPofNP
+NPofNP
+O-V-S-ADV
+DetNP
+PrepNp
+NPofNP
+DetNP
+AdjpNp
+PpNp2Np
+PrepNp
+ofNPNP
+209160	Conj-CL
+209162	that-VP
+209164	Np-Appos
+DetNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+O2CL
+209172	O-V-ADV
+PrepNp
+All-NP
+PtclCL
+O-V-ADV
+PrepNp
+209179	Conj-CL
+209181	S-V-ADV
+All-NP
+NP-CL
+PtclCL
+S-ADV-V-O
+NP-Demo
+DetNP
+PrepNp
+DetNP
+209191	Conj-CL
+S-ADV-V-O
+AdvpNp
+NP-CL
+All-NP
+DetNP
+NpPp
+PrepNp
+NpaNp
+209201	DetNP
+S-V
+NP-Demo
+DetNP
+209206	S-VC-P
+DetNP
+NPofNP
+NpaNp
+DetNP
+209212	DetNP
+NP-CL
+O-S-V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+209220	PrepNp
+Conj-CL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+All-NP
+DetNP
+NPofNP
+DetNP
+209231	IO-ADV-S-ADV-V-O-ADV
+V-O
+DetNP
+DetNP
+NPofNP
+V-O-ADV
+PrepNp
+DetCL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+209244	Conj-CL
+CLaCL
+209247	V-S-ADV
+PrepNp
+DetNP
+Conj3Np
+DetNP
+209253	DetNP
+NPofNP
+DetNP
+209257	DetNP
+V-ADV
+PrepNp
+DetCL
+CLaCL
+V-S-O
+DetNP
+209265	V-ADV-O
+PrepNp
+DetNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+209273	CLaCL
+V-IO-O
+DetNP
+209277	ClCl
+V-ADV-ADV
+PrepNp
+PrepNp
+DetAdv
+sub-CL
+VC-P-ADV
+209285	Conj-CL
+CLaCL
+S-V
+NPofNP
+DetCL
+V-O
+DetNP
+209293	VC-S-P
+NPofNP
+DetNP
+PrepNp
+NpNump
+209299	Conj-CL
+CLaCL
+CLaCL
+V-ADV-S
+PrepNp
+DetNP
+V-S-ADV
+ofNPNP
+Conj3Np
+DetNP
+209310	DetAdj
+209312	DetNP
+PrepNp
+209315	S2CL
+Conj5Np
+Np-Appos
+DetNP
+209323	S-VC-P
+PrepNp
+NpAdjp
+209327	ADV-V-O
+V-O-ADV
+PrepNp
+DetAdj
+ADV-V-O-S
+Conj2Pp
+PrepNp
+AdjpNp
+209336	PrepNp
+AdjpNp
+209340	V-ADV
+NpAdjp
+PrepNp
+209344	Np2CL
+NpaNp
+NPofNP
+DetNP
+209349	sub-CL
+ClCl
+S-ADV-V-ADV
+PrepNp
+NPofNP
+NpAdjp
+ADV-S-V
+PrepNp
+209358	NpaNp
+All-NP
+209361	All-NP
+DetNP
+NPofNP
+that-VP
+209366	ADV2CL
+PrepNp
+DetNP
+NPofNP
+NP-CL
+NP-CL
+Np-Appos
+Np-Appos
+DetNP
+O-S-V
+O-S-V-ADV
+DetNP
+PrepNp
+PrepNp
+PrepNp
+209382	S-VC-P
+Np-Appos
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+PrepNp
+NPofNP
+209396	Conj-CL
+ClCl
+ADV-VC-P-S
+PrepNp
+AdjpNp
+DetNP
+sub-CL
+ADV-VC-P-S
+NP-CL
+Np-Appos
+NpAdjp
+PrepNp
+DetNP
+DetCL
+V-ADV
+PrepNp
+ADV-V-S
+PrepNp
+V-S
+209416	Conj-CL
+CLaCL
+ADV-V
+CLaCL
+V-O
+DetNP
+ofNPNP
+NpaNp
+DetNP
+209428	that-VP
+CLaCL
+P-VC
+NpAdjp
+209433	P2CL
+209436	that-VP
+P-VC
+PrepNp
+DetNP
+209441	Conj-CL
+ADV-O-V
+V-O
+S-ADV-V
+Np-Appos
+DetNP
+PrepNp
+DetCL
+V2CL
+O-V
+209452	Conj-CL
+ADV-V-ADV-ADV
+V-O
+S-ADV-V
+PrepNp
+DetNP
+PrepNp
+209460	O-V-IO
+NP-Demo
+DetNP
+209464	Conj-CL
+Conj-CL
+CLaCL
+S-ADV-P
+that-VP
+S-V-ADV
+AdjpNp
+PrepNp
+All-NP
+DetCL
+V-ADV
+209476	ADV-V-O
+V2CL
+209479	Conj-CL
+ClCl2
+sub-CL
+ADV-ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+V-IO-O
+ADV-V-ADV-IO
+PrepNp
+NP-Demo
+DetNP
+NPofNP
+209493	Conj-CL
+ADV-V-O
+V-O
+ADV-ADV-V-ADV
+Conj2VP
+209499	PrepNp
+DetNP
+NPofNP
+DetNP
+209504	Conj-CL
+209506	DetNP
+NpaNp
+209509	V2CL
+PrepNp
+ClCl
+ClCl2
+sub-CL
+P-VC-ADV-S
+PrepNp
+DetNP
+CLaCL
+O-V-ADV
+209520	O2CL
+DetNP
+V2CL
+sub-CL
+ADV-V-S-O
+O-ADV-V
+O-V
+Conj2VP
+209530	Conj-CL
+209532	V2CL
+ADV-V-O
+DetCL
+ADV-V-O
+PrepNp
+DetNP
+sub-CL
+S-V-O-ADV
+DetNP
+PrepNp
+DetCL
+V2CL
+209545	Conj-CL
+P-VC-S
+NpAdjp
+AdjpAdvp
+NP-CL
+DetNP
+ADV-V-S
+PrepNp
+NPofNP
+NP-Demo
+DetNP
+DetNP
+209558	Conj-CL
+CLaCL
+ADV-V-ADV
+V2CL
+PrepNp
+DetAdj
+209565	V-O
+O-ADV-S-V
+PrepNp
+NpaNp
+DetNP
+209571	DetAdj
+209573	Conj-CL
+CLaCL
+S-ADV-ADV-V-O-ADV
+V2CL
+PrepNp
+DetNP
+209582	Np2CL
+Np-Appos
+DetCL
+V-O
+Conj4Np
+DetNP
+209589	DetNP
+209591	DetNP
+209593	All-NP
+NpPp
+PrepNp
+DetCL
+209598	DetNP
+NPofNP
+PrepNp
+NpAdjp
+NPofNP
+Np-Appos
+NPofNP
+ClCl
+CLaCL
+ADV-V-S
+PrepNp
+209610	S-V-O
+CLaCL
+V-S
+DetNP
+NPofNP
+DetNP
+209617	S-V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+209625	PrepNp
+DetNP
+NPofNP
+209629	Conj-CL
+V-ADV-ADV-ADV-S-ADV-ADV
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+AdjpNp
+NPofNP
+O-V
+aNpaNp
+209645	Np-Appos
+PrepNp
+NpaNp
+209649	NPofNP
+V-O
+O-S-V
+S-V
+NpaNp
+DetNP
+NPofNP
+209657	DetNP
+209659	Conj-CL
+209661	ADV-V-ADV
+DetAdv
+Np2CL
+PrepNp
+DetNP
+NPofNP
+209668	V-IO-O
+DetNP
+NPofNP
+ADV-V-O-ADV
+PrepNp
+NP-all
+DetNP
+NPofNP
+PrepNp
+DetCL
+CLaCL
+O-V-S-ADV
+DetNP
+PrepNp
+209683	S-V-ADV
+NpaNp
+209686	PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+AdjpNp
+NPofNP
+209694	Conj-CL
+209696	V-S
+V-S
+NP-CL
+DetNP
+ADV-V
+PrepNp
+BeVerb
+209704	CLaCL
+V-S-ADV
+DetNP
+AdjpNp
+209709	V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+209715	Conj-CL
+CLaCL
+S-VC-P
+ofNPNP
+DetNP
+NPofNP
+DetCL
+V2CL
+NpaNp
+209726	notCLbutCL2CL
+S-O-V
+S-P-VC
+NPofNP
+DetCL
+V-ADV
+VC-ADV-S-P
+209734	Conj-CL
+CLaCL
+ADV-V-O-S
+NpAdjp
+DetNP
+NPofNP
+DetNP
+ofNPNP
+Np-Appos
+DetNP
+DetNP
+209746	S-VC-P
+NpAdjp
+PrepNp
+All-NP
+209751	Conj-CL
+ADV-S-VC-P
+NpAdjp
+PrepNp
+209756	Conj-CL
+CLaCL
+S-ADV-V-O
+S-P-VC
+NPofNP
+NpaNp
+209763	V2CL
+DetNP
+NPofNP
+DetCL
+V2CL
+209769	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+209775	Conj-CL
+209777	sub-CL
+PtclCL
+S-O-V
+209781	Conj-CL
+209783	Np2CL
+Np-Appos
+Np-Appos
+Np-Appos
+DetCL
+209789	PrepNp
+DetNP
+S-VC-P
+BeVerb
+NPofNP
+NpAdvp
+DetNP
+ClCl2
+VC-P-S
+ADV-V-O
+V2CL
+DetNP
+209802	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+209808	Conj-CL
+CLaCL
+CLaCL
+S-ADV-V-O
+NpAdjp
+NpAdjp
+P-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+209820	ClCl
+V-ADV
+PrepNp
+DetNP
+V-S
+AdvpNp
+DetNP
+209828	ADV-ADV-V
+V-O
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+DetNP
+209836	Conj-CL
+209838	DetNP
+209840	Np2CL
+PrepNp
+DetNP
+DetNP
+NPofNP
+CLaCL
+V-S-O
+DetNP
+NPDetAdj
+DetAdj
+209851	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+209857	PtclCL
+CLaCL
+ADV-ADV-V
+V2CL
+209862	ADV-P-VC
+V2CL
+PrepNp
+DetNP
+AdjpNp
+209868	P-S
+that-VP
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+209877	notCLbutCL2CL
+V-IO
+IO2CL
+DetNP
+209882	Conj-CL
+S-ADV-ADV-V
+V-O
+DetNP
+NP-Demo
+DetNP
+V2CL
+209890	Conj-CL
+V-S-ADV
+NpAdjp
+PrepNp
+All-NP
+DetCL
+V2CL
+209898	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetAdj
+209904	ADV-V
+V2CL
+209907	Conj-CL
+CLaCL
+V-S
+ofNPNP
+AdvpNp
+NpAdjp
+209914	S-ADV-V
+DetNP
+NPofNP
+ADV-V-O
+DetCL
+V2CL
+209921	Conj-CL
+209923	PrepNp
+209925	PtclCL
+ADV-O-V
+DetNP
+209929	Conj-CL
+209932	Intj2CL
+209934	Conj-CL
+ClCl
+S-ADV
+DetNP
+PrepNp
+ClCl
+P-S
+that-VP
+V-ADV-S
+V-O
+DetNP
+NPofNP
+209947	S-P
+DetNP
+NPofNP
+DetCL
+V-O
+DetNP
+NPofNP
+PrepNp
+DetNP
+209957	V-O
+209959	Conj-CL
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+209966	V2CL
+209968	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetNP
+S-P
+209975	ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+209981	Conj-CL
+V-S-ADV
+NpAdjp
+Conj2Pp
+PrepNp
+All-NP
+DetNP
+209989	PrepNp
+All-NP
+DetCL
+V-O
+209994	Conj-CL
+ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpAdjp
+NpaNp
+210003	PrepNp
+DetNP
+210006	Conj-CL
+VC-ADV-S-P
+PrepNp
+DetNP
+NPofNP
+210012	Conj-CL
+CLaCL
+S-V-O
+ofNPNP
+DetAdj
+V-ADV
+210019	V-O-S
+DetNP
+210022	Conj-CL
+ADV-V-ADV-S-ADV
+V-O
+DetNP
+NPofNP
+aNpaNp
+210030	sub-CL
+210032	ADV-V-O
+AdvPp
+PrepNp
+DetNP
+DetAdj
+210038	V-ADV
+PrepNp
+NpaNp
+210042	sub-CL
+ClCl2
+V-S
+sub-CL
+S-V-O
+DetNP
+NPofNP
+210050	Conj-CL
+V-S-ADV
+AdvpNp
+DetNP
+NPofNP
+DetNP
+AdvpNp
+AdvpNp
+V-O
+NP-CL
+NpaNp
+210062	V-ADV
+PrepNp
+NpAdjp
+S-V
+NP-all
+210068	Conj-CL
+CLaCL
+ADV-S-V-ADV
+V2CL
+NpaNp
+DetNP
+210075	All-NP
+Np-Appos
+NpPp
+PrepNp
+DetCL
+VC-P
+NPofNP
+DetNP
+210084	CLaCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+210090	V-O-ADV
+PrepNp
+NpAdjp
+210094	Conj-CL
+CLaCL
+S-ADV-V-O
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+210104	V-O
+CLaCL
+V2CL
+210108	ADV-V-ADV-IO-O
+V2CL
+PrepNp
+DetNP
+DetNP
+All-NP
+DetNP
+NPofNP
+NP-Demo
+DetNP
+210119	Conj-CL
+CLaCL
+ADV-V-ADV-ADV
+V2CL
+PrepNp
+DetNP
+PrepNp
+DetNP
+210128	V2CL
+210130	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+NpaNp
+DetNP
+210137	NpPp
+PrepNp
+NpaNp
+DetNP
+210142	All-NP
+DetNP
+NPofNP
+DetNP
+NPofNP
+210148	V-ADV-ADV
+PrepNp
+DetNP
+V-S
+210153	Conj-CL
+S-ADV-V-O-ADV
+DetNP
+AdjpNp
+V2CL
+PrepNp
+DetNP
+210161	Conj-CL
+ADV-V-ADV
+V2CL
+210165	that-VP
+CLaCL
+V-O
+CLaCL
+S-V-ADV
+DetNP
+PrepNp
+All-NP
+210174	S-V-ADV
+DetNP
+PrepNp
+DetNP
+210179	ADV-ADV-O-V
+V2CL
+210182	Conj-CL
+ClCl2
+sub-CL
+V-O-S
+NP-Demo
+DetNP
+aNpaNp
+210190	DetNP
+NPofNP
+DetNP
+210194	DetNP
+210196	PrepNp
+PtclCL
+P-VC-S
+210200	Conj-CL
+210202	V2CL
+that-VP
+210205	S-V-ADV
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+DetNP
+BeVerb
+PrepNp
+DetNP
+210215	V-O
+DetNP
+210218	ClCl
+ClCl
+ADV-ADV-S-ADV-V-O
+V2CL
+DetNP
+PrepNp
+DetNP
+ADV-ADV
+PrepNp
+sub-CL
+210229	DetNP
+PtclCL
+V2CL
+210233	Conj-CL
+ADV-V-ADV
+V-O
+PrepNp
+DetNP
+210239	Conj-CL
+V-O-S-ADV
+DetNP
+210243	CLaCL
+ADV-V-IO-O
+ADV-V-ADV
+PrepNp
+NP-Demo
+DetNP
+210251	V-O-ADV
+DetNP
+DetNP
+NPofNP
+210256	V-O
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+210264	Conj-CL
+210266	V2CL
+NpaNp
+210269	DetNP
+CLaCL
+V-S-ADV
+V-O
+210274	O2CL
+210276	S-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+NP-CL
+O-S-V-ADV
+V-ADV
+PrepNp
+210286	O-S-O2-V-ADV-ADV
+DetNP
+NpaNp
+210290	DetNP
+NPofNP
+DetCL
+CLaCL
+V-O-IO
+DetNP
+210297	O2CL
+NPofNP
+210300	Conj-CL
+CLaCL
+S-VC-P
+NPofNP
+NP-Demo
+DetNP
+210307	S2CL
+NP-CL
+DetNP
+NPDetAdj
+DetAdj
+O-V-S-IO
+DetNP
+DetCL
+V-O
+210317	Conj-CL
+CLaCL
+S-ADV-V
+V2CL
+210322	V-O
+V-O
+210325	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+Np-Appos
+Np-Appos
+NpPp
+PrepNp
+DetNP
+NpAdjp
+ADV-P
+NpAdjp
+AdjpDative
+All-NP
+DetNP
+ADV-ADV-O-V
+DetNP
+210344	PrepNp
+ClCl2
+ClCl
+Np2CL
+Np2CL
+210350	O-V
+ADV-O-V
+PrepNp
+NP-Demo
+DetNP
+210356	Conj-CL
+210358	PrepNp
+Demo-NP
+DetNP
+V-O
+VC-P-S
+ADV-V-S
+NpAdjp
+ofNPNP
+AdvpAdjp
+CLaCL
+S-V
+210370	CLaCL
+S-V
+All-NP
+S-V-O
+210375	V-ADV
+PrepNp
+210378	ClCl
+CLaCL
+ADV-V-S-ADV
+PrepNp
+Np-Appos
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+210389	V-O-ADV
+PrepNp
+CLaCL
+S-V
+210394	S-V
+All-NP
+S-V-O
+210398	Conj-CL
+ClCl
+210401	DetAdv
+CLaCL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+210408	V-O
+sub-CL
+CLaCL
+ClCl2
+sub-CL
+VC-P-S
+PrepNp
+NpaNp
+NP-Demo
+DetNP
+210419	NP-Demo
+DetNP
+V2CL
+210423	ClCl
+210425	sub-CL
+P-VC
+PrepNp
+V-O
+ADV-ADV-P-VC
+AdvpNp
+210432	Conj-CL
+CLaCL
+V-ADV
+210436	CLaCL
+ADV-ADV-V-O
+V-O
+DetNP
+V2CL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+210447	V2CL
+210449	Conj-CL
+Conj-CL
+ClCl
+S-V-ADV-ADV
+V2CL
+PrepNp
+NPofNP
+DetNP
+sub-CL
+V-O
+ADV-V
+PrepNp
+DetNP
+210463	Conj-CL
+ADV-ADV-ADV-V-O
+All-NP
+Conj2Pp
+PrepNp
+DetNP
+210470	PrepNp
+CLaCL
+V2CL
+210474	V-O
+S-P
+DetNP
+210478	Conj-CL
+ClCl
+ClCl2
+ADV-V-S
+PrepNp
+NP-Demo
+DetNP
+DetNP
+V-S-ADV
+NPofNP
+DetNP
+PrepNp
+DetAdj
+sub-CL
+V-ADV-S
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+DetNP
+NPofNP
+210500	Conj-CL
+210502	V-O
+DetNump
+DetNP
+NPofNP
+DetNP
+ADV-P-VC-S
+S-ADV-V-O
+V-O
+DetNP
+NPofNP
+DetNP
+210514	Conj-CL
+210516	Np2CL
+NP-CL
+NpAdjp
+NpNump
+NpAdjp
+NpPp
+PrepNp
+V2CL
+AdjpAdvp
+NpaNp
+210527	O-V-ADV
+PrepNp
+NP-Demo
+DetNP
+210532	Conj-CL
+S-O-V
+NpaNp
+DetNP
+210537	DetNP
+NPofNP
+DetNP
+210541	Conj-CL
+Conj3CL
+V-S-ADV
+DetNP
+PrepNp
+All-NP
+DetNP
+210549	V-O
+NP-CL
+Conj7Np
+Np-Appos
+NpAdjp
+AdjpAdvp
+NpaNp
+210557	NpAdjp
+210564	Np-Appos
+Np-Appos
+O-V-ADV
+PrepNp
+DetNP
+210570	ADV-V-IO-O
+V2CL
+DetNP
+210574	Conj-CL
+CLaCL
+S-V
+DetNP
+NPofNP
+DetNP
+210581	CLaCL
+V-S-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+210588	S-V-O
+AdjpNp
+NPofNP
+DetNP
+DetNP
+210594	Conj-CL
+S-ADV-V-O-ADV
+AdjpAdvp
+NpaNp
+210599	NpAdjp
+NpaNp
+210602	PrepNp
+DetNP
+210605	Conj-CL
+CLaCL
+V-S-ADV
+NPofNP
+Conj4Np
+NpPp
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+210619	NpPp
+PrepNp
+NpaNp
+210623	V-ADV
+DetNP
+210626	ADV-V-O
+V-O
+NpaNp
+DetNP
+210631	DetNP
+NP-CL
+ADV-V
+210635	ADV-V-O
+NpAdjp
+210638	that-VP
+V-O
+S-V-O-ADV
+NpAdjp
+PrepNp
+NpaNp
+210645	DetNP
+210647	Conj-CL
+CLaCL
+V-O
+Conj3Np
+DetNP
+210653	DetAdj
+210655	DetNP
+210657	CLaCL
+ADV-V-O
+V2CL
+210661	CLaCL
+V-ADV
+PrepNp
+DetNP
+210666	V-O
+NpAdjp
+NpAdjp
+210671	NP-Demo
+DetNP
+V-O-ADV
+PrepNp
+NpaNp
+DetNP
+NPDetAdj
+DetAdj
+210680	DetNP
+sub-CL
+V-O
+210684	that-VP
+CLaCL
+S-V-O
+NP-Demo
+Np-Appos
+DetNP
+NP-Demo
+DetNP
+210693	V-O
+DetNP
+NP-CL
+O-V-IO-S
+210698	Conj-CL
+210700	V-ADV
+PrepNp
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+sub-CL
+O2CL
+NPofNP
+210713	Conj-CL
+210715	DetNP
+PtclCL
+S-ADV-V
+210719	Conj-CL
+210721	ClCl2
+ClCl
+Np2CL
+Np2CL
+NpaNp
+210727	V2CL
+210729	CLaCL
+S-V-IO-ADV-ADV
+DetNP
+NPofNP
+DetNP
+Np-Appos
+DetNP
+NPofNP
+VC-P
+PrepNp
+DetNP
+AdvpCL
+sub-CL
+V-S-ADV
+PrepNp
+210746	PrepNp
+CLaCL
+V-ADV
+PrepNp
+NpaNp
+DetNP
+NPofNP
+210754	DetNP
+NPofNP
+210757	V-ADV
+PrepNp
+DetNP
+NP-CL
+PtclCL
+O-IO-V
+210764	ADV-ADV-V-ADV
+V-ADV
+PrepNp
+NPofNP
+PrepNp
+210770	CLaCL
+ADV-ADV-V-O-ADV
+PrepNp
+DetCL
+V-S
+DetNP
+NPofNP
+PrepNp
+NP-CL
+NP-Demo
+DetNP
+ADV-S-ADV-V
+PrepNp
+210784	CLaCL
+CLaCL
+ADV-V-IO-O-ADV
+PrepNp
+210789	O2CL
+NPofNP
+210793	CLaCL
+V-IO-ADV-O
+PrepNp
+210797	IO2CL
+DetNP
+NpPp
+NPofNP
+PrepNp
+ADV-VC-P-S
+210804	Conj-CL
+210806	DetNP
+that-VP
+CLaCL
+VC-S-P-ADV
+DetNP
+NPofNP
+PrepNp
+NpAdjp
+210815	V-O-ADV
+Conj2VP
+210818	NpAdjp
+210820	Conj-CL
+CLaCL
+210823	O-V-S
+DetNP
+NP-CL
+PtclCL
+O-V
+DetNP
+210830	CLaCL
+ADV-V
+PrepNp
+210834	V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+210839	Conj-CL
+V-IO-O
+NPofNP
+210843	Conj-CL
+CLaCL
+CLaCL
+CLaCL
+ADV-V-O
+DetNP
+210850	V-O-ADV
+DetNP
+NPDetAdj
+DetAdj
+210855	S-O
+DetNP
+210858	S-O
+DetNP
+NumpNP
+210862	Conj-CL
+S-ADV-V-ADV
+DetNP
+V-O
+DetNP
+PrepNp
+210869	Conj-CL
+CLaCL
+CLaCL
+VC-S-P
+DetNP
+PrepNp
+210876	V-O-ADV
+PrepNp
+All-NP
+DetNP
+NPofNP
+210882	CLaCL
+V-IO-O-ADV
+NpaNp
+210886	PrepNp
+Np-Appos
+NPofNP
+210890	V-O-O2
+V-ADV
+PrepNp
+NpaNp
+210895	All-NP
+DetNP
+NPofNP
+210899	Conj-CL
+CLaCL
+CLaCL
+V-S-ADV
+PrepNp
+All-NP
+DetNP
+NpaNp
+210909	S2CL
+NpAdjp
+210912	ADV-V-O-S
+DetNP
+NPofNP
+210916	Conj-CL
+S-ADV-V-O-ADV
+V-O
+VC-S-P
+PrepNp
+DetNP
+NPofNP
+210924	Conj-CL
+CLaCL
+ADV-V-S-IO
+PrepNp
+DetAdj
+DetNP
+NPofNP
+210932	P-VC-ADV-S
+DetNP
+DetNP
+NPofNP
+210937	Conj-CL
+CLaCL
+ADV-S-V-O-ADV
+V2CL
+NpaNp
+Np-Appos
+DetNP
+NPofNP
+210946	All-NP
+DetNP
+PrepNp
+NpNump
+NumpNump
+210952	V-S-ADV
+PrepNp
+210955	Conj-CL
+CLaCL
+CLaCL
+V-S
+NpaNp
+210961	DetNP
+NPofNP
+210964	V-ADV
+PrepNp
+210967	V-ADV
+PrepNp
+DetNP
+NP-CL
+O-V-S-ADV-ADV-ADV
+NPofNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+210978	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+NP-CL
+O-V-S-IO
+DetNP
+DetNP
+S-V-ADV-ADV
+Conj2VP
+DetNP
+210993	PrepNp
+PrepNp
+ADV-V-ADV-S
+NP-CL
+NpAdjp
+PrepNp
+S-ADV-V-O
+DetNP
+211002	S-ADV-V-O-ADV
+V-O
+DetNP
+NPofNP
+DetNP
+DetCL
+V-O-O2-ADV
+DetNP
+NPofNP
+PrepNp
+DetCL
+ADV-V
+211015	ClCl
+CLaCL
+ADV-V-S
+PrepNp
+PronNP
+211021	VC-P-ADV
+DetNP
+S-V-ADV-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+DetNP
+211030	Conj-CL
+ClCl2
+V-S
+CLaCL
+V-O-S
+DetNP
+NPofNP
+211038	V-O-IO-ADV
+PrepNp
+211041	Conj-CL
+CLaCL
+V-S-ADV
+All-NP
+NPofNP
+211047	VC-P-ADV
+PrepNp
+NPofNP
+NpaNp
+211053	Conj-CL
+ClCl2
+sub-CL
+V-ADV-S
+AdjpNp
+V-ADV-S
+PrepNp
+DetNP
+NPofNP
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+211069	Conj-CL
+CLaCL
+ADV-V
+V-O
+S-V
+211075	V-O-IO-ADV
+DetCL
+V2CL
+V-O
+DetAdj
+211081	Conj-CL
+CLaCL
+V-O
+211085	DetNP
+that-VP
+S-ADV-V-O-IO
+DetNP
+PrepNp
+NPofNP
+211092	S-ADV-V
+211094	Conj-CL
+CLaCL
+ADV-V-IO-ADV
+DetNP
+AdjpNp
+V2CL
+V2CL
+211102	V-O-ADV-ADV
+PrepNp
+211106	Np2CL
+P-VC
+ADV-V-O
+PrepNp
+211111	Conj-CL
+S-V-O-ADV
+DetCL
+V-O
+DetNP
+211117	ClCl
+S-O-V-O2
+NpPp
+NpaNp
+211122	PrepNp
+PtclCL
+O-S-V-ADV
+V-O
+ADV-V-ADV-O
+PronNP
+DetAdj
+211130	Conj-CL
+CLaCL
+V-S-ADV
+PrepNp
+NP-Demo
+DetNP
+211137	VC-P-ADV
+PrepNp
+NP-CL
+NPofNP
+ADV-V-O
+NpNump
+211144	Conj-CL
+ClCl2
+V-S
+NpNump
+V-IO-ADV-S-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+PrepNp
+NPofNP
+NPofNP
+211158	Conj-CL
+S-ADV-V-O
+DetNP
+V2CL
+DetNP
+211164	Conj-CL
+211166	V-S-ADV
+V2CL
+NPofNP
+S-P
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+Conj3Np
+211181	Conj-CL
+ADV-S-ADV-V-O
+P-VC
+V2CL
+211186	Conj-CL
+211188	DetNP
+ClCl
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+S-P-VC
+DetNP
+NP-CL
+ADV-V
+PrepNp
+NpAdjp
+211203	CLaCL
+CLaCL
+ADV-V-O
+V2CL
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+211215	O-V
+DetNP
+NPofNP
+211219	V-ADV
+V-O
+211222	Conj-CL
+ClCl2
+ADV-V
+V-O-ADV
+PrepNp
+211229	Np2CL
+NP-CL
+Demo-NP
+DetNP
+O-V-ADV
+211235	S-O-V-O2
+NpaNp
+211238	DetNP
+aNpaNp
+211242	PrepNp
+NPofNP
+Np-Appos
+DetCL
+V-IO-ADV
+PrepNp
+DetNP
+211250	S-V-O-ADV
+V-O-ADV-ADV
+NpaNp
+211254	Conj3Pp
+PrepNp
+Np-Appos
+211258	PrepNp
+AdjpNp
+211261	PrepNp
+DetAdj
+NpNump
+211265	S-VC-P
+Np-Appos
+DetNP
+DetCL
+211270	DetNP
+NPofNP
+ClCl
+O-IO-V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+O2CL
+211281	S-VC-P
+NP-CL
+NP-CL
+DetCL
+VC-ADV-ADV-P
+PrepNp
+DetNP
+PrepNp
+DetAdj
+PrepNp
+NpaNp
+Np-Appos
+DetNP
+DetCL
+V-IO-ADV
+PrepNp
+Np-Appos
+DetNP
+211300	DetNP
+NPofNP
+S-V-O-ADV
+NpAdjp
+V2CL
+V-IO
+CLaCL
+ADV-ADV-V-O-S
+P-VC
+DetNP
+NPofNP
+211312	CLaCL
+V2CL
+211315	V-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+211321	DetNP
+ClCl
+V-IO-O
+NP-CL
+S-V-ADV
+sub-CL
+211328	Np2CL
+NP-CL
+NP-Demo
+DetNP
+S-V-O-ADV
+PrepNp
+NPofNP
+S-V-ADV
+211337	Conj-CL
+CLaCL
+CLaCL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+211345	V-O-IO
+DetNP
+211348	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+211355	Conj-CL
+ClCl
+CLaCL
+V-S
+DetNP
+211361	V-O-ADV
+V-O
+DetNP
+NPofNP
+DetNP
+sub-CL
+211368	PrepNp
+NPofNP
+DetNP
+211372	O-V-IO-ADV
+NpaNp
+211375	NpPp
+NpNump
+PrepNp
+DetAdj
+Np2CL
+NPofNP
+211382	Conj-CL
+V-O
+Np-Appos
+NpaNp
+DetNP
+NPofNP
+DetNP
+211390	DetNP
+NPofNP
+Np-Appos
+DetNP
+DetNP
+NP-CL
+O-V-ADV
+V-O
+211399	Conj-CL
+V-O-ADV
+PrepNp
+211404	DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+PrepNp
+DetAdj
+sub-CL
+V-S-O
+DetCL
+V-IO
+DetNP
+V-O-ADV
+PrepNp
+DetNP
+NP-CL
+O-V
+O-ADV-V-ADV-S-ADV-ADV-ADV
+V2CL
+DetNP
+NPofNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+O-V-S-ADV
+DetNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+NP-CL
+CLaCL
+S-V-O-ADV
+PrepNp
+DetNP
+211446	V-O
+V-O-IO
+DetNP
+NPofNP
+211451	Conj-CL
+S-V-IO-O
+211454	Conj-CL
+ClCl
+ADV-S-ADV-V
+DetAdj
+PrepNp
+sub-CL
+211461	DetNP
+CLaCL
+S-ADV-P
+DetNP
+211466	S-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+211472	CLaCL
+ClCl2
+O-V-IO
+AdjpNp
+V-S
+211478	P-S
+NPofNP
+DetNP
+NPofNP
+211483	PtclCL
+S-V-O
+DetNP
+NPofNP
+NP-all
+211490	Np2CL
+AdjpaAdjp
+211493	AdjpDative
+NpaNp
+211496	DetNP
+DetNP
+NPDetAdj
+DetAdj
+211501	sub-CL
+S2CL
+DetNP
+NPofNP
+AdvpNp
+211507	O-ADV-V-S
+NPofNP
+DetNP
+DetNP
+NPofNP
+211513	Conj-CL
+V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+ClCl
+ADV-ADV-S-P-VC
+NpaNp
+211526	CLaCL
+S-V-O-ADV
+DetNP
+PrepNp
+NPofNP
+211532	ADV-V
+211534	Conj-CL
+CLaCL
+ADV-V-ADV
+V-O
+DetNP
+NPofNP
+211541	V-O-ADV
+DetNP
+PrepNp
+211545	Conj-CL
+CLaCL
+ADV-ADV-V-O
+VC-P-ADV
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+NpaNp
+NPofNP
+211556	S-V-ADV
+PrepNp
+NPofNP
+DetNP
+211563	CLaCL
+S-V
+DetNP
+211567	S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+211575	Conj-CL
+CLaCL
+CLaCL
+ADV-V-O
+V-ADV
+NpAdjp
+DetNP
+NPofNP
+211584	V-ADV-ADV
+PrepNp
+211587	ADV-V
+V-ADV
+PrepNp
+DetNP
+211592	Conj-CL
+S-V-O-ADV
+DetNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+VC-P
+211603	Conj-CL
+V-O-ADV
+DetNP
+CLaCL
+V2CL
+211611	Np2CL
+Np-Appos
+DetNP
+NPofNP
+211616	Conj-CL
+211618	V-O
+DetNP
+NpAdjp
+211622	Np2CL
+Demo-NP
+DetNP
+211626	Conj-CL
+ADV-V
+O-V
+211630	Conj-CL
+S-V-ADV
+BeVerb
+DetNP
+NPofNP
+211636	Conj-CL
+V-ADV-S-ADV
+PrepNp
+Demo-NP
+DetNP
+NpAdjp
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+211648	Conj-CL
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+211656	PrepNp
+DetNP
+211659	Conj-CL
+CLaCL
+V-O-S
+DetNP
+NpAdjp
+211665	V-O-ADV
+NpAdjp
+PrepNp
+211669	Conj-CL
+ClCl
+S-V-O-ADV
+DetNP
+ADV-V
+PrepNp
+DetNP
+ADV-V-ADV
+V-O
+aNpaNp
+211681	PrepNp
+211683	Conj-CL
+aCLaCL
+211686	S-V-ADV
+DetCL
+V2CL
+V-O
+DetNP
+211692	S-ADV-V-IO-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+211700	Conj-CL
+V-S-O-ADV-ADV
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetCL
+CLaCL
+V-S
+211712	V-O
+DetNP
+NP-CL
+O-V
+211717	Conj-CL
+CLaCL
+211720	Np2CL
+NPofNP
+DetCL
+V-O
+NpAdjp
+V-ADV
+NpAdjp
+211728	S-V
+AdjpNp
+NpaNp
+V2CL
+211734	Conj-CL
+V-S-ADV
+AdjpNp
+PrepNp
+NP-Demo
+DetNP
+211741	Conj-CL
+211743	NpAdjp
+NpAdjp
+ADV-P
+PrepNp
+DetNP
+CLaCL
+V2CL
+211751	V-O
+DetNP
+NPofNP
+DetNP
+V-O
+VC-P-S
+NpAdjp
+O-V-S-ADV
+NpPp
+2Pp
+PrepNp
+PrepNp
+211764	S-VC-P
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+VC-P
+211772	Conj-CL
+V-O-ADV
+PrepNp
+DetCL
+ADV-ADV-V-O
+AdjpNp
+DetNP
+211780	Conj-CL
+ClCl2
+sub-CL
+V-O-ADV
+DetNP
+V-ADV
+PrepNp
+NpaNp
+DetNP
+NPofNP
+DetNP
+211792	DetNP
+NPofNP
+Np-Appos
+V-S
+aNpaNp
+211800	Conj-CL
+ClCl
+CLaCL
+211804	Np2CL
+DetNP
+AdvpNp
+211808	ADV-V-O
+V2CL
+BeVerb
+DetNP
+ADV-V
+V-O
+S-V
+aNpaNp
+211818	NpAdjp
+211820	Conj-CL
+S-ADV-V-ADV-O
+211823	DetNP
+PpNp2Np
+PrepNp
+that-VP
+V-S-O
+DetNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+NP-CL
+NpaNp
+211837	S-ADV-V-ADV
+V2CL
+PrepNp
+V-O
+NpAdjp
+211843	Conj-CL
+CLaCL
+ADV-V-ADV
+BeVerb
+PrepNp
+NPofNP
+211850	ADV-V-ADV
+VerbBe
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+211858	CLaCL
+ADV-V-O-ADV
+DetNP
+PrepNp
+211863	V-O
+NpAdjp
+211866	Conj-CL
+S-ADV-V-IO-O-ADV
+211869	DetNP
+that-VP
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+DetNP
+211880	ClCl
+V-IO-O
+NP-Demo
+DetNP
+sub-CL
+S-V-O
+PtclCL
+IO-V-O
+DetNP
+NpAdjp
+211891	Conj-CL
+211893	PrepNp
+ClCl
+S-ADV-VC-P
+DetNP
+NPofNP
+PrepNp
+PrepNp
+sub-CL
+V-O
+O-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+211908	ClCl
+ADV-VC-P-S-ADV
+NpaNp
+211912	PrepNp
+NP-Demo
+DetNP
+sub-CL
+S-ADV-VC-P-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+211922	Conj-CL
+ClCl
+CLaCL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+NPofNP
+211931	V-O
+DetNP
+PtclCL
+PtclCL
+V-ADV-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+211941	Conj-CL
+O-V
+P-S-VC
+PrepNp
+NpaNp
+NPofNP
+211948	NPofNP
+211950	Conj-CL
+211952	V2CL
+DetNP
+211955	PrepNp
+PrepNp
+DetNP
+sub-CL
+V-ADV-S
+NPofNP
+PrepNp
+O-V
+211964	Conj-CL
+Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-O
+Conj2VP
+211971	DetNP
+NPofNP
+DetNP
+PrepNp
+211976	O-V
+AdjpNp
+NPofNP
+DetNP
+211981	Conj-CL
+211983	NPofNP
+PrepNp
+211986	CLaCL
+V2CL
+211989	V-ADV-ADV
+PrepNp
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+2Pp
+PrepNp
+PrepNp
+S-VC-P
+212001	Conj-CL
+ADV-V
+V2CL
+212005	Conj-CL
+212007	S-V
+NP-CL
+NP-CL
+Np-Appos
+Np-Appos
+Np-Appos
+NPofNP
+Np-Appos
+NPofNP
+S-VC-P
+PrepNp
+All-NP
+DetNP
+NPofNP
+S-V-ADV-ADV
+V2CL
+PrepNp
+BeVerb
+EitherOrVp
+212028	V-ADV
+PrepNp
+DetNP
+NPofNP
+212033	V-O
+Np-Appos
+DetNP
+212037	Conj-CL
+212039	DetNP
+DetNP
+CLaCL
+V2CL
+212044	V-IO
+NP-Demo
+DetNP
+212048	Conj-CL
+CLaCL
+ADV-S-V-O
+V2CL
+DetNP
+S-V-O
+Np-Appos
+DetNP
+212058	Conj-CL
+PtclCL
+V-O
+O-V
+212063	Conj-CL
+212065	Conj-CL
+212067	ADV-V
+sub-CL
+ADV-S-V-O
+212071	Conj-CL
+V-O
+S-ADV-V-ADV
+DetNP
+V2CL
+PrepNp
+212078	Conj-CL
+212080	S-VC-P
+DetNP
+NP-CL
+NPofNP
+DetNP
+O-V
+CLaCL
+ClCl2
+sub-CL
+S2CL
+ADV-V
+PrepNp
+212093	ClCl2
+sub-CL
+S-ADV-P
+PrepNp
+DetCL
+V-O
+ADV-ADV-V-O
+DetNP
+NPofNP
+ClCl
+ADV-S-V
+PrepNp
+DetNP
+DetNP
+NPofNP
+212109	DetNP
+NPofNP
+sub-CL
+V-ADV-S
+PrepNp
+DetNP
+DetNP
+NPofNP
+212118	Conj-CL
+212120	V2CL
+DetNP
+DetNP
+212125	PrepNp
+DetNP
+ADV2CL
+Conj2Pp
+PrepNp
+212131	PrepNp
+AdjpNp
+212134	Conj-CL
+S-ADV-V-IO-O
+CLaCL
+V-O
+DetNP
+DetNP
+NPofNP
+212142	V-ADV
+PrepNp
+NP-Demo
+DetNP
+DetNP
+212148	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+DetNP
+CLaCL
+V-ADV
+PrepNp
+AdjpNp
+212160	DetNP
+ClCl
+212163	V2CL
+S-V-O
+S-V
+212167	Conj-CL
+CLaCL
+V-O
+V-S
+DetNP
+212173	CLaCL
+V-ADV-ADV-S
+PrepNp
+DetNP
+aNpaNp
+212179	DetNP
+212181	DetNP
+212183	V-O
+212185	Conj-CL
+CLaCL
+212188	sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+212195	ClCl
+ADV-V-O-ADV-S
+DetNP
+sub-CL
+V-ADV-ADV
+DetNP
+NPofNP
+V2CL
+212204	Conj-CL
+CLaCL
+S-V-ADV
+PrepNp
+212209	ADV-V-O-ADV
+V2CL
+NP-all
+DetNP
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+212218	Conj-CL
+212220	DetNP
+ADV-V-O-ADV
+NpaNp
+212224	PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV
+DetNP
+PrepNp
+NpPp
+NpPp
+PrepNp
+PrepNp
+DetNP
+sub-CL
+212238	sub-CL
+V-O
+Np-Appos
+NpAdjp
+P-VC
+DetNP
+aNpaNp
+212247	V2CL
+PrepNp
+212250	Conj-CL
+CLaCL
+ADV-V-S
+PrepNp
+DetCL
+V2CL
+S-V-ADV
+DetNP
+212259	CLaCL
+ADV-O-V-S-ADV
+PrepNp
+DetNP
+212264	ADV-V-O
+V-ADV
+PrepNp
+DetNP
+212269	ClCl2
+ClCl
+Np2CL
+Np2CL
+ADV-O-V
+212275	Conj-CL
+212278	Np2CL
+212280	Conj-CL
+212282	S-VC-P
+NP-CL
+O-S-V
+212286	Conj-CL
+CLaCL
+CLaCL
+V2CL
+212291	V-ADV
+PrepNp
+DetNP
+212295	V-IO-S
+S-V
+Np-Appos
+O-S-V
+212300	Conj-CL
+S-V-ADV-ADV
+Np-Appos
+DetNP
+DetCL
+V-ADV
+aCLaCL
+212308	V-O
+DetNP
+212311	O-V
+212313	Conj-CL
+CLaCL
+V-S-ADV
+PrepNp
+DetNP
+212319	ClCl2
+V-S
+DetNP
+NPofNP
+O-V
+212325	Conj-CL
+ADV-O-V-ADV
+V2CL
+PrepNp
+212330	Conj-CL
+CLaCL
+V-ADV-ADV
+BeVerb
+NpAdjp
+212336	ADV-V
+Conj2VP
+212340	Conj-CL
+CLaCL
+VC-S-P
+NpAdjp
+AdjpNp
+PrepNp
+ADV-P
+212349	PrepNp
+PrepNp
+DetNP
+Np2CL
+212354	Conj-CL
+212357	V2CL
+Np2CL
+212360	Conj-CL
+ClCl
+S-ADV
+DetNP
+PrepNp
+CLaCL
+ADV-V-ADV
+V2CL
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+212374	V-ADV-O
+PrepNp
+NPofNP
+AdjpNp
+P-ADV
+212380	Conj-CL
+212382	V2CL
+212384	V-O
+CLaCL
+S-V
+NpAdjp
+P-ADV
+212390	ClCl
+V-IO-O
+sub-CL
+V2CL
+212395	Conj-CL
+212398	Np2CL
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+CLaCL
+O-IO-V-ADV
+AdjpNp
+DetNP
+NPofNP
+PrepNp
+212410	ADV-V-O-ADV
+NpPp
+PrepNp
+DetNP
+V-O
+All-NP
+DetCL
+V-O
+DetNP
+NPofNP
+212421	Conj-CL
+212423	PrepNp
+DetNP
+ClCl
+ClCl
+V2CL
+sub-CL
+P-VC-ADV-S-ADV
+NPofNP
+DetCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+aNpaNp
+212438	NpaNp
+212441	NPofNP
+sub-CL
+S-V-IO-O
+S-V
+O-S-ADV-V
+PrepNp
+DetNP
+NPofNP
+212450	Conj-CL
+CLaCL
+V-S
+212454	CLaCL
+V-ADV
+PrepNp
+DetNP
+212460	V-ADV-O
+PrepNp
+DetNP
+212464	Np2CL
+Np-Appos
+S-V-O
+Np-Appos
+DetNP
+Np-Appos
+DetCL
+V-IO-ADV
+PrepNp
+DetNP
+NP-CL
+ADV-V
+CLaCL
+V2CL
+212479	V-ADV
+NpAdjp
+212482	Conj-CL
+CLaCL
+CLaCL
+CLaCL
+212487	PrepNp
+ofNPNP
+DetNP
+sub-CL
+S2CL
+212493	V2CL
+212495	ADV-V
+V2CL
+212498	ADV-V
+V-O
+212501	Conj-CL
+CLaCL
+VC-P-ADV
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+NpAdjp
+212511	PrepNp
+DetNP
+DetNP
+that-VP
+S-VC-P
+DetNP
+NPofNP
+DetNP
+212520	Conj-CL
+CLaCL
+V-S
+All-NP
+DetCL
+V2CL
+212528	PtclCL
+CLaCL
+S-VC-P
+DetCL
+V-ADV-O
+PrepNp
+DetCL
+V-O
+NP-Demo
+DetNP
+212539	ClCl
+ADV-ADV-V
+PrepNp
+sub-CL
+ADV-O-V-ADV
+V2CL
+PrepNp
+DetNP
+212548	Conj-CL
+CLaCL
+S-ADV-V
+212552	V-O-ADV
+Np-Appos
+DetCL
+V-ADV
+PrepNp
+212558	that-VP
+S-VC-P
+DetNP
+212562	Conj-CL
+ClCl2
+sub-CL
+V-S
+NpAdjp
+V-S-O
+DetAdj
+V-O
+212571	Conj-CL
+V-IO-S
+DetNP
+DetNP
+NPofNP
+212577	Conj-CL
+212579	AdvpNp
+DetNP
+aNpaNp
+212584	sub-CL
+O-V
+212587	Conj-CL
+ADV-S-ADV-ADV-V-O-ADV
+V2CL
+DetNP
+NPofNP
+PrepNp
+DetNP
+V-ADV
+PrepNp
+212597	Conj-CL
+ADV-V-O
+V-ADV
+PrepNp
+V-IO
+DetNP
+212604	Conj-CL
+S-V-O-ADV
+212607	that-VP
+VC-P
+212610	Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-O
+PrepNp
+DetNP
+212618	CLaCL
+CLaCL
+ADV-ADV-V-O
+PrepNp
+DetNP
+DetNP
+212625	that-VP
+V-IO
+212628	ADV-ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+212634	Conj-CL
+212636	BeVerb
+PrepNp
+Conj2VP
+212640	PrepNp
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV
+EitherOrVp
+212650	PrepNp
+DetNP
+212653	Conj-CL
+S-V-O
+V-O
+212657	Conj-CL
+CLaCL
+ADV-S-V-O-ADV
+V2CL
+DetNP
+PrepNp
+212664	V-O-ADV
+PrepNp
+212667	Conj-CL
+Conj-CL
+CLaCL
+S-ADV-V-O-ADV
+DetNP
+PrepNp
+All-NP
+DetNP
+Conj3Np
+212678	V2CL
+212680	ADV-V
+V-ADV
+NpaNp
+DetNP
+NPofNP
+DetNP
+212687	DetNP
+NPofNP
+DetNP
+AdjpNp
+212692	Conj-CL
+V-S
+S-ADV-V-ADV
+V-ADV
+PrepNp
+AdvPp
+PrepNp
+Np-Appos
+DetAdj
+DetCL
+V-ADV
+212704	Conj-CL
+V-ADV-O
+NP-CL
+NpAdjp
+NpAdjp
+NpAdjp
+ADV-P
+ADV-V-ADV
+PrepNp
+NpNump
+PrepNp
+S-VC-P
+V2CL
+212718	Conj-CL
+212720	DetNP
+212722	Np2CL
+V-O-S
+Np-Appos
+CLaCL
+V2CL
+212728	V-IO
+212730	Conj-CL
+ADV-V
+212733	Conj-CL
+212735	V-O-S
+All-NP
+DetCL
+V-ADV
+NpaNp
+212741	DetNP
+PrepNp
+DetNP
+212745	Conj-CL
+P-VC-S
+PrepNp
+AdjpNp
+NpAdjp
+ADV-P
+NP-CL
+S-ADV-VC-P
+V2CL
+212755	S-VC-P-ADV
+NP-CL
+NpaNp
+NpAdjp
+212760	O-V
+212762	Conj-CL
+V-ADV-S
+PrepNp
+NP-Demo
+DetNP
+ADV-S-V
+V2CL
+212770	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+212775	Conj-CL
+ClCl2
+VC-S-P
+PrepNp
+DetNP
+S-ADV-V-O-ADV-ADV
+DetNP
+212783	that-VP
+S-VC-P
+PrepNp
+NumpNP
+PrepNp
+212789	ADV-V-O
+V-ADV
+PrepNp
+212793	Conj-CL
+212795	V2CL
+CLaCL
+O-ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+212802	V-ADV-S-ADV
+All-NP
+DetNP
+CLaCL
+V2CL
+212808	V-O
+NP-CL
+NpaNp
+212812	O-V-ADV-S
+P-VC
+PrepNp
+DetNP
+212817	Conj-CL
+CLaCL
+S-ADV-V
+CLaCL
+V-ADV-O
+DetNP
+212824	V-O
+DetNP
+212828	V-ADV
+PrepNp
+DetNP
+212832	Np2CL
+212834	Conj-CL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+212840	ADV-V
+V-O
+DetNP
+212844	Conj-CL
+CLaCL
+ADV-V-O
+V-IO-O
+212849	ADV-V-O-O2
+V-O
+NpaNp
+DetAdj
+212854	DetNP
+V2CL
+212857	Conj-CL
+CLaCL
+P-VC-ADV
+PrepNp
+All-NP
+DetNP
+212864	V-S-ADV
+PrepNp
+DetNP
+212868	Conj-CL
+V-S
+ADV-V-ADV-ADV
+NpAdjp
+PrepNp
+PrepNp
+Np-Appos
+AdjpNp
+212877	Conj-CL
+S-V-ADV-ADV-ADV-O
+NpAdjp
+NpAdjp
+Np-Appos
+NpAdjp
+NpPp
+NpAdjp
+PrepNp
+ADV-P
+NpPp
+PrepNp
+Np-Appos
+DetCL
+VC-P
+AdjpaAdjp
+212894	V-O-ADV
+DetNP
+PrepNp
+All-NP
+DetNP
+NPofNP
+AdjpaAdjp
+V-O-IO
+NpAdjp
+DetNP
+212905	V-O-ADV
+DetNP
+PrepNp
+PrepNp
+AdvPp
+PrepNp
+NPofNP
+NpAdjp
+DetNP
+CLaCL
+S-V-ADV
+NPofNP
+DetNP
+PrepNp
+212921	Np2CL
+212923	Conj-CL
+212925	CLaCL
+V-O
+212928	P-VC
+212930	Np2CL
+212932	Conj-CL
+212934	S-V-ADV-ADV
+NpaNp
+DetNP
+NPofNP
+212939	DetNP
+NPofNP
+PrepNp
+PrepNp
+DetNP
+212945	Conj-CL
+CLaCL
+ADV-V-O-ADV
+PrepNp
+212950	V-O
+NP-CL
+NpAdjp
+S-VC-P
+212955	S-V-ADV
+PrepNp
+NP-CL
+Np-Appos
+AdjpNp
+P-VC-S-ADV
+PrepNp
+212963	Conj-CL
+ClCl2
+sub-CL
+V-S
+Np-Appos
+DetNP
+DetCL
+V-IO
+ADV-V-O-ADV
+CLaCL
+V-O
+NpaNp
+NPofNP
+DetNP
+212978	NPofNP
+NpAdjp
+DetCL
+V-O
+212983	V-O-IO
+PrepNp
+DetNP
+212987	Conj-CL
+ADV-ADV-V-S-ADV-ADV-ADV
+DetAdv
+CLaCL
+V-S
+212993	ADV-V
+DetNP
+PrepNp
+DetNP
+V2CL
+PrepNp
+NpAdjp
+213001	Conj-CL
+CLaCL
+VC-P
+213005	V-O
+V2CL
+213008	Conj-CL
+ClCl2
+V-S
+CLaCL
+V-ADV-S
+PrepNp
+213015	V-O
+CLaCL
+S-V
+DetNP
+213021	NpAdjp
+sub-CL
+S2CL
+NpAdjp
+ADV-V-ADV
+AdjpNp
+PrepNp
+DetNP
+P-VC-S
+PrepNp
+All-NP
+DetNP
+NpaNp
+NPofNP
+NpaNp
+213037	DetNP
+213039	NPofNP
+DetNP
+213042	Conj-CL
+213044	PrepNp
+213046	V2CL
+Np2CL
+Conj2VP
+213051	Conj-CL
+213053	DetNP
+ClCl
+213056	Np2CL
+sub-CL
+ADV-V-O
+All-NP
+NpaNp
+213063	Conj-CL
+213065	PrepNp
+PrepNp
+O-S-ADV-V
+O-S-V
+DetNP
+213071	Conj-CL
+CLaCL
+S-V-ADV
+PrepNp
+213076	ADV-V-S-ADV
+DetNP
+PrepNp
+DetNP
+213081	Conj-CL
+ClCl2
+sub-CL
+ADV-V-S-O
+PrepNp
+DetNP
+PtclCL
+P-VC-S
+DetNP
+NP-CL
+O-V
+213093	S-ADV-V-ADV
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+V-O
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+213107	ADV-V-O
+V2CL
+PtclCL
+S-ADV-V
+Np-Appos
+DetCL
+VC-P
+213115	Conj-CL
+213117	S-V-ADV
+DetNP
+PrepNp
+DetNP
+DetNP
+CLaCL
+213124	NpNump
+213126	ClCl
+CLaCL
+ADV-V
+V2CL
+213131	V-ADV-ADV
+PrepNp
+O-V
+sub-CL
+S-V-O
+213137	Conj-CL
+213139	V2CL
+PrepNp
+DetNP
+213143	S-VC-P
+O-V
+P-S
+DetNP
+NP-CL
+ADV-V
+PrepNp
+213151	Conj-CL
+213153	S-V-ADV-ADV
+Np-Appos
+Np-Appos
+NpAdjp
+Conj3Adjp
+213159	V-O
+DetNP
+213162	V-ADV
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetAdj
+PrepNp
+NpAdjp
+CLaCL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+213176	V-O-ADV
+PrepNp
+213179	Conj-CL
+ADV-V
+V-O
+213183	Conj-CL
+CLaCL
+ADV-ADV-V-ADV
+DetAdv
+V2CL
+PrepNp
+213190	S-V-ADV
+NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+213197	Conj-CL
+ADV-V-ADV
+DetAdv
+PrepNp
+DetNP
+213203	Conj-CL
+S-V-O-ADV
+DetNP
+BeVerb
+V-O
+NpaNp
+DetNP
+NPofNP
+213212	DetNP
+AdjpNp
+213215	Conj-CL
+213217	sub-CL
+V-ADV
+DetCL
+V-S
+DetNP
+V-O
+DetNP
+V-ADV
+PrepNp
+DetNP
+213228	Conj-CL
+S-V-O-ADV
+DetNP
+213232	ClCl
+V2CL
+S-P-VC
+AdvpNp
+NpPron
+213238	Conj-CL
+CLaCL
+CLaCL
+ADV-V
+V-ADV
+213244	V-O
+V-S
+213248	PrepNp
+S-V-O
+ADV-P-VC-ADV-S
+NpAdjp
+V-ADV
+Conj2VP
+213256	IO-S-V-O
+DetNP
+O-O2-V
+AdjpNp
+AdjpaAdjp
+213263	Conj-CL
+ADV-ADV-V-ADV
+V2CL
+213267	Conj-CL
+V-O
+ADV-V-O
+AdjpNp
+213272	Conj-CL
+213274	DetNP
+CLaCL
+ADV-V-ADV-ADV
+2Pp
+PrepNp
+AdjpNp
+PrepNp
+Demo-NP
+DetNP
+BeVerb
+DetAdj
+PrepNp
+DetNP
+NPofNP
+213290	S-V-ADV-ADV
+PrepNp
+PrepNp
+NpAdjp
+213297	Np2CL
+V-S
+ofNPNP
+DetNP
+213302	S-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+213308	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+213313	V-O
+NP-CL
+S-VC-P
+213317	S-V-ADV-ADV
+PrepNp
+NPofNP
+Np-Appos
+PrepNp
+213323	Conj-CL
+CLaCL
+ADV-V-ADV
+PrepNp
+213328	S-ADV-V-ADV
+V2CL
+213331	Conj-CL
+ADV-S-ADV-V-ADV
+All-NP
+PrepNp
+DetNP
+V-O
+All-NP
+DetCL
+V-IO-ADV
+PrepNp
+DetNP
+213343	Conj-CL
+213345	V-O
+DetNP
+213348	PrepNp
+that-VP
+notCLbutCL2CL
+VC-P-S
+DetNP
+ADV-S-P-ADV-VC
+PrepNp
+All-NP
+DetCL
+CLaCL
+V-O
+213360	V-O
+213363	O-S-V
+DetNP
+NP-CL
+O-V-IO-ADV
+DetNP
+NPofNP
+V-O-ADV
+PrepNp
+NP-CL
+Np-Appos
+S-VC-P
+ofNPNP
+2Np
+DetNP
+NP-CL
+V-ADV-ADV-ADV
+PrepNp
+All-NP
+DetNP
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NP-CL
+O-V-S
+NP-CL
+NP-CL
+Np-Appos
+NpPp
+PrepNp
+sub-CL
+V-O-S-ADV
+DetNP
+NpaNp
+NpAdjp
+213401	S-V-ADV
+CLaCL
+V2CL
+213405	V-O
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetAdj
+S-VC-P
+DetNP
+PrepNp
+213415	Conj-CL
+213417	NPofNP
+NP-CL
+O-V-ADV
+aPpaPp
+213422	PrepNp
+DetNP
+NPofNP
+DetAdj
+213427	O-ADV-V-ADV
+V-ADV
+PrepNp
+213431	CLaCL
+O-S-V-ADV
+DetNP
+PrepNp
+DetNP
+AdjpNp
+213438	V-O
+S-P-VC-ADV
+notNPbutNP
+All-NP
+DetNP
+NP-CL
+Np-Appos
+Np-Appos
+DetCL
+V-ADV
+PrepNp
+DetNP
+S-V-ADV-ADV
+Conj2VP
+213453	PrepNp
+DetCL
+V-S-ADV
+PrepNp
+213458	Conj-CL
+V-IO-O
+CLaCL
+V-IO
+DetNP
+213465	that-VP
+S-VC-P
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+V2CL
+213477	IO-S-V-O
+All-NP
+DetNP
+O-V-ADV-S
+NPofNP
+PrepNp
+DetNP
+NPofNP
+All-NP
+DetCL
+V-ADV
+PrepNp
+213491	ADV-V-S-O
+DetNP
+NP-Demo
+DetNP
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+All-NP
+DetCL
+V-O
+DetNP
+213504	Conj-CL
+213506	NP-CL
+DetNP
+PpNp2Np
+PrepNp
+S-V-ADV
+DetNP
+sub-CL
+ADV-S-V
+AdvPp
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+AdjpNp
+213522	Conj-CL
+V-O
+CLaCL
+S-V-ADV
+213527	V-O
+DetNP
+213531	PtclCL
+O-V-S-ADV
+O-V
+DetNP
+DetCL
+ADV-V-S
+NP-CL
+213539	S-O-V
+DetNP
+NPDetAdj
+DetAdj
+S2CL
+AdvpNp
+213546	Conj-CL
+V-O
+S-ADV-V
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+213554	ADV-V-O
+S-V-ADV
+NpAdjp
+213558	Conj-CL
+213560	NpaNp
+DetNP
+213563	Np-Appos
+DetNP
+DetCL
+VC-P
+PrepNp
+DetNP
+that-VP
+S-V-O
+AdvpNp
+DetNP
+DetNP
+NPofNP
+DetNP
+213577	Conj-CL
+ClCl2
+sub-CL
+V-S-ADV
+PrepNp
+V-ADV-S-ADV
+PrepNp
+NpPp
+PrepNp
+213587	that-VP
+CLaCL
+V-ADV
+PrepNp
+NpAdjp
+O-V
+213594	V-ADV
+213596	Conj-CL
+ADV-S-V-IO-ADV-ADV
+V2CL
+213600	CLaCL
+S-V-ADV
+BeVerb
+PrepNp
+Np-Appos
+213606	CLaCL
+V-ADV-O
+PrepNp
+Np-Appos
+213611	NpAdjp
+sub-CL
+S-ADV-V-ADV
+NpAdjp
+AdjpNp
+PrepNp
+DetNP
+213619	V-ADV
+PrepNp
+213622	CLaCL
+ADV-V
+ADV-V
+PrepNp
+213627	V-O
+Conj4Np
+DetNP
+NPofNP
+DetNP
+213633	DetNP
+213635	DetNP
+213637	DetNP
+NPofNP
+DetNP
+213641	Conj-CL
+V-ADV-O
+213645	V2CL
+Np2CL
+Conj2VP
+213650	Conj-CL
+213652	ClCl
+213654	Np2CL
+sub-CL
+S-ADV-V-ADV
+AdjpaAdjp
+213659	PrepNp
+DetNP
+NPofNP
+213663	Conj-CL
+213665	PrepNp
+PrepNp
+DetNP
+O-S-ADV-V
+O-S-V
+DetNP
+213672	Conj-CL
+CLaCL
+S-V-ADV
+PrepNp
+213677	V-ADV-S-ADV
+PrepNp
+DetNP
+213681	Conj-CL
+213683	AdjpNp
+PrepNp
+DetNP
+NP-CL
+P-VC
+PrepNp
+V-ADV-ADV
+PrepNp
+PrepNp
+213693	Conj-CL
+V-S-IO-O
+DetNP
+V-ADV-ADV
+O-V
+213699	Conj-CL
+CLaCL
+V-ADV-S
+PrepNp
+AdvpNp
+NP-Demo
+DetNP
+NumpNP
+213708	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+213714	Conj-CL
+213716	sub-CL
+V-O
+CLaCL
+S-ADV-V
+DetNP
+PrepNp
+DetNP
+NPofNP
+213726	CLaCL
+V-ADV
+PrepNp
+213730	V-O
+NP-CL
+Np-Appos
+DetCL
+VC-P
+213736	S-V-O-ADV
+PrepNp
+PrepNp
+NpaNp
+213741	All-NP
+DetNP
+NPofNP
+213745	Conj-CL
+213747	PrepNp
+DetCL
+V-S-O
+V2CL
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+sub-CL
+ADV-ADV
+AdvPp
+PrepNp
+PrepNp
+213761	Conj-CL
+213763	DetNP
+NPofNP
+DetNP
+sub-CL
+213768	aCLaCL
+213770	S-V-ADV
+213772	S-V-ADV
+PrepNp
+NpAdjp
+213776	Conj-CL
+ClCl2
+sub-CL
+ClCl
+O-V-IO-S
+DetNP
+AdjpNp
+DetNP
+sub-CL
+IO-ADV
+AdvpNp
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+Np-Appos
+ClCl
+S-P-VC
+P2CL
+AdjpCL
+V-O
+DetNP
+213799	Conj-CL
+CLaCL
+ADV-V
+V-O
+213804	V-O-ADV
+DetNP
+213807	Conj-CL
+IO-S-O-V
+AdvpNp
+DetNP
+DetNP
+DetNP
+NpPp
+PrepNp
+213816	Conj-CL
+Conj-CL
+S-V-ADV-ADV
+DetCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+PrepNp
+Conj3Np
+213832	DetNP
+sub-CL
+ADV-ADV-IO
+213836	Conj-CL
+213838	VC-S-P
+NpPp
+PrepNp
+Np-Appos
+NpaNp
+213844	V-ADV
+PrepNp
+AdvPp
+PrepNp
+DetNP
+V-O
+Np-Appos
+DetNP
+213853	Conj-CL
+CLaCL
+VC-S-P
+NPofNP
+PrepNp
+213859	S-V-ADV
+Np-Appos
+AdjpNp
+DetCL
+V2CL
+PrepNp
+DetNP
+213867	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+VC-P
+PrepNp
+PrepNp
+213883	V-O-ADV
+PrepNp
+CLaCL
+S-ADV-V
+CLaCL
+V2CL
+213890	V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+213896	V-O
+S-ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+DetNP
+VC-P
+NpAdjp
+AdjpaAdjp
+213906	AdjpAdvp
+NpaNp
+NpAdjp
+213911	Conj-CL
+V-S-IO
+NpAdjp
+DetNP
+213916	Conj-CL
+CLaCL
+V-ADV-ADV
+PrepNp
+V-O
+213922	ADV-V-ADV
+V2CL
+PrepNp
+213926	Conj-CL
+V-ADV-S
+CLaCL
+CLaCL
+ADV-V-ADV
+AdvpNp
+NP-all
+PrepNp
+DetNP
+213936	V-O
+NpAdjp
+213939	VC-ADV-ADV-S-P
+PrepNp
+DetNP
+213943	Conj-CL
+ADV-V-ADV-S-ADV
+PrepNp
+Demo-NP
+DetNP
+PrepNp
+PrepNp
+213951	Conj-CL
+213953	V2CL
+NpAdjp
+NpPp
+PrepNp
+ADV-P
+PrepNp
+DetNP
+S-V-O
+NpAdjp
+VC-P
+PrepNp
+All-NP
+DetNP
+S-V-ADV
+PrepNp
+213969	Conj-CL
+213971	Np2CL
+DetNP
+sub-CL
+V-S
+213976	NPofNP
+ADV-V-IO
+PrepNp
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+DetNP
+O-ADV-V-ADV
+V-ADV-ADV
+PrepNp
+DetAdj
+PrepNp
+NPofNP
+NpaNp
+213993	Conj-CL
+ADV-V-S-O-ADV
+PrepNp
+Demo-NP
+DetNP
+Np-Appos
+DetNP
+DetNP
+V-O
+NPofNP
+NpPp
+PrepNp
+DetNP
+214007	Conj-CL
+V-O-ADV
+Np-Appos
+DetNP
+NPofNP
+214013	Conj-CL
+214015	CLaCL
+ADV-V-O
+214018	that-VP
+P-VC-ADV
+DetAdj
+V-O
+AdvpNp
+214024	VC-P
+NPofNP
+DetAdj
+O-ADV-V
+PrepNp
+V-IO-ADV
+AdjpNp
+NPofNP
+V-O
+V-O
+ADV-V-O-IO
+PrepNp
+DetNP
+DetNP
+214039	Conj-CL
+aCLaCL
+214042	S-V-ADV
+DetNP
+PrepNp
+DetNP
+214047	S-VC-ADV-ADV-P-ADV
+BeVerb
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+214055	Conj-CL
+ClCl2
+sub-CL
+V-O-S
+V-O
+DetNP
+CLaCL
+ADV-S-V-ADV-ADV
+NP-Demo
+DetNP
+BeVerb
+DetNP
+PrepNp
+NumpNP
+V-ADV
+NpAdjp
+214072	S-ADV-V-O
+PrepNp
+DetNP
+DetNP
+214077	Conj-CL
+214079	S-V
+NPofNP
+214082	S-V-ADV
+PrepNp
+DetNP
+214086	Conj-CL
+ADV-V-O-ADV
+V-O
+DetNP
+NPofNP
+DetNP
+214093	V-ADV
+PrepNp
+214096	Conj-CL
+V-S-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+214103	Conj-CL
+214105	DetNP
+PrepNp
+CLaCL
+V2CL
+214110	V-O
+DetNP
+NPofNP
+214114	Conj-CL
+V-ADV
+214117	Conj-CL
+214119	CLaCL
+V-O
+DetNP
+NPofNP
+214124	V-O
+214126	Conj-CL
+CLaCL
+ADV-V
+V2CL
+214131	notCLbutCL2CL
+214133	that-VP
+P-VC-S
+DetCL
+V-ADV
+PrepNp
+DetNP
+V-O
+O-V
+214142	Conj-CL
+CLaCL
+CLaCL
+ADV-V-ADV
+V-ADV
+AdjpNp
+AdjpaAdjp
+214150	PrepNp
+NP-CL
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+DetCL
+V-ADV
+PrepNp
+DetNP
+S-ADV-V-IO
+214162	ADV-V-ADV
+V2CL
+NpAdjp
+214166	ADV-V-S-ADV
+DetNP
+PrepNp
+214170	Conj-CL
+214172	DetNP
+ADV-V
+PrepNp
+214176	that-VP
+CLaCL
+V-S-O
+DetNP
+DetNP
+NPofNP
+214183	V-O-ADV
+PrepNp
+NpaNp
+NPofNP
+214188	All-NP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetAdj
+214195	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NP-CL
+NPofNP
+Np-Appos
+DetNP
+DetNP
+NPofNP
+Np-Appos
+DetCL
+VC-P
+ADV-S-V
+BeVerb
+Conj2VP
+214214	Conj-CL
+ClCl2
+V-S-O
+DetNP
+NPofNP
+DetNP
+V-ADV-S
+NpAdjp
+V2CL
+ADV-P
+214225	Conj-CL
+CLaCL
+ADV-ADV-ADV-V-O
+V-O
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+DetNP
+214236	ADV-V-O
+V2CL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+214243	Conj-CL
+214245	PrepNp
+V2CL
+214248	Conj-CL
+S-V-O
+P-VC
+214252	Conj-CL
+214254	P-VC-ADV
+DetNP
+214257	Conj-CL
+S-V-O
+DetNP
+V2CL
+214262	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+214267	V2CL
+214269	Conj-CL
+CLaCL
+ADV-V-IO-O
+V-IO-ADV-ADV
+DetNP
+V2CL
+ADV-S-O-V-ADV
+DetNP
+PrepNp
+DetNP
+214281	V-IO-O
+NpaNp
+214284	DetNP
+214286	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+AdjpNp
+214292	Conj-CL
+214294	V-S
+NpAdjp
+AdvpAdjp
+PrepNp
+DetNP
+sub-CL
+P-S-VC
+DetNP
+214303	Conj-CL
+CLaCL
+S-ADV-ADV-V-O
+CLaCL
+V-O
+214309	ADV-V
+V-O
+DetNP
+V2CL
+214314	ADV-V
+V-ADV
+2Pp
+PrepNp
+DetNP
+PrepNp
+214321	Conj-CL
+V-O
+BeVerb
+NpaNp
+214327	Conj-CL
+CLaCL
+ADV-V-ADV
+PrepNp
+214332	ADV-V-O-ADV
+V-O
+Np-Appos
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+V-S-ADV
+ofNPNP
+DetNP
+PrepNp
+DetAdj
+214348	Conj-CL
+ADV-S-ADV-ADV-V-ADV
+AdjpNp
+DetNP
+V-O
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+PrepNp
+214359	Conj-CL
+214361	DetNP
+CLaCL
+P2CL
+ofNPNP
+214366	ADV-P
+214368	Conj-CL
+CLaCL
+ADV-V-O-S-ADV
+NPofNP
+PrepNp
+ADV-ADV-V-O-IO
+DetNP
+DetNP
+214377	ADV-V
+VC-P
+214380	Conj-CL
+S-V
+DetNP
+NPofNP
+DetNP
+Conj2VP
+214388	Conj-CL
+S-V-ADV-ADV-ADV
+NpaNp
+214392	PrepNp
+V-O
+DetNP
+V-O
+Np-Appos
+DetCL
+VC-P
+214400	Conj-CL
+VC-P-ADV-S
+PrepNp
+PrepNp
+DetNP
+AdjpNp
+V2CL
+Np-Appos
+NpaNp
+214410	aNpaNp
+214412	Conj3Np
+DetNP
+214415	Np-Appos
+DetCL
+VC-P
+214419	Np-Appos
+DetNP
+214422	NpaNp
+Np-Appos
+ofNPNP
+Np-Appos
+DetNP
+214429	Conj-CL
+ClCl2
+CLaCL
+V-S-O
+DetNP
+214435	V2CL
+214437	DetNP
+NPDetAdj
+DetAdj
+PtclCL
+V-IO-O-ADV
+DetNP
+NpaNp
+214445	PrepNp
+DetNP
+NP-CL
+ADV-V-O
+214450	ADV-ADV-V
+Conj3CL
+V2CL
+214454	V2CL
+214456	V-O-IO
+DetNP
+214459	Conj-CL
+Conj-CL
+CLaCL
+CLaCL
+S-ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+AdjpNp
+PrepNp
+214470	ADV-V-ADV
+PrepNp
+214473	ADV-V-O-ADV
+VC-P
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetAdj
+214484	Conj-CL
+V-O-O2
+AdvpNp
+214488	Conj-CL
+ADV-V-O
+V-ADV-ADV
+All-NP
+DetNP
+PrepNp
+NP-CL
+NP-CL
+Np-Appos
+Np-Appos
+NpAdjp
+NpAdjp
+ADV-S-P
+S-VC-P
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+Np-Appos
+NpAdjp
+214509	S-ADV-V-O
+V-O
+NpaNp
+214513	V-O
+DetNP
+NPofNP
+DetNP
+214518	Conj-CL
+V-O-S-ADV
+NP-CL
+Np-Appos
+DetNP
+sub-CL
+ADV-V-S
+DetNP
+NPofNP
+V-O
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+214533	Conj-CL
+214535	Np-Appos
+DetNP
+AdvpNp
+V-ADV
+NpAdjp
+V-ADV
+PrepNp
+ClCl2
+214544	Np2CL
+Np2CL
+NpAdvp
+NpaNp
+All-NP
+214550	All-NP
+Np2CL
+NPofNP
+Np2CL
+NPofNP
+All-NP
+ADV-V-O
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetAdj
+214564	Conj-CL
+214566	ADV2CL
+214568	NPofNP
+PrepNp
+214571	VC-P-ADV
+ADV-V-O-ADV
+DetNP
+PrepNp
+214576	Conj-CL
+CLaCL
+ADV-V-ADV-S
+PrepNp
+NpaNp
+214583	ADV-V-O
+V2CL
+214586	ADV-S-ADV-V-ADV
+V-O
+DetNP
+DetCL
+V2CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+214597	Conj-CL
+ADV-S-V-ADV
+V-ADV
+PrepNp
+DetNP
+NpPp
+PrepNp
+PrepNp
+NPofNP
+DetNP
+214608	Conj-CL
+S-ADV-V-ADV
+V-ADV
+PrepNp
+PrepNp
+214614	Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+NPDetAdj
+DetAdj
+214624	ADV-V
+V-ADV-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+214632	Conj-CL
+ADV-V-S-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+DetNP
+214640	DetNP
+DetNP
+PrepNp
+214644	ClCl2
+ClCl
+Np2CL
+Np2CL
+ClCl2
+sub-CL
+VC-P-S
+AdjpNp
+PrepNp
+NpPp
+NPofNP
+PrepNp
+DetNP
+V2CL
+214659	Conj-CL
+S-ADV-V
+CLaCL
+V2CL
+214664	V-ADV
+DetNP
+214667	ClCl2
+CLaCL
+ClCl
+Np2CL
+Np2CL
+214673	Np2CL
+DetCL
+V-O
+DetNP
+V2CL
+214679	ClCl
+CLaCL
+S-V-O
+DetNP
+NPofNP
+Np-Appos
+NP-Demo
+DetNP
+DetNP
+NPofNP
+214690	CLaCL
+CLaCL
+CLaCL
+O-V-ADV
+DetNP
+PrepNp
+DetNP
+NpPp
+PrepNp
+NPofNP
+214701	ADV-V-O-ADV
+PrepNp
+NpAdjp
+PrepNp
+214706	ADV-V-O-ADV
+AdvpNp
+AdjpNp
+PrepNp
+DetAdj
+214712	ADV-V-O
+V-O
+NpPp
+NpNump
+PrepNp
+NPofNP
+DetNP
+NPofNP
+ADV2CL
+AdvpNp
+NpNump
+Conj2Nump2
+214725	Conj-CL
+ADV-V-O-ADV
+PrepNp
+PrepNp
+NPofNP
+214731	CLaCL
+ADV-V-O
+214734	V-IO-S-O-ADV
+DetNP
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+NPofNP
+NpNump
+214745	Conj-CL
+ClCl
+ADV-V-O-IO-ADV
+V-O
+DetNP
+PrepNp
+214752	IO-ADV-V-ADV
+V2CL
+NP-CL
+Np-Appos
+Np-Appos
+NPofNP
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+S-V-O
+All-NP
+DetNP
+NPofNP
+214769	PrepNp
+ofNPNP
+DetNP
+DetNP
+PrepNp
+DetNP
+Np-Appos
+V-S-ADV-O-IO
+PrepNp
+NPofNP
+DetNP
+NPofNP
+NPofNP
+All-NP
+DetNP
+NPofNP
+214786	Conj-CL
+ClCl2
+sub-CL
+V-S-O
+DetNP
+214793	P-S-VC
+notCLbutCL2CL
+VC-S
+214797	PrepNp
+ADV-ADV-VC-P-ADV
+O-V
+DetNP
+NPofNP
+DetNP
+214804	ClCl2
+ClClCl
+Np2CL
+Np2CL
+Np2CL
+NpaNp
+NPofNP
+NPofNP
+214813	NpAdjp
+NpPp
+PrepNp
+V-O
+DetNP
+IO-S-V
+DetNP
+NPofNP
+NP-Demo
+DetNP
+214824	Conj-CL
+CLaCL
+S-ADV-ADV-V
+NpaNp
+DetCL
+V-ADV
+PrepNp
+214832	DetNP
+NPofNP
+CLaCL
+O-V
+214837	O2CL
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+ADV-V
+PrepNp
+All-NP
+V2CL
+214848	ADV-V-O-O2
+O-V
+AdjpNp
+NPofNP
+V-S
+214854	Conj-CL
+ClCl2
+sub-CL
+V-O
+All-NP
+DetCL
+ADV-V
+PrepNp
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+214868	Conj-CL
+214870	S-V-O-ADV
+DetNP
+PrepNp
+PrepNp
+NpAdjp
+NP-CL
+DetCL
+V-ADV-ADV
+2Pp
+PrepNp
+DetNP
+PrepNp
+S-ADV-VC-P-ADV
+NPofNP
+PrepNp
+DetNP
+214887	Conj-CL
+214889	DetNP
+AdjpNp
+ADV-V
+PrepNp
+DetNP
+that-VP
+ClCl
+O-S-V-IO-ADV
+DetNP
+DetNP
+NPofNP
+V-O
+sub-CL
+214903	AdvPp
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+ClCl
+P-VC-S
+NPofNP
+S-ADV-V-O
+214913	Conj-CL
+214915	that-VP
+V-O-ADV-ADV
+PrepNp
+ADV-V-O
+V-ADV
+PrepNp
+that-VP
+V-IO-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+214928	Conj-CL
+214930	AdvPp
+PrepNp
+ADV-V-O
+S-V-O
+DetNP
+NPofNP
+214937	Conj-CL
+aCLaCL
+214940	Conj3CL
+S-ADV-V
+ADV-V-O
+AdjpNp
+DetNP
+ofNPNP
+DetNP
+214948	V-ADV
+PrepNp
+DetNP
+NPofNP
+214953	V-O
+214955	S-ADV-V-O
+O-S-V
+DetNP
+214959	Conj-CL
+214961	P-VC-ADV
+ClCl
+Np2CL
+Np2CL
+that-VP
+CLaCL
+ADV-IO-S-V
+PrepNp
+NPofNP
+214971	ADV-ADV-S-V
+PrepNp
+NP-CL
+ADV-ADV-V-O
+ADV-V
+PrepNp
+NPofNP
+PrepNp
+All-NP
+DetCL
+V2CL
+214983	Conj-CL
+ClCl
+V2CL
+PtclCL
+V-S
+DetCL
+214990	PrepNp
+DetNP
+ClCl
+Conj3CL
+214995	Np2CL
+DetNP
+214998	V2CL
+215000	V2CL
+sub-CL
+215003	O-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+NP-CL
+215009	O-ADV-V
+2Advp_h1
+S-V-IO
+215013	Conj-CL
+ClCl2
+V-S
+V-O
+ADV-V-IO-S
+PrepNp
+DetNP
+AdvpNp
+NP-Demo
+DetNP
+215024	Conj-CL
+ClCl2
+V-S
+DetNP
+V-S-O
+NPofNP
+NpaNp
+DetAdj
+215033	DetNP
+AdjpNp
+V2CL
+NP-CL
+NpaNp
+DetNP
+215040	DetNP
+S-ADV-V-O
+V-IO
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+215048	Conj-CL
+ADV-S-V-ADV
+DetNP
+AdjpNp
+V2CL
+AdvpNp
+All-NP
+DetNP
+V-O
+DetNP
+NPofNP
+DetNP
+215061	Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-O
+DetAdj
+DetNP
+215068	V-IO-ADV
+DetCL
+ADV-V
+PrepNp
+V2CL
+215074	Conj-CL
+215076	V2CL
+NpaNp
+DetNP
+215080	DetNP
+VC-P-S
+IO-ADV-V-S
+DetNP
+NPofNP
+DetNP
+215087	ClCl2
+sub-CL
+CLaCL
+V-O
+215092	ADV-V-O-O2
+AdjpAdvp
+DetNP
+AdjpNp
+215097	PrepNp
+DetNP
+215100	Conj-CL
+215102	DetNP
+V-O-ADV-ADV
+PrepNp
+NPofNP
+DetCL
+VC-S-P-ADV
+PrepNp
+PrepNp
+NPofNP
+DetNP
+215113	Conj-CL
+CLaCL
+CLaCL
+ADV-S-V
+V2CL
+DetNP
+215120	V-O
+DetNP
+NPofNP
+DetNP
+215125	V-S
+S-V-ADV
+BeVerb
+PrepNp
+NpAdjp
+215131	Conj-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+All-NP
+DetNP
+215140	Conj-CL
+CLaCL
+S-V-O
+DetAdj
+NpaNp
+DetNP
+AdjpNp
+V2CL
+NPDetAdj
+DetAdj
+215151	DetNP
+NPofNP
+DetNP
+215155	CLaCL
+V-O-ADV
+PrepNp
+DetNP
+NpaNp
+215162	V-O-ADV
+PrepNp
+DetNP
+NPofNP
+215167	Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+215177	S-V-ADV
+DetNP
+NpaNp
+215181	NpAdjp
+215183	Conj-CL
+V-ADV-S
+PrepNp
+CLaCL
+ADV-V-S-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetAdj
+215195	V-ADV-ADV
+sub-CL
+V-S
+ofNPNP
+aNpaNp
+215202	AdjpNp
+215204	Conj-CL
+S-V-O-ADV
+DetNP
+AdjpNp
+V2CL
+Conj2VP
+215211	DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+215217	Conj-CL
+aCLaCL
+215220	ADV-V-ADV
+AdjpNp
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+V-O
+S-V-ADV
+NpaNp
+215237	PrepNp
+DetNP
+NPofNP
+215241	CLaCL
+V-S
+DetNP
+NPofNP
+DetNP
+215247	aCLaCL
+215249	S-VC-P
+PrepNp
+DetAdj
+215253	S-P
+PrepNp
+DetNP
+215257	Conj-CL
+ClCl2
+sub-CL
+V-S-ADV
+NPofNP
+DetNP
+NpPp
+aNpaNp
+215267	PrepNp
+DetNP
+NPofNP
+V-O
+Conj2VP
+215273	ClCl
+ADV-V-ADV
+V2CL
+PrepNp
+NpaNp
+DetNP
+Np-Appos
+NPofNP
+DetNP
+NpaNp
+215285	DetAdj
+ADV-V
+VerbBe
+215289	Conj-CL
+215291	AdjpNp
+NP-CL
+P-ADV
+PrepNp
+DetNP
+P-ADV
+PrepNp
+NPofNP
+NPofNP
+S-ADV-V
+215302	S-V-O
+215304	DetNP
+215306	S-ADV-V-ADV
+CLaCL
+V-O
+215311	V2CL
+V-O-ADV
+DetCL
+V2CL
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+215320	Conj-CL
+CLaCL
+V2CL
+215324	V2CL
+215326	Conj-CL
+S-ADV-V-O-ADV
+DetNP
+V-O
+O-V-S
+DetNP
+NPofNP
+215334	S-ADV-V-ADV
+DetNP
+V-ADV
+PrepNp
+215339	aCLaCL
+215341	CLaCL
+V-O-O2
+DetNP
+215345	ClCl
+O-O2
+DetNP
+sub-CL
+S-VC-P
+NPofNP
+DetCL
+V2CL
+DetNP
+215355	S-ADV-ADV-V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+VC-P
+PrepNp
+DetNP
+O-ADV-V
+NpaNp
+215367	PrepNp
+DetNP
+PrepNp
+DetNP
+V2CL
+215373	Conj-CL
+ADV-S-ADV-V-ADV-ADV
+V2CL
+Np-Appos
+DetNP
+NpaNp
+215380	V-O
+DetNP
+NPofNP
+PrepNp
+DetNP
+CLaCL
+V2CL
+215390	Np2CL
+215392	S-P-VC-ADV
+AdvpNp
+AdjpNp
+AdjpAdvp
+V-O-ADV
+ADV-V-ADV
+PrepNp
+Demo-NP
+DetAdj
+PrepNp
+NP-CL
+NP-CL
+NpAdjp
+V2CL
+S-V-O
+Conj4Np
+DetNP
+215410	DetNP
+215412	DetNP
+215414	All-NP
+NpPp
+PrepNp
+S-ADV-V-O
+PrepNp
+DetNP
+AdjpNp
+V2CL
+S-V-ADV
+All-NP
+DetNP
+DetNP
+NPofNP
+215428	Conj-CL
+ADV-O2-O-V-ADV
+ClClCl
+V2CL
+CLaCL
+ADV-IO-O-V
+215435	O2CL
+NpAdjp
+V-ADV-O
+NpaNp
+215440	DetNP
+NPofNP
+215443	Conj-CL
+ADV-ADV-V-O-ADV
+O-V
+DetNP
+DetCL
+ADV-V-IO
+215450	Conj-CL
+CLaCL
+V-ADV-S
+PrepNp
+NpaNp
+215457	ADV-V-ADV-ADV
+CLaCL
+V-O
+DetNP
+215462	V-O
+DetNP
+PrepNp
+DetNP
+V-O
+S-V
+215469	Conj-CL
+ClCl2
+V-S-O
+DetNP
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+215478	Conj-CL
+ADV-V-ADV-ADV
+DetAdv
+PrepNp
+DetNP
+PrepNp
+215485	Conj-CL
+ADV-V-ADV-ADV
+CLaCL
+V-O
+NP-Demo
+DetNP
+215492	V-O
+Conj3Pp
+PrepNp
+DetNP
+215497	PrepNp
+215499	PrepNp
+ClCl
+V-O
+DetNP
+NPofNP
+DetNP
+V-O
+CLaCL
+V-ADV
+DetNP
+215510	that-VP
+V-S
+ADV-S-V-ADV
+PrepNp
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+215520	Conj-CL
+ADV-ADV-V-O-IO
+V-IO-ADV-O
+PrepNp
+V-ADV
+PrepNp
+DetNP
+NP-CL
+ADV-V
+PrepNp
+215531	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+DetNP
+PrepNp
+DetNP
+215539	ADV-V-ADV
+V-ADV-O
+PrepNp
+DetNP
+PrepNp
+215545	ADV-V-ADV
+PrepNp
+NP-CL
+ADV-V-IO-ADV
+BeVerb
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NP-CL
+O-V
+215558	Conj-CL
+ADV-V-O
+CLaCL
+V2CL
+215563	V-O
+DetNP
+CLaCL
+O-V-S-ADV
+DetNP
+PrepNp
+215570	that-VP
+V-IO-O
+DetNP
+NPofNP
+215575	Conj-CL
+V-ADV-ADV
+NpAdjp
+AdvpAdjp
+PrepNp
+DetNP
+215582	Conj-CL
+215584	V-ADV
+PrepNp
+DetNP
+DetNP
+that-VP
+ClCl2
+sub-CL
+ADV-V-ADV
+Np-Appos
+DetNP
+NPofNP
+ADV-V-O
+V2CL
+215598	Conj-CL
+215600	V-S-ADV-ADV
+NpAdjp
+NpaNp
+215604	AdvpAdjp
+NpaNp
+DetNP
+215608	DetNP
+PrepNp
+V-S-ADV-ADV-ADV
+Conj3Np
+215614	AdjpNp
+NpPp
+PrepNp
+PrepNp
+DetNP
+NpaNp
+215621	PrepNp
+PrepNp
+NP-Demo
+DetNP
+215626	Conj-CL
+Conj-CL
+CLaCL
+S-ADV-V-ADV-ADV
+V-ADV
+PrepNp
+DetNP
+DetNP
+aNpaNp
+215637	V-O
+DetNP
+NPofNP
+DetNP
+215642	V-O-IO
+NpAdjp
+All-NP
+DetNP
+215647	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+PrepNp
+PrepNp
+Conj3Np
+DetNP
+215656	DetNP
+215658	DetAdj
+215660	V-O
+O-S-V-ADV
+DetNP
+PrepNp
+215665	Conj-CL
+V-S-ADV
+Np-Appos
+NPofNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+V2CL
+215676	that-VP
+V-S
+CLaCL
+V-O
+215681	V-O
+V-O
+DetNP
+NPofNP
+215686	Conj-CL
+V-S-ADV
+NpaNp
+DetNP
+215691	DetAdj
+V-ADV
+PrepNp
+NPofNP
+DetNP
+215697	Conj-CL
+215699	S-V
+AdjpNp
+V2CL
+PrepNp
+ClCl2
+ClCl
+Np2CL
+Np2CL
+215708	that-VP
+ADV-ADV-V-S-O
+PrepNp
+NpAdjp
+PrepNp
+DetNP
+CLaCL
+ADV-V-S-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+215724	V2CL
+215726	Conj-CL
+CLaCL
+215729	Np-Appos
+DetNP
+V-O
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+IO2CL
+AdvpNp
+215739	O-V-ADV-ADV
+PrepNp
+aNpaNp
+215744	ADV-V-O
+DetNP
+DetNP
+NPofNP
+215749	Conj-CL
+ADV-ADV-V-O-ADV
+DetNP
+215753	PrepNp
+DetNP
+NPofNP
+DetNP
+O-S-V
+O-V
+aNpaNp
+215761	DetNP
+NPofNP
+215765	Conj-CL
+V-O
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+PrepNp
+ADV-S
+PronNP
+215777	Conj-CL
+CLaCL
+V-S
+All-NP
+DetNP
+215783	V-O
+S-V-O
+NpaNp
+215787	NP-CL
+O-V-S-ADV-ADV
+DetNP
+NpaNp
+215792	PrepNp
+DetNP
+PrepNp
+215796	Conj-CL
+ADV-V-S-ADV
+PrepNp
+DetCL
+V-S
+215802	ClCl2
+ClCl
+Np2CL
+Np2CL
+V-O
+215809	that-VP
+ADV-S-V-ADV
+DetNP
+V-ADV-O-ADV
+PrepNp
+DetNP
+NPofNP
+215817	Conj-CL
+215819	DetNP
+NPofNP
+DetNP
+sub-CL
+215824	ClCl2
+ClCl
+CLaCL
+ADV-V
+PrepNp
+215830	CLaCL
+CLaCL
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V2CL
+215839	O-V
+NPofNP
+DetCL
+V2CL
+215844	V-O
+sub-CL
+PtclCL
+215848	V-S-O
+DetNP
+NPofNP
+DetNP
+DetNP
+AdvpNp
+All-NP
+DetNP
+NP-CL
+ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+V-S
+NpAdjp
+V-O
+NpAdjp
+P-ADV
+PrepNp
+215869	Conj-CL
+S-V-O
+notCLbutCL2CL
+V-O
+NpAdjp
+NpPp
+PrepNp
+DetNP
+V-ADV
+PrepNp
+DetNP
+V-IO-ADV
+DetCL
+V-O
+Conj4Np
+DetNP
+NPofNP
+DetNP
+215888	DetNP
+215891	DetNP
+215893	Conj-CL
+S-ADV-ADV-O-V-ADV
+PrepNp
+NpAdjp
+PrepNp
+DetCL
+V-O
+ADV-ADV-V
+PrepNp
+DetNP
+PrepNp
+All-NP
+215906	ADV-V-ADV-ADV-S
+NpaNp
+DetNP
+215910	DetAdj
+PrepNp
+All-NP
+DetNP
+ClCl
+215916	V-O-ADV
+PrepNp
+PrepNp
+PrepNp
+DetNP
+NpaNp
+215923	O2CL
+Np-Appos
+NpaNp
+Np-Appos
+DetCL
+VC-P
+215930	NpAdjp
+V-ADV
+PrepNp
+DetNP
+215935	PrepNp
+NPofNP
+ClCl
+S-IO
+Np-Appos
+NpaNp
+DetNP
+215943	DetAdj
+Np-Appos
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+Conj3Np
+215952	NpPp
+PrepNp
+V2CL
+215956	ClCl2
+sub-CL
+215959	that-VP
+215961	NpPp
+PrepNp
+V-O
+DetNP
+NPofNP
+IO-ADV-V
+V-ADV-ADV-ADV-S
+V-ADV
+V-O
+V-ADV-ADV
+PrepNp
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+NpaNp
+215979	NpAdjp
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+215991	Conj-CL
+ClCl
+V-O
+NpaNp
+215996	O2CL
+AdvpNp
+NpAdjp
+ADV-V-O
+PrepNp
+DetNP
+216003	Conj-CL
+216005	NpaNp
+DetNP
+NPDetAdj
+DetAdj
+216010	O-V-IO-ADV
+AdjpNp
+AdjpAdjp
+PrepNp
+NP-CL
+Demo-NP
+DetNP
+V-O
+Conj4Np
+216022	ADV-ADV-V
+ADV-V-O
+PrepNp
+216026	V2CL
+216028	Conj-CL
+Conj-CL
+CLaCL
+S-ADV-V-ADV
+V2CL
+PrepNp
+216035	ADV-V-O
+V-O
+DetNP
+DetNP
+216040	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+216046	CLaCL
+S-ADV-ADV-V-O
+aNpaNp
+216051	S-P-VC
+AdvpNp
+PrepNp
+NpAdjp
+DetNP
+216057	V2CL
+216059	Conj-CL
+ADV-V-ADV-ADV-ADV
+V-ADV
+PrepNp
+PrepNp
+DetNP
+PrepNp
+DetCL
+V-O
+216069	Conj-CL
+S-V-ADV-ADV
+NpaNp
+216073	PrepNp
+V-ADV-O
+Conj2VP
+216077	PrepNp
+AdvpNp
+NpAdjp
+DetNP
+NPofNP
+DetNP
+216084	Conj-CL
+216086	PrepNp
+AdjpNp
+PrepNp
+PtclCL
+216091	V2CL
+DetNP
+PrepNp
+NP-CL
+NP-all
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+P-VC
+216103	Conj-CL
+S-V-O
+V-O
+AdvpNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+216112	Conj-CL
+S-V-O
+216115	Np2CL
+DetCL
+CLaCL
+V-ADV-ADV
+PrepNp
+PrepNp
+216122	ADV-V-ADV-ADV
+PrepNp
+DetNP
+216126	Conj-CL
+V-S-ADV
+sub-CL
+CLaCL
+V-S-ADV
+PrepNp
+216133	S-ADV-V-ADV
+DetNP
+V-O
+DetNP
+PrepNp
+216139	Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-O
+V-IO-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+216150	V-ADV-ADV
+NpaNp
+DetNP
+216154	V-O
+DetNP
+216157	Conj-CL
+V-ADV
+aPpaPp
+216161	PrepNp
+216163	PrepNp
+216165	Conj-CL
+216167	NP-CL
+Np-Appos
+NpAdjp
+NpAdjp
+ADV-P
+NPofNP
+NpaNp
+NpAdjp
+NpAdjp
+216177	Np-Appos
+S-V-ADV
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+NpaNp
+216186	CLaCL
+V-S-O
+S-ADV-V
+DetNP
+PrepNp
+216193	V2CL
+PrepNp
+Np-Appos
+DetAdj
+DetCL
+VC-P
+PrepNp
+NP-Demo
+DetNP
+sub-CL
+216204	that-VP
+P-S-VC
+DetNP
+NPofNP
+216209	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+DetNP
+V-IO-O
+V-O
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+NpaNp
+216225	NpPp
+PrepNp
+216228	Conj-CL
+Conj-CL
+CLaCL
+S-V-ADV
+DetNP
+DetNP
+216235	V-ADV-ADV
+DetNP
+PrepNp
+216239	Conj-CL
+V-ADV-ADV
+DetNP
+NpaNp
+216244	AdjpNp
+V-ADV-O
+PrepNp
+DetNP
+AdjpNp
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+216254	Conj-CL
+CLaCL
+ADV-V-O
+V-ADV
+PrepNp
+DetNP
+ADV-V
+PrepNp
+DetNP
+216264	ADV-V-O-S
+DetNP
+NPofNP
+216268	Conj-CL
+ADV-V-ADV
+V-ADV
+DetNP
+PrepNp
+216274	Conj-CL
+216276	PrepNp
+DetNP
+S-V
+Np-Appos
+NpAdjp
+BeVerb
+Conj3VP
+216284	V-O
+216287	ADV-V-O
+V-ADV
+PrepNp
+216291	Conj-CL
+ClCl2
+sub-CL
+O-V
+DetNP
+ADV-V-O-ADV
+V-ADV
+PrepNp
+216300	that-VP
+V-S-O
+S-V-O
+DetNP
+216305	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+PrepNp
+PrepNp
+216312	ClCl
+ADV-ADV
+DetCL
+V2CL
+PrepNp
+AdjpNp
+ADV-ADV
+PrepNp
+NP-CL
+S-VC-P
+Np-Appos
+AdjpNp
+ofNPNP
+DetNP
+NPofNP
+216328	Conj-CL
+V-ADV-ADV
+BeVerb
+PrepNp
+Demo-NP
+DetNP
+NpAdjp
+216336	Conj-CL
+CLaCL
+ADV-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+PrepNp
+NP-CL
+O-V
+P-S-VC
+216349	ADV-V-IO
+V2CL
+DetNP
+AdjpNp
+V2CL
+216355	Conj-CL
+216357	Np-Appos
+Np-Appos
+NpAdjp
+AdjpNp
+ADV-P
+NPofNP
+NPofNP
+V-O
+DetNP
+O-S-V-ADV
+ofNPNP
+DetNP
+DetNP
+V-O
+DetCL
+V-ADV
+PrepNp
+216375	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+V2CL
+216381	S2CL
+DetNP
+NPofNP
+V-ADV
+216386	ClCl2
+sub-CL
+V-O
+S-P-ADV-VC
+DetNP
+ADV-V
+V-ADV
+PrepNp
+DetNP
+NPofNP
+216397	Conj-CL
+V-O
+216400	Conj-CL
+V-ADV-S
+V-S-ADV
+PrepNp
+DetNP
+216406	NpAdjp
+NpAdjp
+V-O
+Np-Appos
+S-O-V-IO-ADV
+NpAdjp
+DetNP
+NPofNP
+V2CL
+216416	S-ADV-V-ADV
+V-O
+NpaNp
+DetNP
+216423	S-P-VC
+Demo-NP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetNP
+NPofNP
+216432	Conj-CL
+O-V-ADV
+PrepNp
+AdjpNp
+216437	Conj-CL
+216439	CLaCL
+V2CL
+216442	V-IO
+DetNP
+V-IO-O
+ADV-V-ADV
+PrepNp
+NPofNP
+Np-Appos
+PrepNp
+216451	Conj-CL
+V-ADV
+PronNP
+DetNP
+216456	Conj-CL
+CLaCL
+S-ADV-ADV-V-ADV-ADV
+216460	DetNP
+NPofNP
+that-VP
+V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+V-O
+NpaNp
+DetNP
+216472	DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+216479	V-O-IO
+DetNP
+CLaCL
+S-V-O-ADV
+Demo-NP
+DetNP
+ofNPNP
+DetNP
+P-VC
+216489	V-O
+NP-CL
+S-ADV-V-ADV-ADV
+O-V
+Conj2VP
+216495	P-VC
+216497	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+PrepNp
+216503	CLaCL
+S-ADV-V-O
+DetNP
+V-O
+ofNPNP
+DetNP
+V2CL
+216511	ADV-V-ADV-ADV
+V-IO-O
+AdjpNp
+PrepNp
+216516	DetNP
+ADV-V-O
+CLaCL
+S-ADV-V-O-ADV
+O-V
+NpAdjp
+PrepNp
+DetNP
+AdjpNp
+216526	O-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+216532	Conj-CL
+CLaCL
+ADV-S-ADV-V-O
+PrepNp
+DetNP
+NpaNp
+216539	V2CL
+DetNP
+216542	V-O-S
+DetNP
+216545	Conj-CL
+CLaCL
+ADV-S-V-ADV
+NpAdjp
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+216555	CLaCL
+V-ADV-S
+NP-all
+DetNP
+216560	S-V
+ofNPNP
+DetNP
+216564	Conj-CL
+S-ADV-ADV-V-O-ADV
+CLaCL
+P-VC
+DetNP
+216570	V-O
+V-S
+DetNP
+NPofNP
+DetNP
+V-O
+DetNP
+O-V
+V-O
+V-S
+DetNP
+216582	Conj-CL
+V-S-ADV-ADV
+AdjpNp
+216586	ClCl
+O-V-IO
+AdjpNp
+sub-CL
+S-VC-P
+216592	Conj-CL
+CLaCL
+CLaCL
+ADV-V
+V-O
+216598	ADV-V-ADV
+P-VC
+NpaNp
+DetNP
+216605	V-O-ADV
+216607	Np2CL
+O-S-V
+sub-CL
+V2CL
+216612	Conj-CL
+216614	CLaCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+216620	V-S
+NpaNp
+216623	DetNP
+NPofNP
+216626	Conj-CL
+V-IO-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+All-NP
+NpPp
+PrepNp
+DetNP
+NPofNP
+216638	Conj-CL
+Conj4CL
+ADV-V-ADV
+V-O-ADV
+PrepNp
+Demo-NP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+216650	V-S-ADV
+NpaNp
+216653	NpAdjp
+NPofNP
+216656	ADV-V-O
+V-O-ADV
+PrepNp
+DetNP
+216661	V-ADV-ADV
+V-O
+DetNP
+216665	Conj-CL
+ClCl2
+S-V
+V-S-O-ADV
+DetNP
+DetNP
+216672	V-O
+NP-Demo
+DetNP
+216676	Conj-CL
+216678	DetNP
+NP-Demo
+DetNP
+PrepNp
+DetNP
+that-VP
+ClCl
+216686	DetNP
+sub-CL
+V2CL
+Conj-CL
+ADV-ADV-V-ADV
+V2CL
+PrepNp
+216694	Conj-CL
+216696	DetNP
+PrepNp
+ClCl
+CLaCL
+ADV-ADV-V-ADV
+V-O-ADV-ADV
+P-VC
+NpAdjp
+PrepNp
+216706	ADV-ADV-O-V
+sub-CL
+CLaCL
+ADV2CL
+216711	ADV-S-O-V
+V2CL
+216714	Conj-CL
+V-IO-S-O
+DetNP
+DetNP
+NP-Demo
+DetNP
+216721	Conj-CL
+CLaCL
+CLaCL
+V-ADV
+216726	that-VP
+P-VC
+216729	ADV-V-O
+V2CL
+216732	ADV-V-O
+V2CL
+V-ADV
+PrepNp
+DetNP
+216738	Conj-CL
+CLaCL
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+216747	CLaCL
+ADV-V-O
+V2CL
+DetNP
+216752	V2CL
+216754	Conj-CL
+ADV-V-ADV
+V-ADV
+NpaNp
+DetNP
+216760	DetNP
+PrepNp
+NP-CL
+P-VC-S
+NPofNP
+DetAdj
+216767	Conj-CL
+CLaCL
+ADV-V-ADV
+PrepNp
+DetCL
+V-ADV
+DetNP
+PrepNp
+216776	ADV-V-ADV-ADV-ADV
+PrepNp
+NpAdjp
+PrepNp
+DetNP
+216782	Conj2VP
+216784	CLaCL
+that-VP
+V-S
+CLaCL
+S-V
+DetNP
+216791	V-ADV
+PrepNp
+216794	that-VP
+S-VC-P
+NP-CL
+Np-Appos
+DetNP
+DetNP
+O-S-V-IO
+216802	Conj-CL
+ClCl
+CLaCL
+S-V
+NpPp
+PrepNp
+216809	V-IO
+NpaNp
+DetNP
+216813	DetNP
+S2CL
+aNpaNp
+216817	ofNPNP
+DetNP
+AdjpNp
+V2CL
+NpAdjp
+216823	ofNPNP
+NPDetAdj
+DetAdj
+AdvpAdjp
+216828	Conj-CL
+CLaCL
+S-ADV-V-O
+CLaCL
+V2CL
+DetAdj
+216835	CLaCL
+V-O
+ofNPNP
+DetAdj
+NpAdjp
+NpAdjp
+216842	V2CL
+DetNP
+216845	ADV-V-O
+V-ADV
+DetNP
+NPofNP
+O-V-ADV
+PrepNp
+DetNP
+216853	Conj-CL
+ADV-V-O-ADV-ADV
+ADV-V-O
+NpaNp
+216858	AdjpNp
+PrepNp
+DetNP
+216862	that-VP
+216864	Np2CL
+DetCL
+O-V
+DetNP
+O-V-S
+216870	Conj-CL
+S-ADV-V-ADV
+NP-all
+PrepNp
+DetNP
+NPofNP
+O-V
+P-VC-S
+NpAdjp
+216880	Conj-CL
+CLaCL
+V-O-ADV
+NpaNp
+DetNP
+216886	DetNP
+V-O
+216889	ADV-V-O
+V-O-ADV
+DetAdj
+PrepNp
+NpaNp
+DetNP
+216896	DetAdj
+216898	Conj-CL
+216900	DetNP
+PrepNp
+aNpaNp
+216904	DetNP
+216906	DetNP
+PrepNp
+S-ADV-ADV-V
+V2CL
+PrepNp
+DetNP
+NPofNP
+DetAdj
+216915	Conj-CL
+216917	S-VC-P-ADV
+NpPp
+PrepNp
+DetNP
+PrepNp
+All-NP
+216924	NpPp
+PrepNp
+DetNP
+PtclCL
+VC-S-P
+216930	Conj-CL
+Conj-CL
+CLaCL
+S-V
+NpPp
+PrepNp
+216937	S2CL
+ofNPNP
+NpaNp
+DetNP
+NPDetAdj
+ofNPNP
+DetAdj
+216945	AdvpAdjp
+216947	Conj-CL
+ClCl2
+sub-CL
+216951	V-S
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+ADV-V-ADV-S
+AdvPp
+PrepNp
+DetNP
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+V-ADV-ADV
+V-O
+Conj2VP
+216969	DetNP
+216971	Conj-CL
+ADV-ADV-O-V-S-ADV
+DetNP
+DetNP
+V-ADV
+PrepNp
+PrepNp
+DetNP
+216980	Conj-CL
+V-S-ADV
+aNpaNp
+216984	DetNP
+216986	DetNP
+216988	Conj-CL
+CLaCL
+S-O-V-ADV
+DetCL
+V2CL
+DetNP
+PrepNp
+216996	ADV-V
+216998	NpPp
+PrepNp
+NpaNp
+DetNP
+217003	DetNP
+that-VP
+ADV-V-ADV
+AdvpAdjp
+PrepNp
+217009	Conj-CL
+ClCl2
+ADV-V-O-S
+PrepNp
+DetNP
+DetNP
+ClCl
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+V-O
+P-VC-S
+DetNP
+217024	Conj-CL
+aCLaCL
+217027	CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+NpaNp
+DetAdj
+217034	DetCL
+V2CL
+217037	ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+All-NP
+PrepNp
+DetCL
+V2CL
+217046	Conj3CL
+S-V-ADV
+NPofNP
+aNpaNp
+217051	DetNP
+217053	AdjpNp
+217055	ClCl
+CLaCL
+217058	PtclCL
+V-S-O
+O-V
+NP-Demo
+DetAdj
+217064	ClCl
+S2CL
+V-O
+P-VC
+ofNPNP
+AdjpNp
+sub-CL
+O-V
+NpaNp
+DetNP
+217075	DetNP
+217077	ADV-ADV-V-ADV
+V-O
+PrepNp
+DetNP
+2Np
+217083	ClCl
+217085	V-O
+P-S
+Np-Appos
+NP-Demo
+DetAdj
+DetNP
+AdjpNp
+ADV-V
+PrepNp
+sub-CL
+O-V-ADV
+AdjpNp
+V2CL
+PrepNp
+DetNP
+NPofNP
+Conj-CL
+V-O
+V-O
+O-V-S
+P-VC
+217107	Conj-CL
+CLaCL
+S-ADV-V
+NpaNp
+NP-all
+217113	DetNP
+AdjpNp
+V2CL
+PrepNp
+NpAdjp
+217119	CLaCL
+V-O
+217122	V-O
+NpAdjp
+217125	Conj-CL
+217127	V2CL
+PrepNp
+NPofNP
+DetNP
+NPofNP
+217133	Np2CL
+NpAdjp
+ADV-P-S
+PrepNp
+AdvpAdjp
+217139	Conj-CL
+ADV-V-O
+CLaCL
+V2CL
+217144	V-O
+DetNP
+NPofNP
+AdvpNp
+NP-CL
+ADV-V-S
+PrepNp
+IO2CL
+AdjpNp
+217154	Conj-CL
+217156	O-ADV-V
+V2CL
+217160	Np2CL
+Np-Appos
+DetNP
+DetCL
+V-O
+NpaNp
+DetNP
+217168	All-NP
+NpPp
+PrepNp
+S-ADV-ADV-ADV-V
+P-VC
+ofNPNP
+NpaNp
+217176	PrepNp
+AdjpNp
+217179	ADV-V-ADV-S-ADV
+PrepNp
+NpAdjp
+V-O
+V-IO-O
+Conj3Np
+217187	DetAdj
+217189	Conj-CL
+217191	PrepNp
+All-NP
+NPofNP
+V-ADV
+PrepNp
+All-NP
+NPofNP
+DetNP
+V-O
+NpaNp
+AdjpNp
+V2CL
+217204	DetNP
+NPofNP
+DetNP
+NPofNP
+V-O
+DetNP
+PtclCL
+PtclCL
+PtclCL
+CLaCL
+V-O
+217216	V-ADV
+PtclCL
+ADV-P-ADV-VC
+2Advp_h2
+PrepNp
+NPofNP
+NpAdjp
+217224	Conj-CL
+ClCl
+ADV-V
+PrepNp
+Conj3VP
+217231	sub-CL
+217233	AdvpNp
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+Conj-CL
+P-VC
+ofNPNP
+AdvpNp
+217243	Conj-CL
+ADV-ADV-V-O
+VC-P
+NPofNP
+DetNP
+V-O
+ADV-S-VC-P
+Np-Appos
+Conj3Np
+217254	NPofNP
+NPofNP
+NpaNp
+217258	DetAdj
+217260	Conj-CL
+Conj-CL
+217263	O-V
+DetNP
+NPofNP
+DetNP
+DetNP
+DetAdv
+DetNP
+S-V
+NpAdvp
+sub-CL
+V-O
+NP-CL
+ADV-V-O-ADV
+PrepNp
+V-O-ADV-ADV
+DetNP
+PrepNp
+PrepNp
+NP-CL
+O-V
+O-V-IO-ADV
+V-O-ADV
+PrepNp
+217287	Conj-CL
+217289	V-O
+NPofNP
+217292	S-V
+217295	V-O-ADV-ADV
+PrepNp
+2Advp_h1
+217299	ADV-S-V-ADV
+DetNP
+PrepNp
+NPofNP
+217304	Conj-CL
+217306	AdjpNp
+V-IO
+P-S
+PrepNp
+aNpaNpaNp
+217312	Np-Appos
+DetNP
+217315	NpAdjp
+ADV-P
+217318	NpPp
+PrepNp
+217321	ADV-ADV-V-ADV
+PrepNp
+V-ADV
+PrepNp
+DetNP
+PrepNp
+217328	Conj-CL
+ClCl
+Conj3CL
+ADV-V-ADV
+V-O
+NpAdjp
+NpAdjp
+NpAdjp
+AdjpNp
+ADV-P
+P-ADV
+DetNP
+ADV-V-ADV-ADV-ADV
+PrepNp
+DetNP
+AdvpNp
+Np-Appos
+NPofNP
+PrepNp
+DetCL
+V-S-O
+V-S-ADV
+All-NP
+DetAdj
+PrepNp
+DetNP
+217355	ADV-V-ADV
+PrepNp
+DetCL
+P-VC
+PrepNp
+217361	V2CL
+sub-CL
+VC-P-ADV
+DetNP
+217366	Conj-CL
+217368	PrepNp
+DetNP
+PrepNp
+All-NP
+V-O
+aNpaNp
+217377	Conj-CL
+ClCl2
+sub-CL
+V-ADV-S
+PrepNp
+DetNP
+aNpaNp
+217385	DetNP
+217387	DetNP
+V-ADV-S-ADV
+DetNP
+DetNP
+V-IO-O
+DetAdj
+VC-S-P
+DetNP
+217396	Conj-CL
+ClCl2
+CLaCL
+V-S
+217401	V2CL
+217403	V-O
+DetNP
+PrepNp
+ClCl
+S-P
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+P-S
+ADV-ADV-V
+PrepNp
+DetNP
+PrepNp
+DetNP
+217420	Conj-CL
+ADV-V-ADV
+V-ADV
+PrepNp
+NPofNP
+NP-CL
+NpAdjp
+NpAdjp
+ADV-P
+Np-Appos
+V-O
+DetNP
+S-V-ADV
+ofNPNP
+DetNP
+BeVerb
+DetNP
+217438	Conj-CL
+CLaCL
+S-V-O-ADV
+Np-Appos
+DetNP
+DetNP
+PrepNp
+All-NP
+DetNP
+NPofNP
+217449	CLaCL
+S-ADV-V
+NPofNP
+DetAdj
+V2CL
+217455	V2CL
+217457	Conj-CL
+217459	DetNP
+PrepNp
+PrepNp
+DetNP
+CLaCL
+notCLbutCL2CL
+V2CL
+V2CL
+217469	sub-CL
+CLaCL
+S-VC-P
+PrepNp
+217475	DetCL
+V-O
+sub-CL
+S-VC-P-ADV
+NpAdjp
+PrepNp
+NP-Demo
+DetNP
+217484	Conj-CL
+V-ADV-ADV
+NpaNp
+217488	NpNump
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+217495	Conj-CL
+ClCl2
+S-VC-P
+NPofNP
+DetNP
+CLaCL
+V-ADV-S-O
+DetAdj
+DetNP
+217505	V-O-ADV-ADV
+PrepNp
+DetNP
+217509	that-VP
+ADV-V-S-O-ADV
+PrepNp
+DetNP
+DetNP
+V-O
+DetNP
+217517	Conj-CL
+217519	V-S-O
+DetNP
+V-O
+DetNP
+DetNP
+PrepNp
+DetAdj
+aCLaCL
+217528	ClCl2
+sub-CL
+VC-P
+NpaNp
+NpAdjp
+217534	NpAdjp
+217536	Np2CL
+intjNP
+ADV-V-O
+PrepNp
+217541	ClCl
+ClCl2
+sub-CL
+VC-P
+NpPp
+PrepNp
+Conj3Np
+217550	Np-Appos
+NpPp
+PrepNp
+V-S
+ADV-V-S-O
+P-VC
+NPofNP
+217558	Conj-CL
+V-O-ADV
+PrepNp
+DetNP
+217563	Conj-CL
+S-ADV-V-ADV
+V-O
+Np-Appos
+DetNP
+PrepNp
+DetNP
+217571	Conj-CL
+S-ADV-V
+NPofNP
+DetNP
+217576	Conj-CL
+ClCl
+CLaCL
+S-ADV-ADV-V-ADV
+DetNP
+ADV-V-ADV
+NpAdjp
+O-V
+DetNP
+PrepNp
+DetNP
+217588	P-S
+PrepNp
+NpaNp
+217592	ClCl
+V-ADV-O
+PrepNp
+DetNP
+sub-CL
+V-O
+217599	Conj-CL
+ClCl
+V-ADV
+PrepNp
+CLaCL
+O-V-ADV
+217606	S-ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+DetAdj
+217612	Conj-CL
+217614	V-S-O
+ADV-V
+PrepNp
+AdjpNp
+V2CL
+ADV-V-ADV
+CLaCL
+V2CL
+217624	ClCl
+ADV-V-ADV
+PrepNp
+S-V
+DetNP
+PrepNp
+DetNP
+217632	Conj-CL
+CLaCL
+ADV-ADV-V-ADV
+V-ADV
+PrepNp
+CLaCL
+V2CL
+217640	V-O
+DetNP
+PrepNp
+217644	ADV-V-ADV-ADV
+V-O
+NpAdjp
+V-ADV-ADV
+DetNP
+NpaNp
+AdjpNp
+217652	V-O
+All-NP
+DetNP
+217656	Conj-CL
+S-V-ADV
+Np-Appos
+Np-Appos
+NpAdjp
+NpAdjp
+NpAdjp
+P-ADV
+P-ADV
+DetNP
+NpAdjp
+PrepNp
+P-VC-ADV
+PrepNp
+DetNP
+217672	CLaCL
+S-V-O
+BeVerb
+DetNP
+NPofNP
+DetNP
+217679	ADV-V-ADV-O-ADV
+V-ADV
+DetNP
+Conj2VP
+217684	NpPp
+PrepNp
+DetNP
+V-ADV-O
+DetNP
+NPofNP
+217691	Conj-CL
+CLaCL
+S-V-O
+V-ADV
+PrepNp
+DetNP
+217698	CLaCL
+ADV-S-V-O
+V-O
+NpaNp
+217704	ADV-IO-V-O
+DetNP
+NPofNP
+DetNP
+217709	Conj-CL
+ClCl
+ClCl2
+V-S-O
+V-ADV
+PrepNp
+DetNP
+ADV-S-V-IO-O
+V2CL
+DetNP
+DetNP
+V-O
+NP-CL
+S-ADV-V-ADV-ADV
+V2CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-O-V-ADV-ADV
+DetAdj
+V-ADV-O
+PrepNp
+DetNP
+VC-S-P
+DetNP
+217737	Conj-CL
+CLaCL
+V-ADV-S
+PrepNp
+DetCL
+S-VC-P
+DetNP
+PrepNp
+CLaCL
+S-ADV-V-ADV
+V-ADV
+DetNP
+AdjpNp
+PrepNp
+217752	V-O
+AdjpNp
+217756	PrepNp
+PtclCL
+O-V-ADV
+NpAdjp
+V2CL
+217762	Conj-CL
+ClCl
+S-ADV
+PrepNp
+Conj-CL
+217768	PtclCL
+S-V
+NpAdjp
+217772	Conj-CL
+217774	Conj-CL
+ADV-V
+PrepNp
+217778	Conj-CL
+217780	ADV2CL
+PrepNp
+DetNP
+ofNPNP
+217785	Conj-CL
+217787	S-V-O-ADV
+NPofNP
+217790	DetNP
+that-VP
+217793	PrepNp
+DetCL
+V-ADV
+PrepNp
+S-VC-P
+ADV2CL
+PrepNp
+DetNP
+217802	Conj-CL
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+217811	Conj-CL
+ClCl2
+V-IO-S-O
+DetNP
+CLaCL
+V-S-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+217822	CLaCL
+V-ADV
+217825	V2CL
+217827	Conj-CL
+VC-S-P
+DetNP
+All-NP
+AdvpNp
+217833	Conj-CL
+ADV-V-ADV-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+NpAdjp
+V-ADV
+Conj2VP
+217843	PrepNp
+DetNP
+NPofNP
+DetNP
+217848	Conj-CL
+ClCl2
+sub-CL
+S-V-ADV
+Conj2VP
+217854	V-O-ADV
+DetNP
+PrepNp
+DetNP
+ADV-V-O-ADV
+V-ADV
+PrepNp
+DetNP
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+217868	Conj-CL
+S-V-ADV-ADV
+PrepNp
+NpNump
+sub-CL
+217874	All-NP
+DetCL
+V-ADV
+DetNP
+DetNP
+NPofNP
+DetNP
+S2CL
+aNpaNp
+217886	Conj-CL
+O-S-V-ADV-ADV
+Np-Appos
+AdvpNp
+DetCL
+V2CL
+DetNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+CLaCL
+ADV-V-ADV-S
+AdvPp
+PrepNp
+DetCL
+V2CL
+PrepNp
+DetNP
+NPofNP
+NpaNp
+217909	CLaCL
+V-ADV-S
+PrepNp
+DetNP
+217914	S-V
+DetNP
+NPDetAdj
+DetAdj
+217919	Conj-CL
+V-S-O-ADV
+NPofNP
+AdvpNp
+DetNP
+AdjpNp
+V2CL
+AdjpNp
+V-ADV-O
+PrepNp
+DetCL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+DetNP
+NPofNP
+Np-Appos
+DetNP
+217939	V-O-ADV
+DetNP
+NP-CL
+O-S-V
+217944	Conj-CL
+S-O-V
+BeVerb
+ofNPNP
+Np-Appos
+AdjpNp
+AdjpNp
+NumpNP
+217953	Conj-CL
+217955	V2CL
+DetNP
+NPDetAdj
+DetAdj
+CLaCL
+CLaCL
+O-V
+DetNP
+217964	O-V
+DetNP
+217967	S-P-VC
+217969	Conj-CL
+ADV-S-ADV-V-ADV-ADV
+V-ADV
+NP-CL
+DetNP
+PrepNp
+P-VC-S
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+V-ADV
+PrepNp
+sub-CL
+ADV-V-ADV
+AdjpaAdjp
+217986	V2CL
+PrepNp
+NP-Demo
+DetNP
+217991	Conj-CL
+CLaCL
+S-VC-P-ADV
+All-NP
+Np-Appos
+aNpaNp
+217999	DetCL
+V-ADV
+DetNP
+218003	CLaCL
+V-S-ADV
+PrepNp
+All-NP
+218008	V-S
+DetNP
+NPofNP
+Np-Appos
+DetNP
+218014	Conj-CL
+S-V-ADV
+NPofNP
+DetCL
+V2CL
+V-O
+Conj2VP
+218022	DetNP
+NPofNP
+218025	Conj-CL
+S-ADV-V-ADV
+NPofNP
+DetCL
+O-V
+DetNP
+V-O
+DetNP
+PrepNp
+218035	Conj-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+218041	V-O
+ofNPNP
+NpNump
+218045	ADV-ADV-S-V
+PrepNp
+ofNPNP
+DetNP
+DetNP
+Conj2VP
+218053	Conj-CL
+ClCl2
+sub-CL
+V-S
+V-S-ADV-O-ADV
+DetNP
+PrepNp
+DetNP
+ADV-V-ADV
+V-ADV
+DetNP
+NpaNp
+218066	PrepNp
+218068	that-VP
+ADV-V-S
+PrepNp
+DetCL
+VC-S-P
+S-O-V
+AdvpNp
+218076	Conj-CL
+ADV-S-V-ADV-ADV
+V-ADV-O
+PrepNp
+DetNP
+Np-Appos
+NPofNP
+DetCL
+V-O
+NpaNp
+218087	PrepNp
+DetNP
+218090	Conj-CL
+V-ADV-S
+PrepNp
+NP-Demo
+DetNP
+NpPp
+NpAdjp
+AdvpAdjp
+PrepNp
+DetNP
+218101	Conj-CL
+218103	Np-Appos
+NpAdjp
+P-ADV
+V-O
+NPofNP
+NpAdjp
+DetNP
+AdjpNp
+AdvpAdjp
+218113	ADV-V
+O-V
+NpaNp
+218117	DetNP
+PpNp2Np
+PrepNp
+DetNP
+Np2CL
+218123	that-VP
+P-S-VC
+PrepNp
+Demo-NP
+DetNP
+DetNP
+NpAdvp
+218132	Conj2VP
+218134	that-VP
+ADV-S-ADV-V-O-ADV
+notNPbutNP
+AdjpNp
+AdvpNp
+All-NP
+DetNP
+NP-Demo
+DetNP
+V2CL
+AdjpNp
+218146	that-VP
+ADV-VC-P-S
+DetCL
+ADV-V
+PrepNp
+218152	Conj-CL
+notCLbutCL2CL
+ADV-S-V-ADV-ADV
+S-ADV-V
+DetNP
+PrepNp
+CLaCL
+S-ADV-V
+AdvpNp
+DetNP
+ofNPNP
+Np-Appos
+DetNP
+AdjpNp
+PrepNp
+218168	V-O-S
+ADV-V-ADV
+DetNP
+NPofNP
+O-S-V
+NpaNp
+All-NP
+DetNP
+218177	DetNP
+218179	Conj-CL
+ADV-V-ADV
+CLaCL
+V2CL
+218184	VC-P-ADV
+218186	P-S
+DetNP
+NPofNP
+218190	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+DetNP
+218196	V-ADV-ADV-ADV
+PrepNp
+DetNP
+V-O
+Np-Appos
+Np-Appos
+NpaNp
+218204	NPofNP
+218206	Conj-CL
+218208	S-V-O
+V-ADV
+PrepNp
+DetNP
+DetNP
+218214	Conj-CL
+S-ADV-V-O
+Np-Appos
+NPofNP
+AdvpNp
+DetNP
+VC-ADV-P
+V-ADV
+PrepNp
+ADV-V-O-ADV
+PrepNp
+DetNP
+218227	Conj-CL
+Conj-CL
+218230	AdjpNp
+sub-CL
+CLaCL
+S-V
+BeVerb
+DetNP
+218237	S-ADV-V-O
+DetAdj
+ADV-V
+NP-Prep
+218242	Conj-CL
+ClCl
+S-V-O
+PrepNp
+DetNP
+V-O-S
+DetAdj
+218250	Conj-CL
+S-ADV-V-O
+DetNP
+V-O
+DetNP
+V-IO
+DetNP
+218258	Conj-CL
+ADV-S-V-ADV-ADV-ADV
+218261	that-VP
+P-VC
+NpAdjp
+PrepNp
+AdvPp
+PrepNp
+NpNump
+ClCl
+V2CL
+P-S
+DetNP
+NPofNP
+218274	Conj-CL
+218276	V-O
+DetNP
+DetNP
+218280	Np2CL
+NpAdjp
+P-VC-S
+NPofNP
+S-ADV-V-O
+S-VC-P
+DetNP
+ofNPNP
+NPofNP
+NpaNp
+DetNP
+AdjpNp
+218293	DetAdj
+218295	Conj-CL
+218297	P-VC-S
+VerbBe
+CLaCL
+S-P-VC
+V2CL
+218303	O-V
+AdjpNp
+218306	Conj-CL
+V-O
+Np-Appos
+NP-Demo
+DetNP
+aNpaNp
+218314	V-O
+DetNP
+NPofNP
+218318	Conj-CL
+aCLaCL
+218321	ClCl2
+sub-CL
+S-V-ADV-O
+NpaNp
+218326	DetNP
+PpNp2Np
+PrepNp
+PrepNp
+ClCl
+CLaCL
+S-V
+218334	S-V
+V-O
+218337	ClCl2
+sub-CL
+O-ADV-V
+ADV-V
+PrepNp
+DetNP
+AdjpNp
+218345	Conj-CL
+218347	V-ADV-ADV
+PrepNp
+DetNP
+S-V
+AdjpNp
+ADV-ADV-V-O
+PrepNp
+V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+218359	Conj-CL
+ADV-V-O
+O-V
+DetNP
+218364	Conj-CL
+ADV-S-ADV-ADV-V-ADV
+PrepNp
+DetCL
+V-S
+DetNP
+CLaCL
+V-O
+DetNP
+DetNP
+218375	V2CL
+V2CL
+V-ADV
+PrepNp
+218380	Conj-CL
+CLaCL
+ADV-V-ADV
+CLaCL
+V-ADV
+NP-Demo
+DetNP
+218388	V-O-ADV
+NpAdjp
+PrepNp
+DetNP
+218393	ClCl
+V-ADV
+NpAdjp
+ClCl2
+218398	PrepNp
+DetAdj
+V-O
+V-ADV
+PrepNp
+DetNP
+VC-P
+Np-Appos
+DetCL
+V-ADV
+PrepNp
+218410	Conj-CL
+V-ADV-S
+NpaNp
+NpaNp
+NpAdjp
+NPofNP
+218417	ofNPNP
+NpaNp
+218421	NpaNp
+NpaNp
+NpAdjp
+218426	Np-Appos
+NpaNp
+218430	Conj-CL
+S-ADV-V-O-ADV
+V2CL
+PrepNp
+218435	Conj-CL
+CLaCL
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+PrepNp
+218444	ClCl
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+PrepNp
+NpNump
+ADV-V-ADV
+NpNump
+218454	Conj-CL
+ClCl2
+ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-O
+CLaCL
+S-V-ADV-ADV
+DetNP
+V-O
+V-ADV
+DetAdv
+218469	V-O-ADV
+DetNP
+PrepNp
+218473	Conj-CL
+VC-S-P
+NpAdjp
+PrepNp
+DetNP
+NP-CL
+ADV-V
+BeVerb
+218482	Conj-CL
+CLaCL
+S-ADV-ADV-ADV-V-ADV-ADV
+V-ADV
+NpAdjp
+AdjpNp
+ADV-P
+PrepNp
+DetNP
+ClCl
+V-ADV
+NpAdjp
+V-S-ADV
+DetNP
+PrepNp
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+218503	V-ADV
+218505	Conj-CL
+CLaCL
+ADV-S-V-ADV
+V2CL
+DetNP
+218512	V2CL
+ClCl
+ADV-V
+sub-CL
+S-P-VC
+DetNP
+NPofNP
+PrepNp
+218521	Conj-CL
+ADV-ADV-V
+Conj4CL
+V2CL
+218526	V-O
+DetNP
+218529	V2CL
+218531	ADV-V-ADV
+PrepNp
+PrepNp
+218535	Conj-CL
+CLaCL
+V-O-O2
+DetNP
+V2CL
+218541	V-ADV
+2Advp_h2
+218544	Conj-CL
+ClCl
+S-ADV-V-ADV-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+ADV-V-O
+V-O
+DetNP
+sub-CL
+ADV-V-ADV
+VerbBe
+V-S-O
+V2CL
+218561	Conj-CL
+218563	sub-CL
+V-ADV-ADV
+PrepNp
+DetNP
+ClCl
+ADV-V-ADV
+V-O
+PrepNp
+ADV-ADV-V-ADV
+ADV-V
+DetCL
+V2CL
+PrepNp
+218577	ADV-V-ADV
+DetAdj
+PrepNp
+218581	ADV-V-ADV
+DetCL
+V2CL
+PrepNp
+218586	Conj-CL
+ClCl
+218589	DetNP
+V-ADV
+DetNP
+sub-CL
+ADV-V-ADV-S
+V-ADV
+PrepNp
+DetNP
+sub-CL
+ClCl
+V2CL
+sub-CL
+P-VC-ADV-S
+ADV-VC-P
+DetNP
+NPofNP
+DetNP
+PrepNp
+218608	Conj-CL
+ADV-V-O
+ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+218618	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+218624	S-V-O
+ADV-ADV-P-ADV-VC-ADV
+PrepNp
+NP-CL
+AdjpNp
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+PrepNp
+DetNP
+All-NP
+V-O-ADV
+DetNP
+PrepNp
+Conj3Np
+All-NP
+218643	Np-Appos
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+218651	sub-CL
+V-O-ADV-ADV
+NPofNP
+DetCL
+V2CL
+DetCL
+AdvpCL
+CLaCL
+V-IO
+218661	V-O-ADV
+ADVaADV
+218664	PrepNp
+V-IO-O
+aNpaNp
+218669	DetNP
+NpaNp
+PpNp2Np
+PrepNp
+218674	NpPp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+218680	Conj-CL
+ClCl2
+ADV2CL
+218684	V-ADV
+DetNP
+PrepNp
+218688	DetCL
+ADV-V-O
+PrepNp
+sub-CL
+that-VP
+S-ADV-V-IO-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+218699	that-VP
+S-O-V
+NpaNp
+218704	Conj-CL
+ADV-V-O-O2-ADV
+AdjpNp
+DetNP
+AdjpAdvp
+sub-CL
+ClCl
+V-O
+NpaNp
+DetNP
+NPofNP
+218716	DetNP
+NP-CL
+O-V-ADV
+PrepNp
+Np-Appos
+DetNP
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+218729	Conj-CL
+ClCl2
+ADV2CL
+218733	that-VP
+ADV-V-O-S
+DetNP
+NPofNP
+NP-CL
+NP-all
+ADV-V-ADV
+PrepNp
+V-O
+DetNP
+218744	Conj-CL
+ClCl
+218747	PrepNp
+DetNP
+AdvpNp
+that-VP
+P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-V-ADV
+DetCL
+ADV-V-O-IO
+All-NP
+DetNP
+NPofNP
+DetNP
+218764	V-O-ADV
+NpaNp
+218767	All-NP
+DetNP
+NP-CL
+ADV-O-S-V-O2
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+V-O
+DetNP
+NP-CL
+NPofNP
+DetNP
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+218787	that-VP
+CLaCL
+V-ADV-S-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+PrepNp
+ADV-V-O
+DetNP
+218798	ADV-V-S-ADV-ADV
+PrepNp
+NpPron
+V-O
+V2CL
+DetCL
+V-O-ADV
+DetNP
+PrepNp
+218808	Conj-CL
+V-ADV
+218811	V2CL
+ADV-ADV-ADV-V-O
+NpaNp
+218815	ADV-V-O
+PrepNp
+NpAdjp
+218819	Conj-CL
+ADV-V-O-IO
+DetAdv
+NpaNp
+DetNP
+218825	Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetCL
+V-O
+CLaCL
+V2CL
+218835	V-O-ADV
+DetNP
+PrepNp
+NP-all
+DetCL
+V2CL
+218842	O-V
+NPofNP
+Conj3Np
+218849	that-VP
+O-V-S
+NpaNp
+DetNP
+NPofNP
+218855	DetCL
+VC-P
+PrepNp
+NP-Demo
+DetNP
+218862	that-VP
+ADV-V-S
+ADV-V
+CLaCL
+V-O
+DetCL
+V2CL
+218871	DetNP
+NPofNP
+Np-Appos
+DetNP
+that-VP
+218877	CLaCL
+P-VC-ADV-S
+V2CL
+218881	V2CL
+218883	Conj-CL
+ADV-ADV-ADV-V
+O-V
+V-O
+DetNP
+NPofNP
+PrepNp
+All-NP
+218892	Conj-CL
+CLaCL
+P-VC-S
+NPofNP
+218897	ADV-V-O-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV-ADV
+PrepNp
+DetNP
+NP-CL
+218908	ADV-V
+ADV-V-O
+O-V
+DetNP
+NPofNP
+218914	Conj-CL
+V-O-ADV
+PrepNp
+DetNP
+218919	Conj-CL
+218921	sub-CL
+V-S
+V-S-ADV
+V-ADV
+PrepNp
+ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+218931	ClCl
+ADV-ADV
+DetAdv
+PrepNp
+DetNP
+ADV-ADV
+PrepNp
+218939	Conj-CL
+ADV-ADV-V
+V-O
+NpAdjp
+V-ADV
+PrepNp
+V2CL
+218947	Conj-CL
+CLaCL
+ADV-V-ADV
+CLaCL
+V-O
+DetNP
+218954	V-O-ADV
+PrepNp
+218957	ClCl
+V-ADV
+PrepNp
+sub-CL
+ADV-S-V-O
+DetNP
+BeVerb
+DetNP
+218966	Conj-CL
+218968	ADV-V-ADV-ADV
+V-O
+DetNP
+NpNump
+DetNP
+PrepNp
+DetNP
+ADV-V-ADV
+PrepNp
+218978	Conj-CL
+ClCl2
+sub-CL
+V-S
+V-S-O
+DetNP
+CLaCL
+CLaCL
+ADV-V-ADV
+V2CL
+V-O-S-ADV-ADV
+PrepNp
+NpaNp
+218992	PrepNp
+PrepNp
+DetNP
+218996	ADV-V-O
+V-O-ADV-ADV
+DetNP
+PrepNp
+DetNP
+V2CL
+219003	CLaCL
+V-ADV
+PrepNp
+DetNP
+219008	S-V-ADV
+PrepNp
+DetAdj
+219012	Conj-CL
+CLaCL
+S-ADV-V-ADV
+O-V-ADV
+DetNP
+PrepNp
+PrepNp
+219020	ADV-V-ADV-ADV
+V-O
+DetNP
+NpAdjp
+PrepNp
+219026	Conj-CL
+CLaCL
+ADV-ADV-V-ADV
+DetAdv
+V2CL
+PrepNp
+219033	ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+Np-Appos
+DetNP
+VC-P
+PrepNp
+DetNump
+PrepNp
+219046	Conj-CL
+P-VC-S
+Np-Appos
+Np-Appos
+NpAdjp
+V2CL
+219053	Conj-CL
+ClCl2
+V-ADV
+NpAdjp
+CLaCL
+V-S
+Np-Appos
+NpPp
+PrepNp
+DetNP
+NpAdjp
+ADV-P
+219067	CLaCL
+V-ADV
+PrepNp
+219071	ADV-V-O
+V-O
+DetNP
+NPofNP
+DetNP
+ofNPNP
+NpaNp
+DetNP
+219080	DetNP
+219082	DetNP
+NPDetAdj
+DetAdj
+CLaCL
+O-ADV-V-ADV-S
+DetNP
+NP-CL
+P-VC-S
+NP-Demo
+DetNP
+PrepNp
+DetAdj
+219095	V-ADV
+PrepNp
+NPofNP
+219099	Conj-CL
+ClCl2
+sub-CL
+V-O
+V-S-ADV
+aNpaNp
+219107	DetNP
+DetCL
+ADV-V-S-ADV
+PrepNp
+219113	DetNP
+ClCl
+O-V-ADV
+CLaCL
+V2CL
+219119	V-O
+ofNPNP
+DetNP
+sub-CL
+S-O-ADV-V-ADV
+notCLbutCL2CL
+ADV-V
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+219134	Conj-CL
+219136	ADV-V-S
+219138	S-V
+ofNPNP
+DetNP
+DetNP
+219143	Conj-CL
+ADV-ADV-V-ADV
+PrepNp
+NP-Demo
+DetNP
+V2CL
+PrepNp
+219151	Conj-CL
+V-S-ADV-ADV
+AdvpNp
+DetNP
+NpPp
+PrepNp
+PrepNp
+V-IO
+CL-NP
+ADV-V
+PrepNp
+Np-Appos
+Np-Appos
+AdjpNp
+AdjpNp
+219167	Conj-CL
+ClCl2
+V-S-ADV
+PrepNp
+ADV-V-O-S
+DetNP
+219174	Conj-CL
+CLaCL
+ADV-V-S-ADV-ADV
+DetCL
+V2CL
+DetNP
+PrepNp
+PrepNp
+219183	V-S
+All-NP
+DetAdj
+219187	Conj-CL
+ADV-V-ADV-O
+V-O
+PrepNp
+NPofNP
+O-V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+219200	Conj-CL
+CLaCL
+S-ADV-V-O
+V2CL
+DetNP
+219207	CLaCL
+ClCl
+219210	Np2CL
+S-VC-P
+AdjpNp
+NPofNP
+PrepNp
+DetAdj
+DetCL
+V2CL
+219219	S-P-VC
+NPofNP
+DetNP
+219223	Conj-CL
+219225	PrepNp
+that-VP
+V-O2-O-ADV
+NpPp
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+All-NP
+V-O
+CLaCL
+ADV-V-S-O
+DetNP
+219240	ADV-V
+DetNP
+219243	Conj-CL
+P-VC
+219247	that-VP
+V2CL
+219250	Conj-CL
+219252	O-V
+219254	VC-P-S
+NpAdjp
+NpAdjp
+O-V-ADV
+PrepNp
+219260	CLaCL
+CLaCL
+ADV-V-ADV
+O-V
+PrepNp
+219267	PrepNp
+sub-CL
+V-O
+DetNP
+219273	that-VP
+CLaCL
+S-P-VC
+O-V-ADV
+PrepNp
+219279	V-S-ADV
+AdvpNp
+V-O
+DetNP
+219284	Conj-CL
+ADV-S-V-ADV
+PrepNp
+DetNP
+AdjpNp
+V2CL
+V-O
+V-S-O
+EitherOr4Np
+219294	DetAdj
+219299	ADV-S-ADV-ADV-V-ADV-ADV
+DetNP
+V-O-ADV
+DetNP
+DetNP
+AdjpNp
+V2CL
+ADV-V
+PrepNp
+PrepNp
+DetNP
+219311	DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+ADV-V-ADV-S
+PrepNp
+PrepNp
+NPofNP
+NpAdjp
+DetNP
+219323	Conj-CL
+ClCl2
+sub-CL
+V-S-O
+DetNP
+NumpNP
+V2CL
+CLaCL
+S-ADV-V-O
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+V-O-ADV
+PrepNp
+DetNP
+All-NP
+DetNP
+219342	V-ADV-O-ADV
+PrepNp
+DetNP
+219346	ClCl2
+ClCl
+Np2CL
+Np2CL
+ClCl
+V2CL
+CLaCL
+S-VC-P
+Np-Appos
+DetNP
+DetCL
+ADV-O-ADV-V
+PrepNp
+Conj3Np
+DetNP
+219362	DetNP
+219364	NPofNP
+DetNP
+219367	CLaCL
+ADV-O-V-ADV
+AdvpNp
+PrepNp
+DetNP
+219373	V-O
+NP-Demo
+DetNP
+AdjpNp
+219378	Conj-CL
+ClCl
+V-O
+BeVerb
+S-ADV-P
+Np-Appos
+DetAdj
+PrepNp
+DetNP
+PrepNp
+219389	that-VP
+O-ADV-V-S
+PrepNp
+DetNP
+DetNP
+219395	Conj-CL
+CLaCL
+CLaCL
+V-S
+NP-all
+DetNP
+219402	CLaCL
+V-S
+NPofNP
+DetNP
+219407	ADV-V-O-ADV
+V-O
+DetNP
+PrepNp
+DetNP
+219413	ADV-V-S
+DetNP
+219416	Conj-CL
+ClCl2
+V-O
+O-V
+219421	DetNP
+NPofNP
+DetNP
+that-VP
+S-V
+All-NP
+S-ADV-ADV-V-ADV
+V-O
+NpaNp
+219431	PrepNp
+219433	Conj-CL
+S-ADV-V-O
+V-O
+NpaNp
+DetNP
+219439	DetNP
+V-O
+DetNP
+219443	Conj3CL
+ADV-ADV-S-V-O
+V2CL
+DetNP
+219448	V-O
+V-ADV
+NpAdjp
+219452	V-O
+CLaCL
+P-VC
+219456	O-V
+BeVerb
+219459	Conj-CL
+S-O-V-ADV
+AdjpNp
+PrepNp
+DetNP
+219465	Conj-CL
+219467	ADV-V-S-O-ADV
+V-O
+DetAdj
+PrepNp
+DetNP
+V-S-ADV
+PrepNp
+DetNP
+219476	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+DetNP
+ClCl
+V-S
+V-S-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+219497	V-O
+219499	Conj-CL
+219501	V-O
+V-ADV
+PrepNp
+DetNP
+DetNP
+DetNP
+PtclCL
+V-ADV-S
+V-O-ADV
+PrepNp
+219512	Conj-CL
+219515	Conj-CL
+ADV-S-VC-P
+Np-Appos
+DetAdj
+DetCL
+CLaCL
+ADV-V
+PrepNp
+Demo-NP
+DetNP
+219526	V-ADV-O
+PrepNp
+DetAdj
+DetNP
+AdjpNp
+NPofNP
+DetNP
+219534	Conj-CL
+219536	DetNP
+aCLaCL
+219539	ClCl
+S-VC-P
+Np-Appos
+Np-Appos
+NPofNP
+DetNP
+P2CL
+ofNPNP
+AdjpNp
+AdvpAdjp
+219551	V-IO-O
+V-ADV
+PrepNp
+DetNP
+219556	Conj-CL
+ClCl2
+V-S
+S-ADV-V-ADV-IO
+DetNP
+V-ADV
+PrepNp
+DetNP
+DetNP
+DetNP
+219567	Conj-CL
+219569	S-V
+AdjpNp
+Np-Appos
+DetNP
+V2CL
+219575	ClCl2
+ClCl
+Np2CL
+Np2CL
+NpaNp
+219581	V-O
+ofNPNP
+DetNP
+PpNp2Np
+PrepNp
+AdvpNp
+219588	Conj-CL
+ADV-ADV-V-O
+219591	that-VP
+ADV-V-O
+Np-Appos
+DetNP
+219596	Conj-CL
+219599	NpAdjp
+CLaCL
+V-ADV
+PrepNp
+NPofNP
+DetNP
+219606	V-ADV
+PrepNp
+NP-Demo
+DetNP
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NPofNP
+DetNP
+AdjpNp
+219619	NPofNP
+DetNP
+sub-CL
+S-VC-ADV
+All-NP
+219625	S-O-V-ADV-ADV
+Demo-NP
+DetNP
+PrepNp
+V-ADV-O
+Conj2VP
+219632	PrepNp
+aNpaNp
+219637	S-V-IO
+AdvpNp
+DetNP
+219641	S2CL
+All-NP
+DetNP
+ADV-ADV-V-ADV
+ADV-O-V-ADV
+PrepNp
+AdvpNp
+PrepNp
+DetNP
+PrepNp
+219652	AdvpNp
+DetCL
+P-VC
+V2CL
+PrepNp
+sub-CL
+V2CL
+219660	Conj-CL
+CLaCL
+V-ADV-ADV-ADV-S
+CLaCL
+V2CL
+219666	V-ADV
+DetNP
+PrepNp
+ADV-ADV-V-S-ADV
+PrepNp
+DetNP
+NpAdjp
+PrepNp
+219675	CLaCL
+V-ADV
+PrepNp
+DetNP
+219680	V-O
+219682	ClCl2
+ClCl
+Np2CL
+Np2CL
+ADV-O-V
+219688	Conj-CL
+219691	Np2CL
+219693	Conj-CL
+219695	PrepNp
+S-VC-P
+NP-CL
+Np-Appos
+DetNP
+O-S-V
+219702	Conj-CL
+aCLaCL
+219705	S-O-V
+DetCL
+P-VC
+PrepNp
+DetNP
+219711	ADV-V-O
+DetNP
+NPofNP
+DetCL
+V-IO
+219717	Conj-CL
+219720	Np2CL
+219722	Conj-CL
+219724	DetNP
+PrepNp
+ClCl
+ADV-V-ADV
+V2CL
+PrepNp
+ADV-IO-V-ADV
+PrepNp
+All-NP
+S-V-IO
+O-V
+219736	Conj-CL
+219738	sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+V-ADV
+PrepNp
+DetCL
+V-ADV
+PrepNp
+219751	Conj-CL
+219753	Np-Appos
+NpAdjp
+NpAdjp
+NpAdjp
+AdjpPp
+PrepNp
+DetNP
+V-ADV
+PrepNp
+All-NP
+DetNP
+AdjpNp
+V2CL
+CLaCL
+V-ADV
+PrepNp
+219770	V2CL
+ClCl2
+ClCl
+Np2CL
+Np2CL
+V2CL
+219777	S-ADV-V-ADV
+PronNP
+DetNP
+PrepNp
+219782	Conj-CL
+219785	DetNP
+NPofNP
+DetNP
+NPofNP
+Conj3CL
+V-O
+DetNP
+NPofNP
+219794	V-O
+DetAdj
+219797	V-O
+NpPp
+PrepNp
+DetNP
+NPofNP
+sub-CL
+VC-ADV-ADV-P
+NPofNP
+PrepNp
+All-NP
+O-V
+Conj2VP
+219811	Conj-CL
+ADV-O-V
+219814	CLaCL
+ADV-V
+V2CL
+219818	V-O-ADV
+DetNP
+NPofNP
+V-O
+DetNP
+NPofNP
+219825	Conj-CL
+V-ADV-ADV-S
+CLaCL
+V-ADV
+PrepNp
+219831	V-S-ADV
+PrepNp
+DetNP
+CLaCL
+VC-S-P
+PrepNp
+219838	V-O
+219840	ClCl
+CLaCL
+V2CL
+219844	V-ADV-ADV
+PrepNp
+PrepNp
+sub-CL
+ADV-V-O
+ofNPNP
+NpPp
+PrepNp
+219855	Np2CL
+that-VP
+S-V-ADV-O
+BeVerb
+Conj2VP
+219861	PrepNp
+DetNP
+DetCL
+V-ADV
+PrepNp
+219867	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+S-V
+AdvpNp
+BeVerb
+Conj3CL
+V2CL
+219882	V2CL
+219884	V-O
+DetNP
+NPofNP
+DetCL
+V-O
+219890	Conj-CL
+219892	PrepNp
+ClCl
+V2CL
+sub-CL
+S-ADV-ADV-V-O
+PrepNp
+219899	Conj-CL
+CLaCL
+V-O-ADV
+PrepNp
+Demo-NP
+DetNP
+219906	V-O-ADV
+DetNP
+NPofNP
+219910	ClCl
+V-ADV-O
+PrepNp
+DetNP
+DetNP
+sub-CL
+ADV-V-S
+S-V
+219919	Conj-CL
+ClCl
+CLaCL
+V-S
+219924	CLaCL
+V-O
+DetNP
+219928	O-V-ADV
+PrepNp
+DetNP
+219932	DetNP
+V-S-ADV
+PrepNp
+DetNP
+V-O
+ADV-V-S
+sub-CL
+V-O
+ADV-ADV-V-IO
+PrepNp
+PronNP
+219944	Conj-CL
+ClCl2
+sub-CL
+V-O-ADV
+DetNP
+219950	PrepNp
+DetNP
+AdjpNp
+V2CL
+DetNP
+PtclCL
+S-V-ADV
+O-V
+NpAdjp
+AdjpaAdjp
+219962	Conj-CL
+ADV-S-ADV-V-ADV
+V2CL
+DetNP
+V-ADV
+DetNP
+219969	ClCl
+V-O
+O-V
+sub-CL
+S-P-VC
+NP-Demo
+DetNP
+219977	Conj-CL
+219979	V2CL
+DetNP
+219982	S-P-VC
+219984	Conj-CL
+219986	Intj2CL
+219988	Conj-CL
+219990	DetNP
+S-ADV-O-V
+AdjpNp
+NP-Demo
+DetNP
+219996	Conj-CL
+219998	DetNP
+Conj-CL
+S-ADV-V
+220002	Conj-CL
+ADV-V-ADV-S
+PrepNp
+DetCL
+V-O
+O-V
+220009	Conj-CL
+S-V-ADV
+AdvpNp
+DetNP
+ClCl
+V2CL
+CLaCL
+that-VP
+P-VC
+220019	that-VP
+O-V
+BeVerb
+220023	Conj-CL
+CLaCL
+ADV-ADV-V-O
+DetAdv
+V-O
+V-O
+Np-Appos
+DetAdj
+DetCL
+ADV-V-ADV
+PrepNp
+DetAdj
+220036	CLaCL
+V-O
+V-S
+NpaNp
+DetNP
+220042	All-NP
+DetNP
+220045	ADV-V-ADV
+V-O
+DetNP
+PrepNp
+220050	Conj-CL
+220052	V-O
+DetNP
+DetNP
+ClCl2
+ClCl
+Np2CL
+Np2CL
+S-ADV-V-ADV-ADV
+All-NP
+NpAdjp
+DetNP
+PrepNp
+Demo-NP
+DetNP
+220067	Conj-CL
+S-V-IO-O
+Np-Appos
+DetNP
+DetCL
+V-ADV
+V-O
+ofNPNP
+DetNP
+220078	DetNP
+PrepNp
+ClCl
+220082	V-O
+DetNP
+Np2CL
+NpAdjp
+V2CL
+CLaCL
+S-V-ADV
+AdvpNp
+V-O-ADV
+PrepNp
+DetNP
+220094	ADV-V-O
+V2CL
+S-V
+220098	Conj-CL
+220100	DetCL
+V2CL
+O-V
+DetNP
+NPofNP
+DetNP
+220107	Conj-CL
+220109	DetNP
+ClCl
+220112	Np2CL
+that-VP
+VC-P
+sub-CL
+220117	that-VP
+O-ADV-V-ADV
+NPofNP
+DetNP
+NPofNP
+220123	Conj-CL
+220126	DetNP
+that-VP
+CLaCL
+S-VC-P
+DetNP
+AdjpNp
+220133	S-P
+DetNP
+PrepNp
+DetNP
+ClCl2
+ClCl
+Np2CL
+Np2CL
+ClCl
+ClCl
+S-P-VC
+P2CL
+NPofNP
+ADV-V
+PrepNp
+NpaNp
+220150	NPofNP
+220152	Conj-CL
+ClCl
+ClCl2
+O-S-V
+CLaCL
+V-S
+NPofNP
+DetNP
+NpaNp
+220163	V-S
+DetNP
+sub-CL
+CLaCL
+S-V-O
+ADV-V-S
+Conj3Np
+220173	S-V-O
+DetAdj
+220176	Conj-CL
+CLaCL
+V-S
+NpAdjp
+220181	ADV-S-V-ADV
+V2CL
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+220190	CLaCL
+O-V-ADV
+NpAdjp
+PrepNp
+NP-Demo
+DetNP
+220197	sub-CL
+CLaCL
+S-V-IO
+220201	S2CL
+220203	Conj-CL
+220205	S-V
+AdjpNp
+ClCl
+V2CL
+DetNP
+PtclCL
+V-S-ADV
+DetNP
+PrepNp
+CLaCL
+S-ADV-V-O-ADV
+DetNP
+V2CL
+PrepNp
+NPofNP
+220221	V-ADV
+PrepNp
+DetNP
+220225	Conj-CL
+220227	DetNP
+AdjpNp
+V2CL
+V-ADV
+DetNP
+ClCl
+V2CL
+sub-CL
+ClCl2
+sub-CL
+V-O-ADV
+NpPp
+PrepNp
+PrepNp
+ADV-V-S
+S-ADV-V
+AdvPp
+PrepNp
+220246	Conj-CL
+ClCl2
+V-S
+ADV-S-V-O-ADV
+V-O
+DetAdj
+V-O
+V-ADV
+EitherOrVp
+220257	PrepNp
+ADV-V-O
+DetNP
+220261	Conj-CL
+VC-P-S
+AdjpAdvp
+NP-CL
+DetCL
+O-V
+Demo-NP
+DetNP
+220270	S-ADV-V
+V-ADV
+NpaNp
+DetNP
+220275	DetAdj
+S-O-V-ADV
+PrepNp
+ADV-V-O
+DetNP
+220281	Conj-CL
+CLaCL
+220284	DetNP
+PrepNp
+DetNP
+sub-CL
+V-O-ADV-ADV
+PrepNp
+sub-CL
+V-O
+V-ADV-O
+NpPp
+PrepNp
+220296	S-ADV-P-VC-ADV
+PrepNp
+DetCL
+V-S
+DetCL
+V-O
+220303	Conj-CL
+S-ADV-ADV-V-IO
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+CLaCL
+V2CL
+220314	V-ADV
+PrepNp
+DetNP
+DetNP
+220319	Conj-CL
+220321	V-O
+DetNP
+NPofNP
+DetNP
+ClCl
+O-V-ADV
+NP-Demo
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-O
+V-O-IO
+220335	Conj-CL
+Conj-CL
+CLaCL
+S-ADV-V-ADV
+V-O
+PrepNp
+DetNP
+220344	S-ADV-V-O
+Np-Appos
+DetNP
+V-O
+O-V-ADV-ADV
+Demo-NP
+DetNP
+PrepNp
+V-O
+O-V-IO
+220355	Conj-CL
+S-ADV-V-O
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+220363	V-ADV
+PrepNp
+P-VC-S
+O-V
+O-V-IO
+220369	Conj-CL
+220371	that-VP
+S-V-O
+DetAdj
+DetCL
+220376	sub-CL
+ADV-O-V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-O
+O-ADV-V-ADV
+PrepNp
+220386	Conj-CL
+220388	sub-CL
+CLaCL
+V-O-S
+NP-CL
+PpNp2Np
+PrepNp
+NpAdjp
+AdjpAdvp
+S-V-O
+S-V-ADV
+EitherOrVp
+220401	PrepNp
+ADV-V-O
+220404	ADV-VC-P-ADV
+V-O
+DetNP
+PpNp2Np
+PrepNp
+220410	Conj-CL
+Conj-CL
+S-V-O-ADV
+DetNP
+DetNP
+V-O
+220417	that-VP
+O-V-ADV
+PrepNp
+220421	Conj-CL
+ClCl
+220424	V-O
+NPofNP
+NpNump
+DetNP
+CLaCL
+220430	Conj3Np
+NpAdjp
+sub-CL
+V-ADV-ADV
+PrepNp
+220436	NpNump
+220438	NpAdjp
+PrepNp
+AdjpNp
+NPofNP
+DetNP
+220445	sub-CL
+ADV-V-ADV
+V-O
+DetNP
+PrepNp
+Np-Appos
+DetNP
+V-O
+NpAdjp
+V-O
+NP-Demo
+DetNP
+220458	ClCl
+S-IO
+Np-Appos
+Np-Appos
+DetNP
+AdjpNp
+V2CL
+220466	O-ADV-ADV-V-ADV
+NP-Demo
+DetNP
+CLaCL
+V-ADV
+PrepNp
+DetAdj
+220474	V-O
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+DetNP
+220481	that-VP
+P-VC
+220484	Conj-CL
+ADV-V-ADV
+V-O
+V-O
+DetNP
+NP-CL
+ADV-V-O
+PrepNp
+PrepNp
+DetNP
+NPofNP
+220496	V-O
+CLaCL
+S-V-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+220504	O-V
+AdjpNp
+AdjpNp
+AdjpAdvp
+NpaNp
+220511	Conj-CL
+220513	V-IO-S
+S-ADV-V
+PrepNp
+DetNP
+PrepNp
+V-IO-O
+AdvpNp
+DetNP
+V-ADV-ADV
+PrepNp
+PrepNp
+220525	Conj-CL
+Conj-CL
+S-ADV-ADV-V-ADV-ADV
+DetNP
+PrepNp
+DetCL
+V-IO
+V-O
+DetNP
+PrepNp
+PrepNp
+DetNP
+220538	Conj-CL
+220540	DetAdv
+V-O
+S-V-ADV
+DetNP
+PrepNp
+PrepNp
+DetNP
+S-ADV-V-O-IO
+CLaCL
+V-ADV
+PrepNp
+DetNP
+220553	V-O-IO
+DetNP
+DetNP
+AdvpNp
+DetNP
+220559	Conj-CL
+ClCl
+220562	Conj3CL
+V2CL
+220566	P-VC
+PrepNp
+AdjpNp
+220571	that-VP
+P2CL
+PrepNp
+ClCl
+V-O
+sub-CL
+S-V
+AdvpNp
+DetNP
+NPofNP
+V-O
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+220588	Conj-CL
+220590	PrepNp
+NumpNP
+Np-Appos
+DetNP
+PrepNp
+NpaNp
+NpAdjp
+220598	NpAdjp
+Np-Appos
+S-V-IO-ADV
+DetNP
+PrepNp
+DetNP
+220605	Conj-CL
+220607	V-S
+V2CL
+DetNP
+220612	CLaCL
+O-V-ADV
+AdjpNp
+PrepNp
+220617	S-V-ADV-ADV
+NP-Demo
+DetNP
+PrepNp
+DetNP
+AdjpNp
+ADV-V-ADV
+aAdvpaAdvp
+220627	Np2CL
+AdjpNp
+PrepNp
+All-NP
+220632	Conj-CL
+ClCl2
+sub-CL
+ADV-ADV-O-V
+PrepNp
+V-O
+V-S-O-ADV-ADV
+DetNP
+AdjpNp
+220642	Conj-CL
+V-O
+220646	NP-Demo
+DetNP
+Conj3Np
+220650	V-O-IO
+All-NP
+Np-Appos
+DetAdj
+NpPp
+PrepNp
+DetNP
+220658	NPofNP
+DetNP
+ofNPNP
+DetNP
+S-ADV-O-V
+O-V
+DetNP
+O-ADV-V
+PrepNp
+V-ADV
+PrepNp
+All-NP
+V-O
+O2-S-V-O
+220673	Conj-CL
+V-S-ADV
+AdvpNp
+DetAdj
+V-O
+S-P-VC
+220680	Conj-CL
+ClCl
+220683	DetNP
+V-IO-S-O
+DetNP
+V2CL
+220688	O-V
+ADV-VC-S-P-ADV
+PrepNp
+AdjpNp
+NP-Demo
+DetNP
+NpPp
+PrepNp
+V-S-O
+220698	V2CL
+CLaCL
+ADV-P-VC-ADV-S-ADV
+NpNump
+PrepNp
+ADV-V-ADV
+V-ADV
+PrepNp
+220707	CLaCL
+V-O-ADV
+aPpaPpaPp
+220711	PrepNp
+DetNP
+CLaCL
+S-ADV-V
+PrepNp
+220717	O-V
+NPofNP
+220720	PrepNp
+DetNP
+220723	PrepNp
+DetNP
+220726	V-O
+V-IO-ADV
+PrepNp
+O2-ADV-V-O
+220731	Conj-CL
+220733	that-VP
+ADV-ADV-V-O-ADV-ADV
+PrepNp
+DetNP
+NP-CL
+O-V-O2
+DetNP
+AdjpNp
+V-O
+All-NP
+NpaNp
+NpPp
+PrepNp
+DetNP
+220748	DetCL
+ADV-V
+PrepNp
+DetNP
+V-O
+NP-CL
+NP-CL
+NpPp
+PrepNp
+DetNP
+O-S-V
+AdvpNp
+PronNP
+V-O-S
+NPofNP
+V2CL
+aNpaNp
+220768	ADV-S-V-O
+PrepNp
+AdvpNp
+O-V-ADV-ADV
+AdjpNp
+PrepNp
+NpaNp
+DetNP
+220777	DetNP
+PrepNp
+220780	Conj-CL
+220782	ADV-ADV-V
+PrepNp
+NpAdjp
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+220790	O2CL
+ADV-V-O
+PrepNp
+S-V-ADV-ADV
+PrepNp
+DetNP
+notPPbutPP
+PrepNp
+PrepNp
+220800	Conj-CL
+220802	Np2CL
+AdjpNp
+PpNp2Np
+PrepNp
+DetNP
+S-V
+S-ADV-V
+PrepNp
+Conj2VP
+220812	O-V-ADV
+PrepNp
+220815	Conj-CL
+CLaCL
+220818	PronNP
+ClCl
+O-V
+AdjpNp
+V-S-ADV
+PrepNp
+DetNP
+220826	ADV2CL
+PrepNp
+Np-Appos
+Demo-NP
+NP-CL
+220832	O-V-ADV
+ADV-V
+PrepNp
+ADV-S-V-ADV-ADV
+PrepNp
+NPofNP
+PrepNp
+220840	Conj-CL
+V-O-S-ADV-ADV-ADV
+DetNP
+ADV-V-O
+NpPp
+PrepNp
+DetNP
+220848	ClCl2
+sub-CL
+S-V
+Np-Appos
+DetNP
+V-O
+NpPp
+PrepNp
+V-IO-O
+DetNP
+CLaCL
+V-S
+220861	CLaCL
+V-O
+220864	V-O
+S-V-O
+NPofNP
+DetNP
+NPofNP
+220870	Conj-CL
+CLaCL
+ADV-S-ADV-V-O
+PrepNp
+NpAdjp
+V-ADV
+DetNP
+PrepNp
+NpAdjp
+Np-Appos
+DetNP
+AdjpNp
+VC-P
+DetNP
+220885	V-O-ADV
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+Np-Appos
+220892	Conj-CL
+220894	V-S-ADV
+PrepNp
+Conj3Np
+220899	Np-Appos
+DetNP
+DetCL
+V2CL
+P-VC
+DetNP
+CLaCL
+ADV-V
+DetCL
+ADV-V
+220910	ADV-V-O
+O-V
+220913	that-VP
+S-V-IO-ADV
+PrepNp
+DetNP
+220918	Conj-CL
+ADV-V-ADV
+ADV-ADV-O-V
+220922	Conj-CL
+CLaCL
+ClCl2
+S-V
+V-S-O
+Np-Appos
+DetNP
+Np-Appos
+220931	ADV-S-V-O-O2
+V-O
+O-V-IO
+DetAdj
+DetNP
+DetNP
+V2CL
+220939	Conj-CL
+CLaCL
+S-ADV-ADV-V-ADV-ADV
+V-ADV
+DetAdj
+PrepNp
+AdjpNp
+PrepNp
+PrepNp
+220949	CLaCL
+V-IO-S-ADV
+NpaNp
+DetNP
+220954	DetNP
+NPofNP
+DetAdj
+PrepNp
+DetNP
+220961	V-O-ADV
+PrepNp
+sub-CL
+V-O-ADV-ADV
+PrepNp
+O-V-ADV
+V-O-ADV
+PrepNp
+DetNP
+220971	Conj-CL
+Conj-CL
+S-V-O
+DetNP
+CLaCL
+V-S-ADV
+DetNP
+PrepNp
+220980	S-V-O
+ADV-V
+PrepNp
+220984	Conj-CL
+220987	DetNP
+PpNp2Np
+PrepNp
+V2CL
+sub-CL
+S-VC-P
+Np-Appos
+PrepNp
+DetNP
+220997	Conj-CL
+ADV-ADV-ADV-V-O
+V-ADV-ADV
+PrepNp
+NpAdjp
+AdvpAdjp
+AdjpAdvp
+Conj2Nump
+221006	V-ADV
+PrepNp
+ADV-V-ADV
+DetAdv
+PrepNp
+DetNP
+S-V
+DetNP
+221015	Conj-CL
+ClCl
+ClCl2
+V-S
+V-ADV-S-ADV
+DetNP
+AdjpNp
+ADV-V
+PrepNp
+221025	AdjpNp
+AdjpaAdjp
+221028	O-ADV-V
+O-V
+S-V-O
+DetNP
+that-VP
+ADV-O-V
+aPpaPpaPp
+221036	PrepNp
+DetNP
+NPofNP
+DetAdj
+221041	PrepNp
+DetNP
+221044	PrepNp
+221046	Conj-CL
+221048	DetNP
+V-O
+IO-O-V
+DetAdj
+V-IO
+DetNP
+V-O
+ADV-ADV-ADV-V-ADV
+ADV-V
+PrepNp
+PrepNp
+PrepNp
+221061	Conj-CL
+221063	DetNP
+ClCl
+ADV-V
+VerbBe
+PrepNp
+DetNP
+NPofNP
+S-V
+ADV-S-V
+221073	ClCl
+O-ADV-V
+sub-CL
+S-ADV-V
+AdvpNp
+221079	Conj-CL
+aCLaCL
+221082	ClCl2
+sub-CL
+CLaCL
+V2CL
+221087	O-V
+AdjpNp
+AdjpAdvp
+ADV-V-O
+DetCL
+V2CL
+221094	ClCl2
+sub-CL
+P-VC-S
+O2-S-V-O
+S-V-O
+O-IO-V
+221101	O-V
+221104	DetNP
+V-ADV
+PrepNp
+DetNP
+ClCl
+O-V
+ADV-V
+PrepNp
+221113	Conj-CL
+ClCl2
+S-V
+NpAdjp
+S-V-ADV-ADV
+NpaNp
+Np-Appos
+DetNP
+221122	PrepNp
+V-O
+DetNP
+221126	Conj-CL
+ClCl2
+sub-CL
+ADV-V-ADV
+AdjpNp
+S-IO-V-O-ADV
+DetNP
+DetNP
+NpPp
+PrepNp
+DetNP
+221139	S-VC-P
+NpAdjp
+AdjpNp
+V-ADV
+PrepNp
+ADV-ADV-V-S-ADV
+PrepNp
+VC-S-P
+PrepNp
+NpaNp
+DetNP
+221151	DetNP
+NPofNP
+DetAdj
+V-ADV-O
+PrepNp
+ADV-V
+PrepNp
+ADV-VC-P-ADV-S
+ClCl
+V-O
+AdjpNp
+AdvpCL
+sub-CL
+CLaCL
+S-ADV-V-O
+DetCL
+V2CL
+PrepNp
+DetNP
+221171	O-V-ADV
+NPofNP
+PrepNp
+DetNP
+221176	Conj-CL
+221178	V-ADV
+ADV-ADV-V-O
+O-V
+NpAdjp
+ADV-V-ADV
+DetAdv
+PrepNp
+DetNP
+V-S
+DetNP
+CLaCL
+ADV-ADV-S-V-O
+PrepNp
+V2CL
+DetNP
+AdjpNp
+NPofNP
+CL-NP
+O-S-V
+221198	CLaCL
+O-ADV-V-ADV
+NpAdjp
+PrepNp
+DetNP
+AdjpNp
+PrepNp
+221206	ADV2CL
+PrepNp
+NP-CL
+NpAdjp
+AdjpNp
+V2CL
+O-V-S
+S-V
+DetNP
+221216	Conj-CL
+221218	V-O
+DetNP
+PpNp2Np
+PrepNp
+PtclCL
+V-O
+CLaCL
+V-ADV
+PrepNp
+221228	V-ADV
+PrepNp
+221231	Conj-CL
+ClCl2
+S-V-O
+DetNP
+V-S-ADV
+PrepNp
+DetNP
+ofNPNP
+DetAdj
+V-O
+V-S-ADV
+PrepNp
+ADV-V-O-ADV
+PrepNp
+221246	Conj-CL
+ClCl
+S-ADV
+PrepNp
+DetNP
+V-S-O
+AdvpNp
+O-V
+DetNP
+221257	ADV-V-O
+221259	Conj-CL
+ClCl2
+CLaCL
+CLaCL
+ADV-V-S-ADV
+DetAdv
+NpaNp
+DetNP
+221268	DetNP
+PrepNp
+AdjpNp
+221272	V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+aNpaNp
+221279	Np-Appos
+NPofNP
+NpPp
+PrepNp
+DetNP
+221285	V-S
+DetNP
+V-S
+DetNP
+221290	Conj-CL
+221292	DetNP
+221294	Np2CL
+NpaNp
+Np-Appos
+221298	All-NP
+DetNP
+AdjpNp
+V-ADV
+NP-CL
+ADV-S-V-O-ADV-ADV
+PrepNp
+AdjpNp
+DetNP
+NPofNP
+DetAdj
+PrepNp
+aNpaNp
+221313	V-O
+ADV-V-S
+S-V-ADV
+221317	Conj-CL
+CLaCL
+S-V-O
+O-S-V
+NpAdjp
+AdjpAdvp
+221325	S-V-O
+PronNP
+DetAdj
+V-O
+V2CL
+ADV-O-ADV-V
+PrepNp
+O-V-IO
+AdjpNp
+DetNP
+221336	Conj-CL
+ClCl
+221339	Conj2Pp
+PrepNp
+221342	AdvPp
+PrepNp
+Np2CL
+Np-Appos
+sub-CL
+ClCl2
+S-V
+DetNP
+V-O
+O-V
+221353	Conj-CL
+P-ADV-VC-S
+ADV-ADV-O-V
+V-O
+AdvpNp
+DetNP
+PpNp2Np
+PrepNp
+221362	Conj-CL
+221364	PrepNp
+DetNP
+V-IO-S
+ADV-V
+PrepNp
+221371	DetNP
+V-O
+DetNP
+ClCl
+221376	ADV-V-O-O2-ADV
+PrepNp
+All-NP
+O-V-ADV
+PrepNp
+Np2CL
+Np-Appos
+O-V
+ADV-ADV-V
+PrepNp
+NPofNP
+All-NP
+DetNP
+PpNp2Np
+PrepNp
+aNpaNp
+221394	Conj-CL
+V-O
+ADV-V-O
+221398	Conj-CL
+Conj-CL
+221401	Np-Appos
+DetNP
+NpPp
+NPofNP
+PrepNp
+DetCL
+ADV-VC-P
+PrepNp
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+221414	PrepNp
+All-NP
+V-O-ADV
+sub-CL
+V-O
+221420	that-VP
+ADV-V-ADV
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+AdjpNp
+221429	Conj-CL
+221431	PrepNp
+NPofNP
+DetNP
+AdjpNp
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+V2CL
+O-S-ADV-V
+ADV-V
+PrepNp
+DetNP
+NPofNP
+ADV-ADV-V
+PrepNp
+NpaNp
+221453	PrepNp
+PronNP
+PrepNp
+Np2CL
+221459	PrepNp
+sub-CL
+S-O-V
+DetNP
+221464	Conj-CL
+Conj-CL
+S-V-O
+221468	ADV-O-V
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+AdjpNp
+ClCl2
+CLaCL
+O-ADV-V-ADV
+PrepNp
+221480	aCLaCLaCL
+221482	O-S-ADV-V-ADV
+NPofNP
+DetAdj
+PrepNp
+O-V
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+221492	CLaCL
+ClCl2
+V-S
+V-O
+221497	ADV-V-O
+ADV-ADV-V-O
+PrepNp
+All-NP
+DetNP
+V2CL
+221504	ADV-V-ADV
+ADV-V-ADV
+PrepNp
+AdvPp
+PrepNp
+DetNP
+AdvpNp
+221512	ADV-ADV-ADV-V-O
+ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+PrepNp
+Np-Appos
+NpaNp
+221521	NPofNP
+DetNP
+NpAdjp
+PrepNp
+DetNP
+Np2CL
+ADV-ADV-V-S-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+221534	DetCL
+ADV-V
+PrepNp
+221538	Conj-CL
+ClCl2
+S-V-ADV
+All-NP
+PrepNp
+DetNP
+V-O
+221546	PrepNp
+Np-Appos
+DetNP
+ClCl2
+ClCl
+Np2CL
+Np2CL
+ClCl
+ADV-O-V
+P-ADV-S
+ADV-V
+PrepNp
+221559	Conj-CL
+221562	Np2CL
+221564	Conj-CL
+221566	DetNP
+S-VC-P
+NP-CL
+O-S-V
+221571	Conj-CL
+CLaCL
+V2CL
+221575	V-ADV
+PrepNp
+DetNP
+NPofNP
+221580	Conj-CL
+221582	PrepNp
+V-O-O2
+NpaNp
+221586	NPofNP
+aNpaNp
+221589	ADV-V-O
+221591	ADV-V-IO
+V-O-ADV
+Conj2Pp
+PrepNp
+DetNP
+221597	PrepNp
+DetNP
+ADV-S-V-O-ADV
+PrepNp
+V-O-ADV-ADV
+NPofNP
+DetCL
+V-ADV
+ADVaADV
+2Pp
+PrepNp
+PrepNp
+221610	AdvAdv
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+DetCL
+V-S-O
+NpaNp
+NPofNP
+221621	NpPp
+PrepNp
+DetCL
+V-ADV
+Np-Appos
+NpPp
+PrepNp
+221629	Conj-CL
+221631	Np2CL
+Np-Appos
+VC-P-ADV
+DetNP
+AdjpNp
+IO-V-O
+2Np
+aNpaNp
+221640	NpAdvp
+NpPp
+PrepNp
+221644	aNpaNp
+221646	All-NP
+DetNP
+NPofNP
+DetNP
+221651	DetNP
+CLaCL
+V2CL
+221655	V-ADV-ADV
+PrepNp
+DetNP
+O-V
+AdjpNp
+AdjpAdvp
+DetNP
+221663	ADV-S-ADV-V-O
+PrepNp
+O-V-ADV
+PrepNp
+DetNP
+V2CL
+221670	Conj-CL
+ADV-ADV-V-ADV-ADV
+V-O
+NPofNP
+NpPp
+PrepNp
+DetNP
+PrepNp
+NP-Demo
+DetNP
+V-IO
+aNpaNp
+221685	PrepNp
+O-S-V
+S-V-O
+aNpaNp
+221690	DetNP
+V2CL
+221693	ClCl
+sub-CL
+P-S
+DetNP
+ClCl2
+sub-CL
+P-ADV
+PrepNp
+NPofNP
+V-O
+O-V-IO
+aNpaNp
+221706	DetNP
+221708	DetNP
+221710	Conj-CL
+221712	O-S-V
+DetNP
+AdjpNp
+DetNP
+ClCl
+221718	Np2CL
+S-O-ADV-V
+DetNP
+AdjpNp
+PrepNp
+221724	Conj-CL
+221726	DetNP
+ClCl
+221729	V2CL
+Np2CL
+AdjpNp
+O-V
+ofNPNP
+NpaNp
+221736	sub-CL
+221738	PrepNp
+DetNP
+NP-CL
+ADV-ADV-ADV-V
+PrepNp
+V2CL
+sub-CL
+221746	V-O-ADV
+sub-CL
+ADV-V-ADV-S
+BeVerb
+PrepNp
+221753	Np2CL
+Np-Appos
+DetNP
+221758	that-VP
+V2CL
+221761	Conj-CL
+ClCl
+S-ADV
+DetNP
+PrepNp
+DetNP
+ADV-O-V-ADV
+PrepNp
+O-V
+221771	Conj-CL
+221773	DetNP
+PtclCL
+V-IO-ADV-O
+DetNP
+aPpaPp
+221779	PrepNp
+221781	PrepNp
+S-VC-P-ADV
+notNPbutNP
+2Advp_h1
+AdvpNp
+All-NP
+DetCL
+V-O-ADV
+NP-CL
+P-S-VC
+AdvpNp
+PrepNp
+NP-Demo
+DetNP
+221796	CLaCL
+V-S
+aNpaNp
+221800	NpaNp
+DetNP
+221803	DetNP
+221805	NpaNp
+DetNP
+221808	DetCL
+V-ADV
+221811	ADV-V-ADV-ADV
+V2CL
+PrepNp
+221815	that-VP
+O-V-S
+NpAdjp
+AdvpAdjp
+NpaNp
+221821	NP-Demo
+DetNP
+221824	Conj-CL
+221826	DetNP
+ClCl
+O-V-S
+V2CL
+NP-Demo
+DetNP
+sub-CL
+ADV-V-O
+221835	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetCL
+V-S-ADV
+PrepNp
+DetNP
+V-O-IO
+aNpaNp
+221846	DetNP
+221848	AdjpNp
+AdjpNp
+NPofNP
+NpAdjp
+ADV-P
+NpAdjp
+221855	Conj-CL
+ClCl
+ADV-V
+V-ADV
+NpAdjp
+NpAdjp
+V-O
+V-ADV
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+VC-P-S
+PrepNp
+Np-Appos
+NPofNP
+221873	aCLaCL
+221875	ADV-V-ADV
+DetAdj
+PrepNp
+221879	S-ADV-V-O
+ADV-O-V
+DetNP
+DetNP
+ADV-O-V
+ADV-V
+PrepNp
+DetAdj
+221888	CLaCL
+ADV-V-ADV-ADV
+ADV-V
+DetNP
+PrepNp
+DetCL
+S-VC-P
+DetNP
+221897	ADV-V-ADV
+ADV-V
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NpaNp
+221906	PrepNp
+NPofNP
+DetNP
+221910	S-ADV-V-O-ADV
+ADV-V-O
+DetNP
+NpAdjp
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+PrepNp
+221920	Conj-CL
+ClCl2
+CLaCL
+ADV-V
+PrepNp
+AdjpNp
+221927	ADV-V-ADV
+PrepNp
+DetNP
+ClCl2
+ADV-V-O-S
+DetNP
+CLaCL
+V-ADV-ADV
+DetNP
+PrepNp
+221938	ADV-V-ADV
+ADV-V-ADV
+PrepNp
+NP-CL
+NpAdjp
+NpAdjp
+VC-P
+AdjpNp
+P-S-VC
+NP-Prep
+Np-Appos
+221950	Conj-CL
+ClCl2
+CLaCL
+S-V
+AdjpNp
+221956	VC-ADV-P-S-ADV
+DetNP
+PrepNp
+DetCL
+S-ADV-V
+AdvpNp
+DetNP
+V-S-ADV
+DetNP
+221967	Np2CL
+that-VP
+O-V-S
+P-VC
+PrepNp
+NPofNP
+NpaNp
+221975	AdjpNp
+notNPbutNP
+2Advp_h1
+NpaNp
+DetNP
+221981	DetNP
+AdvpNp
+DetNP
+NPofNP
+DetNP
+221987	Conj-CL
+CLaCL
+S-IO-ADV-V
+DetNP
+NpaNp
+DetNP
+221994	DetNP
+221996	IO2CL
+DetCL
+ADV-V
+PrepNp
+222001	Conj-CL
+ClCl2
+P-S-VC-ADV
+DetNP
+PrepNp
+222007	DetAdj
+V-ADV
+PtclCL
+PtclCL
+V-O
+ADV-V
+V-ADV
+PrepNp
+Np-Appos
+NpAdjp
+NPofNP
+DetNP
+V-ADV
+Conj2Pp
+PrepNp
+222023	PrepNp
+222025	Conj-CL
+ClCl2
+V-S
+ADV-ADV-ADV-V-ADV
+V-O
+O-V
+DetNP
+V2CL
+DetNP
+222035	Conj-CL
+ADV-V-ADV-S
+PrepNp
+AdvpAdjp
+PrepNp
+Np-Appos
+NpAdjp
+DetCL
+VC-P
+222045	Conj-CL
+222047	CLaCL
+V-S
+DetNP
+222051	ADV-V-O
+V-O
+DetNP
+V2CL
+222056	Conj-CL
+CLaCL
+222059	V-ADV
+NpAdjp
+NpAdjp
+VC-P
+P-VC-ADV
+DetNP
+ADV-O-V-ADV
+O-V
+V-O
+DetNP
+222070	ADV-ADV-ADV-V
+ClCl
+V2CL
+PtclCL
+ADV-V
+PrepNp
+DetNP
+V-O
+DetNP
+222080	Conj-CL
+ClCl2
+ADV-V-S
+CLaCL
+ADV-O-V
+DetAdv
+222087	ADV-ADV-O-V
+DetAdj
+DetNP
+NPofNP
+DetNP
+222093	Conj-CL
+222095	CLaCL
+S-V-ADV
+aNpaNp
+222100	PrepNp
+AdjpNp
+222103	S-V
+NpAdjp
+AdvpAdjp
+NPofNP
+NP-all
+DetCL
+V-S
+222111	Conj-CL
+ClCl2
+S-V
+AdjpNp
+222116	V2CL
+DetNP
+PrepNp
+NPofNP
+222121	V-S
+Np2CL
+intjNP
+CLaCL
+ADV-ADV-V-ADV
+V-O
+PrepNp
+DetNP
+222130	V-O
+NpaNp
+NP-Demo
+DetNP
+222135	DetNP
+222137	Conj-CL
+222139	DetAdv
+S-V
+sub-CL
+S-P-VC-ADV-ADV
+NPofNP
+PrepNp
+PrepNp
+DetNP
+222148	Conj-CL
+V-ADV-ADV-S-ADV
+Demo-NP
+DetNP
+ofNPNP
+DetNP
+NP-CL
+NP-CL
+P-VC
+O-ADV-V
+222159	ClCl
+222161	Np2CL
+CLaCL
+S-V
+ADV-S-V
+222167	DetNP
+All-NP
+DetCL
+V-ADV
+PrepNp
+222173	Conj-CL
+ClCl
+222176	Np2CL
+sub-CL
+222179	DetNP
+that-VP
+P-VC-ADV
+PrepNp
+ADV-V-IO
+PronNP
+222186	Conj-CL
+V-S
+ADV-S-V
+PrepNp
+NpAdjp
+222192	Conj-CL
+ClCl2
+sub-CL
+S-V
+AdjpNp
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+ADV-V-S-O
+PrepNp
+NPofNP
+DetNP
+DetNP
+V-S-ADV
+AdjpNp
+222209	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+NpNump
+222215	ADV-V-O
+CLaCL
+ADV-V
+222219	ADV-V
+NpNump
+222222	Conj-CL
+ADV-ADV-V-O
+ClCl
+V2CL
+PtclCL
+ADV-ADV-V
+PrepNp
+AdjpNp
+ADV-V-O
+PrepNp
+NpAdjp
+S-V
+222235	Conj-CL
+ClCl2
+CLaCL
+S-V-O
+DetNP
+V-ADV
+PrepNp
+DetNP
+222245	DetNP
+PrepNp
+DetNP
+sub-CL
+O-V
+ADV-O-V
+PrepNp
+222253	DetNP
+NpaNp
+DetNP
+222257	DetNP
+ClCl2
+sub-CL
+ADV-S-V-ADV
+PrepNp
+DetNP
+S-O-ADV-V
+V2CL
+222266	CLaCL
+ADV-V-S-O
+DetNP
+DetNP
+NPofNP
+DetNP
+222273	V-O
+S-V
+222276	Conj-CL
+ADV-V-S-O-ADV
+PrepNp
+ADV-S-V-O
+V2CL
+DetNP
+S-V-O
+222284	ADV-ADV-V-ADV
+O-ADV-V
+AdjpNp
+O-V
+222289	Conj-CL
+ClCl
+222292	S-V-O
+sub-CL
+S-P-VC
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+S-ADV-V
+ofNPNP
+NPofNP
+PrepNp
+DetNP
+222305	Conj-CL
+CLaCL
+ADV-V-O-ADV
+CLaCL
+V-O
+222311	V-O
+DetNP
+PrepNp
+222315	ADV-V-O
+V2CL
+V2CL
+222319	Conj-CL
+ADV-S-V-O
+P-VC-S
+AdvpNp
+222324	Conj-CL
+VC-S-P
+DetNP
+All-NP
+NpPp
+PrepNp
+DetNP
+NumpNumpNump2
+222333	Conj-CL
+ADV-V-O-ADV
+V-O
+DetNP
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+222342	Conj-CL
+ClCl2
+sub-CL
+S-V
+CLaCL
+O-ADV-V
+DetNP
+222351	V-O
+NpAdjp
+NpAdjp
+V-O
+O-V
+ADV-V-O
+PrepNp
+V2CL
+DetNP
+222361	Conj-CL
+CLaCL
+ADV-V-ADV-ADV
+O-V
+DetNP
+PrepNp
+DetNP
+ADV-V-O
+DetNP
+NPofNP
+DetNP
+222373	ADV-V-ADV
+V-O-IO
+DetNP
+DetCL
+V2CL
+PrepNp
+DetNP
+222381	Conj-CL
+CLaCL
+ADV-V-O
+V-ADV
+PrepNp
+NpAdjp
+DetNP
+222389	aCLaCL
+222391	S-ADV-V-ADV
+DetNP
+V2CL
+222395	S-V-ADV
+DetNP
+PrepNp
+DetNP
+222400	Conj-CL
+222402	ofNPNP
+DetNP
+that-VP
+O-V
+DetNP
+PtclCL
+S-ADV-V
+V2CL
+222411	Conj-CL
+CLaCL
+S-ADV-V-O-ADV
+DetNP
+V-O
+V-O
+DetNP
+DetNP
+222420	V-O
+CLaCL
+S-ADV-ADV-ADV-V
+DetCL
+V-O
+V2CL
+V2CL
+PrepNp
+DetNP
+222431	S2CL
+DetAdj
+222434	S-ADV
+PrepNp
+222437	S-ADV
+PrepNp
+NPofNP
+NpPp
+PrepNp
+DetNP
+222444	Conj-CL
+ADV-V-S
+S-V-ADV
+PrepNp
+DetNP
+222450	Conj-CL
+222452	ADV-ADV-V
+V2CL
+P-S-VC
+DetNP
+222457	Conj-CL
+ClCl
+S-V-O-IO
+DetAdj
+DetNP
+AdjpNp
+ADV-V
+sub-CL
+ADV-V-O-ADV
+V-O
+All-NP
+Conj2Pp
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+222475	PrepNp
+DetNP
+222478	Conj-CL
+222480	CLaCL
+V-S-O
+DetNP
+ofNPNP
+AdjpNp
+222486	V-ADV
+PrepNp
+DetNP
+ADV-V
+PrepNp
+DetNP
+DetNP
+NPofNP
+222495	Conj-CL
+ClCl2
+sub-CL
+V-S-O
+DetAdj
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+222506	PrepNp
+ADV-P-VC-S
+NP-CL
+NP-Demo
+DetNP
+O-S-ADV-V
+S-ADV-V
+V-ADV
+PrepNp
+DetNP
+DetNP
+222518	Conj-CL
+Conj-CL
+S-ADV-V-O
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+AdjpNp
+222527	Conj-CL
+S-V-O
+CLaCL
+S-V-O
+V2CL
+222533	V-ADV-ADV
+222535	Conj-CL
+ClCl2
+CLaCL
+ADV-S-V
+PrepNp
+222541	V-O
+S-ADV-V
+AdjpNp
+PrepNp
+ADV-V-O
+V2CL
+S-VC-P
+222549	Conj-CL
+ADV-V-S-ADV
+PrepNp
+NpPp
+PrepNp
+NP-Demo
+DetNP
+NP-CL
+NpAdjp
+DetNP
+NPofNP
+DetNP
+ADV-P
+S-ADV-ADV-ADV-V
+V-O
+NpAdjp
+222566	Conj-CL
+222568	V-S
+S-ADV-V
+DetNP
+NPofNP
+DetNP
+ADV-V
+NpaNp
+222576	CLaCL
+ADV-V
+PrepNp
+DetNP
+222581	V2CL
+V-O-IO
+DetNP
+222585	Conj-CL
+222587	S-V
+CLaCL
+S-V
+AdvpNp
+Np-Appos
+DetAdj
+DetCL
+ADV-V-O
+PrepNp
+DetNP
+222598	V2CL
+CLaCL
+S-ADV-ADV-V-O
+AdjpNp
+222603	ADV-V-O
+V2CL
+NpPp
+PrepNp
+DetNP
+222609	Conj-CL
+ADV-V-ADV
+PrepNp
+AdjpNp
+PrepNp
+NpAdjp
+NpAdjp
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+P-S
+222622	Conj-CL
+ClCl
+ADV-V-ADV
+V-ADV
+PrepNp
+NpAdjp
+ADV-V-ADV
+ADV-V
+PrepNp
+222632	Conj-CL
+ClCl
+ClCl2
+ADV-V-S
+PrepNp
+AdjpNp
+ADV-V-ADV
+PrepNp
+ADV-V-O
+ADV-V-O
+ADV-V-ADV
+PrepNp
+NpNump
+222646	Conj-CL
+ADV-ADV-V
+PrepNp
+DetNP
+222652	DetNP
+V-O
+NpPp
+PrepNp
+PrepNp
+NpAdvp
+PrepNp
+NpaNp
+ofNPNP
+222662	AdjpNp
+ADV-S-ADV-V-O
+O-V
+DetNP
+V-O
+DetNP
+222669	Conj-CL
+222671	sub-CL
+V-ADV
+PrepNp
+DetNP
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+AdjpNp
+V-O
+222682	Conj-CL
+V-ADV-S
+PrepNp
+NpAdjp
+V-S-O
+DetCL
+VC-P
+ofNPNP
+DetAdj
+222692	Conj-CL
+ClCl2
+V-S
+222696	PrepNp
+ClCl2
+222699	S-ADV-ADV-ADV-V-ADV
+ClCl
+Np2CL
+Np2CL
+O-V-IO
+NpAdjp
+NpaNp
+DetNP
+222708	DetNP
+NPDetAdj
+DetAdj
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetAdj
+V-O
+V2CL
+PrepNp
+DetCL
+S-VC-P
+AdjpNp
+NPofNP
+PrepNp
+222725	Conj-CL
+222727	V-S
+DetAdj
+V-O
+AdvpCL
+sub-CL
+O-V
+O-O2-V
+DetNP
+NPofNP
+222737	Conj-CL
+222739	PrepNp
+Demo-NP
+DetNP
+CLaCL
+V2CL
+222745	V2CL
+sub-CL
+ADV-O-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-Demo
+DetNP
+222755	Conj-CL
+222757	PrepNp
+aCLaCL
+222760	S-O-V-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+222766	ADV-S-V-O
+V2CL
+NPofNP
+DetNP
+Conj2VP
+222772	NpAdjp
+NpPp
+PrepNp
+222776	Conj-CL
+222778	ADV-V-O
+PrepNp
+O-V
+sub-CL
+PtclCL
+ADV-P-ADV-VC-S
+PrepNp
+NP-Demo
+DetNP
+that-VP
+ADV-V
+222790	Conj-CL
+222792	V-IO-O
+PrepNp
+PrepNp
+DetNP
+IO-V-ADV-ADV
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+222803	V-O-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+aNpaNp
+222809	DetNP
+NPofNP
+222812	DetNP
+2Pp
+PrepNp
+PrepNp
+222817	Conj-CL
+aCLaCL
+222820	S-V-ADV
+DetCL
+V2CL
+222824	S-V
+222826	Conj-CL
+222828	P-VC-ADV
+PrepNp
+222831	DetNP
+NpAdjp
+that-VP
+222835	DetNP
+NPDetAdj
+DetAdj
+PrepNp
+Np-Appos
+DetNP
+PrepNp
+DetNP
+NPofNP
+V2CL
+ClCl
+CLaCL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+222852	V2CL
+CLaCL
+CLaCL
+ADV-V
+222857	ADV-V
+2Advp_h1
+222860	CLaCL
+ADV-V
+V2CL
+222864	ADV-V
+2Advp_h1
+222867	Conj-CL
+ClCl
+Conj3CL
+V-S
+DetNP
+NPofNP
+NP-Demo
+DetNP
+222876	ADV-ADV-V
+DetNP
+222879	O-V
+DetNP
+NPofNP
+CLaCL
+Conj4CL
+ADV-ADV-V-ADV
+DetNP
+222887	ADV-V
+DetNP
+222890	ADV-V
+DetNP
+222893	V2CL
+222895	V-O
+222897	Conj-CL
+P-VC-ADV-S
+that-VP
+ClCl
+IO-V-S
+DetNP
+Demo-NP
+DetNP
+NPofNP
+DetNP
+S-ADV-V
+222909	Conj-CL
+CLaCL
+V-ADV-ADV
+NP-all
+PrepNp
+AdjpNp
+222916	V-O-ADV
+All-NP
+DetCL
+V-ADV
+PrepNp
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+222927	V-O-ADV-ADV
+NpPp
+PrepNp
+Np-Appos
+DetNP
+Np-Appos
+PrepNp
+All-NP
+222936	S-IO
+NpAdjp
+Np-Appos
+Np-Appos
+NPofNP
+Np-Appos
+AdjpNp
+V-ADV
+PrepNp
+NP-CL
+NPofNP
+O-V-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NpAdjp
+PrepNp
+NP-CL
+Np-Appos
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetCL
+VC-P-ADV
+PrepNp
+NPofNP
+PrepNp
+DetCL
+V-O-ADV-ADV-ADV
+NPofNP
+PrepNp
+PrepNp
+NPofNP
+PrepNp
+NPofNP
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+222978	ADV-V-O-ADV-ADV-ADV
+PrepNp
+NpaNp
+222982	PrepNp
+NPofNP
+PrepNp
+All-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+AdvpNp
+NPofNP
+Np-Appos
+All-NP
+Np-Appos
+DetCL
+VC-P
+PrepNp
+Np-Appos
+NPofNP
+AdjpNp
+223003	IO-S-ADV
+NpaNp
+223006	PrepNp
+NpaNp
+Np-Appos
+NPofNP
+223011	Np-Appos
+Np-Appos
+223014	Conj-CL
+223016	DetNP
+NPofNP
+PrepNp
+Np-Appos
+PrepNp
+All-NP
+sub-CL
+S-V-ADV
+DetNP
+NPofNP
+PrepNp
+All-NP
+DetNP
+223030	Conj-CL
+223032	NPofNP
+DetNP
+NP-CL
+O-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+223046	NPofNP
+ADV-ADV-V
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-ADV-V-ADV
+2Advp_h1
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+223061	Conj-CL
+ClCl
+V-O
+V-O
+sub-CL
+V-O-IO-ADV
+AdjpNp
+NpAdjp
+PrepNp
+DetCL
+CLaCL
+V-S
+223074	S-VC-P
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+NPofNP
+aNpaNp
+223086	Conj-CL
+223089	Np2CL
+that-VP
+ClCl
+CLaCL
+ADV-V-O
+V-ADV
+PrepNp
+223097	V-ADV
+PrepNp
+DetNP
+sub-CL
+223102	AdjpNp
+AdvPp
+PrepNp
+sub-CL
+ADV2CL
+AdvPp
+PrepNp
+DetNP
+AdjpNp
+223112	ADV-P-VC
+2Np
+aNpaNp
+223117	aNpaNp
+223121	ADV-S-P
+DetNP
+PpNp2Np
+PrepNp
+IO-V
+AdvpNp
+Np-Appos
+NpPp
+PrepNp
+223131	Conj-CL
+223133	DetNP
+sub-CL
+P-VC-ADV-ADV
+NPofNP
+PrepNp
+Np-Appos
+All-NP
+DetCL
+V2CL
+aNpaNp
+223144	NpAdvp
+223147	Conj-CL
+223149	NPofNP
+PrepNp
+2Pp
+PrepNp
+PrepNp
+sub-CL
+223156	Conj-CL
+S-ADV-V
+DetAdj
+PrepNp
+223161	Conj-CL
+223163	NPofNP
+PrepNp
+PrepNp
+All-NP
+NPofNP
+NpaNp
+223170	Np-Appos
+DetCL
+O-ADV-V
+DetNP
+PrepNp
+sub-CL
+S-P-VC-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+223182	Conj-CL
+S-IO-V
+DetNP
+223186	Conj-CL
+S-ADV-ADV-V-ADV
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+NPofNP
+ADV-V
+DetNP
+DetNP
+aNpaNp
+223198	AdjpNp
+ofNPNP
+223201	PrepNp
+DetCL
+VC-S-P
+223205	sub-CL
+CLaCL
+CLaCL
+ADV-ADV-ADV-V
+V-O
+DetNP
+PrepNp
+Conj2VP
+223215	V-ADV
+PrepNp
+DetNP
+NPofNP
+223220	V-S
+DetNP
+AdjpNp
+ofNPNP
+223225	CLaCL
+ADV-V
+V-O
+VC-P
+223230	V-O-ADV
+DetNP
+NPofNP
+DetNP
+AdjpNp
+PrepNp
+NPofNP
+NPofNP
+AdjpNp
+Conj4Np
+223244	Conj-CL
+V-O-S-ADV-ADV-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+NP-CL
+CLaCL
+S-V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+223267	V-O-ADV
+Conj2VP
+223270	DetNP
+PrepNp
+NP-CL
+DetCL
+V2CL
+223276	PrepNp
+DetNP
+Intj2CL
+223280	ADV-V-O-S-ADV
+PrepNp
+DetNP
+PrepNp
+NPofNP
+223286	Conj-CL
+aCLaCL
+223289	S-V-O-ADV
+DetNP
+NPofNP
+DetNP
+AdjpNp
+PrepNp
+NpPp
+PrepNp
+223298	ADV-S-ADV-V-ADV-ADV-ADV
+AdvpNp
+DetAdj
+V-O
+DetNP
+AdjpNp
+NPofNP
+DetAdj
+PrepNp
+DetNP
+NPofNP
+PrepNp
+CLaCL
+S-ADV-O-V
+PrepNp
+DetNP
+223315	O-ADV-V
+DetNP
+NPofNP
+NP-CL
+S-V
+DetNP
+NPofNP
+PrepNp
+223324	Conj-CL
+ClCl2
+sub-CL
+ADV-V-O
+O-V-ADV
+DetNP
+PrepNp
+V-O-S-ADV-ADV-ADV
+DetNP
+PrepNp
+AdjpNp
+V-O
+DetCL
+ADV-V
+ClClCl
+V-ADV
+All-NP
+NpNpNpNp
+P-ADV
+NpNpNpNpNp
+P2CL
+12Np
+NPofNP
+AdvpNp
+223349	CLaCL
+S-ADV-ADV-ADV-O-V
+223352	DetNP
+NPofNP
+DetNP
+that-VP
+S-P-ADV-VC
+DetCL
+O-V
+DetNP
+223361	ADV-V-ADV
+DetCL
+V2CL
+223365	Conj-CL
+223367	Np2CL
+intjNP
+Np-Appos
+All-NP
+DetCL
+V2CL
+223374	Conj-CL
+223376	ADV-O-V
+PrepNp
+ADV-V-O
+DetAdj
+O-V-S
+DetNP
+DetCL
+V2CL
+223385	Conj-CL
+V-O
+that-VP
+S-VC-P-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+DetCL
+O-V
+DetNP
+223398	Conj-CL
+223400	Np2CL
+Np-Appos
+intjNP
+DetCL
+CLaCL
+V-O
+DetCL
+O-V
+DetNP
+223410	V-O
+that-VP
+CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+223418	O-V-ADV
+DetNP
+NPofNP
+Conj3Np
+DetNP
+NPofNP
+223425	DetNP
+223427	DetNP
+223429	that-VP
+S-ADV-O-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+223436	Conj-CL
+ADV-V-IO-O-ADV
+PrepNp
+DetNP
+NpaNp
+NPofNP
+223443	AdjpNp
+PrepNp
+NPofNP
+NpaNp
+223448	NPofNP
+NPofNP
+NP-CL
+DetNP
+S-V-IO-ADV
+PrepNp
+DetNP
+NPofNP
+223457	aCLaCL
+223459	IO-O
+DetCL
+ADV-O-V
+PrepNp
+NPofNP
+NpAdjp
+Conj3Np
+223468	NpAdjp
+223470	IO-S
+DetCL
+CLaCL
+ADV2CL
+PrepNp
+223476	CLaCL
+V-O
+DetNP
+223480	V-O
+DetNP
+NpaNp
+223485	CLaCL
+S-ADV
+NpaNp
+223489	PrepNp
+All-NP
+NPofNP
+Np-Appos
+Np-Appos
+DetCL
+V-O
+DetAdj
+aNpaNp
+223499	NpAdvp
+223502	S-IO
+Conj3Np
+223506	All-NP
+Np-Appos
+DetCL
+V-O
+DetAdj
+aNpaNp
+223513	NpAdvp
+223516	Conj-CL
+ADV-VC-S-P
+PrepNp
+DetNP
+223521	Conj-CL
+CLaCL
+S-ADV-ADV-V
+S-ADV-V
+223526	S-ADV-V
+S-ADV-V
+PrepNp
+PrepNp
+223531	Conj-CL
+notCLbutCL2CL
+S-P-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+S-V
+DetNP
+NPofNP
+223542	Conj-CL
+ClCl2
+sub-CL
+S-ADV-O-V
+Np-Appos
+DetCL
+ADV-O-V
+NPofNP
+DetNP
+S-ADV-VC-P
+NpAdjp
+O-ADV-V
+223555	S-V-O-O2-ADV-ADV
+DetNP
+NPofNP
+DetNP
+AdjpPp
+PrepNp
+DetNP
+NPofNP
+CLaCL
+V-S
+ofNPNP
+DetNP
+223568	CLaCL
+ADV-S-V
+PrepNp
+DetNP
+223573	ADV-V
+NP-CL
+ADV-V-S-O-ADV-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+223587	Conj-CL
+ClCl2
+sub-CL
+Conj6CL
+S-P-VC
+223593	V-ADV
+223595	V-ADV
+PrepNp
+223598	V-O
+DetNP
+223601	V-O-ADV
+DetCL
+V2CL
+V-ADV
+PrepNp
+DetNP
+223608	V-O
+S-VC-P-ADV
+NpNpNpNp
+NPofNP
+NPofNP
+NpPp
+PrepNp
+NPofNP
+NPofNP
+V-O-ADV
+DetNP
+NPofNP
+NpaNp
+DetNP
+223623	DetNP
+PrepNp
+DetNP
+Conj-CL
+223628	Np2CL
+DetCL
+V-O
+223633	Np2CL
+DetCL
+V-O
+ADV-V
+223639	Np2CL
+DetCL
+V-O
+ADV-V
+223645	Np2CL
+DetCL
+V-O
+DetNP
+223650	S-ADV-O-V
+S-ADV-V
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+223659	Conj-CL
+223661	DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+DetNP
+sub-CL
+V2CL
+223670	Conj-CL
+aCLaCL
+223673	ClCl
+S-V
+sub-CL
+O-V
+223678	ClCl2
+sub-CL
+P-VC
+NPofNP
+S-P-VC
+DetNP
+NPofNP
+223686	Conj-CL
+ClCl2
+sub-CL
+S-O-V
+DetNP
+DetNP
+NPofNP
+DetNP
+PtclCL
+S-ADV-V
+DetNP
+NPofNP
+PrepNp
+223700	Conj-CL
+V-S-ADV-O
+DetNP
+PpNp2Np
+PrepNp
+O-V
+DetNP
+Np-Appos
+DetNP
+PpNp2Np
+PrepNp
+NpaNp
+223713	NPofNP
+223715	Conj-CL
+notCLbutCL2CL
+CLaCL
+S-P-VC
+NpPp
+PrepNp
+DetAdj
+223723	S-P
+NpPp
+2Pp
+PrepNp
+DetAdj
+PrepNp
+223730	S-P
+NpPp
+PrepNp
+DetAdj
+223735	S-P-ADV
+PrepNp
+2Np
+AdvpNp
+S-P
+ofNPNP
+DetNP
+notPPbutPP
+PrepNp
+PrepNp
+DetNP
+223747	Conj-CL
+CLaCL
+P-S
+DetNP
+NPofNP
+DetAdj
+223754	P-S
+DetNP
+NPofNP
+DetNP
+223759	P-ADV
+PrepNp
+All-NP
+223763	Conj-CL
+PtclCL
+P-S
+that-VP
+V-O
+DetNP
+NPofNP
+DetNP
+223772	Conj-CL
+ClCl
+ADV2CL
+sub-CL
+V-S
+223778	PtclCL
+S-O-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+223786	ADV-V
+223788	Conj-CL
+ClCl
+CLaCL
+VC-S-P
+DetNP
+223794	S-P
+All-NP
+sub-CL
+223798	sub-CL
+CLaCL
+PtclCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+223806	V-ADV
+PrepNp
+DetCL
+V-S
+223811	Conj-CL
+ClCl2
+sub-CL
+S-O-V
+DetNP
+NPofNP
+ofNPNP
+O-V
+223820	PtclCL
+P-S
+Np-Appos
+DetNP
+DetCL
+V-O
+DetNP
+223828	ADV-V
+PrepNp
+223831	ADV-V
+223833	sub-CL
+ADV-V-S-O
+DetNP
+DetNP
+223838	Conj-CL
+ClCl2
+sub-CL
+S-ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+ADV-ADV-S-ADV-V
+PrepNp
+223854	Conj-CL
+AdvpCL
+CLaCL
+sub-CL
+V2CL
+223860	sub-CL
+223863	that-VP
+223865	DetAdj
+sub-CL
+V-S
+DetNP
+S-P-VC
+ofNPNP
+DetNP
+223873	Conj-CL
+ClCl
+O2CL
+V2CL
+223878	ClCl
+ADV-ADV
+sub-CL
+223882	S-P-VC
+NP-all
+aNpaNp
+223887	PrepNp
+sub-CL
+223890	that-VP
+ClCl
+ClCl
+ADV-V-S
+ADV-S
+223896	DetCL
+V2CL
+ADV-V-S
+DetCL
+V-O
+DetNP
+223904	ADV-V
+223906	ClCl
+ADV-V-S
+DetCL
+V-O
+ADV-V-ADV
+PrepNp
+223913	ClCl
+ClCl
+P-S
+NpAdjp
+V2CL
+DetNP
+NPofNP
+ADV-V
+DetNP
+NPofNP
+223924	NPofNP
+PrepNp
+DetNP
+NPofNP
+S-O-V
+ofNPNP
+DetNP
+NpaNp
+223934	CLaCL
+ClCl
+P-S-ADV
+DetNP
+NPofNP
+V-O
+S-P
+NpaNp
+223943	PrepNp
+DetNP
+NPofNP
+223947	O-ADV-V
+NPofNP
+223950	ADV-VC-S-P
+NPofNP
+PrepNp
+DetNP
+NPofNP
+223956	Conj-CL
+223958	that-VP
+223960	S-IO-V
+O-S-V
+DetNP
+NpPp
+PrepNp
+DetNP
+CLaCL
+S-V
+All-NP
+223970	P-VC-S-ADV
+All-NP
+DetNP
+DetNP
+223975	sub-CL
+223977	PrepNp
+NPofNP
+All-NP
+PrepNp
+sub-CL
+ADV-P
+PrepNp
+NPofNP
+223986	Conj-CL
+CLaCL
+ADV-ADV-S-V-ADV
+PrepNp
+NPofNP
+V-ADV
+PrepNp
+NpaNp
+DetNP
+223996	DetNP
+223998	S-ADV
+NpPp
+NPofNP
+PrepNp
+NPofNP
+Np-Appos
+PrepNp
+All-NP
+DetCL
+V2CL
+224009	Conj-CL
+ADV-V-S
+224012	Conj-CL
+CLaCL
+S-V
+224016	V-O-ADV
+DetNP
+NPofNP
+DetNP
+V-ADV-ADV-ADV
+DetNP
+ofNPNP
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+Np-Appos
+224030	O-V-S-O2-ADV
+DetNP
+PpPpPpPp
+PpPpPpPpPp
+PrepNp
+PrepNp
+DetNP
+ofNPNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+AdjpNp
+V2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+AdvpNp
+PrepNp
+DetCL
+VC-S-P
+NpaNp
+224065	V-O
+NpPp
+PrepNp
+NPofNP
+224070	ClCl
+Conj-CL
+P-S
+DetNP
+V2CL
+224076	ClCl
+ADV2CL
+PrepNp
+AdjpNp
+ADV2CL
+DetNP
+224083	CLaCL
+ADV2CL
+224086	ADV2CL
+PrepNp
+NPofNP
+224090	Conj-CL
+V-O
+V-ADV-S-ADV
+PrepNp
+NPofNP
+224096	Conj-CL
+P-S-ADV
+DetNP
+224100	PtclCL
+P2CL
+AdvpNp
+224104	ClCl
+PtclCL
+P2CL
+AdvpNp
+sub-CL
+P-S
+NP-CL
+DetNP
+CLaCL
+S-V-O-ADV
+PrepNp
+224116	O-ADV
+PrepNp
+DetNP
+224120	Conj-CL
+O-V-ADV
+PrepNp
+DetNP
+224125	CLaCL
+ADV-V
+224128	O-V
+224130	Conj-CL
+V-O
+O-V-S-ADV
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+224138	Conj-CL
+224140	sub-CL
+S-ADV-V
+PrepNp
+224144	Conj-CL
+ADV-ADV
+PrepNp
+224148	Conj-CL
+O-S-V
+DetNP
+224152	Conj-CL
+CLaCL
+V-S-O
+DetNP
+224157	V-IO-ADV
+PrepNp
+224160	Conj-CL
+IO-S-V-ADV
+DetCL
+V2CL
+DetNP
+notPPbutPP
+PrepNp
+PrepNp
+224169	Conj-CL
+224171	DetCL
+notCLbutCL2CL
+V2CL
+V-ADV
+PrepNp
+DetCL
+V-O
+DetAdj
+DetNP
+NPofNP
+PrepNp
+sub-CL
+224184	AdvpNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+IO-S-V-O-ADV
+DetNP
+PrepNp
+P-S
+NpaNp
+S-V
+ofNPNP
+DetNP
+224198	S-V
+ofNPNP
+DetNP
+224202	P-S
+NP-CL
+ADV-ADV-V-S-O
+2Advp_h1
+224207	Conj-CL
+S-P
+NP-Demo
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+224215	AdvPp
+PrepNp
+DetNP
+224219	Conj-CL
+224221	V-IO-S-ADV
+DetNP
+DetNP
+PrepNp
+224226	Conj-CL
+ADV-V
+224229	VC-P
+Conj2Pp
+PrepNp
+224233	PrepNp
+224235	notCLbutCL2CL
+P2CL
+PrepNp
+P2CL
+PrepNp
+224241	Conj-CL
+V-O-ADV
+Np-Appos
+NPofNP
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+PrepNp
+DetCL
+CLaCL
+VC-S-P
+NPofNP
+All-NP
+DetCL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetCL
+V-IO-S
+DetNP
+224267	P-ADV
+NPofNP
+NpaNp
+DetCL
+ADV-P-ADV
+PrepNp
+224274	AdvpNp
+DetCL
+V-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PpNp2Np
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+224287	Conj-CL
+notCLbutCL2CL
+ADV-S-IO
+PrepNp
+Np-Appos
+DetNP
+NpaNp
+DetNP
+224296	DetNP
+NPofNP
+DetCL
+P-S-VC
+NPofNP
+ADV2CL
+PrepNp
+NPofNP
+224305	Conj-CL
+ClCl2
+sub-CL
+S-P
+NpPp
+PrepNp
+CLaCL
+V-S
+DetNP
+224315	V-S
+DetNP
+224318	Conj-CL
+S-O-V
+DetNP
+224322	Conj-CL
+ADV-ADV-S
+ADV-ADV-V-S
+224327	PrepNp
+PrepNp
+sub-CL
+ADV-ADV
+PrepNp
+PrepNp
+DetCL
+VC-P-S-ADV
+DetNP
+Np-Appos
+All-NP
+DetNP
+notNPbutNP
+NpPp
+PrepNp
+NpAdvp
+DetNP
+AdvpNp
+NpPp
+PrepNp
+NPofNP
+NP-CL
+224350	S-VC-P-ADV
+NPofNP
+NPofNP
+224354	that-VP
+O2-V-O
+NPofNP
+AdjpNp
+PrepNp
+CL-NP
+O-V
+Np-Appos
+DetCL
+CLaCL
+V-O
+DetAdj
+224367	V-O-ADV
+DetCL
+ADV-V
+PrepNp
+V2CL
+224373	S-ADV-ADV-V-ADV
+PrepNp
+PrepNp
+PrepNp
+DetCL
+VC-S-P-ADV
+NPofNP
+AdjpNp
+PrepNp
+DetCL
+224384	P-VC-S
+DetNP
+NPofNP
+224388	Conj-CL
+CLaCL
+CLaCL
+ADV-V-O-ADV-ADV
+ADV-V-ADV
+DetNP
+DetNP
+ofNPNP
+V2CL
+P-ADV-VC
+224399	O2CL
+DetNP
+NPofNP
+DetNP
+NPofNP
+224405	CLaCL
+ADV-ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+224413	V-ADV-ADV
+DetNP
+CLaCL
+V-O-IO
+DetNP
+224420	that-VP
+VC-P
+AdjpCL
+O-ADV-V
+O-V
+224426	Conj-CL
+ADV-V-IO-ADV
+PrepNp
+224430	Conj-CL
+notCLbutCL2CL
+224433	PrepNp
+that-VP
+V-IO
+ADV2CL
+AdvPp
+PrepNp
+Np-Appos
+NP-CL
+O-V
+IO-V
+DetCL
+V-ADV
+PrepNp
+DetCL
+V-ADV-O
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+CLaCL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+224459	V-ADV
+PrepNp
+DetNP
+NPofNP
+224464	Conj-CL
+ADV-O-V-ADV-ADV
+V-ADV
+PrepNp
+PrepNp
+DetNP
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+CLaCL
+ADV-O-V-ADV-ADV
+PrepNp
+AdvpNp
+DetNP
+DetNP
+PrepNp
+NP-CL
+NP-Demo
+DetNP
+ADV-V
+PrepNp
+224489	V-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+224496	Conj-CL
+notCLbutCL2CL
+ADV2CL
+ADV-V-ADV-ADV
+PrepNp
+DetNP
+224503	that-VP
+Conj3CL
+S-O-V
+DetNP
+224508	S-O
+DetNP
+224511	S-O
+DetNP
+224514	Conj-CL
+224516	DetNP
+sub-CL
+S-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+NpAdjp
+DetCL
+V-IO
+224531	sub-CL
+AdvpCL
+S-ADV-ADV-ADV-V
+VC-S-P-ADV
+PrepNp
+PrepNp
+224538	Conj-CL
+ADV-ADV-S-V
+PrepNp
+224542	Conj-CL
+ADV-ADV-S-ADV-V-O
+PrepNp
+DetAdj
+V2CL
+224548	Conj-CL
+224550	DetNP
+ofNPNP
+PrepNp
+DetNP
+that-VP
+ClCl2
+ADV-P-VC-S
+S-ADV-V
+PrepNp
+224560	Conj-CL
+ADV-ADV-V-ADV-ADV
+2Advp_h1
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+PrepNp
+DetNP
+224571	Conj-CL
+224573	sub-CL
+ADV-V-IO-ADV
+P-VC
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+AdvAdv
+V2CL
+PrepNp
+DetNP
+NPofNP
+224588	Conj-CL
+notCLbutCL2CL
+ADV2CL
+ADV-V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+ADV-ADV-O-V
+PrepNp
+DetNP
+224604	ClCl2
+ADV2CL
+PrepNp
+ClCl
+ClCl2
+sub-CL
+CLaCL
+ADV-S-ADV-V
+PrepNp
+AdjpNp
+DetNP
+PrepNp
+DetNP
+224618	ADV-S
+PrepNp
+DetNP
+DetNP
+ADV-ADV-S-V-ADV
+2Advp_h1
+PrepNp
+All-NP
+DetNP
+PrepNp
+ADV-S-V
+sub-CL
+CLaCL
+ADV-S-VC-P
+PrepNp
+PrepNp
+224636	ADV-V-S
+224638	Conj-CL
+V-S-ADV-ADV
+DetNP
+2Pp
+PrepNp
+PrepNp
+AdvPp
+PrepNp
+DetCL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+NP-CL
+S-VC-P
+NPofNP
+DetCL
+V2CL
+224659	Conj-CL
+224661	AdvpCL
+sub-CL
+S2CL
+DetNP
+AdvpNp
+DetNP
+224668	Conj-CL
+224670	sub-CL
+ADV-S-V
+DetNP
+ofNPNP
+DetAdj
+DetAdj
+AdvAdv
+NpaNp
+DetNP
+NPofNP
+DetNP
+224682	DetNP
+NpPp
+PrepNp
+Np-Appos
+NPofNP
+Np-Appos
+DetNP
+AdjpNp
+Np-Appos
+PrepNp
+DetAdj
+224694	Conj-CL
+ADV-P-S
+AdvPp
+PrepNp
+NpAdjp
+V2CL
+DetNP
+224702	Conj-CL
+aCLaCL
+224705	S-P-ADV
+DetNP
+PrepNp
+PrepNp
+224710	S-P-ADV
+DetNP
+PrepNp
+AdjpNp
+PrepNp
+224716	Conj-CL
+224718	sub-CL
+ADV-S-V-ADV
+DetNP
+ofNPNP
+DetAdj
+DetNP
+PrepNp
+DetAdj
+AdjpAdvp2Advp
+DetCL
+O-V
+NpaNp
+DetNP
+NPofNP
+DetNP
+224734	DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+Np-Appos
+DetAdj
+Np-Appos
+224743	Conj-CL
+Conj-CL
+224746	sub-CL
+ADV-ADV-ADV
+PrepNp
+ofNPNP
+PrepNp
+All-NP
+PrepNp
+AdvPp
+PrepNp
+ofNPNP
+PrepNp
+All-NP
+PrepNp
+NPofNP
+224761	Conj-CL
+224763	sub-CL
+ADV-P-VC-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+AdjpNp
+DetAdj
+AdvPp
+PrepNp
+DetNP
+NPofNP
+DetAdj
+DetAdj
+224778	Conj-CL
+224780	sub-CL
+V-S
+DetNP
+224784	Conj-CL
+224786	ADV-V-S
+DetNP
+DetNP
+sub-CL
+224791	sub-CL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+AdvpNp
+DetNP
+PrepNp
+PrepNp
+NpAdjp
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+224807	Conj-CL
+O-V
+224811	DetNP
+sub-CL
+S-V
+DetNP
+224816	ADV-V
+224818	S-ADV-ADV-V-ADV
+S-V-ADV
+DetNP
+PrepNp
+224823	Conj-CL
+224825	that-VP
+S-ADV-V
+S-V-ADV
+PrepNp
+Np-Appos
+PrepNp
+DetNP
+NPofNP
+224834	Conj-CL
+224836	PrepNp
+DetNP
+PrepNp
+DetNP
+sub-CL
+224842	sub-CL
+V-S-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+AdvpNp
+PrepNp
+NPofNP
+224853	Conj-CL
+224855	sub-CL
+P-VC-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-VC
+AdvpNp
+DetNP
+224866	that-VP
+224868	DetNP
+AdjpNp
+ofNPNP
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+DetCL
+ADV-V-S-O
+DetNP
+224880	Conj-CL
+S-V-ADV
+DetCL
+V2CL
+PrepNp
+DetNP
+224887	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+224893	that-VP
+ADV-V-ADV
+224897	that-VP
+ClCl
+S-ADV-ADV-V
+V-ADV
+PrepNp
+S-ADV-ADV-V
+224904	Conj-CL
+CLaCL
+ADV-ADV-V-ADV
+ADV-V
+DetNP
+224910	ADV-V-ADV
+ADV-V
+DetNP
+224914	ADV-S-V-O
+AdvpNp
+S-VC-P
+aCLaCL
+224919	P-ADV
+DetNP
+224922	P-ADV-ADV
+V2CL
+DetNP
+PrepNp
+Np-Appos
+224928	Conj-CL
+CLaCL
+CLaCL
+ADV-V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+AdjpNp
+ofNPNP
+PrepNp
+DetCL
+V-O
+DetNP
+NPofNP
+224943	V-O-O2-IO
+DetNP
+NPofNP
+NPofNP
+DetNP
+224949	CLaCL
+V-O-IO-ADV
+DetNP
+PrepNp
+ADV-V
+PrepNp
+224956	O-O2-IO
+DetNP
+NPofNP
+NPofNP
+DetNP
+224962	Conj-CL
+ClCl
+S-ADV-ADV-V
+sub-CL
+notCLbutCL2CL
+VC-P
+PrepNp
+P2CL
+PrepNp
+224972	Conj-CL
+O2CL
+224975	ClCl
+V2CL
+sub-CL
+notCLbutCL2CL
+VC-P
+PrepNp
+P2CL
+PrepNp
+224984	ADV-V
+224987	that-VP
+224990	IO-V-O-O2-ADV
+PrepNp
+O-V
+224994	P-ADV
+PrepNp
+224997	P-ADV
+PrepNp
+225000	Conj-CL
+225002	DetNP
+that-VP
+Conj3CL
+VC-P
+NPofNP
+DetNP
+225009	V-ADV-O
+PrepNp
+CL-NP
+ADV-V
+PrepNp
+NPofNP
+225016	ADV-V-IO
+V-ADV
+PrepNp
+DetNP
+DetNP
+225022	O-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+225029	Conj-CL
+225031	sub-CL
+V-O-O2-IO-ADV
+DetNP
+NPofNP
+NpaNp
+DetNP
+225038	DetNP
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+225046	Conj-CL
+225048	sub-CL
+P-VC
+NPofNP
+DetNP
+DetNP
+225054	Conj-CL
+O-V-ADV-ADV
+AdjpNp
+PrepNp
+O-ADV-V
+225060	Conj-CL
+S-P
+DetNP
+NPofNP
+225065	Conj-CL
+CLaCL
+ADV-ADV-V-O-ADV
+CLaCL
+V-ADV
+PrepNp
+DetNP
+225073	V-IO
+DetNP
+DetNP
+NPofNP
+PrepNp
+225079	O2CL
+Np-Appos
+DetNP
+NpAdjp
+225084	Conj-CL
+CLaCL
+S-P
+DetNP
+NPofNP
+DetNP
+225091	S-P-ADV
+DetNP
+NPofNP
+DetNP
+NpAdjp
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+225102	Conj-CL
+225104	Np2CL
+sub-CL
+IO-V
+V-O
+that-VP
+S-V-ADV-ADV
+DetNP
+DetNP
+PrepNp
+ADV-V
+Np-Appos
+225116	Conj-CL
+S-IO-V-ADV
+DetNP
+AdjpNp
+DetNP
+AdjpNp
+V2CL
+225124	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+V-ADV
+PrepNp
+NPofNP
+DetNP
+DetNP
+225135	Conj-CL
+Conj-CL
+ClCl2
+V-S
+DetNP
+225141	sub-CL
+VC-P
+NpAdjp
+225145	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+P-VC-ADV-ADV
+PrepNp
+DetNP
+DetCL
+ADV-VC-S-P-ADV
+VC-P
+NpAdjp
+225158	Conj-CL
+225160	Np2CL
+NPofNP
+AdvpNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+VC-S-P
+Np-Appos
+DetCL
+ADV-V
+PrepNp
+sub-CL
+V-IO
+DetNP
+225179	Conj-CL
+ClCl2
+sub-CL
+VC-P
+PrepNp
+DetNP
+S-V-ADV-ADV
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NpPp
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-IO
+DetNP
+225201	Conj-CL
+ADV-V-ADV-ADV-ADV
+PrepNp
+DetNP
+V-ADV
+PrepNp
+ADV-V
+sub-CL
+V-S-ADV
+PrepNp
+NpaNp
+NPofNP
+225214	AdvpNp
+NPofNP
+225217	Conj-CL
+O-V
+225220	S-P
+DetNP
+225223	ADV-V
+225225	Conj-CL
+ClCl
+225228	DetNP
+sub-CL
+ADV-ADV
+PrepNp
+sub-CL
+Conj-CL
+225235	DetNP
+sub-CL
+225238	DetNP
+ADV-V
+225241	Conj-CL
+ADV-S-ADV-V-ADV-O
+O-V
+DetNP
+PrepNp
+DetNP
+PrepNp
+All-NP
+225250	Conj-CL
+ADV-S-P
+PrepNp
+225254	Conj-CL
+S-V-ADV-ADV
+PrepNp
+225258	Conj-CL
+CLaCL
+225261	V-S
+DetNP
+S-V
+DetNP
+225266	S-V
+225268	V-ADV-S-ADV
+NP-Demo
+Np-Appos
+DetNP
+NpPp
+PrepNp
+PrepNp
+225276	Conj-CL
+CLaCL
+S-ADV-ADV-V-O
+DetNP
+O-V
+PrepNp
+DetNP
+225284	ADV-V
+PrepNp
+225287	Conj-CL
+PtclCL
+CLaCL
+S-P
+DetNP
+225293	S-P
+DetNP
+Conj3Adjp
+225299	Conj-CL
+S-ADV-VC-P
+DetAdj
+225303	ADV-V
+225305	Conj-CL
+ClCl
+ClCl
+S2CL
+DetNP
+sub-CL
+VC-P-ADV
+ADV-IO-V-O
+PrepNp
+DetAdj
+sub-CL
+VC-ADV-P-S-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+225322	Conj-CL
+225324	sub-CL
+S-P-VC
+DetNP
+225328	Conj-CL
+S-P-VC-ADV
+V-ADV
+PrepNp
+DetNP
+225334	Conj-CL
+O-ADV-V
+O-V
+225338	Conj-CL
+notCLbutCL2CL
+225341	O-V
+225343	O-V
+225345	Conj-CL
+ClCl2
+sub-CL
+225349	O-ADV-V
+225351	DetNP
+that-VP
+P2CL
+225355	Conj-CL
+AdvpCL
+notCLbutCL2CL
+S-V-O
+S2CL
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+225365	Conj-CL
+225367	that-VP
+ADV-V-ADV-S
+PrepNp
+NP-CL
+S-VC-P
+PrepNp
+DetNP
+NPofNP
+225376	Conj-CL
+CLaCL
+S-V-ADV
+DetCL
+V2CL
+225382	S-ADV
+DetCL
+V-O
+DetAdj
+225387	Conj-CL
+notCLbutCL2CL
+O-V
+Np-Appos
+O-V
+225393	Np2CL
+Np-Appos
+O-ADV-V
+225397	Conj-CL
+225399	sub-CL
+225401	O-ADV-V
+S-V-O
+S2CL
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+225409	Conj-CL
+225411	DetNP
+Np-Appos
+DetCL
+V-O
+V-O
+DetAdj
+that-VP
+ADV-S-V
+DetAdj
+225421	Conj-CL
+CLaCL
+V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+AdvpNp
+225431	V-O
+CLaCL
+S-ADV-V-ADV
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+225443	V-O-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+VC-P
+PrepNp
+DetNP
+NPofNP
+225455	P-S
+AdjpNp
+225458	S-O-V-ADV
+PrepNp
+NP-Demo
+DetNP
+NPofNP
+DetNP
+225465	S-IO-ADV
+DetNP
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+225473	Conj-CL
+Conj-CL
+aCLaCL
+225477	S-ADV-V-O
+PronNP
+DetNP
+NPofNP
+225482	ADV-O
+DetNP
+NPofNP
+225486	Conj-CL
+S-ADV-P
+AdjpNp
+NpPp
+PrepNp
+Np-Appos
+225493	Conj-CL
+S-ADV-V-O-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+PrepNp
+DetNP
+NPofNP
+NpaNp
+DetNP
+225508	DetNP
+225510	Conj-CL
+225512	Np2CL
+NP-CL
+DetNP
+NPofNP
+DetNP
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+S-ADV-V-O-ADV
+DetNP
+O-V-ADV
+DetNP
+ofNPNP
+Conj2Pp
+PrepNp
+NPofNP
+NPofNP
+225531	PrepNp
+DetNP
+PrepNp
+DetNP
+sub-CL
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+DetCL
+V-ADV
+notPPbutPP
+PrepNp
+PrepNp
+225548	Conj-CL
+CLaCL
+S-O-V
+DetCL
+P-VC
+PrepNp
+NPofNP
+DetNP
+225557	S-O
+DetCL
+P2CL
+PrepNp
+NPofNP
+DetNP
+225564	Conj-CL
+CLaCL
+S-P
+DetNP
+NPofNP
+DetNP
+225571	S-P
+DetNP
+NPofNP
+DetNP
+NpaNp
+225578	sub-CL
+ClCl
+ClCl
+S-P-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+sub-CL
+IO-ADV-V
+DetNP
+NPofNP
+DetNP
+sub-CL
+ADV-V
+225594	Conj-CL
+S-O-ADV-V
+DetCL
+P-VC
+PrepNp
+O-V
+225601	Conj-CL
+225603	notPPbutPP
+PrepNp
+PrepNp
+sub-CL
+S-V-ADV
+NPofNP
+PrepNp
+225611	Conj-CL
+225613	sub-CL
+S-O-ADV-V
+NPofNP
+225617	Conj-CL
+225619	sub-CL
+S-P
+PrepNp
+225623	S-P-ADV
+DetNP
+PrepNp
+225627	S-P-ADV
+DetNP
+PrepNp
+225631	Conj-CL
+225633	sub-CL
+S-V-ADV
+DetNP
+NPofNP
+DetCL
+V-O-ADV
+DetNP
+PrepNp
+PrepNp
+DetCL
+V-ADV-O
+PrepNp
+Np-Appos
+AdvpNp
+DetNP
+AdjpNp
+NPofNP
+PrepNp
+DetNP
+AdjpNp
+V-ADV
+ofNPNP
+PrepNp
+225657	Conj-CL
+Conj-CL
+225660	Np2CL
+P-VC
+ADV-ADV-ADV
+DetNP
+DetCL
+ADV-V
+PrepNp
+225668	Conj-CL
+CLaCL
+225671	sub-CL
+ADV-V
+PrepNp
+V2CL
+225677	sub-CL
+ADV-O-V
+DetNP
+NPofNP
+DetNP
+225683	Conj-CL
+225685	S-ADV-V
+NPofNP
+NPofNP
+225689	Conj-CL
+notCLbutCL2CL
+V-O-ADV-ADV
+NPofNP
+PrepNp
+V-O
+NP-CL
+NPofNP
+225698	PrepNp
+Np2CL
+Np-Appos
+DetNP
+225704	PronNP
+DetNP
+DetNP
+NPofNP
+that-VP
+VC-P
+NPofNP
+225712	Conj-CL
+225714	sub-CL
+P2CL
+AdvpNp
+225720	P2CL
+NPofNP
+225723	P2CL
+NPofNP
+sub-CL
+V2CL
+sub-CL
+ADV-V
+225730	Conj-CL
+225732	that-VP
+ADV-P-S-ADV
+DetNP
+NPofNP
+DetNP
+AdvpNp
+PrepNp
+DetNP
+AdjpNp
+V-O
+V-ADV
+PrepNp
+225745	Conj-CL
+S-O-V
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+225756	Conj-CL
+ClCl
+IO-S-V-ADV
+DetNP
+DetNP
+notADVbutADV
+PrepNp
+DetCL
+V-ADV
+PrepNp
+sub-CL
+S-V-ADV-ADV
+AdvpNp
+PronNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+225784	Conj-CL
+225786	that-VP
+S-V-ADV
+All-NP
+DetNP
+Conj2VP
+225792	PrepNp
+DetNP
+225795	Conj-CL
+notCLbutCL2CL
+ADV2CL
+S-ADV-V-ADV
+AdvpNp
+PronNP
+AdjpNp
+O-V
+DetNP
+NPofNP
+DetNP
+Np-Appos
+AdvpNp
+PrepNp
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+225816	Conj-CL
+ADV-V
+DetNP
+225820	Conj-CL
+S-ADV-VC-P
+NpAdjp
+V2CL
+225825	Conj-CL
+O-ADV-V
+O-V-S
+225829	Conj-CL
+225831	sub-CL
+O-V
+O-ADV-V
+PrepNp
+225836	Conj-CL
+ADV-S-V-ADV
+AdvpNp
+DetNP
+DetNP
+NPofNP
+225843	Conj-CL
+CLaCL
+O-ADV-V
+DetCL
+225848	sub-CL
+V2CL
+225851	S-V-ADV
+PronNP
+DetNP
+NpAdjp
+225856	Conj-CL
+225858	DetCL
+V-O
+DetNP
+P-S
+DetNP
+NPofNP
+DetNP
+sub-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+225870	Conj-CL
+ClCl
+225873	that-VP
+ClCl
+IO-S-V-ADV
+DetCL
+V-O
+DetNP
+PrepNp
+IO2CL
+DetCL
+ADV-P-VC
+PrepNp
+sub-CL
+Conj4CL
+O-ADV-V-O2-ADV
+O-V
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetCL
+VC-S-P-ADV
+PrepNp
+AdjpNp
+225900	O-V
+225903	O-V
+225906	O-V
+225908	Conj-CL
+O-V-ADV
+PrepNp
+225913	sub-CL
+S-P
+DetNP
+PrepNp
+PrepNp
+225919	PtclCL
+S-ADV-ADV-ADV-O-IO-V
+CLaCL
+S-O-ADV-V
+DetNP
+AdjpNp
+225926	ADV-V-O
+PrepNp
+NP-all
+AdvPp
+PrepNp
+DetAdj
+225933	S-V-ADV
+PrepNp
+NPofNP
+225937	S-P
+DetCL
+V2CL
+225941	S-P
+DetCL
+V2CL
+225945	P2CL
+NP-CL
+NP-CL
+Np-Appos
+Np-Appos
+DetCL
+CLaCL
+V2CL
+225954	ADV-V
+S-VC-P
+PrepNp
+NPofNP
+DetNP
+S-ADV-V-ADV
+PrepNp
+225962	ClCl
+S-O-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+ClCl
+S2CL
+Conj7Np
+225977	sub-CL
+225979	that-VP
+ClCl
+ADV-V-ADV
+PrepNp
+All-NP
+DetNP
+V-ADV
+PrepNp
+NPofNP
+225989	Conj-CL
+ADV-V-ADV
+PrepNp
+NP-all
+PrepNp
+DetCL
+V-O
+225997	Conj-CL
+225999	sub-CL
+S-V-O
+NpNpNpNp
+aNpaNp
+226005	aNpaNp
+226008	aNpaNpaNp
+226010	V2CL
+226012	V2CL
+226014	aNpaNpaNp
+226018	AdjpNp
+NpAdjp
+O-V-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NpPp
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+226033	ClCl
+226035	PrepNp
+ADV-V
+226038	DetNP
+NPofNP
+PrepNp
+NpAdjp
+that-VP
+CLaCL
+S-ADV-VC-P
+226046	S-P
+AdjpNp
+DetNP
+NPofNP
+226051	Conj-CL
+V-S-O-ADV
+P-VC-ADV
+PronNP
+PrepNp
+DetNP
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NpPp
+NPofNP
+PrepNp
+S-VC-P
+NP-CL
+2CLaCL
+P-S
+Conj6Np
+DetNP
+226073	DetNP
+226075	DetNP
+226077	DetNP
+226079	DetNP
+226081	DetNP
+P-S
+DetNP
+226085	P-S
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+226093	DetNP
+All-NP
+VC-P
+PrepNp
+PrepNp
+DetNP
+Intj2CL
+226101	Conj-CL
+226103	ADV-S
+V-S
+DetNP
+NPofNP
+DetNP
+226109	Conj-CL
+notCLbutCL2CL
+CLaCL
+226113	Np2CL
+All-NP
+NpPp
+PrepNp
+226119	sub-CL
+VC-P
+NPofNP
+ADV-V-IO-S
+PrepNp
+226125	ClCl2
+S-VC
+notCLbutCL2CL
+226129	Np2CL
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+226141	Conj-CL
+226143	ofNPNP
+DetNP
+CLaCL
+ADV-V
+PrepNp
+NP-Demo
+DetNP
+226151	VC-P-S
+DetNP
+226154	Conj-CL
+notCLbutCL2CL
+ADV2CL
+S-O-V-ADV
+AdvpNp
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+226165	Conj-CL
+ClCl2
+ClCl
+CLaCL
+ADV-V
+226171	V-O
+NpAdjp
+AdjpaAdjp
+226175	sub-CL
+S-V-ADV
+DetNP
+PpNp2Np
+PrepNp
+NPofNP
+DetNP
+notPPbutPP
+PrepNp
+PrepNp
+DetCL
+V2CL
+226188	that-VP
+S-V-O
+DetAdj
+DetAdj
+226193	sub-CL
+226195	CLaCL
+O-V
+DetNP
+226199	O-V
+DetNP
+226202	Conj-CL
+O-V
+226205	PtclCL
+S-P
+PrepNp
+DetNP
+226210	ADV-V
+226212	Conj-CL
+226214	DetNP
+CLaCL
+V-O
+PtclCL
+O-V
+226220	V-O
+PtclCL
+O-V
+226224	Conj-CL
+Conj-CL
+P2CL
+notNPbutNP
+NpaNp
+DetCL
+V2CL
+226232	DetCL
+V2CL
+DetNP
+AdjpNp
+V2CL
+226238	Conj-CL
+226240	DetNP
+DetNP
+that-VP
+ClCl
+ADV-V-O
+PrepNp
+PronNP
+CLaCL
+sub-CL
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+226254	sub-CL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+All-NP
+DetNP
+226262	Conj-CL
+Conj-CL
+CLaCL
+O-V
+O-V
+226268	O-V
+O-V
+226271	Conj-CL
+226274	Conj-CL
+O-S-V
+DetNP
+NPofNP
+226280	Np2CL
+intjNP
+P-VC-S
+Np-Appos
+DetCL
+V-IO
+DetNP
+226288	PtclCL
+226290	DetNP
+DetCL
+V2CL
+ADV-O-V-ADV
+226295	Conj-CL
+PtclCL
+V-S-O-ADV
+NPofNP
+DetNP
+DetNP
+ADV-V-O
+PrepNp
+DetNP
+PronNP
+NP-CL
+aCLaCL
+226308	O-ADV
+PrepNp
+226311	O-ADV
+PrepNp
+226314	Conj-CL
+sub-CL
+CLaCL
+S-ADV-V-ADV-O
+V-O
+DetNP
+CLaCL
+V-O
+DetNP
+226324	V-O
+DetNP
+NPofNP
+PrepNp
+AdjpNp
+NpAdjp
+NPofNP
+V-ADV
+PrepNp
+226334	sub-CL
+V-O-ADV-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+NP-CL
+NP-CL
+NPofNP
+O-V-ADV
+PrepNp
+O-ADV-V
+notPPbutPP
+AdvPp
+PrepNp
+AdvPp
+PrepNp
+226354	sub-CL
+226356	AdvPp
+PrepNp
+DetNP
+CLaCL
+V-O-O2
+DetNP
+AdvpNp
+NPofNP
+NPofNP
+226366	O-O2
+DetCL
+ADV-V
+V2CL
+226371	Conj-CL
+VC-P
+PrepNp
+DetNP
+NP-CL
+ClCl2
+226378	ADV-P-S
+NPofNP
+ADV-VC-P
+NPofNP
+NpAdjp
+V2CL
+226385	Conj-CL
+226387	PrepNp
+DetNP
+ClCl2
+sub-CL
+VC-S-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+S-V
+DetNP
+226403	Conj-CL
+O-ADV-V-S-ADV
+V2CL
+Conj2VP
+226408	PrepNp
+DetNP
+226411	Conj-CL
+sub-CL
+226414	ClCl2
+sub-CL
+ADV-S-V-IO-O
+NPofNP
+CLaCL
+PtclCL
+P-VC
+PrepNp
+226423	PtclCL
+ADV-V
+PrepNp
+226427	Conj-CL
+O-V
+226430	that-VP
+S-V-O
+Np-Appos
+DetCL
+ADV-V-O
+NpaNp
+226437	Np-Appos
+NpPp
+PrepNp
+226441	Conj-CL
+S-ADV-ADV-ADV-V
+V-O
+NPofNP
+PrepNp
+226447	ClCl
+ADV2CL
+PrepNp
+sub-CL
+notCLbutCL2CL
+ADV2CL
+PrepNp
+sub-CL
+ADV2CL
+PrepNp
+226458	ClCl
+V-ADV
+DetNP
+NPofNP
+DetNP
+sub-CL
+226466	V-ADV-O
+PrepNp
+NpaNp
+NPofNP
+226471	NPofNP
+226473	S-ADV-V
+DetCL
+V-ADV
+PrepNp
+226479	Np2CL
+S-P
+NpaNp
+DetNP
+NPofNP
+DetNP
+AdjpNp
+226487	DetNP
+NpPp
+NpPp
+PrepNp
+DetNP
+PrepNp
+PrepNp
+226495	Conj-CL
+226497	that-VP
+CLaCL
+O-V
+NPofNP
+226502	ADV-ADV
+PrepNp
+226505	Conj-CL
+ADV-IO-ADV-V
+CLaCL
+V-O
+DetNP
+ofNPNP
+DetNP
+226513	O-V
+O-V
+DetAdj
+DetNP
+NPofNP
+DetNP
+226520	Conj-CL
+P-S-ADV-ADV
+NPofNP
+PrepNp
+All-NP
+DetCL
+V2CL
+226528	Conj-CL
+226530	that-VP
+226532	Np2CL
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+AdjpNp
+V2CL
+PrepNp
+226542	Conj-CL
+226544	DetNP
+PpNp2Np
+PrepNp
+226548	PrepNp
+DetNP
+NPofNP
+ClCl
+S-V-ADV
+PrepNp
+DetNP
+S-VC-P
+O-V
+226558	Conj-CL
+ClCl
+S-V-ADV
+PrepNp
+DetNP
+S-VC-P
+O-ADV-V
+PrepNp
+226567	Conj-CL
+226569	ClCl
+ClCl
+226572	PrepNp
+DetNP
+P2CL
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+226580	PrepNp
+DetNP
+NPofNP
+S-VC-P
+DetNP
+NP-CL
+NPofNP
+DetNP
+O-V
+sub-CL
+ClCl2
+sub-CL
+CLaCL
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+226600	PrepNp
+DetNP
+NPofNP
+that-VP
+S-O-V-ADV
+DetNP
+PrepNp
+V2CL
+226609	Conj-CL
+CLaCL
+ADV-V-ADV
+PrepNp
+226614	ADV-V-ADV
+PrepNp
+226617	Conj-CL
+226619	DetNP
+S-ADV-V
+All-NP
+DetCL
+V-ADV
+PrepNp
+226626	Conj-CL
+ClCl
+ADV-V-S
+NPofNP
+aNpaNp
+226633	sub-CL
+S-P-ADV
+DetNP
+PronNP
+V-ADV
+PrepNp
+All-NP
+DetCL
+V-O
+226643	Conj-CL
+S-V
+All-NP
+PtclCL
+S-V-O
+DetNP
+NPofNP
+226651	Conj-CL
+ADV-V-ADV
+PrepNp
+O-ADV-V
+226656	Conj-CL
+ADV-V-O
+O-ADV-V
+226660	Conj-CL
+ADV-V-ADV
+PrepNp
+V2CL
+226665	Conj-CL
+226667	sub-CL
+ADV-V
+226670	sub-CL
+226672	ADV-P-S
+DetNP
+NPofNP
+DetCL
+V-O
+226678	Conj-CL
+ADV-S-V-O
+DetNP
+226682	Conj-CL
+226685	Np2CL
+DetNP
+NPofNP
+226689	Conj-CL
+CLaCL
+S-ADV
+DetNP
+PrepNp
+226695	S-ADV
+DetNP
+PrepNp
+NPofNP
+226700	Conj-CL
+226702	PtclCL
+ADV-V
+226705	PtclCL
+CLaCL
+ADV-V-S
+PrepNp
+All-NP
+DetNP
+DetNP
+NPofNP
+226714	ADV-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+226722	Conj-CL
+226724	PtclCL
+S-ADV-V
+226728	ClCl
+S-V-O-ADV
+PrepNp
+AdvpNp
+ADV-V-O
+PrepNp
+NpAdjp
+226736	Conj-CL
+CLaCL
+S-V
+226741	ClCl
+V-ADV
+DetCL
+O-ADV-V
+P-VC-ADV
+DetCL
+O-ADV-V
+226749	Conj-CL
+226751	PrepNp
+DetNP
+ADV-V-O-ADV
+All-NP
+DetNP
+DetNP
+NPofNP
+PrepNp
+NpAdjp
+AdjpaAdjp
+V2CL
+226763	V2CL
+226765	Conj-CL
+226767	PtclCL
+V-S-O
+DetNP
+DetNP
+NPofNP
+226773	ADV-V
+226775	Conj-CL
+S-P-VC-ADV
+AdvpNp
+PrepNp
+NPofNP
+NPofNP
+NPofNP
+226783	ADV-V-S-O
+DetNP
+NP-CL
+DetNP
+NPofNP
+O-V
+226790	Conj-CL
+226793	PrepNp
+DetNP
+sub-CL
+226797	DetNP
+PrepNp
+DetNP
+226801	Np2CL
+O-V
+DetNP
+NPofNP
+O-V
+DetNP
+NPofNP
+CLaCL
+S-V-ADV
+226811	V-O
+DetNP
+NPofNP
+226815	Conj-CL
+O-V-IO-S
+DetNP
+226819	V-IO-O
+NP-CL
+AdjpNp
+S-ADV-V-O-IO
+NPofNP
+226825	Conj-CL
+ADV-ADV-S-ADV-V
+AdvPp
+PrepNp
+DetNP
+AdvpNp
+PrepNp
+NPofNP
+226834	Conj-CL
+226836	sub-CL
+ADV2CL
+PrepNp
+sub-CL
+S-ADV-VC-P
+DetNP
+226843	Conj-CL
+226845	O2CL
+226847	O-V-S
+226849	S-V
+DetNP
+226852	Conj-CL
+ClCl
+S-V
+DetAdj
+sub-CL
+226858	V-IO-S-O-ADV
+DetNP
+2Np
+NPofNP
+NpaNp
+NPofNP
+DetAdj
+ADV-V
+226867	NPofNP
+DetAdj
+ADV-V
+PrepNp
+DetNP
+AdvpNp
+226874	Conj-CL
+226876	2CLaCL
+VC-S-P
+DetNP
+NPofNP
+Conj4Pp
+PrepNp
+226883	PrepNp
+226885	PrepNp
+226887	PrepNp
+NpAdvp
+V-S-ADV
+DetNP
+NPofNP
+DetCL
+ADV-V
+226895	O-ADV-V
+DetNP
+NPofNP
+PrepNp
+226900	Conj-CL
+226902	PtclCL
+ClCl
+V2CL
+sub-CL
+V2CL
+226908	ADV-V
+226910	Conj-CL
+ADV-S-P-ADV
+DetNP
+ofNPNP
+DetNP
+DetNP
+PrepNp
+DetCL
+V-O
+226920	Conj-CL
+226922	sub-CL
+CLaCL
+S-P
+DetNP
+NPofNP
+NPofNP
+226929	S-P
+DetNP
+NPofNP
+NPofNP
+2Advp_h2
+DetNP
+NPofNP
+226937	Conj-CL
+V-IO
+Np-Appos
+DetNP
+226942	Conj-CL
+Conj-CL
+226945	ADV-O-V
+PrepNp
+ADV-VC-S-P
+ofNPNP
+DetNP
+NPofNP
+PtclCL
+CLaCL
+V-O
+ofNPNP
+DetNP
+226957	V-O
+NpPp
+PrepNp
+226961	Conj-CL
+226963	sub-CL
+S-P
+DetNP
+NPofNP
+NPofNP
+DetNP
+sub-CL
+ADV-S-P
+PrepNp
+226973	Conj-CL
+226975	sub-CL
+S-P
+DetNP
+AdvpNp
+DetNP
+226981	Conj-CL
+226983	sub-CL
+S-P
+DetNP
+AdvpNp
+DetNP
+226989	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+S-V
+NPofNP
+DetNP
+226997	CLaCL
+S-ADV-V-ADV
+P-VC
+PrepNp
+227002	P-VC
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+ADV-V-ADV
+DetNP
+227012	Conj-CL
+ClCl2
+sub-CL
+V2CL
+notCLbutCL2CL
+S-O-V
+DetNP
+S-O
+DetNP
+227022	Conj-CL
+227024	ClCl
+V-S
+sub-CL
+S-V
+227029	ClCl
+ADV2CL
+CLaCL
+ADV-V
+DetNP
+227035	S-ADV-V
+DetNP
+227038	notCLbutCL2CL
+O-V
+V2CL
+227042	Conj-CL
+227044	sub-CL
+S-O-ADV-V
+DetNP
+DetNP
+PpNp2Np
+PrepNp
+227051	Conj-CL
+V-O
+NPofNP
+NpaNp
+227059	P-S
+PrepNp
+DetCL
+V2CL
+227065	PrepNp
+NPofNP
+sub-CL
+V-ADV
+DetNP
+sub-CL
+S-V
+AdvpNp
+227074	Conj-CL
+S-ADV-V
+sub-CL
+ADV-V-ADV
+DetNP
+227080	Conj-CL
+P-VC-S-ADV
+DetNP
+ADV-V-O
+227085	Conj-CL
+227087	sub-CL
+CLaCL
+S-ADV-V
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+227095	ADV-V-ADV
+PrepNp
+PrepNp
+2Advp_h2
+Demo-NP
+NpPp
+PrepNp
+DetNP
+AdjpNp
+227105	Conj-CL
+227107	S-V-O
+Np2CL
+NP-Demo
+DetNP
+sub-CL
+ADV-VC-ADV-P
+PrepNp
+that-VP
+CLaCL
+S-ADV-ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+ADV-S-V
+DetNP
+NPofNP
+DetNP
+227125	ADV-S-V
+All-NP
+227128	sub-CL
+227130	ClCl
+V-ADV-S
+PrepNp
+DetCL
+V2CL
+V-O-ADV
+PrepNp
+227138	Conj-CL
+227140	DetNP
+PpNp2Np
+PrepNp
+sub-CL
+V-O
+DetNP
+NPofNP
+227148	aCLaCL
+227150	ADV-P-ADV
+PrepNp
+DetNP
+PrepNp
+227155	ADV-P-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+227161	Conj-CL
+P-S
+NpaNp
+DetNP
+227166	DetNP
+NPofNP
+DetNP
+227170	Conj-CL
+227172	sub-CL
+CLaCL
+S-ADV-V-O
+DetNP
+227177	ADV-V-ADV
+DetNP
+ofNPNP
+AdvpNp
+DetNP
+AdjpNp
+sub-CL
+S-ADV-V
+AdvpNp
+227187	Conj-CL
+227189	DetNP
+DetAdj
+PrepNp
+sub-CL
+O-V
+DetAdj
+227196	ClCl
+PtclCL
+Np2CL
+NPofNP
+NPofNP
+Conj3Np
+227204	sub-CL
+CLaCL
+P-S
+DetNP
+NPofNP
+227210	P-S
+DetNP
+NPofNP
+227214	Conj-CL
+S-V-O
+NPofNP
+227218	Conj-CL
+S-P-VC
+NPofNP
+227222	Conj-CL
+CLaCL
+S-V-IO
+227226	V-IO
+227228	sub-CL
+P-S
+Conj3Pp
+PrepNp
+227233	PrepNp
+227235	PrepNp
+DetAdj
+227239	DetNP
+PrepNp
+DetNP
+Intj2CL
+227244	Conj-CL
+227247	Np2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+NpAdjp
+NpAdjp
+NpAdjp
+V2CL
+AdvpAdjp
+DetNP
+O2CL
+DetNP
+AdjpNp
+NPofNP
+227265	Conj-CL
+notCLbutCL2CL
+V-ADV
+NP-Demo
+DetNP
+V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+227277	P-S
+DetNP
+NPDetAdj
+NPofNP
+DetNP
+DetAdj
+Conj3Adjp
+227287	Conj-CL
+V-ADV-IO-O
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-IO
+All-NP
+DetCL
+VC-P
+PrepNp
+notCLbutCL2CL
+V-ADV
+PrepNp
+S-V
+O-V
+227304	PrepNp
+DetCL
+V2CL
+sub-CL
+IO-S-V-O
+DetNP
+NPofNP
+227312	Conj-CL
+227314	sub-CL
+CLaCL
+ADV-O-V
+PrepNp
+AdjpNp
+AdjpNp
+227321	S-ADV-O-V
+NP-all
+DetNP
+DetNP
+PronNP
+ADV-S-P-VC-ADV
+DetAdj
+AdjpNp
+PrepNp
+227331	S-P
+NpPp
+PrepNp
+ofNPNP
+227336	Conj-CL
+ClCl2
+V-O-ADV
+NpAdjp
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-IO
+ClClClClClClCl
+ClCl2
+sub-CL
+O2CL
+ADV2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+ClCl2
+sub-CL
+O2CL
+ADV2CL
+PrepNp
+DetNP
+sub-CL
+S-ADV
+DetCL
+V2CL
+PrepNp
+DetNP
+sub-CL
+S-ADV
+DetCL
+V2CL
+PrepNp
+DetNP
+S-ADV
+DetCL
+V2CL
+PrepNp
+S-ADV
+DetCL
+V2CL
+PrepNp
+S-ADV
+DetCL
+V2CL
+PrepNp
+227385	S-P
+DetNP
+227388	ClCl
+V-O
+DetAdj
+V-IO
+DetAdj
+227394	ClClClClClClClClClCl
+ADV-ADV-P
+DetNP
+PrepNp
+ADV-O-V
+DetNP
+ADV-ADV-P
+DetNP
+ADV-V
+DetNP
+O-V
+DetNP
+ADV-V
+DetNP
+ADV-V
+DetNP
+O-V
+DetNP
+ADV-V
+DetNP
+NPofNP
+DetAdj
+O-V
+DetNP
+227420	DetCL
+V2CL
+CLaCL
+V2CL
+227425	ADV-V
+227427	ClCl
+V-ADV
+PrepNp
+V2CL
+V-ADV
+PrepNp
+V2CL
+227436	DetNP
+PrepNp
+notCLbutCL2CL
+O-V
+DetAdj
+ADV-V
+DetAdj
+227444	ADV-VC-P-ADV
+PrepNp
+227447	IO-O-ADV-V
+PrepNp
+227450	V-O-ADV
+PrepNp
+All-NP
+227455	sub-CL
+P2CL
+NpPp
+PrepNp
+PrepNp
+All-NP
+227463	notCLbutCL2CL
+O-V
+Np2CL
+V-O-IO
+DetNP
+sub-CL
+227470	ClCl2
+ClCl
+P-S
+S-V
+V-S
+227476	Conj-CL
+227478	sub-CL
+V-S
+DetNP
+NPofNP
+227484	sub-CL
+V2CL
+227487	Conj-CL
+ADV-O-V-ADV
+O-V
+NPofNP
+PrepNp
+DetNP
+NPofNP
+227495	CLaCL
+ADV-V-ADV
+PrepNp
+DetAdj
+227500	V-ADV-O
+PrepNp
+DetAdj
+DetAdj
+227505	S-IO-V
+All-NP
+NpAdjp
+V2CL
+227510	Conj-CL
+CLaCL
+227513	sub-CL
+ADV-ADV
+PrepNp
+227517	S-ADV-V
+DetCL
+V2CL
+PrepNp
+VerbBe
+227523	Conj-CL
+CLaCL
+S-O-V
+DetCL
+V-O
+DetNP
+DetNP
+ofNPNP
+DetNP
+227533	S-IO-O-V
+DetCL
+V2CL
+227537	Conj-CL
+S-VC-P-ADV
+DetNP
+notNPbutNP
+DetNP
+AdjpNp
+DetAdj
+227545	Conj-CL
+V-O
+ADV-V-O
+DetNP
+227550	CLaCL
+O-V
+DetAdj
+227554	V-O-ADV
+PrepNp
+227557	Conj-CL
+P-VC-ADV-ADV
+ofNPNP
+PrepNp
+DetAdj
+227563	Conj-CL
+227565	sub-CL
+O-V
+DetAdj
+227569	Conj-CL
+ADV-O-V
+2Advp_h1
+DetNP
+227574	Conj-CL
+ClCl
+P-VC
+ofNPNP
+P-ADV-ADV
+PrepNp
+DetCL
+O-V
+DetAdj
+227584	Conj-CL
+P-S
+V-ADV
+notPPbutPP
+AdvPp
+PrepNp
+DetNP
+AdvPp
+PrepNp
+DetNP
+227595	Conj-CL
+ClCl
+ADV-O-V
+PrepNp
+AdvpNp
+sub-CL
+P-VC-ADV
+NPofNP
+ADV-V
+PrepNp
+PronNP
+227607	ClCl
+V-IO-O
+DetNP
+ClClClCl
+IO-O
+NpAdvp
+DetNP
+DetNP
+IO-O
+NpAdvp
+DetNP
+DetNP
+IO-O
+NpAdvp
+DetNP
+DetNP
+IO-O
+NpAdvp
+DetNP
+DetNP
+227629	sub-CL
+ADV-O
+DetCL
+O-V
+227634	Conj-CL
+S-O-V
+DetCL
+V-O
+DetAdj
+227640	Conj-CL
+ClCl2
+CLaCL
+Np2CL
+DetCL
+ClClClCl
+ADV-V
+ADV-V
+ADV-V
+ADV-V
+227651	sub-CL
+S2CL
+AdjpNp
+AdjpNp
+ADV-V-ADV
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+DetCL
+227662	DetNP
+NPofNP
+sub-CL
+O2CL
+227667	S-IO-O-ADV-V
+DetNP
+DetNP
+227671	Conj-CL
+P-S
+NPofNP
+DetNP
+227676	Conj-CL
+ClCl
+227679	Demo-NP
+DetNP
+that-VP
+P-ADV-S
+S-ADV-V
+PrepNp
+sub-CL
+ADV-P-S-ADV
+ofNPNP
+DetNP
+sub-CL
+sub-CL
+V2CL
+227693	CLaCL
+S-V
+DetNP
+227697	S-V
+DetNP
+227700	Conj-CL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+227707	V-O
+DetNP
+NPofNP
+DetNP
+227713	sub-CL
+ADV-ADV-V
+PrepNp
+ADV-ADV
+NpaNp
+227719	ADV-ADV
+NpaNp
+227722	ADV-ADV
+NpaNp
+227726	Conj-CL
+CLaCL
+V-O
+Np-Appos
+DetNP
+Np-Appos
+227733	O-ADV-V-ADV
+ofNPNP
+DetNP
+PrepNp
+227738	Conj-CL
+227740	DetCL
+V-ADV
+DetNP
+ADV-ADV
+PrepNp
+NPofNP
+227747	aCLaCL
+227749	S-V-O
+V-O
+227752	S-O-V
+DetCL
+V2CL
+227756	ClCl
+CLaCL
+S-O-ADV-V
+DetCL
+V2CL
+DetCL
+ADV-V
+227764	S-O-ADV-V
+DetCL
+ADV-V
+DetCL
+V2CL
+sub-CL
+S-O-V
+DetNP
+227774	Np2CL
+DetCL
+V-O
+AdjpNp
+227779	ADV-V
+DetNP
+AdjpNp
+Conj2VP
+227785	Conj-CL
+ClCl
+V2CL
+sub-CL
+V-S-O
+DetNP
+V-O
+227793	Conj-CL
+aCLaCL
+227796	S-V-O-ADV
+PrepNp
+227799	S-V-O
+All-NP
+227802	S-ADV-V
+PrepNp
+DetNP
+AdjpNp
+227807	S-ADV-V
+DetCL
+V-O
+DetNP
+227812	Conj-CL
+ClCl
+S-ADV-V
+DetCL
+V2CL
+sub-CL
+V-O
+DetNP
+227821	Conj-CL
+CLaCL
+S-ADV-ADV-V
+DetCL
+ADV-V
+227827	V-O
+DetNP
+227830	Conj-CL
+CLaCL
+S-ADV-V
+NPofNP
+227835	S-ADV-V
+227837	Conj-CL
+aCLaCL
+227840	ClCl2
+sub-CL
+V2CL
+ADV-V
+DetNP
+227846	ClCl2
+sub-CL
+V2CL
+ADV-V
+DetNP
+227852	Conj-CL
+227854	aCLaCL
+227856	sub-CL
+V2CL
+227859	sub-CL
+V2CL
+DetNP
+227863	Conj-CL
+227865	PrepNp
+Conj2VP
+227868	sub-CL
+ADV-V
+aNpaNp
+227873	V2CL
+227875	Conj-CL
+S-ADV-V-O
+DetNP
+NPofNP
+227880	Conj-CL
+S-ADV-V-O
+AdvpNp
+DetNP
+NPofNP
+227886	Conj-CL
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+227892	Conj-CL
+227895	V-S
+V-S
+that-VP
+CLaCL
+ADV-V-S
+All-NP
+227902	S-V-O
+All-NP
+DetNP
+227906	Conj-CL
+Conj-CL
+S-ADV-O-V-IO
+NPofNP
+PrepNp
+DetNP
+227913	Conj-CL
+ADV-O-V
+227916	Conj-CL
+227918	Np2CL
+DetCL
+ADV-V-IO-O
+NpaNp
+DetNP
+227926	Conj2VP
+227928	PrepNp
+Np-Appos
+that-VP
+ClCl
+S-P-ADV
+PrepNp
+sub-CL
+AdvpCL
+227937	Np2CL
+DetCL
+V-O
+S-P-VC
+227942	Conj-CL
+227944	sub-CL
+ADV-S-V
+PrepNp
+DetNP
+NPofNP
+PrepNp
+227952	DetNP
+NPofNP
+ADV-S-V
+PrepNp
+227957	Conj-CL
+ADV-V-S
+ofNPNP
+DetAdj
+227962	Conj-CL
+notCLbutCL2CL
+VC-S-P
+DetNP
+NPofNP
+DetNP
+NpaNp
+227970	P2CL
+Conj3Np
+227974	NpPp
+PrepNp
+NpAdjp
+227978	Conj-CL
+CLaCL
+S-P-ADV
+DetCL
+ADV-V-O
+PrepNp
+DetNP
+DetNP
+227987	P-ADV
+DetNP
+227990	Conj-CL
+Conj-CL
+V-O
+NpaNp
+NPofNP
+DetNP
+227997	NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+228003	ADV-ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+228009	PtclCL
+CLaCL
+S-P
+228013	P-ADV
+Np-Appos
+DetNP
+DetCL
+ADV-V
+PrepNp
+228020	P-S
+DetCL
+Conj3CL
+ADV-V-O
+228025	V-O
+228027	ADV-S-V
+PrepNp
+DetNP
+NPofNP
+228032	S-O-V-ADV
+NP-CL
+O-V-ADV
+PrepNp
+PrepNp
+DetNP
+228039	P-S
+DetCL
+ADV-V-O-ADV
+PrepNp
+O-V
+228045	Conj-CL
+ClCl
+ClCl2
+sub-CL
+S-V
+DetCL
+V2CL
+V2CL
+sub-CL
+ADV-P
+PrepNp
+228057	Conj-CL
+S-P-VC
+All-NP
+S-ADV-P
+PrepNp
+228063	Conj-CL
+V-S-O
+Np-Appos
+DetAdj
+CLaCL
+O-V
+DetNP
+NPofNP
+DetAdj
+228073	ADV-O-V
+228075	S-O-V-ADV-ADV
+NPofNP
+DetNP
+PrepNp
+DetAdj
+PrepNp
+228082	Conj-CL
+S-ADV-O-V
+AdvpNp
+DetNP
+228087	Conj-CL
+sub-CL
+228090	S-V-ADV
+DetNP
+NPofNP
+DetCL
+V-O
+PrepNp
+228097	Conj-CL
+228099	S-ADV-V
+S-V
+PrepNp
+DetNP
+AdjpNp
+ADV-O-V
+Conj2Pp
+PrepNp
+DetNP
+228109	PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+228115	Conj-CL
+ClCl
+S-V-IO-O
+DetNP
+NPofNP
+NpaNp
+DetNP
+228123	DetNP
+O-V-ADV-ADV
+DetNP
+PrepNp
+PrepNp
+Np-Appos
+sub-CL
+ADV-ADV-V-O
+PrepNp
+AdjpNp
+DetNP
+NPofNP
+NpaNp
+228137	Np-Appos
+DetNP
+NPofNP
+Np-Appos
+228142	Conj-CL
+ClCl
+V-O
+sub-CL
+S-V-O-ADV
+AdvpNp
+DetNP
+PrepNp
+NPofNP
+DetNP
+228153	Conj-CL
+228155	S-P-VC-ADV-ADV
+NPofNP
+PrepNp
+NPofNP
+PrepNp
+DetCL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+228167	S-ADV-V-O
+DetNP
+PrepNp
+DetNP
+sub-CL
+228173	CLaCL
+ADV-V-O-ADV
+PrepNp
+PrepNp
+228178	IO-V
+DetNP
+NPofNP
+228182	Conj-CL
+228185	Np2CL
+PrepNp
+DetNP
+NPofNP
+228190	Conj-CL
+ClCl
+ADV2CL
+228194	V-O
+Np2CL
+All-NP
+DetNP
+DetNP
+228200	V-O-S
+All-NP
+DetNP
+228204	Conj-CL
+228206	V-S
+Np-Appos
+DetNP
+NPofNP
+DetNP
+AdvpNp
+DetCL
+V-ADV
+V-ADV
+228216	ADV-S-V
+PrepNp
+228219	Conj-CL
+S-V-O-ADV-ADV-ADV
+DetNP
+NPofNP
+DetNP
+All-NP
+NpaNp
+228227	PrepNp
+DetCL
+V2CL
+PrepNp
+DetCL
+V-S-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+NPofNP
+NpAdjp
+228239	Conj-CL
+228241	Np2CL
+NPofNP
+AdvpNp
+PronNP
+PrepNp
+that-VP
+S-P-VC-ADV-ADV
+AdvpNp
+228250	All-NP
+DetNP
+V-O
+O-V
+AdvpNp
+228256	Conj-CL
+228258	PrepNp
+sub-CL
+V-O-ADV
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-IO-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetCL
+VC-S-P-ADV-ADV
+NPofNP
+Np-Appos
+PrepNp
+DetNP
+V-O
+DetNP
+NPofNP
+DetNP
+sub-CL
+VC-S-P-ADV
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+NpAdjp
+228288	Conj-CL
+V-O
+Np-Appos
+DetNP
+NpPp
+PrepNp
+Np-Appos
+NpPp
+PrepNp
+DetNP
+228299	Conj-CL
+notCLbutCL2CL
+V-O
+V-O
+NPofNP
+O-ADV-V-S-ADV-ADV-ADV-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+NpaNp
+228310	2Pp
+PrepNp
+NPofNP
+NpaNp
+228315	PrepNp
+NPofNP
+NpAdjp
+sub-CL
+S-ADV-V-O
+Conj2Pp
+PrepNp
+228323	AdvPp
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+228330	V-ADV
+AdvpNp
+ADV-V-S
+sub-CL
+notCLbutCL2CL
+ADV-V
+PrepNp
+AdjpNp
+sub-CL
+228340	CLaCL
+V-S
+IO-ADV-V-ADV
+PrepNp
+228345	S-V
+S-ADV-V
+228348	Conj-CL
+ADV-V-ADV-ADV
+DetAdj
+DetCL
+V-ADV
+PrepNp
+228355	Conj-CL
+ClCl
+CLaCL
+ADV-ADV-O-V-ADV
+PrepNp
+NP-Demo
+DetNP
+228363	O-V-ADV
+DetCL
+228366	PrepNp
+PrepNp
+NPofNP
+sub-CL
+PtclCL
+V-ADV
+PrepNp
+DetNP
+sub-CL
+228376	V2CL
+CLaCL
+V-O
+228380	ADV-V-ADV
+PrepNp
+sub-CL
+ADV-ADV-ADV-V
+PrepNp
+228386	Conj-CL
+ADV-V-ADV-ADV
+PrepNp
+V-O
+DetAdj
+228392	Conj-CL
+V-S-O
+NpaNp
+228396	O-V-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+228406	Conj-CL
+CLaCL
+V2CL
+228410	P-VC-ADV
+228412	Conj-CL
+228414	sub-CL
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+ADV-V-O
+PrepNp
+DetAdj
+228423	Conj-CL
+ADV-V-ADV-ADV
+CLaCL
+O-V
+228428	V-IO-O
+NP-Demo
+DetNP
+PrepNp
+PrepNp
+228434	Conj-CL
+228436	that-VP
+ADV-ADV-V
+V-ADV
+PrepNp
+PrepNp
+NPofNP
+NPofNP
+228444	Conj-CL
+228447	S-V-ADV-ADV-ADV-ADV
+Np2CL
+Conj2Pp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+228456	PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+PrepNp
+PrepNp
+DetNP
+sub-CL
+CLaCL
+V-ADV
+PrepNp
+NpPp
+DetCL
+V2CL
+PrepNp
+DetNP
+228475	S-P-ADV-VC
+Np-Appos
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetAdj
+sub-CL
+ADV-V-ADV
+ADV-V-ADV-ADV
+PrepNp
+PrepNp
+PrepNp
+NPofNP
+228491	S-P
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+Intj2CL
+228499	Conj-CL
+ClCl
+228502	Np-Appos
+DetNP
+NPofNP
+VC-P
+NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+sub-CL
+CLaCL
+O-V-ADV-ADV
+PrepNp
+AdvpNp
+DetAdj
+228518	V-ADV-ADV
+PrepNp
+CL-NP
+PtclCL
+ADV-O-V
+sub-CL
+S-VC-P
+AdvpNp
+NPofNP
+NpaNp
+228529	NpPron
+228531	V-O
+NpaNp
+NP-CL
+NP-CL
+Np-Appos
+NpaNp
+228538	DetNP
+NpPp
+NPofNP
+PrepNp
+Np-Appos
+S-ADV-O-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+ofNPNP
+O-V-S
+notNPbutNP
+NpAdjp
+AdvpNp
+All-NP
+DetNP
+NPofNP
+DetNP
+228558	DetNP
+PpNp2Np
+PrepNp
+NPofNP
+228563	V-O
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+S-VC-P
+NpPp
+NPofNP
+DetNP
+PrepNp
+228574	V-O
+NP-CL
+S-O-V-ADV
+PrepNp
+228579	V-O
+NP-CL
+NP-CL
+Np-Appos
+NpaNp
+228585	DetNP
+NpaNp
+NPofNP
+228589	NPofNP
+S-VC-P-ADV
+PrepNp
+DetNP
+S-P-VC-ADV
+AdvPp
+PrepNp
+PrepNp
+228598	V-O
+Np-Appos
+DetNP
+NpPp
+NPofNP
+PrepNp
+228605	V-O
+NpaNp
+Np-Appos
+DetNP
+NpPp
+NPofNP
+PrepNp
+228613	Np-Appos
+DetNP
+NPofNP
+228617	V-O
+Np-Appos
+DetNP
+NpPp
+PrepNp
+228623	V-O
+NpPp
+PrepNp
+NPofNP
+228628	V-O
+Np-Appos
+DetNP
+NPofNP
+228633	V-O
+Np-Appos
+NpPp
+PrepNp
+DetNP
+DetCL
+VC-P
+PrepNp
+228642	V-O
+Np-Appos
+NpaNp
+228646	DetCL
+V-ADV
+PrepNp
+228650	V-O
+NP-CL
+Np-Appos
+DetAdj
+S-O-V-ADV
+PrepNp
+228657	V-O
+NpaNp
+Np-Appos
+NpPp
+DetAdj
+PrepNp
+228664	DetNP
+NPofNP
+NpaNp
+228669	V-O
+NpaNp
+NpNpNpNpNp
+228673	DetNP
+PpNp2Np
+PrepNp
+228677	V-O
+NpaNp
+NpaNp
+2Np
+NpaNp
+228683	NpaNp
+228685	DetNP
+NPofNP
+228689	DetNP
+PpNp2Np
+PrepNp
+All-NP
+228694	V-O-ADV
+PrepNp
+NpAdjp
+228698	V-O-S
+NPofNP
+NP-all
+DetNP
+DetNP
+228704	Conj-CL
+228706	V-O
+S-V-O
+Np2CL
+DetCL
+O-ADV-V
+NpaNp
+DetNP
+228714	DetNP
+PrepNp
+DetNP
+NP-CL
+O-S-V
+228720	V-ADV
+PrepNp
+228723	Conj-CL
+CLaCL
+CLaCL
+S-O-ADV-V
+DetNP
+Np-Appos
+DetNP
+NPofNP
+228732	O2CL
+DetNP
+ofNPNP
+228736	ADV-V-O
+PrepNp
+DetNP
+NpaNp
+228741	DetNP
+NPofNP
+DetAdj
+228745	Conj-CL
+S-ADV-V
+DetNP
+ofNPNP
+PrepNp
+228751	Conj-CL
+CLaCL
+ADV-V
+PrepNp
+228756	V-O
+CLaCL
+S-P-VC-ADV
+PrepNp
+DetAdj
+228762	P-ADV
+PrepNp
+DetAdj
+228766	Conj-CL
+S-V-O-ADV-ADV
+DetNP
+NPofNP
+DetNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+228777	S-P
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+228785	V-O-S
+Conj4Np
+Np-Appos
+DetNP
+NPofNP
+228793	Np-Appos
+DetNP
+NPofNP
+228797	V-O-S
+Np-Appos
+Np-Appos
+DetCL
+V-O-ADV
+DetNP
+PrepNp
+228805	V-O-S
+Np-Appos
+DetNP
+NPofNP
+NpaNp
+228811	All-NP
+DetNP
+228814	V-O-S
+NpaNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+228821	Np-Appos
+DetNP
+228824	Conj-CL
+228826	Np2CL
+Np-Appos
+DetCL
+V-O
+O-V-ADV-ADV
+PrepNp
+NpaNp
+DetNP
+NPofNP
+228836	DetNP
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+NpAdjp
+CLaCL
+CLaCL
+ADV-V
+NpAdjp
+228847	V-ADV
+228849	ADV-ADV-ADV-ADV-V
+PrepNp
+NpAdjp
+PrepNp
+NPofNP
+DetNP
+AdjpNp
+PrepNp
+NPofNP
+PrepNp
+All-NP
+DetNP
+AdjpNp
+AdjpNp
+PrepNp
+Np-Appos
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+228873	NpaNp
+Np-Appos
+NpPp
+AdjpNp
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+228882	Np-Appos
+DetNP
+Np-Appos
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+VC-P
+PrepNp
+V-ADV
+PrepNp
+Np-Appos
+NpPp
+AdjpNp
+PrepNp
+All-NP
+DetCL
+V-O-ADV
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+PrepNp
+All-NP
+P2CL
+NpaNp
+228914	IO-S-ADV
+NpaNp
+228917	PrepNp
+NpaNp
+Np-Appos
+NPofNP
+228922	Np-Appos
+Np-Appos
+228926	V-O-ADV-ADV-ADV
+DetNP
+PrepNp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-IO-ADV
+PrepNp
+Np-Appos
+228939	PrepNp
+PrepNp
+PrepNp
+NpaNp
+All-NP
+228945	All-NP
+sub-CL
+S-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+sub-CL
+S-ADV-V-ADV-ADV
+PrepNp
+AdjpNp
+V-O
+DetNP
+NPofNP
+NP-CL
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+S-ADV-V-O-ADV-O2-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+228974	P-S
+DetNP
+NP-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+228989	Conj-CL
+228991	Np2CL
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+that-VP
+CLaCL
+O-V-S
+DetNP
+229004	CLaCL
+ADV-VC-P-S
+PrepNp
+229008	V-ADV
+BeVerb
+Conj2Pp
+PrepNp
+DetNP
+PronNP
+229015	PrepNp
+DetNP
+PronNP
+229019	Conj-CL
+229021	PrepNp
+Np2CL
+NPofNP
+PrepNp
+NPofNP
+that-VP
+S-P-VC
+PrepNp
+229030	Conj-CL
+229032	that-VP
+229034	NPofNP
+EitherOr4CL
+229037	S-VC-P
+229039	S-P
+229041	S-P
+229043	S-P
+229045	V-S
+DetNP
+229048	PtclCL
+CLaCL
+S-V-ADV
+PrepNp
+229053	ADV-V
+PrepNp
+DetNP
+NPofNP
+229059	V2CL
+ClCl
+ClCl
+O-V
+NPofNP
+sub-CL
+ADV-O
+NpaNp
+229068	sub-CL
+229070	that-VP
+ADV-V
+PrepNp
+DetNP
+AdjpNp
+229076	Conj-CL
+V-O
+AdvpNp
+DetNP
+ofNPNP
+229083	PtclCL
+O-V
+AdjpNp
+229087	Conj-CL
+229089	notCLbutCL2CL
+V2CL
+V2CL
+229093	PrepNp
+NPofNP
+sub-CL
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+229101	Conj-CL
+aCLaCL
+229104	S-ADV-P-VC
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V2CL
+229112	ADV-P-VC
+Np-Appos
+DetCL
+V2CL
+NPofNP
+229118	Conj-CL
+229120	CLaCL
+V-O
+DetNP
+NPofNP
+DetAdj
+229126	O-V
+DetNP
+NPofNP
+DetAdj
+229131	P-S
+229133	P-S
+229135	P-S
+NPofNP
+NP-Demo
+DetNP
+229140	PtclCL
+V-S-O
+DetNP
+DetNP
+NPofNP
+DetNP
+229147	Conj-CL
+ClCl
+ClCl2
+sub-CL
+ADV-ADV-V-S-ADV-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+PrepNp
+DetNP
+DetNP
+V-S-ADV-O
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-O
+DetCL
+V2CL
+sub-CL
+aCLaCL
+229172	S-O-V
+229174	S-O-V
+229176	Conj-CL
+ClCl
+229179	NpAdjp
+V2CL
+aCLaCLaCL
+229183	IO-O
+229185	IO-O
+229187	IO-O
+Np-Appos
+Np-Appos
+DetAdj
+aNpaNp
+229194	Np-Appos
+NpaNp
+ofNPNP
+229198	ofNPNP
+sub-CL
+CLaCL
+S-P-ADV-VC
+DetNP
+NPofNP
+DetNP
+DetNP
+229207	S-P-ADV
+DetNP
+NPofNP
+DetNP
+DetNP
+229213	Conj-CL
+229215	DetNP
+NPofNP
+Np2CL
+that-VP
+ClClCl
+ADV-P-S-ADV
+PrepNp
+ADV-P-S
+ADV-P-S
+229225	Conj-CL
+ClCl
+Conj3CL
+229229	DetNP
+NPofNP
+DetNP
+DetNP
+sub-CL
+V-O
+DetAdj
+229238	DetNP
+NPofNP
+DetNP
+DetNP
+sub-CL
+V-O
+DetAdj
+229247	Np-Appos
+NpaNp
+DetNP
+NPofNP
+DetNP
+229253	DetCL
+V2CL
+DetNP
+DetCL
+ADV-V
+sub-CL
+O-V
+DetCL
+V2CL
+sub-CL
+ADV-V-S-ADV
+All-NP
+PrepNp
+DetNP
+229268	Conj-CL
+229270	PrepNp
+PrepNp
+NP-CL
+Np-Appos
+S-VC-ADV-ADV-P
+Conj4Np
+PrepNp
+229280	sub-CL
+sub-CL
+229283	S-ADV-V
+DetCL
+V2CL
+PrepNp
+229289	V-ADV
+PrepNp
+Np2CL
+ADV-ADV-V-IO-O
+PrepNp
+NpaNp
+NPofNP
+229297	DetNP
+NPofNP
+DetNP
+229301	Conj-CL
+ADV-V-O
+229304	PrepNp
+sub-CL
+ADV-O
+NpaNp
+Np-Appos
+229310	NpAdjp
+V2CL
+229313	CLaCL
+S-P-VC-ADV
+Conj3Pp
+PrepNp
+229318	PrepNp
+229320	PrepNp
+NpAdjp
+PrepNp
+229325	NpaNp
+DetNP
+NPofNP
+229329	DetNP
+NPofNP
+notPPbutPP
+PrepNp
+AdjpNp
+ofNPNP
+PrepNp
+NPofNP
+NpaNp
+229339	sub-CL
+S-VC-P
+DetNP
+NPofNP
+notPPbutPP
+PrepNp
+NPofNP
+PrepNp
+NPofNP
+229349	Conj-CL
+CLaCL
+O-V-ADV
+PrepNp
+DetAdj
+229355	ADV-O
+NPofNP
+NpaNp
+NP-Demo
+DetNP
+229361	Np-Appos
+DetNP
+NPofNP
+NP-Demo
+DetNP
+DetCL
+V2CL
+229369	Conj-CL
+V-O
+NP-CL
+NP-CL
+ofNPNP
+Np-Appos
+NpPp
+PrepNp
+DetCL
+V2CL
+O-V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+NPofNP
+229386	O-S-V
+NPofNP
+DetNP
+NPofNP
+NP-Demo
+DetNP
+ClCl2
+sub-CL
+V2CL
+PtclCL
+ADV-O-V
+DetNP
+NPofNP
+DetNP
+229401	Conj-CL
+sub-CL
+229404	P-S
+Conj3CL
+O-S-ADV-V
+229408	S-ADV-V
+229410	ADV-ADV-V
+PrepNp
+NPofNP
+O-V-S-IO
+DetNP
+DetCL
+V-O
+229418	Conj-CL
+IO-V-S-ADV
+DetNP
+PrepNp
+DetNP
+229424	Conj-CL
+ClCl
+S-O-V
+DetNP
+O2CL
+AdvpNp
+DetNP
+NPofNP
+DetNP
+229434	Conj-CL
+229436	NPofNP
+NPofNP
+DetNP
+sub-CL
+ADV-S
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NpPp
+PrepNp
+229449	AdvpNp
+NPofNP
+DetNP
+sub-CL
+ADV-S
+DetNP
+NPofNP
+DetNP
+229458	Conj-CL
+ClCl
+notCLbutCL2CL
+S-O-V
+DetNP
+NPofNP
+DetNP
+O2CL
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+sub-CL
+V-O
+NP-CL
+DetCL
+ADV-V-IO
+PrepNp
+DetNP
+O-ADV-V-ADV-ADV
+notPPbutPP
+PrepNp
+AdjpNp
+AdjpAdvp
+AdjpNp
+PrepNp
+NPofNP
+ADV-O-V
+229488	Conj-CL
+CLaCL
+229491	AdjpNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+sub-CL
+P-ADV-VC
+229500	V2CL
+sub-CL
+ADV-V
+229504	Conj-CL
+CLaCL
+S-V-ADV-O
+DetAdj
+229509	S-ADV-V
+PrepNp
+229512	Conj-CL
+229514	NPofNP
+S-V-O
+229517	Conj-CL
+S-O-V
+NPofNP
+229522	Np2CL
+notCLbutCL2CL
+V-IO-ADV
+PrepNp
+ADV2CL
+2Pp
+PrepNp
+PrepNp
+NpPp
+PrepNp
+229533	ClCl
+ClCl
+O2-O-V
+ADV-O
+sub-CL
+ADV-V
+229540	Conj-CL
+ClCl
+ADV-ADV-ADV-V
+sub-CL
+ADV-P-VC
+229546	Conj-CL
+ClCl2
+sub-CL
+P-S
+PrepNp
+NpaNp
+229553	PtclCL
+CLaCL
+P-VC
+229557	ADV-V
+PrepNp
+229560	Conj-CL
+ClCl2
+sub-CL
+aCLaCL
+229566	S-VC-P
+229568	ClCl
+S2CL
+S-P
+PtclCL
+P-VC
+229574	Conj-CL
+P-VC-S
+229577	Conj-CL
+P-VC-S
+229580	P2CL
+NP-CL
+229583	ADV-V
+PrepNp
+IO-S-V
+AdvpNp
+DetNP
+229589	CLaCL
+ClCl
+S-V
+S-V
+229594	S-V
+DetNP
+229597	sub-CL
+CLaCL
+aCLaCL
+229601	S-VC-P
+DetCL
+V2CL
+229605	S2CL
+DetCL
+V2CL
+229609	S2CL
+DetNP
+AdjpNp
+V2CL
+229614	Conj-CL
+CLaCL
+S-P-VC
+NpaNp
+DetCL
+V2CL
+229621	DetCL
+V2CL
+229624	S-O-V-ADV
+DetNP
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+229631	Conj-CL
+ClCl
+VC-P
+ofNPNP
+P-VC
+2Np
+ofNPNP
+ofNPNP
+229640	CLaCL
+ADV-ADV-O-V
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-IO
+PrepNp
+AdjpNp
+229652	S-V
+229654	Conj-CL
+ClCl
+S-V
+ADV-V
+229659	Conj-CL
+S-V-O
+O-V-ADV
+NpAdjp
+PrepNp
+NP-CL
+DetCL
+V2CL
+S-VC-P
+Np-Appos
+229670	Conj-CL
+ClCl
+ClCl2
+sub-CL
+S-V-ADV-O
+PrepNp
+DetNP
+NpNpNpNpNpNp
+NpAdjp
+S-P-VC
+ofNPNP
+DetNP
+sub-CL
+229684	DetNP
+sub-CL
+CLaCL
+ADV-V
+PrepNp
+229690	ClCl2
+S-P-VC
+ofNPNP
+DetNP
+S-O-V
+DetNP
+229698	sub-CL
+V-S
+ofNPNP
+DetNP
+NP-CL
+O-V
+229705	CLaCL
+229707	sub-CL
+S-V
+ofNPNP
+DetNP
+229712	CLaCL
+S-V
+229715	sub-CL
+ADV-ADV
+PrepNp
+229720	that-VP
+CLaCL
+P-VC
+NPofNP
+229725	S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+229732	sub-CL
+S-O-V
+DetNP
+NPofNP
+DetNP
+DetNP
+229739	Conj-CL
+229741	DetNP
+NPofNP
+DetNP
+P-VC-S
+229746	S-O-V
+229748	ClCl
+ClCl2
+sub-CL
+S-V-O
+P-VC-ADV-ADV
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+P-VC
+sub-CL
+VC-P
+229761	Conj-CL
+S-P-ADV-VC
+DetNP
+NPofNP
+NP-Demo
+DetNP
+PrepNp
+DetNP
+229770	Conj-CL
+229772	P2CL
+DetCL
+V-O-ADV
+DetAdj
+PrepNp
+DetNP
+NPofNP
+229780	Conj-CL
+ClCl
+ADV2CL
+229784	DetNP
+NPofNP
+DetAdj
+that-VP
+VC-P
+229790	Conj-CL
+S-V-ADV
+PrepNp
+229794	Conj-CL
+CLaCL
+ClCl
+S-P-VC
+S-P
+Np-Appos
+EitherOr8Np
+229808	V2CL
+229810	V2CL
+229812	CLaCL
+S-P
+229815	S-P
+229818	sub-CL
+O2CL
+NpaNp
+NPofNP
+229823	NPofNP
+NPofNP
+229827	PrepNp
+DetNP
+that-VP
+O-S-V
+229832	Conj-CL
+229834	ADV-P-VC
+PrepNp
+V-ADV
+Conj2Pp
+PrepNp
+229840	PrepNp
+AdjpNp
+229843	Conj-CL
+ADV-O-V
+229846	Conj-CL
+CLaCL
+CLaCL
+O-ADV-V
+229851	ADV-ADV-V
+PrepNp
+229854	S-P-VC
+DetCL
+V-O
+229858	Conj-CL
+ADV-ADV-O-V-ADV
+PrepNp
+sub-CL
+PtclCL
+V-S
+DetNP
+NP-CL
+S-V
+aCLaCL
+229869	V-O
+DetNP
+NPofNP
+DetNP
+229874	V-O
+DetNP
+NPofNP
+DetNP
+229879	Conj-CL
+ADV-S-V-ADV-ADV
+DetNP
+PrepNp
+DetNP
+229885	Conj-CL
+229887	ClCl
+O-V-ADV-ADV
+Np2CL
+PrepNp
+NpaNp
+229893	PrepNp
+sub-CL
+ADV-V-O
+PrepNp
+DetCL
+ADV-ADV
+PrepNp
+S-V
+sub-CL
+ADV-S-ADV-V-ADV
+PrepNp
+DetAdj
+PrepNp
+DetAdj
+229908	Conj-CL
+S-O-V
+229911	Conj-CL
+V-O
+NP-CL
+O-ADV-V
+229916	Conj-CL
+ClCl2
+sub-CL
+ADV-V
+ADV-V-ADV
+sub-CL
+ADV-V
+229924	ADV-V
+VerbBe
+229927	ADV-V
+229929	ADV-V
+PrepNp
+229932	Conj-CL
+229934	PtclCL
+V2CL
+sub-CL
+S-ADV-V
+AdvpNp
+229940	Conj-CL
+229943	DetNP
+Np-Appos
+DetNP
+PrepNp
+sub-CL
+P-VC-ADV
+Conj3Np
+DetNP
+229954	CLaCL
+S-P-ADV
+PrepNp
+229958	S-P-ADV
+PrepNp
+229961	CLaCL
+S-P
+229964	S-P
+229966	CLaCL
+S-P
+229969	S-P
+229971	CLaCL
+ADV-V
+PrepNp
+DetNP
+AdvpNp
+EitherOr5Vp
+229983	V-ADV
+V-ADV
+DetNP
+AdjpNp
+229988	ClClCl
+ADV-V
+V2CL
+ADV-V
+V2CL
+ADV-V
+V2CL
+229996	P-VC-ADV
+PrepNp
+Np-Appos
+NPofNP
+DetNP
+ofNPNP
+PrepNp
+230004	ClCl
+CLaCL
+ADV-ADV-V-O
+V-O
+230009	ADV-V
+PrepNp
+NpAdjp
+NPofNP
+sub-CL
+ClCl
+CLandCL2
+sub-CL
+O-V-ADV
+AdjpNp
+PrepNp
+230021	ADV-O
+AdjpNp
+sub-CL
+ADV-ADV-S-O-V
+PrepNp
+Np-Appos
+PrepNp
+DetNP
+230030	Conj-CL
+230032	P-VC
+NPofNP
+230035	ADV-V-IO-O
+PrepNp
+Demo-NP
+NP-CL
+NP-CL
+S-VC-P
+ofNPNP
+NpPp
+NpAdjp
+AdjpaAdjp
+230046	PrepNp
+230048	S-O-V-O2
+DetNP
+Np-Appos
+NPofNP
+NpPp
+PrepNp
+Np-Appos
+ADV-ADV-V
+PrepNp
+All-NP
+230059	Conj-CL
+230061	sub-CL
+ADV-V-S-ADV
+PrepNp
+230065	Conj-CL
+CLaCL
+ClCl
+V-ADV-ADV
+PrepNp
+sub-CL
+S-V
+DetNP
+230075	notNPbutNP
+DetNP
+NPofNP
+DetCL
+V2CL
+DetNP
+sub-CL
+notCLbutCL2CL
+P-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+P2CL
+PrepNp
+230091	O-V
+230093	CLaCL
+ADV-V-ADV
+PrepNp
+PrepNp
+230098	ADV2CL
+PrepNp
+NpaNp
+230102	NPofNP
+230104	ADV-V-ADV-S
+PrepNp
+NpaNp
+230108	NP-CL
+NP-CL
+AdjpNp
+S-ADV-P
+PrepNp
+DetNP
+sub-CL
+S-O-V
+NPofNP
+DetNP
+230119	Conj-CL
+CLaCL
+S-V
+VerbBe
+230125	sub-CL
+V-ADV-S
+PrepNp
+NPofNP
+DetCL
+O-V
+NP-Demo
+DetNP
+230134	Conj-CL
+230136	aCLaCL
+230138	V-ADV
+DetNP
+230141	V-ADV
+DetNP
+sub-CL
+V2CL
+DetCL
+ADV-O-V
+230148	ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+Np-Appos
+NpaNp
+230156	DetNP
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+sub-CL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+230177	ADV-P-S
+DetNP
+NPofNP
+230182	that-VP
+S-O-V
+AdjpNp
+All-NP
+DetNP
+230189	DetNP
+AdjpNp
+sub-CL
+230193	AdjpNp
+sub-CL
+VC-P
+230197	Conj-CL
+S-V
+AdvpNp
+Np-Appos
+DetNP
+NPofNP
+230204	Conj-CL
+V-ADV
+notPPbutPP
+Conj2Pp
+PrepNp
+NpAdjp
+230211	PrepNp
+NPofNP
+NpaNp
+230215	PrepNp
+NPofNP
+NpaNp
+230221	PrepNp
+DetNP
+ClCl
+ADV-V-ADV
+ADV-ADV
+2Advp_h1
+Conj4Np
+DetNP
+NPofNP
+NP-Demo
+DetNP
+230233	DetNP
+230236	sub-CL
+sub-CL
+V-O
+ADV-V
+PrepNp
+DetNP
+230243	Conj-CL
+ADV-V-IO-O
+ClCl
+ClCl
+ADV-V
+sub-CL
+S-VC-P
+NpAdjp
+P-VC
+Conj6Np
+230258	ADV-ADV-V
+DetNP
+230261	Conj-CL
+P-ADV-S
+O-V
+DetNP
+230266	PtclCL
+O-S-V
+DetNP
+230270	Conj-CL
+O-S-V
+DetNP
+DetNP
+230275	V-O-ADV
+DetAdj
+PrepNp
+NpPron
+230280	V-S-ADV-O
+NPofNP
+O-V-ADV
+PrepNp
+DetAdj
+CLaCL
+V-ADV
+PrepNp
+DetAdj
+230290	ADV-ADV
+PrepNp
+DetAdj
+230294	Conj-CL
+230296	that-VP
+S-O-V
+DetAdj
+DetNP
+230301	Conj-CL
+230303	sub-CL
+ADV-V-S
+PrepNp
+DetNP
+NpAdjp
+230310	that-VP
+230312	PtclCL
+O2CL
+230315	Conj-CL
+Conj-CL
+230318	sub-CL
+O-V
+AdjpNp
+Np2CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+230327	ADV-IO-V
+PrepNp
+230330	PtclCL
+ADV-VC-P-S
+PrepNp
+AdjpNp
+NP-CL
+S-V-O
+V-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+230342	Conj-CL
+CLaCL
+S-ADV-V
+PrepNp
+230347	ADV-ADV
+PrepNp
+230350	Conj-CL
+Conj-CL
+ADV-ADV-P-ADV-VC-S
+that-VP
+O-V-ADV
+PrepNp
+230357	ADV-ADV-ADV-V
+PrepNp
+230360	ADV-ADV-ADV-V
+PrepNp
+230363	Conj-CL
+CLaCL
+S-V
+Conj2VP
+230369	ADV-O
+230371	Conj-CL
+230373	that-VP
+S-O-ADV-V
+ofNPNP
+230377	ADV-V
+230379	S-O-V
+EitherOr10Np
+230391	NPofNP
+230393	Conj-CL
+P-S-VC
+230396	aCLaCLaCL
+230398	V2CL
+230400	V2CL
+230402	V-ADV
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+Np-Appos
+230411	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+230417	CLaCL
+S-ADV-V
+230420	ADV-S-V
+230422	CLaCL
+S-ADV-V
+230425	ADV-S-V-ADV
+PrepNp
+230428	CLaCL
+S-P
+DetNP
+DetNP
+230433	S-P
+DetNP
+DetNP
+230437	Conj-CL
+S-O-V
+DetNP
+aNpaNp
+230444	Conj-CL
+CLaCL
+S-P
+DetNP
+notNPbutNP
+DetNP
+DetNP
+230452	S-P
+DetNP
+DetNP
+230456	Conj-CL
+S-V
+DetNP
+aCLaCL
+230461	O-V
+DetNP
+230464	O-V-ADV
+PrepNp
+DetNP
+NPofNP
+230470	that-VP
+S-P-VC
+DetNP
+NPofNP
+NPofNP
+230476	Conj-CL
+ADV-V-O
+V-O
+DetNP
+NPofNP
+DetNP
+ofNPNP
+230484	ADV-V
+230486	Conj-CL
+230488	that-VP
+S-P-VC
+DetCL
+V-IO
+DetNP
+AdjpNp
+230495	Conj-CL
+230497	VC-S-P
+DetNump
+PrepNp
+NpAdjp
+230502	Conj-CL
+S-P-VC
+DetCL
+V-IO
+DetNP
+AdjpNp
+230509	V-O
+DetNP
+230512	CLaCL
+S-P-VC
+All-NP
+NP-CL
+PtclCL
+O-V-S
+PrepNp
+DetNP
+230521	S-ADV-V
+DetCL
+V2CL
+PrepNp
+DetNP
+AdjpNp
+230528	Conj-CL
+230530	that-VP
+CLaCL
+230533	DetNP
+NPofNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+AdjpNp
+ADV-V-ADV
+PrepNp
+230543	ADV-VC-P
+230545	Conj-CL
+V-ADV
+230548	PtclCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+230555	Conj-CL
+230557	ADV2CL
+PrepNp
+O-V
+O-ADV-V
+230562	Conj-CL
+CLaCL
+ADV-S-O-V
+PrepNp
+DetNP
+DetNP
+ofNPNP
+230570	S-O-V
+DetNP
+AdjpNp
+230574	CLaCL
+IO-S-O-V
+DetNP
+DetNP
+DetNP
+230580	ADV-S-IO
+AdvpNp
+DetNP
+DetNP
+230585	CLaCL
+S-ADV-ADV-V
+DetNP
+DetNP
+AdjpNp
+230591	S2CL
+DetNP
+230594	Conj-CL
+AdvpCL
+CLaCL
+S-ADV-ADV-V
+AdvpNp
+DetNP
+DetNP
+AdjpNp
+230603	S2CL
+DetNP
+230606	ClCl
+ClCl
+ADV-V-O
+sub-CL
+PtclCL
+PtclCL
+230613	PrepNp
+PrepNp
+sub-CL
+CLaCL
+V-ADV
+DetNP
+230620	ADV-P-VC
+PrepNp
+DetNP
+sub-CL
+ADV-V-O-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+230630	Conj-CL
+230632	PrepNp
+ADV-ADV
+PrepNp
+230636	Conj-CL
+V-O
+S-VC-P
+All-NP
+PrepNp
+AdvpNp
+230643	Conj-CL
+ClCl
+S-V-O-ADV
+AdjpNp
+PrepNp
+aCLaCL
+230650	S-ADV
+230652	S-ADV
+230654	Conj-CL
+230656	NpaNp
+DetNP
+230659	DetNP
+ClCl
+P-ADV
+sub-CL
+V-ADV
+PrepNp
+230666	Conj-CL
+ClCl
+230669	sub-CL
+ADV-V
+sub-CL
+CLaCL
+P-VC-S
+V2CL
+230676	V2CL
+230678	Conj-CL
+IO-V-S-O
+DetCL
+V2CL
+notNPbutNP
+DetNP
+CLaCL
+CLaCL
+S-ADV-ADV-V
+PrepNp
+230690	sub-CL
+ADV-V
+VC-P
+230694	ADV-V
+DetNP
+230697	S-O-ADV-V
+230699	Conj-CL
+IO-V-S
+DetAdj
+2Np
+AdvpNp
+DetNP
+230706	ClCl2
+sub-CL
+CLaCL
+S-V-O
+AdjpNp
+NpAdjp
+230713	S-V-O
+V-ADV
+PrepNp
+ADV-V-O
+230718	Conj-CL
+230720	Np2CL
+NP-CL
+CLaCL
+S-V-O
+NpAdjp
+230726	S-V-O
+V-ADV
+PrepNp
+DetNP
+230731	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+230740	V-S-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+230747	sub-CL
+CLaCL
+sub-CL
+S-P-VC
+DetNP
+NPofNP
+230754	ADV-P-VC
+230756	Conj-CL
+230758	sub-CL
+S-V
+DetAdj
+230762	ADV-V-S-ADV
+NpaNp
+DetNP
+230766	DetNP
+PrepNp
+DetNP
+230770	Conj-CL
+ADV-V-O-S
+PrepNp
+DetNP
+230775	Conj-CL
+230777	Np2CL
+PtclCL
+O-V
+DetNP
+230782	Conj-CL
+230784	Np2CL
+PtclCL
+O-V
+DetNP
+230789	ClCl2
+sub-CL
+AdvpCL
+ClCl
+sub-CL
+IO-V-S
+DetNP
+sub-CL
+O-V-S
+DetNP
+ADV-V
+230801	Conj-CL
+ADV-ADV-V
+PrepNp
+NP-all
+DetNP
+230807	ADV-S-V
+V2CL
+230810	ADV-V
+230812	ADV-V-S
+PrepNp
+230815	ADV-V
+230817	CLaCL
+CLaCL
+S-P-VC
+DetNP
+230822	S-P-VC
+DetNP
+230825	S2CL
+NPofNP
+NPofNP
+230829	S-ADV-ADV-V
+PrepNp
+DetNP
+NP-CL
+ADV-V
+PrepNp
+230836	ADV-V
+P2CL
+230839	ADV-ADV-V
+230841	Conj-CL
+ClCl2
+sub-CL
+ADV-V-O
+P-VC
+ADV-V
+230848	Conj-CL
+230850	DetNP
+AdjpNp
+ADV-V
+PrepNp
+NPofNP
+AdvpCL
+S-VC-P
+NpAdjp
+DetAdj
+V2CL
+NPofNP
+230862	ADV-V
+230864	ADV-VC-P
+NPofNP
+230868	PrepNp
+Np2CL
+ADV-V-ADV
+PrepNp
+PrepNp
+230874	Conj-CL
+CLaCL
+ADV-O-ADV-V
+PrepNp
+DetNP
+NPofNP
+230881	O-V-ADV
+PrepNp
+V-ADV-ADV
+PrepNp
+P-VC
+230887	Conj-CL
+230889	S-P-VC-ADV
+PrepNp
+DetNP
+AdjpNp
+V2CL
+that-VP
+P-ADV-S
+DetCL
+P-VC
+230899	V-ADV
+230901	ADV-V-O
+230903	V-ADV
+PrepNp
+230906	ADV-V-O
+230908	Conj-CL
+230910	sub-CL
+ADV-V
+230913	Conj-CL
+230915	sub-CL
+V-S
+DetNP
+230919	Conj-CL
+CLaCL
+O-ADV-V-S
+DetNP
+DetNP
+230925	S-O-V
+230927	Conj-CL
+230929	Np2CL
+S-V
+DetNP
+VerbBe
+230935	DetAdj
+that-VP
+Conj5CL
+S-P-VC
+AdvpNp
+DetCL
+V-O
+sub-CL
+ADV-V
+230945	S-P
+DetCL
+V2CL
+sub-CL
+ADV-V
+230951	S-P
+DetCL
+V2CL
+sub-CL
+ADV-V
+230957	S-P
+DetCL
+V2CL
+sub-CL
+ADV-V
+230963	S-P
+DetCL
+V-O
+DetNP
+sub-CL
+ADV-V
+230970	Conj-CL
+V-S
+DetNP
+NPofNP
+NP-Demo
+DetNP
+230977	Conj-CL
+V-O
+S-P-VC
+230981	ClCl
+S-V-O
+DetNP
+NPofNP
+DetNP
+ADV-V-O
+DetNP
+230989	Conj-CL
+CLaCL
+ClCl
+S-V-O
+DetCL
+V2CL
+NPofNP
+DetNP
+ADV-V-O
+DetNP
+231000	V2CL
+231003	aNpaNp
+231005	Np-Appos
+DetNP
+DetNP
+231009	DetNP
+NPofNP
+DetNP
+sub-CL
+VC-P-ADV
+aNpaNp
+231016	DetNP
+231018	DetNP
+231020	Conj-CL
+ClCl
+S-V-O
+DetCL
+V2CL
+NPofNP
+DetNP
+ADV-V-O
+DetNP
+231030	Conj-CL
+231032	PrepNp
+DetNP
+ofNPNP
+NpPron
+notCLbutCL2CL
+sub-CL
+O-IO-V
+ADV-ADV-ADV
+PrepNp
+DetAdj
+AdjpaAdjp
+231044	DetNP
+231046	Conj-CL
+231048	CLaCL
+ClCl
+sub-CL
+S-O-V
+V-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+VC-P
+231059	ADV-V-O
+V2CL
+O-V
+231063	ClCl
+ADV-V
+V2CL
+231067	Conj-CL
+S-ADV-V
+CLaCL
+S-V-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+ADV-V-O
+231076	CLaCL
+O-V-ADV
+PrepNp
+DetNP
+AdjpNp
+231083	PrepNp
+DetNP
+AdjpNp
+V-O
+DetNP
+ofNPNP
+231090	Conj-CL
+aCLaCL
+231093	S-ADV-V
+DetCL
+V-O
+DetNP
+ofNPNP
+231099	S-O-V
+DetCL
+ADV-V
+231103	S-V-ADV
+PrepNp
+ADV-V-S
+AdjpNp
+DetNP
+NPofNP
+231110	Conj-CL
+231112	sub-CL
+V-S
+DetNP
+IO-V
+O-V
+ADV-ADV
+PrepNp
+231120	Conj-CL
+CLaCL
+ClCl
+P-VC
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+AdjpNp
+231130	V-S-O
+O-V
+NPofNP
+231134	Conj-CL
+231136	PrepNp
+DetAdj
+that-VP
+S-O-V
+231141	CLaCL
+S-V
+DetNP
+231145	S-V
+DetNP
+231148	ClCl2
+sub-CL
+S-V-O
+V-O
+231153	sub-CL
+V-S
+V2CL
+231157	Conj-CL
+ClCl2
+sub-CL
+S-V-O
+DetNP
+S-V-ADV
+PrepNp
+231165	Conj-CL
+231167	PrepNp
+DetNP
+NPofNP
+DetAdj
+CLaCL
+that-VP
+P-S-ADV
+PrepNp
+231176	that-VP
+231178	sub-CL
+ADV-P
+231181	Conj-CL
+CLaCL
+sub-CL
+231185	AdjpNp
+V2CL
+aPpaPp
+231189	PrepNp
+231191	PrepNp
+sub-CL
+CLaCL
+VC-S-P
+231196	S-P
+231198	CLaCL
+ADV-P-S
+NP-CL
+Np-Appos
+DetNP
+CLaCL
+P-S
+PrepNp
+DetAdj
+231208	S-P
+PrepNp
+231211	P-S
+NP-CL
+Np-Appos
+Np-Appos
+CLaCL
+P-S
+PrepNp
+DetAdj
+231220	S-P
+PrepNp
+231223	Conj-CL
+ADV-P-S
+PrepNp
+DetNP
+231228	Conj-CL
+CLaCL
+231231	DetNP
+PrepNp
+DetNP
+sub-CL
+O-V
+231237	S-ADV-V
+DetNP
+NPofNP
+P-VC
+231242	Conj-CL
+S-O-ADV-V-IO
+DetNP
+231246	aCLaCL
+231249	sub-CL
+ADV-V
+231253	sub-CL
+V2CL
+231256	Conj-CL
+ClCl
+V2CL
+PtclCL
+PtclCL
+S-P-VC-ADV
+NP-Demo
+DetNP
+NPofNP
+DetAdj
+231267	Conj-CL
+ClCl2
+sub-CL
+S-V-O
+S-ADV-V
+Np-Appos
+DetCL
+V-O
+PrepNp
+PtclCL
+S-ADV-V-ADV
+DetNP
+NPofNP
+P-VC
+PrepNp
+DetCL
+O-V
+DetAdj
+231286	Conj-CL
+V-ADV-S
+Np-Appos
+DetCL
+V2CL
+PrepNp
+DetNP
+AdjpNp
+DetNP
+NP-CL
+ADV-S-V
+PrepNp
+231299	Conj-CL
+ADV-ADV-V
+CLaCL
+ADV-V-ADV
+PrepNp
+DetNP
+231306	V-O
+ofNPNP
+DetNP
+NpAdjp
+V2CL
+PrepNp
+231313	Conj-CL
+231315	sub-CL
+S-V-O
+DetNP
+NPofNP
+2Advp_h1
+PrepNp
+DetNP
+sub-CL
+ADV-O-V
+DetNP
+NPofNP
+231327	PtclCL
+VC-P
+231330	PtclCL
+VC-P
+231333	PtclCL
+O-V
+Np-Appos
+DetNP
+NPofNP
+231339	PtclCL
+P-S-VC-ADV
+DetNP
+NPofNP
+PrepNp
+231346	sub-CL
+ADV-ADV-VC-P
+PtclCL
+ADV-VC
+231351	Conj-CL
+P-S-VC-ADV
+DetNP
+NPofNP
+NPofNP
+DetNP
+PrepNp
+231359	S-ADV-VC-P
+DetNP
+AdjpNp
+DetCL
+O-V
+231365	PtclCL
+ADV-V-O-ADV
+V2CL
+Conj2VP
+231371	PtclCL
+231373	O-V
+Np-Appos
+sub-CL
+S2CL
+AdvpNp
+Conj3Np
+DetNP
+AdjpNp
+231382	DetNP
+NPofNP
+DetNP
+231387	Conj-CL
+ADV-S-ADV-V-O-ADV
+NpaNp
+231391	ADV-V
+231393	S-V-ADV-ADV
+AdjpNp
+231396	CLaCL
+S-V-O
+231399	O-ADV-V
+DetNP
+NPofNP
+231403	Conj-CL
+CLaCL
+S-V-O
+231407	ADV-ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+231413	PtclCL
+CLaCL
+ADV-O-V
+PrepNp
+231418	S-O-ADV-V
+AdvpNp
+DetNP
+231422	Conj-CL
+231424	PrepNp
+DetNP
+ofNPNP
+ADV-V-O
+NpAdjp
+V2CL
+231431	PtclCL
+ADV-V-ADV
+DetNP
+DetNP
+231436	Conj-CL
+ADV-ADV-V
+PrepNp
+231440	Conj-CL
+231442	PrepNp
+sub-CL
+CLaCL
+V-O-S
+ADV-V
+PrepNp
+DetCL
+V2CL
+231451	S-ADV-ADV
+DetCL
+V2CL
+PrepNp
+DetCL
+V2CL
+231459	sub-CL
+S-IO-O-V
+DetAdj
+sub-CL
+S-O-V
+ofNPNP
+DetAdj
+231467	ClCl2
+sub-CL
+S-O-V
+DetNP
+ofNPNP
+PtclCL
+ADV-S
+231475	Conj-CL
+ClCl
+CLaCL
+ADV-V-O
+NP-Demo
+DetNP
+231482	O-V
+sub-CL
+ADV-O-V-IO
+AdjpNp
+DetNP
+NPofNP
+DetNP
+231491	that-VP
+ClCl
+S-O-V
+DetCL
+O-V
+DetAdj
+NpPp
+PrepNp
+DetNP
+S-ADV-V
+DetCL
+ADV-V
+DetNP
+DetNP
+231506	ADV-S-V-IO-O
+AdvpNp
+DetNP
+DetCL
+O-V
+DetNP
+ADV-V
+PrepNp
+DetNP
+231516	Conj-CL
+S-ADV-V-O
+NPofNP
+231520	Conj-CL
+ClCl
+231523	sub-CL
+ADV-V-ADV
+PrepNp
+sub-CL
+CLaCL
+P-ADV-ADV-S
+V2CL
+231531	O-S-V
+DetNP
+NPofNP
+231535	Conj-CL
+ClCl2
+sub-CL
+V2CL
+ADV-VC-P-S
+231541	Conj-CL
+S-ADV-V
+231544	Conj-CL
+ClCl
+S-P-VC
+sub-CL
+ADV-V
+231550	Conj-CL
+231552	sub-CL
+ADV-O-V
+231555	Conj-CL
+231557	sub-CL
+ADV2CL
+231560	Conj-CL
+P-VC-S
+ofNPNP
+DetNP
+231565	that-VP
+ADV-ADV-V-O-ADV
+V2CL
+DetNP
+PrepNp
+DetCL
+ADV-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+231577	Conj-CL
+231579	P-VC-ADV
+PrepNp
+sub-CL
+O-V
+DetAdj
+231585	Conj-CL
+ClCl
+ClCl
+VC-ADV-P
+DetNP
+PrepNp
+sub-CL
+O-V
+231594	NpPp
+PrepNp
+PrepNp
+PrepNp
+ADV-VC-S-P
+PrepNp
+sub-CL
+O-V
+NpPp
+PrepNp
+231606	DetNP
+PrepNp
+notCLbutCL2CL
+VC-P
+NPofNP
+P2CL
+NPofNP
+sub-CL
+V-O
+DetNP
+231618	DetAdj
+sub-CL
+O-V
+DetAdj
+231624	DetAdj
+sub-CL
+ADV-O-V
+231628	Conj-CL
+231630	PrepNp
+DetNP
+sub-CL
+P-VC
+NPofNP
+231637	that-VP
+231639	Np2CL
+DetCL
+ADV-V
+PrepNp
+231644	S-V
+231646	S-V-O
+DetNP
+231650	sub-CL
+V2CL
+231653	Conj-CL
+ClCl
+S-ADV-V
+All-NP
+DetCL
+V2CL
+Conj-CL
+aCLaCL
+231663	sub-CL
+O-V
+AdjpNp
+231667	ClCl
+S2CL
+O2CL
+231671	Conj-CL
+231673	sub-CL
+ADV-ADV
+ADV-V-ADV
+sub-CL
+ADV-O-V
+231679	Conj-CL
+ClCl
+CLaCL
+V-O
+ofNPNP
+DetNP
+231686	V2CL
+PtclCL
+PtclCL
+ADV-S-P-VC
+IO-V
+231692	Conj-CL
+231695	Np2CL
+that-VP
+Conj4CL
+S-P-VC
+NP-all
+DetNP
+NPofNP
+PrepNp
+DetNP
+231705	S-ADV-V
+PrepNp
+DetNP
+231709	S-ADV-V-ADV
+PrepNp
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+231716	PrepNp
+DetNP
+231719	CLaCL
+S-O-V
+DetNP
+PronNP
+AdjpNp
+231725	S-O-V
+DetNP
+PronNP
+AdjpNp
+231730	Conj-CL
+V-ADV
+PrepNp
+AdjpNp
+AdjpNp
+V2CL
+231737	Conj-CL
+S-VC-P
+DetNP
+DetNP
+231742	Conj-CL
+ClCl
+ADV-ADV-V-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-ADV
+PrepNp
+DetAdj
+231754	Conj-CL
+231756	NPofNP
+PrepNp
+DetCL
+ADV-VC-S-P
+NPofNP
+sub-CL
+S-V
+231764	Conj-CL
+ClCl
+ClCl
+P-VC
+sub-CL
+S2CL
+NPofNP
+sub-CL
+231773	CLaCL
+V-S-ADV
+DetNP
+V2CL
+Conj2VP
+231780	V-ADV
+V2CL
+231783	Conj-CL
+231785	sub-CL
+CLaCL
+S-V
+NPofNP
+231790	V-ADV-S
+AdjpNp
+AdjpNp
+231794	Conj-CL
+231796	DetNP
+sub-CL
+CLaCL
+S-V
+NPofNP
+231802	ADV-V
+PrepNp
+DetNP
+231806	Conj-CL
+231808	sub-CL
+CLaCL
+S-V
+NPofNP
+231813	V-ADV
+PrepNp
+DetNP
+231817	Conj-CL
+CLaCL
+S-ADV-V-ADV
+231821	V-ADV
+PrepNp
+NPofNP
+NP-CL
+ADV-S-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+231831	Conj-CL
+231833	DetCL
+V-O
+V2CL
+PtclCL
+V2CL
+231840	sub-CL
+ADV-S
+231843	Conj-CL
+P-S
+DetNP
+NP-CL
+S-V
+notCLbutCL
+V-O
+S-V-ADV
+PrepNp
+O-V
+V-ADV-O-ADV
+PrepNp
+DetNP
+AdvpNp
+DetNP
+DetCL
+V-O
+V2CL
+231862	Conj-CL
+231864	Np2CL
+NPofNP
+PrepNp
+DetNP
+231869	sub-CL
+IO-V
+231872	V-S-O
+O-V
+231875	S-ADV-VC-P
+DetNP
+NP-CL
+NPofNP
+DetNP
+O-V
+NPofNP
+DetNP
+NPofNP
+DetNP
+231886	S-ADV-P-VC
+DetNP
+NP-CL
+O-V
+NPofNP
+DetNP
+NPofNP
+DetNP
+231895	ClCl
+231897	sub-CL
+P-S
+AdjpNp
+DetAdj
+sub-CL
+S-ADV-V
+DetAdj
+PrepNp
+DetNP
+AdjpNp
+231908	V-O
+DetNP
+NpPp
+PrepNp
+231913	PtclCL
+S-P-VC
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+231921	Conj-CL
+O-V
+231924	CLaCL
+that-VP
+S-P-VC
+231928	that-VP
+S-P-VC
+231931	Conj-CL
+that-VP
+CLaCL
+O-IO-V
+O-V
+NpaNp
+231938	AdvpNp
+231940	ADV-V-O
+S-P-VC
+NPofNP
+DetNP
+231945	ADV-V-O
+CLaCL
+O-V
+NPofNP
+231950	O2CL
+NPofNP
+231953	ADV-V-O
+CLaCL
+O-V
+NPofNP
+231958	O2CL
+NPofNP
+231961	Conj-CL
+V-O
+DetNP
+231965	PtclCL
+P-ADV-VC
+231968	CLaCL
+S-V
+231971	ADV-S-V
+231973	CLaCL
+S-V
+231976	ADV-S-V
+231978	CLaCL
+S-O-V
+NPofNP
+231982	O2CL
+NPofNP
+DetAdj
+231986	ClCl
+O-V-ADV
+All-NP
+DetCL
+ADV-V
+PrepNp
+O-V-ADV
+PrepNp
+DetNP
+Conj-CL
+P-S
+DetNP
+NpaNp
+DetNP
+232001	DetNP
+NPofNP
+232004	ClCl2
+sub-CL
+CLaCL
+S-V-O
+NPofNP
+DetAdj
+232011	V-O
+V2CL
+O-V-ADV
+All-NP
+DetCL
+V-IO
+O-V-ADV
+PrepNp
+DetNP
+232021	Conj-CL
+ClCl2
+sub-CL
+232025	S-P-VC
+CLaCL
+ADV-V-ADV
+PrepNp
+NpaNp
+Demo-NP
+DetCL
+V2CL
+232034	DetNP
+232037	Np-Appos
+notNPbutNP
+NPofNP
+NPofNP
+DetAdj
+sub-CL
+ADV-S-V-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+ofNPNP
+232050	ClCl2
+sub-CL
+S-ADV-V
+ADV-V-ADV
+PrepNp
+ADV-S-V
+232057	Conj-CL
+ClCl2
+aCLaCLaCL
+232061	V2CL
+232063	V2CL
+232065	O-V
+O-ADV-V
+PrepNp
+NPofNP
+232071	aNpaNpaNp
+232075	DetNP
+NPofNP
+DetNP
+sub-CL
+ClCl
+S-ADV-O-V-ADV
+V-O
+notNPbutNP
+DetNP
+ofNPNP
+NPofNP
+DetAdj
+sub-CL
+V2CL
+232091	NPofNP
+sub-CL
+S-P
+232095	Conj-CL
+232097	sub-CL
+CLaCL
+ADV-O-V
+232101	ClCl2
+sub-CL
+V-IO
+O-V
+DetNP
+232107	Conj-CL
+V-O
+232110	that-VP
+Conj3CL
+P-S-VC
+ofNPNP
+All-NP
+DetNP
+DetNP
+232118	P-S
+NPofNP
+DetNP
+232122	P-S
+NPofNP
+DetNP
+DetNP
+232127	S-ADV-V-O
+All-NP
+V-ADV
+Conj2VP
+232132	ADV-V
+PrepNp
+DetNP
+NPofNP
+232137	Conj-CL
+S-ADV-V-O
+All-NP
+V-ADV
+Conj2VP
+232143	AdjpNp
+DetNP
+DetNP
+NPofNP
+232148	Conj-CL
+VC-P-ADV
+NpaNp
+232152	DetNP
+DetCL
+V2CL
+232156	Conj-CL
+232158	sub-CL
+ADV-V-S
+232161	Conj-CL
+232163	sub-CL
+P-ADV-S
+DetCL
+V2CL
+Conj2VP
+232170	Conj-CL
+aCLaCL
+232173	S-ADV-V-O-ADV
+V-O
+DetNP
+P-VC
+NPofNP
+NpaNp
+232181	S-P-VC
+DetNP
+NPofNP
+232185	Conj-CL
+notCLbutCL2CL
+VC-S-P
+PrepNp
+S-P
+PrepNp
+232192	Conj-CL
+notCLbutCL2CL
+2Advp_h2
+V-S-ADV
+PrepNp
+DetNP
+S-ADV
+PrepNp
+DetNP
+232202	ADV-V-S-O
+PrepNp
+DetNP
+O-V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+232211	Conj-CL
+aCLaCL
+232214	S-P
+PrepNp
+232217	S-P-ADV
+PrepNp
+PrepNp
+232221	Conj-CL
+CLaCL
+232224	sub-CL
+S-P
+DetNP
+PrepNp
+DetNP
+AdvpNp
+DetNP
+PrepNp
+DetNP
+232234	S-P
+DetAdj
+PrepNp
+DetNP
+232239	ADV-V
+PrepNp
+NpPron
+232243	P-VC-S
+V2CL
+S-IO-V
+NpAdjp
+DetNP
+232249	ClCl
+232251	DetNP
+NpPron
+that-VP
+aCLaCL
+232257	sub-CL
+S-V
+232261	sub-CL
+S-V
+sub-CL
+S-ADV-V-IO
+DetNP
+PrepNp
+232268	Conj-CL
+ClCl2
+sub-CL
+S-V-O
+P-VC
+CLaCL
+S-O-ADV-V
+Demo-NP
+232277	S2CL
+DetNP
+NPofNP
+DetNP
+232282	Conj-CL
+232284	O-V
+sub-CL
+ADV-V
+notPPbutPP
+PrepNp
+DetAdj
+PrepNp
+DetAdj
+232293	Conj-CL
+PtclCL
+AdvpCL
+ClCl2
+V-S-ADV
+PrepNp
+CLaCL
+V-O
+S-ADV-V
+PrepNp
+232304	O-V
+NpAdjp
+232307	Conj-CL
+ClCl
+V-S
+S-P-VC
+AdvpNp
+PrepNp
+sub-CL
+S-P-VC-ADV
+AdvpNp
+DetAdj
+PrepNp
+232319	Conj-CL
+ClCl
+ClCl2
+V-S-ADV
+PrepNp
+DetNP
+ADV-V-S
+O-V
+AdjpNp
+sub-CL
+CLaCL
+S-O-V-ADV
+DetNP
+AdjpNp
+PrepNp
+DetCL
+V2CL
+232337	aCLaCL
+232339	S-V
+232341	S-V
+232343	Conj-CL
+PtclCL
+O-ADV-V-ADV
+PrepNp
+DetCL
+V2CL
+Conj2VP
+232352	Conj-CL
+CLaCL
+O-V
+DetNP
+NPofNP
+DetNP
+232359	V-O
+DetCL
+ADV-V
+232363	O-V-IO
+232365	V-O
+232367	ADV-ADV-V
+PrepNp
+232370	Conj-CL
+232372	PrepNp
+DetNP
+O-ADV-V-IO
+that-VP
+Conj3CL
+S-ADV-V-O
+Np-Appos
+DetNP
+PrepNp
+DetNP
+NP-CL
+ADV-V
+232385	ADV-V
+V2CL
+232389	ClCl
+S-VC-P
+Np-Appos
+ofNPNP
+DetNP
+NpPp
+PrepNp
+O-V-ADV
+PrepNp
+DetNP
+AdjpNp
+232401	AdvpCL
+O-ADV-ADV
+AdvpNp
+DetNP
+PrepNp
+DetCL
+V2CL
+232409	ClCl
+S-P-VC-ADV
+Demo-NP
+DetNP
+DetNP
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+O-V-ADV-ADV
+AdvpCL
+PtclCL
+V2CL
+PrepNp
+DetNP
+AdjpNp
+232426	Conj-CL
+ClCl2
+AdvpCL
+PtclCL
+CLaCL
+V-O
+NP-Demo
+DetNP
+232435	O-V
+DetNP
+O-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+ADV-V
+232444	Conj-CL
+S-P-VC-ADV
+PtclCL
+S-V-ADV
+CLaCL
+V-O
+DetNP
+232452	V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+NpaNp
+DetNP
+232460	DetNP
+DetNP
+232463	Conj-CL
+CLaCL
+V-S-O
+232467	CLaCL
+ADV-ADV-V
+PrepNp
+DetNP
+232472	ADV-V
+PrepNp
+DetNP
+232476	Conj-CL
+S-O-IO-V-ADV
+DetCL
+V2CL
+Conj2VP
+232482	Conj2VP
+232484	ADV-V-O
+DetNP
+232487	CLaCL
+ADV-ADV-S-P
+PrepNp
+PrepNp
+AdjpaAdjp
+232494	V-S
+232496	Conj-CL
+ClCl2
+sub-CL
+O-V
+PtclCL
+ADV-V
+232503	Conj-CL
+232505	V-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-ADV-V
+PrepNp
+DetNP
+232513	Conj-CL
+232515	Np2CL
+NPofNP
+V-ADV
+PrepNp
+DetCL
+V2CL
+232523	sub-CL
+S-V
+PrepNp
+sub-CL
+ADV-ADV-V
+PrepNp
+232530	Conj-CL
+O-ADV-V
+DetAdj
+sub-CL
+PtclCL
+V2CL
+232537	Conj-CL
+232539	PrepNp
+DetAdj
+Np2CL
+S-V
+232545	that-VP
+ClCl2
+sub-CL
+P-VC
+ADV-ADV-V
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+PtclCL
+V2CL
+232558	Conj-CL
+232560	that-VP
+CLaCL
+232563	NpAdjp
+ADV-V
+PrepNp
+NPofNP
+P-S
+232571	P-S
+sub-CL
+ADV-ADV
+PrepNp
+NpAdjp
+232577	Conj-CL
+CLaCL
+S-V
+NPofNP
+232582	S2CL
+DetNP
+PronNP
+232586	Conj-CL
+CLaCL
+S-V
+NPofNP
+232591	S2CL
+DetNP
+PronNP
+232595	Conj-CL
+CLaCL
+S-V
+NPofNP
+232600	S2CL
+Np-Appos
+DetNP
+PronNP
+DetCL
+V-O-ADV
+DetAdj
+PrepNp
+232609	Conj-CL
+IO-V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+V2CL
+232618	Conj-CL
+EitherOr7CL
+232621	IO-ADV-V-S
+PrepNp
+DetNP
+NPofNP
+232627	NPofNP
+PrepNp
+DetNP
+PronNP
+IO-S-ADV
+PrepNp
+DetNP
+PronNP
+232636	IO-S-ADV
+NPofNP
+PrepNp
+DetNP
+AdjpNp
+232642	IO-S
+NPofNP
+232645	IO-S
+232648	NPofNP
+IO-S
+NPofNP
+232652	IO-S
+NPofNP
+232655	Conj-CL
+ClCl
+O-V-S-ADV
+All-NP
+NpaNp
+DetAdj
+232662	DetNP
+PronNP
+V-IO
+AdjpNp
+sub-CL
+V2CL
+232669	Conj-CL
+232671	sub-CL
+CLaCL
+CLaCL
+S-P-VC
+DetNP
+232677	O-V
+NpAdjp
+232680	S-ADV-P-VC
+All-NP
+DetNP
+NPofNP
+DetNP
+P-VC
+AdjpNp
+AdvpNp
+DetNP
+232690	Conj-CL
+CLaCL
+232693	AdvPp
+PrepNp
+AdjpNp
+Np-Appos
+PrepNp
+AdjpNp
+S2CL
+EitherOr4Np
+232706	S-O-V
+AdjpNp
+232709	Conj-CL
+S-VC-P
+AdvpNp
+DetNP
+notNPbutNP
+AdjpNp
+232716	ClCl2
+sub-CL
+232719	DetNP
+ClCl2
+sub-CL
+ADV-VC-P
+ADV-VC-P
+PrepNp
+DetNP
+AdvpCL
+ADV-ADV-VC-P
+PrepNp
+PrepNp
+DetNP
+232732	Conj-CL
+ClCl2
+sub-CL
+232736	DetNP
+ClCl2
+sub-CL
+ADV-VC-P
+ADV-VC-P
+PrepNp
+DetNP
+AdvpCL
+ADV-ADV-VC-P
+PrepNp
+PrepNp
+DetNP
+232750	sub-CL
+S-P
+All-NP
+DetNP
+DetNP
+232757	sub-CL
+S-P
+DetNP
+232761	Conj-CL
+232763	DetNP
+Np-Appos
+DetNP
+NPofNP
+NpAdjp
+PrepNp
+DetNP
+sub-CL
+V2CL
+232773	Conj-CL
+232775	sub-CL
+VC-S-P
+DetAdj
+AdjpNp
+DetNP
+232781	Conj-CL
+aCLaCL
+232784	ADV-P-S
+232786	P-S
+232788	Conj-CL
+CLaCL
+ADV-V-S-O
+DetNP
+232793	DetNP
+O-ADV-V
+NPofNP
+232797	ClCl
+ADV-S-IO
+DetNP
+DetNP
+O-ADV-V
+NPofNP
+232804	Conj-CL
+CLaCL
+Conj3CL
+ADV-S-P-VC
+2Advp_h1
+DetNP
+AdjpNp
+V-O
+NPofNP
+DetNP
+P-VC
+232817	O-V
+S-VC-P
+NPofNP
+DetNP
+NpAdjp
+232823	S-O-V
+DetNP
+NPofNP
+NpAdjp
+232828	S-ADV-O-V
+DetNP
+NPofNP
+232832	Conj-CL
+232834	DetNP
+DetNP
+IO-V-O
+DetCL
+V2CL
+AdjpNp
+sub-CL
+CLaCL
+ADV-VC-S-P
+PrepNp
+DetNP
+232846	O-ADV-V-S
+DetNP
+PrepNp
+DetNP
+232851	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V-S
+AdjpNp
+V-S
+All-NP
+DetNP
+ClCl2
+sub-CL
+V-S
+V-S
+All-NP
+DetNP
+232867	Conj-CL
+S-VC-P
+NpaNp
+NPofNP
+232872	NpPp
+PrepNp
+232875	Conj-CL
+PtclCL
+S-P
+O-V-S-ADV
+DetNP
+PrepNp
+DetNP
+ClClClClCl
+ADV-O
+ADV-O
+ADV-O
+ADV-O
+ADV-O
+NpNpNpNp
+NPofNP
+NPofNP
+232892	PtclCL
+S-P
+232895	PtclCL
+S-P
+232898	PtclCL
+S-P
+232901	PtclCL
+S-P
+232904	PtclCL
+S-V-O
+NPofNP
+232908	PtclCL
+S-ADV-V
+232911	PtclCL
+S-V
+232914	Conj-CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+232920	Conj-CL
+ADV-O-IO-V
+AdvPp
+PrepNp
+232925	ClCl2
+sub-CL
+CLaCL
+ADV-V
+DetNP
+NPofNP
+NpaNp
+DetNP
+232934	DetNP
+232936	O-ADV-V
+VC-P
+NpaNp
+NpAdjp
+V2CL
+232942	NpAdjp
+V2CL
+232945	Conj-CL
+ClCl2
+CLaCL
+CLaCL
+sub-CL
+CLaCL
+V-O
+232953	V-O
+NpaNp
+NP-all
+DetNP
+232958	All-NP
+DetNP
+232961	sub-CL
+V-O-ADV
+All-NP
+DetNP
+sub-CL
+O-V
+232968	O-ADV-V
+P-VC
+232971	Conj-CL
+232973	CLaCL
+CLaCL
+sub-CL
+V-O
+All-NP
+NPofNP
+DetCL
+V2CL
+232982	sub-CL
+232984	DetNP
+NPofNP
+sub-CL
+V2CL
+232989	O-ADV-V
+232991	ClClClClClClClClClCl
+S-V
+DetNP
+V-S
+DetNP
+ADV-V
+S-ADV-V
+DetNP
+ADV-V
+ADV-V
+ADV-V-O
+NPofNP
+ADV-V
+ADV-V-O
+DetAdj
+notCLbutCL2CL
+V-ADV
+PrepNp
+DetNP
+V-ADV
+DetNP
+233013	ClClClCl
+O-V
+O-V
+O-V
+O-V
+233019	S-ADV-V
+DetNP
+233022	Conj-CL
+ClClCl
+ClCl2
+sub-CL
+S2CL
+V2CL
+ClCl2
+sub-CL
+S2CL
+V2CL
+ClCl2
+sub-CL
+S2CL
+V2CL
+233037	Conj-CL
+CLaCL
+ADV-V
+PrepNp
+233042	ADV-V
+PrepNp
+233045	Conj-CL
+233047	sub-CL
+V-S
+DetAdj
+NpPp
+PrepNp
+233053	ClCl2
+sub-CL
+VC-P
+ClClCl
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+233065	sub-CL
+VC-P
+NPofNP
+DetAdj
+233070	Conj-CL
+CLaCL
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+233076	ADV-O-ADV
+PrepNp
+233079	CLaCL
+ADV-V-ADV
+PrepNp
+233084	sub-CL
+ADV-V
+233087	Conj-CL
+CLaCL
+ADV-V-S
+Np-Appos
+NpNpNp
+NP-Demo
+DetAdj
+233095	P-ADV-S
+DetNP
+233098	CLaCL
+CLaCL
+V-O
+DetNP
+233103	V-O
+DetAdj
+233106	that-VP
+ADV-V
+233109	Conj-CL
+ClCl
+CLaCL
+S-ADV-IO-V
+DetCL
+V-ADV
+233116	IO2CL
+sub-CL
+CLaCL
+S-V
+233121	IO-V-O
+233123	Conj-CL
+S-IO-V-O
+DetCL
+V2CL
+Conj3Np
+233131	S-O-V
+DetCL
+V-ADV
+233135	Conj-CL
+S-O-V
+DetCL
+V2CL
+233140	Conj-CL
+CLaCL
+V-O
+S-V-ADV
+All-NP
+233146	that-VP
+ADV-V
+233149	Conj-CL
+ClCl
+CLaCL
+P-S
+DetCL
+V2CL
+233156	S2CL
+DetCL
+V-ADV
+sub-CL
+233161	sub-CL
+S-O-V
+DetNP
+233165	Conj-CL
+233167	ClCl2
+sub-CL
+ADV-V-ADV-ADV
+Np2CL
+PrepNp
+ADV-V
+O2-O-V
+sub-CL
+ADV-IO-V-ADV
+aPpaPpaPp
+233178	PrepNp
+233180	PrepNp
+233182	PrepNp
+NpaNp
+233186	AdvpCL
+ClCl2
+233189	DetNP
+AdjpNp
+O-V
+S2CL
+aNpaNp
+233196	ClCl2
+sub-CL
+O-ADV-ADV-V
+DetNP
+ADV-V-S
+NpaNp
+DetCL
+V2CL
+233205	DetCL
+V2CL
+233208	Conj-CL
+233210	sub-CL
+S-O-V
+AdvpNp
+AdjpNp
+PrepNp
+233216	AdvpCL
+ClCl2
+sub-CL
+S-ADV-ADV-O-V
+AdvpNp
+PrepNp
+DetNP
+AdjpNp
+ADV-V-S
+DetCL
+V2CL
+233228	Conj-CL
+ADV-V
+BeVerb
+PrepNp
+233233	CLaCL
+ClCl2
+S-VC-P
+AdjpNp
+sub-CL
+V2CL
+NPofNP
+PrepNp
+233242	S-P
+233244	Conj-CL
+ClCl2
+sub-CL
+ADV-V-O
+DetNP
+NPofNP
+DetNP
+CLaCL
+VC-ADV-P
+DetCL
+V2CL
+233256	S-ADV-P
+DetCL
+V2CL
+PrepNp
+233261	AdvpCL
+233263	Np2CL
+AdvpNp
+sub-CL
+P-VC
+NPofNP
+233269	PrepNp
+DetNP
+NPofNP
+DetNP
+that-VP
+V2CL
+233276	Conj-CL
+233278	DetCL
+V-ADV
+sub-CL
+V2CL
+233283	Conj-CL
+CLaCL
+ClCl2
+sub-CL
+V-ADV
+S-V
+DetNP
+NPofNP
+233292	S-P-VC
+DetNP
+NPofNP
+233296	Conj-CL
+P-VC
+233299	ClCl
+ClCl
+CLaCL
+V-ADV
+DetNP
+233305	V-ADV
+AdvpNp
+DetNP
+CLaCL
+V-ADV
+DetNP
+233312	V-ADV
+AdvpNp
+DetNP
+sub-CL
+ClCl
+ClCl2
+sub-CL
+V-ADV
+S-ADV-V-O-ADV
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+DetNP
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+233332	O-V
+233334	Conj-CL
+PtclCL
+CLaCL
+S-ADV-V
+233339	S-ADV-V
+DetAdj
+233343	DetNP
+ADV-ADV-ADV-V
+All-NP
+233347	Conj-CL
+CLaCL
+233350	PrepNp
+O-ADV-V
+NumpNP
+DetNP
+NPofNP
+sub-CL
+O-V
+AdvpNp
+233359	O-ADV
+AdjpNp
+PrepNp
+233364	Np2CL
+notCLbutCL2CL
+P-VC-ADV
+DetNP
+ADV-V
+DetNP
+233371	ADV-P-VC
+DetNP
+233375	PrepNp
+DetNP
+that-VP
+ClCl2
+CLaCL
+ADV-V-IO
+Conj2Pp
+PrepNp
+233384	PrepNp
+NPofNP
+NP-Demo
+DetNP
+233389	ADV-ADV-V-O
+V-S
+233392	Conj-CL
+CLaCL
+S-P-VC-ADV
+DetNP
+PrepNp
+notNPbutNP
+DetCL
+V2CL
+DetAdj
+233402	S-ADV
+DetNP
+notNPbutNP
+DetAdj
+DetCL
+V2CL
+233409	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+CLaCL
+V-S-ADV
+NP-all
+DetNP
+PrepNp
+DetNP
+233420	S-V-ADV
+233422	V-S
+NpaNp
+233425	PtclCL
+233427	that-VP
+V2CL
+233430	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+S-V
+233436	V-S
+AdjpNp
+NpaNp
+233440	CLaCL
+ClClCl
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+S-P-VC
+DetNP
+NPofNP
+DetNP
+NPofNP
+233452	ADV-ADV-V-O-ADV
+V-ADV
+PrepNp
+DetNP
+233457	that-VP
+ADV-S-P-VC
+DetNP
+PrepNp
+233462	Conj-CL
+233464	Np2CL
+233466	ClCl2
+sub-CL
+V2CL
+ClClClClCl
+S-O-V
+O-V
+O-V
+O-V
+O-V
+233476	S-P-VC
+PrepNp
+233479	ClCl2
+sub-CL
+ADV-S-V
+CLaCL
+ADV2CL
+Conj2Pp
+PrepNp
+NpaNp
+233488	Np-Appos
+DetAdj
+233491	PrepNp
+233493	S-V
+233495	Conj-CL
+CLaCL
+ClCl2
+sub-CL
+ADV-V-S
+V-ADV
+PrepNp
+233503	V-IO
+NpaNp
+233506	DetNP
+233508	Conj-CL
+CLaCL
+S-V
+NpNump
+Conj2Nump3
+233514	S-V
+DetAdj
+233517	Conj-CL
+ClCl2
+sub-CL
+IO-V
+NpAdjp
+V2CL
+S-V
+DetAdj
+233526	Conj-CL
+CLaCL
+233529	PrepNp
+V2CL
+sub-CL
+CLaCL
+S-V
+233535	S-V
+233537	S-IO-V
+NPofNP
+233540	Conj-CL
+notCLbutCL2CL
+VC-P-S
+DetNP
+P2CL
+233546	ClCl
+ClCl2
+sub-CL
+ADV2CL
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetAdj
+S-ADV-V
+DetNP
+PrepNp
+DetNP
+sub-CL
+ADV-V-IO-S
+V2CL
+233563	Conj-CL
+ClCl
+V2CL
+sub-CL
+S-V
+AdvpNp
+DetNP
+233571	Conj-CL
+ClCl
+ClCl2
+sub-CL
+O-V
+O-V
+ADV-O-V
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+P-VC-ADV-S
+V-ADV
+PrepNp
+233586	aCLaCL
+233588	ADV-S-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+233594	ADV-ADV-V
+PrepNp
+233597	ClCl2
+sub-CL
+S-V-O
+VC-P
+NpaNp
+233604	O-V-IO
+that-VP
+P-VC
+ofNPNP
+233609	Conj-CL
+ClCl2
+sub-CL
+S-V
+V2CL
+233615	Conj-CL
+233617	Np2CL
+NPofNP
+V-O
+DetCL
+V2CL
+233623	O-ADV-V
+DetCL
+V-ADV
+233627	Conj-CL
+S-ADV-V
+ADVaADV
+233631	PrepNp
+233633	Conj-CL
+233635	Np2CL
+DetNP
+NP-CL
+ClClClCl
+O-V-IO
+O-ADV-V
+ADV-ADV-V
+PrepNp
+ADV-ADV-V
+PrepNp
+ClCl
+233647	AdjpNp
+sub-CL
+V2CL
+AdvpCL
+sub-CL
+ADV-ADV-V
+233654	Conj-CL
+233656	PrepNp
+O-ADV-V
+Conj4CL
+that-VP
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+233667	that-VP
+V2CL
+233670	that-VP
+V-ADV-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+233678	that-VP
+ClCl
+V-IO
+ADV-IO
+DetNump
+233685	AdvpNp
+AdjpNp
+CLaCL
+ADV-S-V-ADV
+PrepNp
+DetAdj
+PrepNp
+233693	S-V
+233695	ClCl
+ADV-V-IO
+ADV-IO
+DetNP
+NP-all
+233701	Conj-CL
+233703	NPofNP
+sub-CL
+IO2CL
+DetNP
+233708	Conj-CL
+S-VC-P
+DetNP
+NP-CL
+NPofNP
+DetNP
+233715	S-ADV-VC-P-ADV
+VC-P
+V-O
+DetNP
+NPofNP
+DetNP
+233722	Conj-CL
+CLaCL
+CLaCL
+ADV-VC-P
+NPofNP
+P-VC
+233729	S-ADV-P-VC
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+233736	CLaCL
+ADV-ADV-V
+NP-all
+233740	S2CL
+notNPbutNP
+DetNP
+NpPp
+NPofNP
+DetNP
+PrepNp
+233748	Conj-CL
+CLaCL
+S-ADV-V
+aNpaNp
+233755	ADV-V
+233757	Conj-CL
+ClCl2
+sub-CL
+233761	that-VP
+ADV-V
+PrepNp
+233765	PpNp2Np
+PrepNp
+that-VP
+S-ADV-V
+NPofNP
+233771	Conj-CL
+233773	sub-CL
+S-ADV-V
+NPofNP
+233777	Conj-CL
+ClCl2
+sub-CL
+S-ADV-V
+sub-CL
+CLaCL
+233784	DetNP
+NPofNP
+P-S
+AdvpNp
+DetNP
+NPofNP
+233792	AdvpNp
+NPofNP
+DetNP
+sub-CL
+233797	PrepNp
+DetNP
+that-VP
+V-O
+NP-CL
+DetNP
+233804	O-ADV-V
+sub-CL
+S-ADV-V
+233808	Conj-CL
+233810	sub-CL
+S-ADV-V
+233813	Conj-CL
+ClCl2
+sub-CL
+S-ADV-V
+233818	DetNP
+NPofNP
+ADV-VC-P
+PrepNp
+DetNP
+NPofNP
+233825	Conj-CL
+S-V
+AdvpNp
+DetCL
+V-ADV
+PrepNp
+233833	sub-CL
+ADV-ADV-V-ADV
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+VerbBe
+All-NP
+233842	Conj-CL
+ADV-V-ADV-S
+Np-Appos
+PrepNp
+NPofNP
+DetCL
+V2CL
+233850	Conj-CL
+233852	sub-CL
+P-S
+PrepNp
+AdvPp
+PrepNp
+NPofNP
+233859	Conj-CL
+233861	sub-CL
+ADV-S-V
+PrepNp
+DetNP
+AdvPp
+PrepNp
+DetNP
+233869	Conj-CL
+S-ADV
+PrepNp
+DetNP
+AdjpNp
+233875	ClCl
+P-S
+ADV-S-ADV
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+233885	DetNP
+sub-CL
+V-O-IO
+DetNP
+DetNP
+NpaNp
+233892	sub-CL
+V-O
+NpaNp
+All-NP
+233897	All-NP
+NpaNp
+233901	Conj-CL
+V-S
+S-V-ADV
+PrepNp
+ADV-V-O-ADV
+All-NP
+DetAdj
+PrepNp
+DetNP
+NPofNP
+233912	S-V
+Np-Appos
+AdjpNp
+DetNP
+233917	Conj-CL
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+233923	Conj-CL
+ClCl2
+sub-CL
+233927	that-VP
+S-V
+P-S
+that-VP
+ADV2CL
+PrepNp
+DetCL
+V-IO-O
+DetAdj
+233937	Conj-CL
+233939	sub-CL
+V-IO-S
+DetAdj
+AdvpNp
+PronNP
+DetNP
+DetCL
+V-IO-O
+DetAdj
+sub-CL
+VC-S-P-ADV
+DetNP
+PrepNp
+233953	sub-CL
+O-V-S
+DetCL
+V-ADV
+PrepNp
+DetAdj
+233961	sub-CL
+ADV-S-ADV-V
+PrepNp
+233965	ADV-S-V-ADV
+AdvpNp
+All-NP
+233970	PrepNp
+AdvpNp
+DetNP
+AdjpNp
+NP-CL
+Np2CL
+O-V-ADV
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+233984	sub-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+233990	ClCl
+233992	sub-CL
+S-ADV-V
+V2CL
+233996	V2CL
+sub-CL
+ADV-V
+234000	ADV-V
+234002	V-O-S
+NpAdjp
+NpAdjp
+234006	ClCl
+CLaCL
+V-ADV
+234010	ADV-V
+sub-CL
+O-S-V
+NPofNP
+234015	ADV-IO-V
+PrepNp
+234018	Conj-CL
+234020	CLaCL
+ADV-V-S
+DetAdj
+234024	ADV-V
+AdjpNp
+234028	Np2CL
+S-ADV-V
+O-S-V
+ADV-V
+234033	Conj-CL
+234035	O-V
+notCLbutCL2CL
+O-V
+Np-Appos
+DetNP
+DetCL
+V2CL
+O2CL
+AdjpNp
+234045	sub-CL
+V2CL
+NpaNp
+234049	NPofNP
+DetAdj
+234052	Conj-CL
+CLaCL
+234055	DetNP
+sub-CL
+V2CL
+234059	IO-O
+NPofNP
+DetNP
+AdjpNp
+234064	notCLbutCL2CL
+S-P
+All-NP
+DetNP
+PronNP
+EitherOr4CL
+234071	P-S
+234073	P-S
+NPofNP
+234076	P-S
+NPofNP
+234079	P-S
+234081	Conj-CL
+S2CL
+NpaNp
+NpAdjp
+234086	NpAdjp
+234088	Conj-CL
+aCLaCL
+234091	P-S
+DetNP
+ofNPNP
+DetAdj
+234096	P-S
+DetNP
+DetAdj
+234100	Conj3CL
+P-S
+NPofNP
+234104	P-S
+NPofNP
+234107	P-S
+NPofNP
+234110	Conj-CL
+S-ADV-V-ADV
+PrepNp
+234114	ADV-S
+AdvpNp
+DetNP
+NPofNP
+DetAdj
+234120	ClCl
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+234126	ClCl
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+234132	ClCl
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+234138	ClCl
+V-S
+NpAdjp
+V-S
+NpAdjp
+234145	sub-CL
+V-S
+NpAdjp
+AdvpNp
+234151	ClCl
+V-S-ADV
+Np-Appos
+DetNP
+AdjpNp
+PrepNp
+NpAdjp
+V2CL
+S-ADV
+DetNP
+AdjpNp
+PrepNp
+NpAdjp
+V2CL
+234166	Conj-CL
+notCLbutCL2CL
+ADV-S
+DetAdj
+ClCl
+S2CL
+DetAdj
+ADV-S
+DetAdj
+234176	ClCl
+S-ADV-P
+DetNP
+AdjpNp
+PrepNp
+S-P
+DetNP
+AdjpNp
+PrepNp
+234186	CLaCL
+234188	P-S
+DetAdj
+AdvpNp
+DetAdj
+234194	P-S
+DetAdj
+AdvpNp
+DetAdj
+234199	Conj-CL
+234201	sub-CL
+V-O
+DetNP
+NPofNP
+DetAdj
+AdvpNp
+DetNP
+NPofNP
+DetAdj
+234211	Conj-CL
+234213	Np2CL
+that-VP
+CLaCL
+S-O-ADV-V
+NpaNp
+234219	O-V
+NPofNP
+234222	S-O-V
+DetNP
+DetNP
+234226	ClCl2
+V2CL
+O-IO-V
+234230	CLaCL
+S-ADV-V
+234233	S-V-ADV
+PpPpPp
+PrepNp
+PrepNp
+NPofNP
+PrepNp
+DetNP
+AdjpNp
+234242	Conj-CL
+Conj3CL
+V2CL
+234246	S-V-ADV
+DetAdj
+234249	S-V
+234251	Conj-CL
+V-S
+CLaCL
+S-V-O
+NP-Demo
+DetAdj
+234258	S-V-O
+NP-Demo
+DetAdj
+234262	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+S-V-O
+NP-Demo
+DetAdj
+234270	S-V-O
+NP-Demo
+DetAdj
+234274	Np-Appos
+DetNP
+DetCL
+V2CL
+ClCl
+V-S-ADV
+DetNP
+PrepNp
+ClCl
+234284	ofNPNP
+Np2CL
+DetNP
+234288	ofNPNP
+Np2CL
+DetNP
+234292	Conj-CL
+CLaCL
+S-P
+DetNP
+NPofNP
+DetNP
+DetNP
+234300	S-P
+DetNP
+NPofNP
+DetNP
+DetNP
+234306	Conj-CL
+S-IO
+Np-Appos
+DetNP
+DetCL
+V-IO-O-ADV
+DetNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+234319	Conj-CL
+234321	Np2CL
+NpAdjp
+NPofNP
+AdjpAdjp
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+234331	sub-CL
+S-ADV-VC-P-ADV
+DetNP
+NPofNP
+PrepNp
+234337	Conj-CL
+ClCl2
+ADV2CL
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetAdj
+ClCl2
+sub-CL
+V-IO
+DetNP
+NPofNP
+DetNP
+ADV-S-V
+AdvpNp
+234356	PrepNp
+NPofNP
+NPofNP
+PrepNp
+V-O
+NP-CL
+PtclCL
+O-V
+sub-CL
+ADV-ADV-ADV-S-V
+sub-CL
+V2CL
+234369	Conj-CL
+ClCl2
+sub-CL
+V2CL
+ClCl2
+PtclCL
+O-V
+ADV-O-V-ADV
+PrepNp
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+234383	Conj-CL
+234385	sub-CL
+P-VC-S
+DetCL
+S-V
+PrepNp
+234391	Conj-CL
+ClCl
+234394	PrepNp
+sub-CL
+ADV-V
+sub-CL
+ADV-V
+234400	Conj-CL
+234402	ADV-ADV-V
+PrepNp
+V2CL
+234406	ADV-V
+sub-CL
+S-O-V-ADV
+PtclCL
+ADV-V
+234412	Conj-CL
+ClCl
+ADV-V-O
+O-ADV-ADV-V
+PrepNp
+sub-CL
+V-O
+234420	NpAdjp
+PrepNp
+sub-CL
+S-V
+DetNP
+234426	Conj-CL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+234432	Conj-CL
+CLaCL
+ADV-V-S
+NpAdjp
+AdjpaAdjp
+234439	S-P
+V2CL
+234442	Conj-CL
+ClCl
+234445	sub-CL
+V-S
+that-VP
+P-VC-ADV
+PrepNp
+sub-CL
+O-V-ADV
+DetNP
+NPofNP
+PrepNp
+234456	Conj-CL
+ADV-S-O-V
+234459	Conj-CL
+ClCl
+ClCl
+V-O-ADV
+PrepNp
+sub-CL
+V-ADV
+PrepNp
+sub-CL
+V-O-ADV
+PrepNp
+DetNP
+234472	Conj-CL
+CLaCL
+CLaCL
+234476	PrepNp
+Np-Appos
+DetNP
+that-VP
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+234486	that-VP
+ADV-V
+234489	ClCl
+V2CL
+sub-CL
+V2CL
+234494	ClClClCl
+V2CL
+V-ADV
+PrepNp
+DetNP
+V2CL
+V2CL
+234502	S-P-VC
+NPofNP
+PrepNp
+234506	Conj-CL
+234509	Np2CL
+V-O
+NP-CL
+DetNP
+NPofNP
+that-VP
+CLaCL
+VC-P
+NPofNP
+DetNP
+234520	ADV-IO-V-O
+PrepNp
+DetAdj
+that-VP
+S-V-IO
+AdvpNp
+NpaNp
+DetNP
+234529	All-NP
+DetCL
+CLaCL
+V2CL
+234534	V2CL
+234536	Conj-CL
+ClCl
+234539	PrepNp
+DetNP
+NPofNP
+Conj3Np
+234545	sub-CL
+O-S-V
+DetNP
+AdjpNp
+sub-CL
+V-O
+NpaNp
+DetNP
+AdjpNp
+234555	NPofNP
+234557	Conj-CL
+V-O
+DetNP
+234561	V-O-S
+DetNP
+NPofNP
+DetNP
+234566	V-O-ADV-ADV-S-ADV
+PrepNp
+NpaNp
+234570	PrepNp
+DetNP
+PpNp2Np
+PrepNp
+NPofNP
+234576	V-O-S
+NP-all
+DetNP
+234580	V-O-ADV
+PrepNp
+NpAdjp
+234584	S-ADV
+DetNP
+DetNP
+AdjpNp
+NPofNP
+234590	ClCl2
+sub-CL
+S-ADV-V-O
+DetNP
+VC-P
+234597	Np2CL
+234599	S-P
+DetNP
+NPofNP
+Np-Appos
+DetNP
+PrepNp
+234606	S-P-ADV
+DetNP
+NPofNP
+PrepNp
+NPofNP
+PrepNp
+Np-Appos
+234614	S-IO-ADV
+NpaNp
+Np-Appos
+NpPp
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+234623	Np-Appos
+DetNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+VC-P
+PrepNp
+PrepNp
+Np-Appos
+NP-all
+DetAdj
+DetCL
+VC-P
+PrepNp
+All-NP
+DetNP
+234642	IO-S-ADV
+NpaNp
+234645	PrepNp
+NpaNp
+Np-Appos
+NPofNP
+234650	Np-Appos
+Np-Appos
+234654	NPofNP
+DetNP
+Np-Appos
+NpaNp
+234659	Np-Appos
+DetNP
+NPofNP
+Np-Appos
+Np-Appos
+DetNP
+NpaNp
+NPofNP
+DetNP
+234669	NPofNP
+All-NP
+DetCL
+V-O-ADV-ADV
+PrepNp
+All-NP
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-O
+S-V-O-ADV
+NpPp
+PrepNp
+All-NP
+PrepNp
+DetNP
+NP-CL
+ADV-V-S-ADV
+PrepNp
+DetNP
+sub-CL
+234692	sub-CL
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+DetNP
+AdvpNp
+DetNP
+NPofNP
+234704	Conj-CL
+234706	sub-CL
+V2CL
+PrepNp
+DetNP
+ofNPNP
+NpaNp
+234715	Conj-CL
+V2CL
+PrepNp
+Np-Appos
+DetNP
+ofNPNP
+DetCL
+V-ADV
+PrepNp
+NPofNP
+DetNP
+PronNP
+NP-CL
+O-S-V
+AdvpNp
+234731	Conj-CL
+S-P-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+234737	that-VP
+234739	sub-CL
+VC-P
+NPofNP
+DetNP
+AdvpNp
+DetNP
+234746	Conj-CL
+234748	S-V-ADV
+Np2CL
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetCL
+VC-P
+PrepNp
+DetNP
+that-VP
+ADV-ADV-V-ADV
+PrepNp
+PrepNp
+sub-CL
+V-S-ADV
+AdvpNp
+DetCL
+V2CL
+234768	Conj-CL
+ClCl
+S-ADV-O-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+notCLbutCL2CL
+V-ADV
+VerbBe
+PrepNp
+ADV2CL
+PrepNp
+NP-CL
+NP-CL
+Np-Appos
+DetNP
+DetCL
+V-O
+DetAdj
+CLaCL
+S-ADV-V-O
+PrepNp
+AdjpNp
+234794	V2CL
+234796	ADV-V
+PrepNp
+ClCl
+ClCl
+ADV-V
+2Advp_h1
+V-S-ADV-ADV
+AdvpNp
+PrepNp
+DetNP
+sub-CL
+ADV-S-ADV-V-ADV
+PrepNp
+AdjpNp
+DetNP
+PpNp2Np
+PrepNp
+PrepNp
+PrepNp
+234816	Conj-CL
+234818	NP-Demo
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+that-VP
+CLaCL
+ADV-ADV-V-ADV
+PrepNp
+NPofNP
+NpaNp
+234832	DetNP
+notPPbutPP
+PrepNp
+NpAdjp
+PrepNp
+NPofNP
+PrepNp
+DetNP
+234841	ADV-ADV
+PrepNp
+234844	Conj-CL
+CLaCL
+V-IO-O
+notNPbutNP
+aCLaCL
+234850	O-V
+234852	ADV-V
+234855	V2CL
+234857	PrepNp
+sub-CL
+ADV-V-O-ADV
+PrepNp
+that-VP
+234863	NPofNP
+sub-CL
+S-P-ADV
+AdvpNp
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+234874	Conj-CL
+ADV-V-O
+Demo-NP
+DetNP
+ClCl
+234880	PrepNp
+sub-CL
+O-V
+AdjpNp
+aCLaCLaCL
+234886	ADV-V-ADV
+PrepNp
+PrepNp
+234890	ADV-ADV-V-ADV
+PrepNp
+PrepNp
+234894	ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+234899	Conj-CL
+234901	O-V
+PtclCL
+ADV-V
+DetNP
+234906	Conj-CL
+234908	O-ADV-V
+O-V
+PrepNp
+VC-P-S
+PrepNp
+NpaNp
+DetNP
+2Np
+234917	DetNP
+2Np
+234920	Conj-CL
+234922	DetNP
+that-VP
+S-ADV-VC-P
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+NpaNp
+234933	Conj-CL
+CLaCL
+S-ADV-VC-P
+Np-Appos
+Np-Appos
+DetNP
+ofNPNP
+DetNP
+Np-Appos
+DetCL
+ADV-ADV-V-ADV
+PrepNp
+PrepNp
+PrepNp
+Conj3Np
+234950	NpaNp
+234953	P-ADV-VC
+PrepNp
+234956	Conj-CL
+S-ADV-P
+AdjpNp
+NPofNP
+PrepNp
+DetNP
+234963	Conj-CL
+ADV-S-IO-ADV-ADV
+AdvPp
+PrepNp
+DetNP
+DetNP
+PrepNp
+PrepNp
+234972	Conj-CL
+S-P
+DetCL
+CLaCL
+V-O-ADV-ADV
+PrepNp
+PrepNp
+234980	V-O
+Np-Appos
+DetCL
+aCLaCL
+234985	V-O
+234987	V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+234995	Conj-CL
+234997	DetNP
+PrepNp
+DetNP
+AdjpNp
+that-VP
+ADV-ADV-V-ADV
+V-O
+PrepNp
+235006	that-VP
+ClCl
+notCLbutCL2CL
+V-ADV
+ofNPNP
+DetNP
+P-VC-ADV
+DetNP
+NPofNP
+sub-CL
+ADV-V
+DetNP
+235019	Conj-CL
+V-ADV-O
+Np-Appos
+DetCL
+ADV-ADV-ADV-V
+2Advp_h1
+PrepNp
+PrepNp
+235028	Conj-CL
+235030	sub-CL
+S-V-O
+AdvpNp
+DetCL
+V-O
+sub-CL
+ADV-P
+DetCL
+V-ADV
+PrepNp
+235041	Conj-CL
+V-O-ADV-ADV
+NpPron
+sub-CL
+ADV-ADV-O-V-ADV
+V2CL
+PrepNp
+S-V
+ADV-S-V
+235051	PrepNp
+All-NP
+that-VP
+S-P-VC
+DetNP
+AdjpNp
+All-NP
+235059	Conj-CL
+235061	PrepNp
+AdjpNp
+NpaNp
+235065	NPofNP
+PrepNp
+AdjpNp
+notCLbutCL2CL
+sub-CL
+V2CL
+sub-CL
+V-O
+DetNP
+NP-CL
+O-V-ADV-ADV
+PrepNp
+235078	Conj-CL
+235080	sub-CL
+S-V
+O-V
+235084	PrepNp
+sub-CL
+ADV-V
+All-NP
+235090	DetNP
+Np-Appos
+NP-Demo
+DetNP
+NpPp
+PrepNp
+DetAdj
+sub-CL
+ADV-S-V
+2Advp_h1
+Conj2VP
+235102	PtclCL
+PtclCL
+ADV-V-S
+DetNP
+AdjpNp
+DetNP
+235109	Conj-CL
+V-O
+S-V-ADV-O
+PrepNp
+235114	Conj-CL
+235116	PrepNp
+sub-CL
+235119	DetNP
+NPofNP
+sub-CL
+ADV-P-VC
+PrepNp
+235125	Conj-CL
+235127	IO-O-V
+235129	Conj-CL
+ClCl
+ClCl
+235133	AdvpNp
+sub-CL
+O-V-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-O-V
+ofNPNP
+DetNP
+235148	Conj-CL
+ClCl2
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+235159	S-IO-V-ADV
+PrepNp
+CLaCL
+ADV-V-O-ADV-ADV
+DetNP
+NPofNP
+DetCL
+ADV-V-S-O
+Np-Appos
+DetNP
+NPofNP
+235171	ADV-V-ADV
+V-O
+PrepNp
+235175	Conj-CL
+235177	Np-Appos
+DetNP
+DetCL
+CLaCL
+ADV-V-O-ADV
+PrepNp
+DetNP
+235185	O-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+PrepNp
+All-NP
+sub-CL
+ClCl
+P-VC-ADV-ADV
+ofNPNP
+DetNP
+Conj2Pp
+PrepNp
+DetCL
+V2CL
+235203	PrepNp
+DetCL
+V2CL
+aCLaCL
+235208	ADV-P
+NpPp
+2Pp
+PrepNp
+PrepNp
+235214	ADV-P
+NpPp
+2Pp
+PrepNp
+PrepNp
+235220	Conj-CL
+ADV-S-P
+PrepNp
+235224	Conj-CL
+notCLbutCL2CL
+235227	BeVerb
+sub-CL
+S2CL
+DetAdj
+DetNP
+NPofNP
+DetNP
+ClCl2
+CLaCL
+sub-CL
+ADV2CL
+PrepNp
+235240	sub-CL
+ADV2CL
+PrepNp
+ADV-ADV-V
+PrepNp
+PrepNp
+235247	V-ADV-O
+O-V
+235250	Conj-CL
+PtclCL
+V-ADV-O-ADV
+PrepNp
+AdjpNp
+Conj2Pp
+PrepNp
+235258	PrepNp
+235260	P-S-VC-ADV
+DetNP
+NPofNP
+235264	PrepNp
+DetNP
+NPofNP
+V-ADV
+Conj2VP
+235270	PrepNp
+All-NP
+235274	that-VP
+VC-P-ADV
+NPofNP
+ClCl
+V-ADV
+PrepNp
+V-ADV-ADV
+notNPbutNP
+NPofNP
+NpAdjp
+V2CL
+notPPbutPP
+PrepNp
+NpAdjp
+PrepNp
+Np-Appos
+NpAdjp
+235292	Conj-CL
+O-V-ADV-ADV
+NP-Demo
+PrepNp
+DetNP
+PrepNp
+DetNP
+235300	notCLbutCL2CL
+that-VP
+ADV-P-VC-ADV
+PrepNp
+V-O-ADV
+AdvPp
+PrepNp
+S-P
+DetNP
+NPofNP
+PrepNp
+DetNP
+NP-CL
+S-ADV-V-O-O2
+NPofNP
+AdjpNp
+NPofNP
+notNPbutNP
+235319	Conj-CL
+CLaCL
+S-V
+DetNP
+235324	S-V
+DetNP
+235327	Conj-CL
+ClCl2
+sub-CL
+S-ADV-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+ADV-V-ADV
+PrepNp
+PrepNp
+sub-CL
+ADV-V-S-O
+V-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetCL
+V2CL
+ADV-ADV-S-V-ADV
+2Advp_h1
+DetNP
+NPofNP
+DetNP
+PrepNp
+235360	Conj-CL
+235362	sub-CL
+S-P
+DetNP
+NPofNP
+DetNP
+AdjpAdvp
+DetNP
+NPofNP
+DetNP
+235372	Conj-CL
+ADV-ADV-V-S-ADV-ADV
+DetCL
+V2CL
+PrepNp
+Demo-NP
+DetNP
+PrepNp
+DetNP
+AdjpNp
+V2CL
+235384	Conj-CL
+235386	sub-CL
+S-ADV
+DetCL
+V2CL
+PrepNp
+AdjpAdvp
+DetCL
+V2CL
+PrepNp
+235396	Conj-CL
+CLaCL
+ADV-ADV-V
+V-O
+AdjpNp
+AdjpNp
+235403	AdvpCL
+sub-CL
+S-V-O-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetCL
+ADV-V-S-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetCL
+V2CL
+235420	Conj-CL
+V-S
+DetNP
+NPofNP
+235425	Conj-CL
+235427	PrepNp
+DetNP
+AdvpNp
+DetNP
+PronNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+AdjpNp
+ADV-V
+sub-CL
+ADV-V
+PrepNp
+235442	Conj-CL
+ClCl2
+ADV2CL
+PrepNp
+ClCl2
+PtclCL
+sub-CL
+V-S
+S-ADV-V
+PrepNp
+DetNP
+NPofNP
+235455	Conj-CL
+ClCl2
+sub-CL
+PtclCL
+V-ADV
+PrepNp
+V-S
+DetNP
+235464	Conj-CL
+S-P-VC
+DetNP
+DetNP
+235469	Conj-CL
+ADV-S
+ADV-S
+DetNP
+NPofNP
+235475	Conj-CL
+235477	NP-all
+AdjpNp
+V2CL
+O-V
+DetNP
+NPofNP
+DetNP
+PronNP
+PrepNp
+PrepNp
+sub-CL
+ADV2CL
+PrepNp
+ofNPNP
+235492	ClCl2
+ADV2CL
+PrepNp
+ClCl2
+V-O
+NP-Demo
+DetNP
+ClCl2
+sub-CL
+V2CL
+notCLbutCL2CL
+V2CL
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+notCLbutCL2CL
+CLaCL
+V-ADV
+PrepNp
+235513	V-O
+DetNP
+NPofNP
+DetNP
+ADV-V-O-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+All-NP
+NPofNP
+PrepNp
+DetNP
+235527	Conj-CL
+ClCl2
+sub-CL
+ADV-V-S
+BeVerb
+DetNP
+NPofNP
+235535	PrepNp
+DetCL
+V2CL
+BeVerb
+ADV-S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+DetNP
+NPofNP
+DetAdj
+PrepNp
+DetCL
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NP-CL
+S-VC-P
+NPofNP
+DetNP
+235563	Conj-CL
+ClCl
+notCLbutCL2CL
+O-V
+CLaCL
+O-O2
+Np-Appos
+235571	O-O2-ADV
+NPofNP
+PrepNp
+sub-CL
+P-S
+DetNP
+NP-CL
+DetCL
+235580	ADV-S-V
+PrepNp
+S-V-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+235596	Conj-CL
+235598	NP-Demo
+DetNP
+PrepNp
+AdjpNp
+sub-CL
+CLaCL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+DetNP
+235610	ADV-P
+PrepNp
+235613	ClCl2
+ClClClCl
+CLaCL
+ADV-V
+PrepNp
+235619	ADV-V
+CLaCL
+V2CL
+235623	ADV-V
+CLaCL
+V2CL
+235627	ADV-V
+CLaCL
+V2CL
+235631	ADV-V
+ClCl
+ADV-O-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+sub-CL
+S-ADV-V
+AdvpNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+235649	Conj-CL
+ClCl
+ADV-S-ADV-V-ADV
+Np-Appos
+DetCL
+V2CL
+PrepNp
+PrepNp
+sub-CL
+S-V-ADV
+AdvpNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+235668	Conj-CL
+CLaCL
+S-ADV-V
+DetNP
+PrepNp
+235674	S-ADV
+DetNP
+PrepNp
+235678	Conj-CL
+235680	V-O
+DetNP
+PronNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+235689	Conj-CL
+V2CL
+AdvpNp
+Conj-CL
+ADV-V-ADV
+235695	that-VP
+CLaCL
+S-O-ADV-V
+DetCL
+V-O
+Np-Appos
+DetNP
+AdvpNp
+PrepNp
+235705	V-ADV
+PrepNp
+235708	Conj-CL
+ClCl
+S-P
+DetAdj
+PrepNp
+sub-CL
+S-ADV-O-V-ADV
+DetNP
+V-ADV
+PrepNp
+DetAdj
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+235725	Conj-CL
+CLaCL
+ADV-V
+235729	CLaCL
+sub-CL
+S-V
+AdvpNp
+DetNP
+AdvpNp
+ofNPNP
+235737	S-V-ADV
+DetNP
+NPofNP
+NpaNp
+235743	Conj-CL
+ClCl
+S-ADV-O-V-IO
+DetNP
+AdvpNp
+NPofNP
+DetNP
+2Pp
+PrepNp
+PrepNp
+AdjpNp
+NPofNP
+notCLbutCL2CL
+V-S-O
+DetCL
+V2CL
+O2CL
+DetCL
+ADV-V
+235763	Conj-CL
+CLaCL
+S-P
+DetCL
+V2CL
+235769	S-P
+DetCL
+ADV-V
+235773	Conj-CL
+235775	that-VP
+235777	sub-CL
+S-V
+DetNP
+AdjpNp
+ofNPNP
+NPofNP
+DetNP
+Np-Appos
+PrepNp
+NpAdjp
+NpAdjp
+PrepNp
+DetNP
+235791	Conj-CL
+235793	AdvPp
+PrepNp
+O-V
+O-V
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+sub-CL
+PtclCL
+ADV-ADV-P-VC
+ADV-V
+235807	Conj-CL
+235809	AdvpNp
+DetCL
+VC-P
+PrepNp
+DetNP
+V2CL
+PrepNp
+ADV-V-O
+V2CL
+notVPbutVP
+sub-CL
+V-S-ADV
+DetAdj
+PrepNp
+DetNP
+235825	Conj-CL
+S-P
+DetCL
+V-O-ADV
+PrepNp
+PronNP
+Np-Appos
+DetCL
+V-IO-O
+DetNP
+NPofNP
+DetNP
+235838	Conj-CL
+CLaCL
+CLaCL
+V-ADV
+235843	ClCl
+235845	that-VP
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+sub-CL
+ADV-V-ADV
+PrepNp
+AdvPp
+PrepNp
+235858	CLaCL
+V2CL
+235861	V-ADV-O
+CLaCL
+V-ADV
+PrepNp
+DetNP
+235867	V-ADV
+PrepNp
+DetNP
+235871	Conj-CL
+ADV-V-ADV-O
+V2CL
+EitherOrVp
+235877	P-ADV-VC
+235879	Conj-CL
+235881	S-V-ADV
+Np-Appos
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+235890	NpPp
+PrepNp
+DetNP
+PrepNp
+O-V
+aCLaCL
+235897	O2CL
+235899	O2CL
+235901	Conj-CL
+ADV-O-V
+V-O
+DetNP
+NPofNP
+DetNP
+235908	Conj-CL
+CLaCL
+ADV-V
+235912	V-O
+ADV-V
+AdvPp
+PrepNp
+DetNP
+NPofNP
+235919	ClCl
+notCLbutCL2CL
+ADV-O-V-IO
+O-V-IO-ADV
+NPofNP
+PrepNp
+sub-CL
+V-ADV
+PrepNp
+DetCL
+CLaCL
+ADV-V
+PrepNp
+235933	ADV-ADV
+PrepNp
+235936	Conj-CL
+aCLaCL
+235940	V2CL
+235943	V2CL
+235945	Conj-CL
+S-V-O-ADV
+DetNP
+NPofNP
+DetNP
+235951	that-VP
+CLaCL
+235954	PrepNp
+sub-CL
+S-V
+DetAdj
+235960	PrepNp
+sub-CL
+S-V-ADV
+DetCL
+V2CL
+notNPbutNP
+DetCL
+ADV-V
+PrepNp
+Conj2VP
+235972	Conj-CL
+S-ADV-O-V-ADV
+PrepNp
+DetNP
+PrepNp
+235978	ClCl2
+sub-CL
+ADV-V-ADV-O
+PrepNp
+Conj-CL
+ADV-ADV-V
+235985	Conj-CL
+235987	sub-CL
+S-P
+PrepNp
+AdjpNp
+235992	ClCl
+S-V
+DetAdj
+235997	Conj-CL
+ClCl
+S-P
+DetAdj
+PrepNp
+Np-Appos
+DetNP
+DetCL
+CLaCL
+V-O-IO-ADV
+PrepNp
+236009	V-IO-O
+DetNP
+NPofNP
+DetNP
+sub-CL
+that-VP
+S-V-ADV-O-IO-ADV
+BeVerb
+PrepNp
+CLaCL
+ADV-V-IO-O
+DetNP
+NPofNP
+236023	V-ADV-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+236029	Conj-CL
+ClCl
+ADV-V
+PrepNp
+sub-CL
+S-V-ADV
+DetNP
+PrepNp
+236039	PrepNp
+V-ADV
+DetNP
+236044	DetCL
+ADV-V-O
+PrepNp
+sub-CL
+S-VC-P-ADV
+NPofNP
+PrepNp
+236052	Conj-CL
+236054	V2CL
+ADV-ADV-O-V-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+236062	CLaCL
+ADV-V-O
+NpAdjp
+236066	ADV-V-O
+PrepNp
+NPofNP
+236071	NpAdjp
+236074	NPofNP
+236076	CLaCL
+ClCl
+O-ADV-V
+AdjpNp
+PrepNp
+sub-CL
+ADV-V-S
+DetNP
+236085	ADV-V-O-ADV-ADV
+PrepNp
+PrepNp
+ofNPNP
+PpPpPpPpPpPpPpPpPpPpPpPpPpPpPpPpPpPpPpPpPp
+PrepNp
+NpAdjp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+NpAdjp
+PrepNp
+NpAdjp
+PrepNp
+NPofNP
+PrepNp
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NpaNp
+236121	PrepNp
+NpaNp
+236124	PrepNp
+NpaNp
+236128	ClClClClClClCl
+CLandCL2
+sub-CL
+P2CL
+236133	P2CL
+CLandCL2
+sub-CL
+V2CL
+236138	V2CL
+CLandCL2
+sub-CL
+V2CL
+236144	V2CL
+CLandCL2
+sub-CL
+V2CL
+236149	ADV-V
+CLandCL2
+sub-CL
+V2CL
+236154	ADV-V
+CLandCL2
+sub-CL
+P2CL
+236159	O-V
+CLandCL2
+sub-CL
+O-V
+236164	O-V
+236167	DetNP
+NPofNP
+PrepNp
+Np2CL
+S-V
+DetNP
+NPofNP
+236175	CLaCL
+ADV-V-ADV
+PrepNp
+236179	V-ADV
+PrepNp
+DetNP
+NPofNP
+236184	Conj-CL
+ClCl
+O2CL
+DetNP
+PronNP
+ClCl2
+sub-CL
+IO-V
+V-S
+AdvpNp
+236195	ADV-V-ADV
+BeVerb
+236198	Conj-CL
+CLaCL
+S-P-ADV
+NpaNp
+236204	S-P-ADV-ADV
+PrepNp
+236207	Conj-CL
+CLaCL
+S-P-ADV
+NPofNP
+PrepNp
+236213	S-P-ADV-ADV
+PrepNp
+236216	Conj-CL
+S-P-ADV-ADV
+NPofNP
+PrepNp
+236221	Conj-CL
+ClCl
+S-P-VC
+NPofNP
+NpAdjp
+V2CL
+sub-CL
+236229	DetNP
+that-VP
+CLaCL
+CLaCL
+V-ADV
+PrepNp
+236236	V2CL
+236238	CLaCL
+VC-P
+ofNPNP
+236242	S-VC-P
+ofNPNP
+236245	Conj-CL
+ClCl
+ClCl2
+CLaCL
+CLaCL
+V-ADV
+PrepNp
+NPofNP
+236254	V2CL
+V-S
+236257	O-ADV-V
+ClCl2
+Conj3CL
+S-V-O
+236262	VC-ADV-P
+PrepNp
+236265	S-VC-ADV-P
+PrepNp
+NpaNp
+236269	V-S
+Np-Appos
+236272	Conj-CL
+236274	V-O
+Demo-NP
+DetNP
+Np2CL
+PrepNp
+All-NP
+NPofNP
+NpaNp
+236283	V-O-ADV
+PrepNp
+NPofNP
+236287	V-O
+236289	ClClCl
+O-V
+O-V
+O-V
+236295	PrepNp
+sub-CL
+236298	that-VP
+P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetCL
+V2CL
+Conj2VP
+236309	ClCl
+P-ADV-S-ADV
+PrepNp
+P-ADV-S-ADV
+PrepNp
+236315	ClCl
+V-ADV
+DetNP
+V-ADV-ADV
+DetNP
+PrepNp
+All-NP
+DetNP
+NPofNP
+236325	Conj-CL
+ClCl2
+ADV-V-S-ADV
+PrepNp
+notCLbutCL2CL
+V-O-S
+DetNP
+NPofNP
+ClClCl
+ADV-V
+PrepNp
+P-S
+P-S
+236339	Conj-CL
+S-V-O-ADV
+Np-Appos
+DetCL
+V-O
+DetAdj
+DetNP
+PrepNp
+DetNP
+NPofNP
+236350	Conj-CL
+236352	ADV-ADV-ADV
+notPPbutPP
+AdvPp
+PrepNp
+DetNP
+NPofNP
+AdvPp
+PrepNp
+DetNP
+NP-CL
+ADV-V-ADV
+PrepNp
+V-IO-O
+NpNpNp
+DetNP
+ofNPNP
+DetNP
+ofNPNP
+DetNP
+ofNPNP
+NpPp
+PrepNp
+sub-CL
+S-ADV-V
+ClCl
+ClCl2
+sub-CL
+ADV-V-O-ADV
+PrepNp
+DetNP
+ADV-V
+ClCl2
+sub-CL
+ClCl
+ADV-V
+236388	that-VP
+S-ADV-V-O
+NP-Demo
+DetNP
+sub-CL
+ADV-ADV
+PrepNp
+ClCl
+ADV-V
+notCLbutCL2CL
+sub-CL
+V2CL
+sub-CL
+V-ADV
+PrepNp
+236404	Conj-CL
+236406	PrepNp
+sub-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+236412	Conj-CL
+S-O-V
+DetNP
+PpNp2Np
+PrepNp
+NpAdjp
+NpPp
+PrepNp
+236421	Conj-CL
+S-O-V
+DetNP
+ofNPNP
+DetNP
+236427	Conj-CL
+236429	Np-Appos
+PronNP
+DetCL
+ADV-V
+PrepNp
+AdjpNp
+Conj7Np
+236443	ADV-V-O-ADV
+PrepNp
+P-VC-ADV
+DetNP
+236448	Conj-CL
+ClCl2
+sub-CL
+ADV-V-IO
+ADV2CL
+notPPbutPP
+Conj2Pp
+PrepNp
+DetCL
+V2CL
+236459	PrepNp
+DetCL
+V2CL
+PrepNp
+DetCL
+V-S-ADV-ADV
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+PrepNp
+PrepNp
+DetNP
+236474	ADV-V
+PrepNp
+236477	Conj-CL
+236479	ClCl
+ADV-ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+2Advp_h1
+PrepNp
+DetNP
+NPofNP
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+All-NP
+ClCl2
+sub-CL
+O-IO-ADV-V
+PrepNp
+notCLbutCL2CL
+V2CL
+ClCl2
+sub-CL
+O-ADV-V-IO
+PrepNp
+ADV-S-P-VC
+AdvpNp
+DetNP
+NpPp
+NPofNP
+PrepNp
+236511	Conj-CL
+S-P-ADV-VC-ADV
+DetNP
+NPofNP
+PrepNp
+236517	DetNP
+ofNPNP
+All-NP
+that-VP
+ADV-V-O
+PrepNp
+NpaNp
+236526	ClCl
+V2CL
+sub-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+236533	Conj-CL
+236535	Np2CL
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+that-VP
+ADV-S-V-ADV
+PrepNp
+AdjpNp
+NPofNP
+NpaNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+236557	DetNP
+PpNp2Np
+PrepNp
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+236567	CLaCL
+236569	that-VP
+ADV-ADV-ADV
+Conj2Pp
+PrepNp
+236574	PrepNp
+ADV-V-O-O2
+PrepNp
+AdjpNp
+NpaNp
+DetNP
+236581	DetNP
+NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetAdj
+236589	CLaCL
+ClCl
+ADV2CL
+sub-CL
+V2CL
+236595	O-V-IO-ADV-ADV
+NpaNp
+AdvpNp
+DetNP
+236600	PrepNp
+NPofNP
+PrepNp
+DetCL
+236605	that-VP
+236607	sub-CL
+V2CL
+PrepNp
+AdvpNp
+NP-Demo
+DetNP
+236614	Conj-CL
+236616	sub-CL
+ADV-V-ADV
+PrepNp
+Conj5Np
+236623	All-NP
+236625	DetNP
+PpNp2Np
+2Pp
+PrepNp
+PrepNp
+ADV-V
+AdvPp
+PrepNp
+Demo-NP
+DetNP
+236636	notCLbutCL2CL
+ADV-V
+PrepNp
+ADV-O-V
+PrepNp
+DetNP
+ofNPNP
+AdvpNp
+DetNP
+ofNPNP
+DetNP
+AdjpNp
+236649	Conj-CL
+236651	DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+that-VP
+236659	PrepNp
+P-VC
+sub-CL
+S-ADV-V
+DetNP
+ofNPNP
+236666	Conj-CL
+O-ADV-V
+PrepNp
+236670	Conj-CL
+236672	S-O-V-ADV
+notNPbutNP
+AdvpNp
+DetCL
+V2CL
+AdvpNp
+DetCL
+V2CL
+PrepNp
+236682	Conj-CL
+236684	AdvpNp
+DetCL
+V2CL
+sub-CL
+236689	sub-CL
+S2CL
+DetNP
+NPofNP
+DetCL
+V2CL
+AdvpNp
+DetCL
+V-ADV
+PrepNp
+DetCL
+V2CL
+236702	Conj-CL
+236704	sub-CL
+S-V
+DetNP
+236708	sub-CL
+PtclCL
+V2CL
+236712	sub-CL
+ADV-V
+236715	Conj-CL
+ClCl
+notCLbutCL2CL
+that-VP
+ClCl
+ADV-S
+ADV-S
+P2CL
+PrepNp
+236725	PrepNp
+DetNP
+AdjpNp
+DetNP
+ofNPNP
+PrepNp
+DetNP
+ofNPNP
+sub-CL
+S-V-ADV
+AdvpNp
+DetNP
+ofNPNP
+PrepNp
+DetNP
+ofNPNP
+sub-CL
+V-S
+236744	sub-CL
+236746	CLaCL
+S-ADV-V
+DetCL
+O2CL
+DetAdj
+236752	S-ADV-V
+DetCL
+O2CL
+DetAdj
+236757	Conj-CL
+236759	Np-Appos
+DetNP
+DetCL
+V-O-ADV-ADV
+DetNP
+PronNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+sub-CL
+aCLaCL
+236772	O-V
+DetNP
+236775	ADV-ADV-V-ADV
+P-VC
+PrepNp
+236779	Conj-CL
+V-ADV-O-ADV
+PrepNp
+DetNP
+NP-CL
+CLaCL
+S-P
+ofNPNP
+DetNP
+NpPp
+PrepNp
+DetNP
+PrepNp
+All-NP
+DetNP
+236795	ADV-P-ADV
+notCLbutCL2CL
+ADV2CL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+NP-Demo
+DetNP
+DetCL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NpaNp
+ofNPNP
+PronNP
+DetNP
+236816	NPofNP
+ClCl
+V-O
+PtclCL
+S-O-V-ADV
+PrepNp
+Np-Appos
+NP-Demo
+DetNP
+DetCL
+V-ADV
+PrepNp
+236829	Conj-CL
+V-O-ADV
+notPPbutPP
+AdvPp
+PrepNp
+AdvPp
+PrepNp
+236837	Conj-CL
+V-ADV-O
+DetNP
+NP-CL
+NPofNP
+O-V-ADV-ADV-ADV
+PrepNp
+CLaCL
+P-VC
+236847	ADV-ADV-P-ADV
+Np-Appos
+NpAdjp
+NpPp
+PrepNp
+236853	aCLaCL
+236855	ClCl2
+ADV2CL
+PrepNp
+P2CL
+NpaNp
+NpAdjp
+236862	PpNp2Np
+PrepNp
+236865	ClCl2
+Np2CL
+NPofNP
+P2CL
+2Np
+NPofNP
+NPofNP
+236873	Conj-CL
+O-ADV-V-ADV
+DetNP
+NPofNP
+NpaNp
+DetNP
+NPofNP
+236881	ofNPNP
+NpPp
+PrepNp
+PrepNp
+PrepNp
+NPofNP
+DetNP
+236889	Conj-CL
+PtclCL
+236892	PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetAdj
+DetCL
+V-IO
+sub-CL
+CLaCL
+V-O
+DetNP
+NP-CL
+NPofNP
+236907	O-ADV-V-IO
+PrepNp
+S-V-ADV
+PrepNp
+236912	S-V-O
+DetNP
+ofNPNP
+DetAdj
+236917	Conj-CL
+ClCl
+ClCl
+ClCl
+V-O
+DetNP
+sub-CL
+ADV-S-V-ADV
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+sub-CL
+ClCl2
+sub-CL
+V2CL
+V2CL
+VerbBe
+PtclCL
+AdvpCL
+ClCl2
+sub-CL
+CLaCL
+V-ADV-S
+PrepNp
+236947	V-O
+S-P
+V-S-ADV-ADV
+sub-CL
+236952	S2CL
+PrepNp
+NP-Demo
+DetNP
+236957	Conj-CL
+O2-V-O
+236960	DetNP
+that-VP
+CLaCL
+V-ADV
+PrepNp
+236966	V-O-ADV
+DetNP
+AdjpNp
+V2CL
+NPofNP
+S-P-VC-ADV-ADV
+Conj2Pp
+PrepNp
+236975	AdvPp
+PrepNp
+236978	Conj-CL
+236980	CLaCL
+S-ADV-ADV-V
+DetCL
+V-ADV
+236985	S-ADV-ADV-V
+DetCL
+V-ADV
+PrepNp
+PrepNp
+236991	ClCl
+ClCl
+ClCl
+S2CL
+sub-CL
+V-ADV
+DetNP
+ADV-ADV
+Conj2Pp
+PrepNp
+237002	PrepNp
+sub-CL
+O-V-S
+AdjpNp
+DetNP
+237008	Conj-CL
+ClCl
+ClCl
+V-S-O
+DetNP
+O-V-ADV
+All-NP
+PrepNp
+sub-CL
+ADV-ADV-ADV-V-ADV
+PrepNp
+O-V
+All-NP
+PrepNp
+All-NP
+NpAdjp
+sub-CL
+237026	ClClCl
+V2CL
+V-IO
+DetNP
+S-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+237036	Conj-CL
+CLaCL
+S-V-O
+DetCL
+CLaCL
+V-O-IO
+DetCL
+V2CL
+237045	O-ADV
+PrepNp
+Conj2VP
+237049	DetNP
+NPofNP
+237052	V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+237058	ADV-V-ADV
+PrepNp
+PrepNp
+All-NP
+NP-CL
+237064	S-V-ADV-O-IO
+PrepNp
+DetNP
+CLaCL
+S-ADV-ADV-V-O
+DetNP
+NPofNP
+NP-Demo
+DetNP
+BeVerb
+DetNP
+NPofNP
+DetAdj
+237078	ADV-V-ADV-ADV
+PrepNp
+AdjpNp
+DetNP
+237083	CLaCL
+ADV-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+DetNP
+PrepNp
+DetNP
+NpaNp
+NpPp
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+237103	NpPp
+NPofNP
+DetNP
+Conj2Pp
+PrepNp
+237109	PrepNp
+237111	S-ADV-V-O-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+AdjpNp
+V2CL
+NpPp
+NPofNP
+DetNP
+PrepNp
+237123	S-IO-ADV
+DetNP
+PrepNp
+DetNP
+AdjpNp
+ofNPNP
+237130	Conj-CL
+237132	Np-Appos
+PronNP
+PrepNp
+DetNP
+NPofNP
+NpaNp
+237139	DetNP
+S-P
+aCLaCL
+237143	ADV-P-ADV
+PrepNp
+PrepNp
+237147	ADV-V-ADV
+V2CL
+PrepNp
+237151	Conj-CL
+V-O
+DetCL
+ADV-ADV-V-ADV
+V2CL
+DetNP
+NP-CL
+ADV-V-O
+V-ADV
+PrepNp
+AdjpNp
+DetCL
+V-O-ADV
+sub-CL
+ADV-V
+PrepNp
+237168	Conj-CL
+ClCl
+ClCl
+ADV-ADV-ADV-V
+ADV-V
+PrepNp
+PrepNp
+sub-CL
+CLaCL
+S-ADV-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+237183	P-ADV-ADV
+DetNP
+PrepNp
+NPofNP
+Conj3CL
+V-O
+NpaNp
+237191	All-NP
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+237199	V-O-ADV
+All-NP
+PrepNp
+DetNP
+NPofNP
+DetNP
+237206	ClCl
+ADV-V-O
+PrepNp
+V-O
+All-NP
+sub-CL
+V-S
+ofNPNP
+DetNP
+237216	O-V
+NpPp
+PrepNp
+237220	ClCl2
+sub-CL
+S-V-ADV-O
+P-VC
+237225	PrepNp
+that-VP
+237228	sub-CL
+S-P
+AdvpNp
+237232	Conj-CL
+ClCl
+ClCl2
+sub-CL
+AdvpCL
+ADV-V-ADV
+AdjpAdjp
+PrepNp
+DetNP
+NP-CL
+NPofNP
+O-V-S-ADV
+DetNP
+Conj2Pp
+PrepNp
+237248	AdvPp
+PrepNp
+NPofNP
+ADV-V
+sub-CL
+ADV-V-ADV
+sub-CL
+PtclCL
+V-O-ADV
+PrepNp
+DetNP
+237260	sub-CL
+237262	aCLaCL
+237264	S-P
+DetNP
+AdjpaAdjp
+237269	CLaCL
+S-P
+DetNP
+NPofNP
+DetNP
+237275	S-P
+DetNP
+V2CL
+237280	DetNP
+that-VP
+237283	P-VC-ADV-ADV
+DetNP
+NpPp
+PrepNp
+V2CL
+V2CL
+DetNP
+237291	Conj-CL
+ADV-V-O
+V-O-ADV
+Conj2VP
+237296	NPofNP
+DetCL
+O-V
+237300	Conj-CL
+S-ADV-ADV-V
+CLaCL
+ADV-O-V
+PrepNp
+237306	V-O-ADV
+237308	Conj-CL
+CLaCL
+S-ADV-ADV-V
+PrepNp
+DetAdj
+237314	ADV2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+O-V-IO-S-O2-ADV
+DetNP
+V-ADV
+PrepNp
+AdvpNp
+237326	Conj-CL
+ClCl
+ADV-ADV-V-O
+sub-CL
+ADV-V-ADV
+PrepNp
+sub-CL
+ADV-V-ADV
+PrepNp
+AdvpNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+237341	CLaCL
+ADV-ADV-V-ADV
+PrepNp
+DetAdj
+PrepNp
+AdjpNp
+237348	O-V-ADV-ADV
+V-S
+DetNP
+NPofNP
+ClClCl
+ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+PrepNp
+ADV-V
+PrepNp
+NpPp
+PrepNp
+ADV-ADV-ADV-V
+PrepNp
+AdjpNp
+PrepNp
+DetAdj
+237369	Conj-CL
+S-ADV-V
+DetCL
+V2CL
+PrepNp
+237375	Conj-CL
+notCLbutCL2CL
+237378	Np2CL
+DetCL
+O-V
+O-S-V
+DetNP
+237384	ClCl
+V2CL
+V-O-O2
+AdjpNp
+NPofNP
+237390	Conj-CL
+ADV-V-O
+237393	Conj-CL
+ClCl
+V-O-ADV
+ofNPNP
+sub-CL
+V-O-IO-ADV
+AdjpNp
+O-V-IO
+NpAdjp
+DetNP
+237404	Conj-CL
+ClCl
+V2CL
+PtclCL
+AdvpCL
+ClCl2
+sub-CL
+S-V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+NpaNp
+DetNP
+237424	DetNP
+NpPp
+PrepNp
+237428	Conj-CL
+PtclCL
+ClCl2
+sub-CL
+CLaCL
+S-V-O
+DetCL
+V2CL
+AdjpNp
+NP-CL
+O-ADV-V
+237440	V-O
+NpaNp
+NP-CL
+NpAdjp
+O-ADV-V
+237446	NP-CL
+NpAdjp
+O-ADV-V
+ADV-V
+237451	Conj-CL
+V-O
+O-V-ADV
+DetNP
+AdvpNp
+237457	Conj-CL
+CLaCL
+CLandCL2
+sub-CL
+P-ADV
+AdvpNp
+DetNP
+237465	ADV-ADV
+DetNP
+237468	ADV-V-ADV-ADV
+PrepNp
+PrepNp
+PrepNp
+237473	Conj-CL
+ClCl
+O-V-ADV
+237477	sub-CL
+S-V
+sub-CL
+ADV-O-V-IO
+DetNP
+ofNPNP
+DetNP
+237485	CLaCL
+O-V-ADV
+AdjpNp
+V-O-ADV
+PrepNp
+DetNP
+ofNPNP
+237493	ADV-ADV-V-ADV
+CLaCL
+V-ADV
+PrepNp
+237498	V2CL
+237500	Conj-CL
+O-V-S-ADV
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+237508	Conj-CL
+ADV-O2-O-IO-V
+PrepNp
+Conj2VP
+237514	ClCl
+VC-S-P
+NPofNP
+PrepNp
+sub-CL
+S-ADV-V-ADV-ADV
+NP-Demo
+DetNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+237529	PrepNp
+sub-CL
+ADV-V-O
+237533	S-V
+DetNP
+237536	Conj-CL
+237539	O-ADV-V
+O-V
+V-O
+DetNP
+NPofNP
+DetCL
+V-O
+237547	ADV-V
+PrepNp
+O-V
+S2CL
+AdvpNp
+237553	Conj-CL
+S-P-ADV
+DetNP
+2Np
+NpAdjp
+V-ADV
+PrepNp
+NPofNP
+237562	Conj-CL
+ClCl
+ADV-P
+sub-CL
+S-V-ADV
+PronNP
+DetNP
+PrepNp
+NPofNP
+237572	Conj-CL
+237574	sub-CL
+S-V-ADV
+AdvpNp
+DetNP
+NPofNP
+PrepNp
+NPofNP
+S-VC-P
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+237589	ADV-S-V-O
+S-P-VC
+237592	Conj-CL
+ClCl
+ClCl2
+sub-CL
+ADV2CL
+ClCl2
+sub-CL
+sub-CL
+O2CL
+V-O
+sub-CL
+S-O-V
+AdjpNp
+237606	CLaCL
+O-ADV-ADV-V
+O-V
+PrepNp
+237611	sub-CL
+ADV-ADV
+PrepNp
+PrepNp
+Demo-NP
+DetNP
+NPofNP
+DetNP
+237620	ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+DetNP
+S-V
+237627	Conj-CL
+ADV-V-O-ADV
+DetAdj
+P-VC
+237632	Conj-CL
+ClCl
+V2CL
+ClClClClCl
+sub-CL
+S-O-V
+sub-CL
+S-V
+sub-CL
+S-V
+sub-CL
+S-V
+sub-CL
+S-ADV-O-V
+PrepNp
+237649	PrepNp
+sub-CL
+that-VP
+S-V
+237654	Conj-CL
+ClCl2
+PtclCL
+ADV-S-V
+PrepNp
+237660	PrepNp
+V-S
+237663	ClCl
+P-VC
+S2CL
+237667	ClCl
+P-VC
+S2CL
+237671	ClCl
+P-VC
+NPofNP
+S2CL
+237676	P-VC
+NPofNP
+237680	V2CL
+ADV-S
+237683	ClClClCl
+ADV-ADV
+PrepNp
+ADV-ADV
+PrepNp
+ADV-ADV
+PrepNp
+ADV-ADV
+PrepNp
+237693	ClClClClCl
+ADV-ADV-O-V
+PrepNp
+NpPp
+PrepNp
+ADV-V
+ADV-V
+ADV-V
+ADV-ADV-V
+PrepNp
+DetNP
+237705	ClCl
+237707	ClClClClClClClCl
+P2CL
+NPofNP
+P2CL
+NPofNP
+P-ADV
+PrepNp
+P-ADV
+PrepNp
+P-ADV
+PrepNp
+P-ADV
+PrepNp
+P-ADV
+PrepNp
+P-ADV
+PrepNp
+ClClClClCl
+P2CL
+NpaNp
+237728	P-ADV
+PrepNp
+P2CL
+PrepNp
+NpaNp
+237734	P-ADV
+PrepNp
+P2CL
+PrepNp
+NpaNp
+237741	ADV-S-ADV-P
+PrepNp
+DetNP
+DetNP
+Np-Appos
+NpPp
+PrepNp
+DetNP
+NPofNP
+All-NP
+DetNP
+237753	CLaCL
+S-V
+237756	ADV-V
+237758	CLaCL
+S-V
+237761	ADV-S-V
+237763	ClCl2
+sub-CL
+S-V
+V2CL
+O-V
+NPofNP
+DetNP
+NPofNP
+237773	Np-Appos
+DetNP
+NPofNP
+NpaNp
+237778	Np-Appos
+DetNP
+DetCL
+VC-P-ADV
+PrepNp
+DetNP
+that-VP
+ADV-V
+237787	CLaCL
+ADV-S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetNP
+NPofNP
+V-O
+237798	CLaCL
+ADV-ADV-V-ADV
+PrepNp
+PrepNp
+PrepNp
+DetNP
+237805	V-O
+DetNP
+NPofNP
+237809	S-V
+V2CL
+237812	aCLaCL
+237814	ADV-V
+237816	V-ADV
+PrepNp
+NPofNP
+NpaNp
+237822	V-O
+237824	Np2CL
+NpPp
+PrepNp
+ADV-V-S-ADV
+PrepNp
+NpAdjp
+ClCl
+ClCl
+ClCl2
+sub-CL
+ADV2CL
+PrepNp
+ADV-V
+ClCl2
+sub-CL
+ADV2CL
+PrepNp
+DetNP
+ADV-V
+S-V
+DetNP
+DetNP
+PrepNp
+AdjpNp
+237849	Conj-CL
+237852	Np2CL
+DetNP
+AdjpNp
+ClCl
+ClCl2
+aCLaCL
+237859	ADV2CL
+PrepNp
+237862	ADV2CL
+PrepNp
+DetNP
+ADV-V
+S-V
+DetNP
+CLaCL
+V-ADV
+PrepNp
+DetNP
+237873	V-O
+NP-CL
+AdjpNp
+S-ADV-V-ADV
+O-V
+237879	CLaCL
+ADV-V
+PrepNp
+DetNP
+237885	PrepNp
+sub-CL
+ADV-ADV
+PrepNp
+DetNP
+237891	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V-O
+V2CL
+ADV-VC-P
+sub-CL
+O-V
+237901	Conj-CL
+ClCl
+V2CL
+PtclCL
+S-ADV-V-ADV-ADV
+PrepNp
+PrepNp
+CLaCL
+O-V-ADV
+237911	V-ADV
+PrepNp
+AdvpNp
+DetNP
+NPofNP
+DetNP
+237918	Conj-CL
+237920	sub-CL
+ADV-V
+DetNP
+237924	NPofNP
+sub-CL
+O-V
+sub-CL
+ADV-V
+237931	PrepNp
+DetNP
+that-VP
+V-ADV
+PrepNp
+237937	Conj-CL
+237939	ClCl
+V-ADV-S
+DetNP
+NPofNP
+sub-CL
+S-ADV-V
+DetNP
+PrepNp
+237948	Conj-CL
+237950	PrepNp
+DetNP
+sub-CL
+V-ADV-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+237959	Conj-CL
+V-ADV-ADV
+PpPpPpPp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+NpaNp
+237968	PrepNp
+237970	Conj-CL
+237972	sub-CL
+V2CL
+237975	VC-P
+237977	S-O-V
+237979	Conj-CL
+S-V-O
+ADV-V
+PrepNp
+237984	Conj-CL
+237986	DetNP
+AdvpNp
+sub-CL
+P-VC
+AdvpNp
+237992	PtclCL
+S-V-ADV-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+All-NP
+aNpaNpaNp
+238005	Conj-CL
+238007	ADV-V-ADV
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+AdvpCL
+that-VP
+S-ADV-V-ADV
+PronNP
+238017	V-IO-O
+NP-Demo
+DetNP
+238022	O-ADV-V-ADV
+NP-Demo
+V-ADV
+PrepNp
+238027	ADV-V
+238029	Conj-CL
+ClCl
+notCLbutCL2CL
+V-O
+NPofNP
+O2CL
+sub-CL
+notCLbutCL2CL
+V-S-O
+DetNP
+IO-V
+DetNP
+S-IO
+DetNP
+DetNP
+238045	Conj-CL
+S-ADV-V-ADV
+Conj2VP
+238049	PrepNp
+DetNP
+NPofNP
+238054	sub-CL
+ADV-O-V
+238057	Conj-CL
+ClCl
+V2CL
+S-ADV-V-O
+238062	Conj-CL
+ADV-ADV-O-V
+VC-P
+238066	PtclCL
+238068	Np2CL
+NP-CL
+O-V-ADV
+PrepNp
+PrepNp
+238074	CLaCL
+V-O
+238077	V-O
+DetNP
+238080	PtclCL
+V-O-S
+238083	ClCl
+PtclCL
+ADV-V
+DetNP
+PronNP
+PtclCL
+ADV2CL
+DetNP
+PronNP
+238094	that-VP
+IO-V
+238097	ADV-ADV-V
+PrepNp
+PrepNp
+238101	Conj-CL
+238103	DetAdj
+Np2CL
+PrepNp
+DetNP
+ofNPNP
+238109	Conj-CL
+ClCl
+ClCl
+V2CL
+PtclCL
+PtclCL
+ClCl
+ADV-O2-V-O
+V2CL
+ADV-O-V
+S-V-ADV-O
+O-ADV-V
+PtclCL
+PtclCL
+S2CL
+NpNpNpNpNpNpNpNp
+238126	PtclCL
+ClCl2
+ADV-V-S
+CLaCL
+V-O-S-ADV
+DetNP
+NPofNP
+PrepNp
+238135	V-O
+NPofNP
+DetCL
+CLaCL
+V2CL
+238141	ADV-V-ADV
+PrepNp
+DetNP
+NP-CL
+Conj3Np
+238148	O-V
+238150	ADV-V-ADV
+NP-Demo
+PrepNp
+238154	ADV-V-S
+PrepNp
+NPofNP
+NpaNp
+NumpNP
+238160	All-NP
+238163	Conj2VP
+238165	CLaCL
+sub-CL
+V-ADV
+DetAdj
+238170	V-ADV
+NpaNp
+DetCL
+V2CL
+238175	NP-all
+DetAdj
+that-VP
+ClCl
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+DetAdv
+ADV-V
+sub-CL
+V-O
+NPofNP
+NP-CL
+DetNP
+AdjpNp
+ADV-V
+PrepNp
+CLaCL
+S-ADV-ADV-V
+PrepNp
+238197	V-ADV
+PrepNp
+238200	Conj-CL
+CLaCL
+ADV-V-ADV
+PrepNp
+238205	V-ADV
+PrepNp
+NPofNP
+238209	Conj-CL
+CLaCL
+S-V-ADV
+AdvpNp
+PrepNp
+238215	V-ADV-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+PrepNp
+238221	ClCl
+ClCl
+O-V
+PtclCL
+VC-P
+PrepNp
+DetNP
+O-V
+238230	sub-CL
+238232	that-VP
+S-P
+Np-Appos
+PrepNp
+238237	sub-CL
+PtclCL
+P-VC
+238241	Conj-CL
+238243	V2CL
+238245	that-VP
+S-ADV-VC-P
+238248	Conj-CL
+CLaCL
+238251	PrepNp
+DetNP
+ADV-V-S-O
+NpAdjp
+notCLbutCL2CL
+sub-CL
+S-P-VC
+sub-CL
+S-O-V
+DetAdj
+238262	S-P-VC
+PrepNp
+238265	Conj-CL
+notCLbutCL2CL
+V-O-ADV
+PrepNp
+DetNP
+ADV2CL
+PrepNp
+DetNP
+238274	Conj-CL
+ClCl
+V2CL
+sub-CL
+CLaCL
+S-V
+238281	S-P-VC
+238283	ADV-V-O
+Np-Appos
+DetNP
+ofNPNP
+238289	PrepNp
+V2CL
+sub-CL
+ADV-ADV-ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+NP-CL
+O-S-V-IO-ADV
+DetNP
+Conj2Pp
+PrepNp
+238302	AdvPp
+PrepNp
+238306	ADV2CL
+Np2CL
+CLaCL
+ClClClClCl
+V2CL
+V2CL
+V2CL
+O-V
+DetNP
+V2CL
+238317	S-VC-P
+DetNP
+NPofNP
+DetNP
+NpaNp
+238323	PrepNp
+238325	V-O-ADV
+PrepNp
+AdjpNp
+238329	V-O-S
+NP-all
+DetAdj
+238333	S-P
+Conj3Np
+DetNP
+NPofNP
+Np-Appos
+DetNP
+Np-Appos
+238341	DetNP
+NPofNP
+DetNP
+238345	DetNP
+NPofNP
+DetNP
+AdjpNp
+PrepNp
+All-NP
+238352	S-IO
+NpaNp
+Np-Appos
+NpPp
+notPPbutPP
+Conj2Pp
+PrepNp
+238360	PrepNp
+PrepNp
+NpaNp
+Np-Appos
+238365	Np-Appos
+Np-Appos
+DetCL
+V-O-ADV
+PrepNp
+238371	DetNP
+PpNp2Np
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+238379	IO-S-ADV
+NpaNp
+238382	PrepNp
+NpaNp
+Np-Appos
+NPofNP
+238387	Np-Appos
+Np-Appos
+Np-Appos
+DetCL
+ClCl
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+V-O-ADV-ADV
+PrepNp
+NpAdjp
+Np-Appos
+DetNP
+DetCL
+V2CL
+PrepNp
+DetNP
+NPofNP
+NP-CL
+DetNP
+NPofNP
+NpaNp
+238413	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+238420	ClCl
+V2CL
+sub-CL
+ADV-ADV-V-ADV-ADV
+PrepNp
+DetCL
+V-O-ADV
+PrepNp
+NPofNP
+PrepNp
+NP-CL
+AdjpNp
+238433	S-ADV-VC-P
+ADV-S-VC-P
+DetCL
+CLaCL
+V-O
+238439	V-O
+V-O
+DetNP
+NPofNP
+DetNP
+238445	Conj-CL
+ClCl
+ClCl2
+AdvpCL
+sub-CL
+S-V-IO-ADV
+NpaNp
+238453	NpPp
+PrepNp
+PrepNp
+O-V-IO
+P-VC
+sub-CL
+ClCl
+CLaCL
+V2CL
+238463	ADV-ADV-V
+ClCl2
+sub-CL
+S-O-V-ADV
+PrepNp
+O-V
+P-VC
+238471	Conj-CL
+CLaCL
+ADV-V-O
+NpaNp
+238476	DetNP
+238478	V-O
+O-V
+238482	sub-CL
+ADV-O-V
+P-ADV-VC
+ofNPNP
+238487	Conj-CL
+238489	Np2CL
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+that-VP
+ADV-VC-P
+PrepNp
+238499	Conj-CL
+notCLbutCL2CL
+CLaCL
+S-ADV-V-O
+PrepNp
+238505	V2CL
+ADV2CL
+PrepNp
+NPofNP
+Np-Appos
+238511	Conj-CL
+238513	DetNP
+AdjpNp
+NpPp
+NpAdvp
+PrepNp
+DetNP
+that-VP
+Conj3CL
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+238527	V-O
+238529	V-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+AdjpNp
+NpPp
+PrepNp
+DetNP
+NPofNP
+ADV-VC-P
+NPofNP
+DetNP
+AdjpNp
+ofNPNP
+238544	Conj-CL
+ClCl2
+sub-CL
+238548	DetCL
+CLaCL
+V-O-ADV
+PrepNp
+NPofNP
+NPofNP
+238555	V-ADV
+PrepNp
+DetNP
+NPofNP
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+sub-CL
+V-O-ADV
+PrepNp
+DetNP
+ADV-V
+notCLbutCL
+238570	NpaNp
+238572	ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+CLaCL
+V-ADV
+PrepNp
+238582	ADV-V-ADV
+PrepNp
+238585	CLaCL
+ADV-ADV-V-ADV-ADV
+PrepNp
+AdjpNp
+PrepNp
+V-O
+238592	V-ADV-ADV
+PrepNp
+NpNump
+238596	Conj-CL
+238598	NPofNP
+DetNP
+sub-CL
+ADV-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+238607	Conj-CL
+ClCl2
+O-V-IO
+ClCl2
+V2CL
+238613	ADV2CL
+PrepNp
+DetNP
+ADV-V
+238618	ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+DetNP
+238625	DetNP
+238627	Conj-CL
+V-ADV-ADV
+BeVerb
+DetNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NpPp
+PrepNp
+238638	Conj-CL
+CLaCL
+238641	VerbBe
+that-VP
+S-ADV-V-O
+DetCL
+V-O-ADV
+NP-CL
+DetNP
+O-ADV-V
+238650	V-ADV-O
+PrepNp
+DetNP
+238654	ADV-ADV-ADV-V-ADV-ADV-ADV
+PrepNp
+AdjpNp
+PrepNp
+PrepNp
+V-O
+AdvpNp
+238662	Conj-CL
+V-ADV
+PrepNp
+238666	Conj-CL
+CLaCL
+V-IO-O
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+DetNP
+238676	PrepNp
+DetCL
+V2CL
+PtclCL
+PtclCL
+ADV-V
+PrepNp
+Conj2VP
+238686	Conj-CL
+ADV-S-ADV-V-O
+Np-Appos
+NpPp
+PrepNp
+P-VC
+V2CL
+238694	Conj-CL
+ADV2CL
+PrepNp
+DetNP
+NP-CL
+NP-CL
+AdjpNp
+238702	V-O
+DetNP
+NP-CL
+NPofNP
+O-V-ADV
+PrepNp
+Np-Appos
+sub-CL
+O-V
+238712	ADV-ADV-ADV-V-ADV
+PrepNp
+DetNP
+S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+238721	Conj-CL
+ClCl
+ADV2CL
+PrepNp
+DetCL
+V-O
+VC-P
+ClCl
+ClCl
+S-ADV-ADV-V
+P-ADV-VC
+O-S-ADV-V
+NPofNP
+DetNP
+sub-CL
+IO-S-O-V
+DetCL
+V2CL
+238740	Conj-CL
+238742	CLaCL
+ClCl
+238745	V2CL
+238747	DetNP
+NPofNP
+DetNP
+sub-CL
+S-O
+DetNP
+sub-CL
+S-V-ADV-ADV
+DetCL
+V-ADV-ADV
+PrepNp
+NPofNP
+DetNP
+AdvpNp
+PrepNp
+DetNP
+238764	V-O
+Np-Appos
+DetNP
+DetCL
+V-IO
+Np-Appos
+Conj3Np
+238773	DetCL
+V-O
+P-VC
+NPofNP
+NpaNp
+238779	sub-CL
+CLaCL
+S-ADV
+PrepNp
+DetNP
+238785	S-ADV
+PrepNp
+DetNP
+238790	ClCl
+that-VP
+O-V
+DetAdj
+ADV-ADV-V-O
+O-V
+PronNP
+238798	Conj-CL
+ClCl
+ClCl2
+sub-CL
+V-S-ADV
+PrepNp
+ADV-O-V
+PrepNp
+sub-CL
+V2CL
+VerbBe
+238810	Conj-CL
+CLaCL
+ADV-ADV-V
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+PrepNp
+DetNP
+238821	sub-CL
+V2CL
+Conj2VP
+238825	V-O
+V-O
+NpPp
+PrepNp
+238830	Conj-CL
+ClCl
+V-ADV-S
+AdvpNp
+DetNP
+AdjpNp
+sub-CL
+S-V-ADV
+AdvpNp
+ofNPNP
+DetNP
+238842	Conj-CL
+ClCl2
+sub-CL
+238846	V2CL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+238853	DetNP
+PrepNp
+ClCl2
+sub-CL
+S-ADV-ADV-V
+P-VC
+ADVaADV
+238861	2Advp_h2
+ADV-V-O
+S-V
+DetNP
+238866	CLaCL
+CLaCL
+S-ADV-P
+238870	ADV-ADV-P
+PrepNp
+238873	ClCl
+238876	that-VP
+238878	PrepNp
+NPofNP
+sub-CL
+ADV-ADV
+PrepNp
+NPofNP
+Np-Appos
+AdvpNp
+PrepNp
+Np-Appos
+sub-CL
+CLaCL
+V-ADV
+PrepNp
+NPofNP
+238894	ADV-ADV
+PrepNp
+NPofNP
+sub-CL
+ADV-ADV-V-S
+PrepNp
+NPofNP
+All-NP
+238903	Conj-CL
+238905	sub-CL
+ADV-V-S-O
+V-O
+V-ADV
+PrepNp
+AdvpNp
+S-P
+ofNPNP
+238914	ADV-V
+238916	Conj-CL
+ClCl2
+sub-CL
+238920	O-V
+O2-O-V
+238923	Conj-CL
+238925	PrepNp
+sub-CL
+ADV-V
+238929	ADV-V
+238931	Conj-CL
+CLaCL
+V-ADV-S
+238935	V-ADV-S
+PrepNp
+238938	Conj-CL
+O-V-ADV
+O-ADV-V-ADV
+PrepNp
+PrepNp
+Np-Appos
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+CLaCL
+V-O
+238953	V-O-ADV
+PrepNp
+238956	ADV-V-O
+DetNP
+NPofNP
+DetNP
+238961	Conj-CL
+ClCl2
+sub-CL
+P-S
+PrepNp
+ADV-S-ADV-V
+238969	Np2CL
+intjNP
+AdjpNp
+S-O-V
+PrepNp
+Np-Appos
+V2CL
+238977	ClCl
+V-O
+O-V-ADV
+NpAdjp
+PrepNp
+O-V-ADV
+Conj2Pp
+PrepNp
+NPofNP
+DetNP
+238988	PrepNp
+NPofNP
+238991	ADV-P-VC
+238993	ADV-ADV-ADV-V
+V-ADV
+238997	sub-CL
+ADV-ADV-P
+239000	Conj-CL
+239002	DetCL
+CLaCL
+V-IO-O
+DetNP
+239007	V-O-ADV
+PrepNp
+Conj2Pp
+PrepNp
+NPofNP
+239013	PrepNp
+NPofNP
+sub-CL
+CLaCL
+S-V-O
+DetNP
+239020	V-IO-ADV
+PrepNp
+239023	Conj-CL
+239025	that-VP
+239027	Np2CL
+NpPp
+PrepNp
+NPofNP
+239032	Conj-CL
+239035	DetNP
+that-VP
+ADV-V-O-S
+PrepNp
+DetNP
+DetNP
+DetNP
+that-VP
+V-ADV-S
+PrepNp
+All-NP
+DetNP
+239048	Conj-CL
+S-V-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+AdjpNp
+239056	Conj-CL
+S-P-VC
+S-P-VC
+PrepNp
+NPofNP
+PrepNp
+239063	Conj-CL
+239065	that-VP
+P-S
+All-NP
+S-ADV-V-ADV-ADV
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetCL
+V-O
+239079	Conj-CL
+239081	that-VP
+ADV-S-V-ADV
+PrepNp
+PrepNp
+DetNP
+sub-CL
+S-ADV-V
+DetAdj
+PrepNp
+239091	Conj-CL
+CLaCL
+S-ADV-VC-P
+DetNP
+PrepNp
+239097	S-V-ADV
+DetCL
+V-O
+PrepNp
+239102	ClCl
+ClCl
+239105	PrepNp
+DetNP
+NPofNP
+DetNP
+VC-ADV-P
+PrepNp
+sub-CL
+239113	P-S
+All-NP
+DetCL
+V-ADV
+PrepNp
+sub-CL
+ADV-S-V-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+sub-CL
+O-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+239136	Np2CL
+PrepNp
+239139	ADV-O-S-V
+ofNPNP
+AdjpNp
+V2CL
+Conj2VP
+239146	Conj-CL
+V-S-IO
+NpaNp
+DetNP
+DetNP
+239152	DetNP
+NPofNP
+239155	notCLbutCL2CL
+ClCl
+239158	Np2CL
+ConjNp
+239161	DetNP
+sub-CL
+ADV2CL
+PrepNp
+239166	sub-CL
+ADV2CL
+PrepNp
+Np2CL
+ConjNp
+239172	DetNP
+NPofNP
+S-VC-P
+239176	Conj-CL
+239178	O-S-ADV-V-ADV
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+DetNP
+AdjpNp
+ADV-V
+PrepNp
+NumpNP
+Conj2Nump2
+PrepNp
+DetCL
+V-O
+DetNP
+239194	Conj-CL
+ClCl2
+sub-CL
+P-S
+PrepNp
+DetNP
+ADV-P
+PrepNp
+239203	Conj-CL
+IO-ADV-V-S
+DetNP
+PrepNp
+DetNP
+239209	Conj-CL
+ADV-S
+DetNP
+239213	ADV-V-ADV-ADV
+NP-Prep
+DetNP
+PrepNp
+PtclCL
+V-S
+NP-CL
+DetNP
+IO-V
+V-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+239227	Conj-CL
+CLaCL
+S-P-ADV-VC
+DetNP
+239232	S-P-VC
+DetNP
+239235	Conj-CL
+S-P
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+239243	ADV-V
+239245	Conj-CL
+ClCl2
+sub-CL
+V-S
+Np-Appos
+DetCL
+V-O
+V2CL
+PtclCL
+ADV-P-VC-S
+PrepNp
+DetNP
+239258	Conj-CL
+239260	DetNP
+DetAdj
+PrepNp
+sub-CL
+S-ADV-V-IO
+DetNP
+PrepNp
+NPofNP
+Np-Appos
+DetCL
+V2CL
+239272	Conj-CL
+ADV-ADV-V-ADV
+PrepNp
+DetCL
+V-S
+DetNP
+PrepNp
+V-ADV
+PrepNp
+DetNP
+AdjpNp
+V-O
+V2CL
+239286	Conj-CL
+239288	DetNP
+NPofNP
+PrepNp
+sub-CL
+ADV-V
+PrepNp
+239295	Conj-CL
+239297	V-S
+DetNP
+PrepNp
+239301	Conj-CL
+S-P-VC-ADV
+NPofNP
+PrepNp
+DetNP
+NpPp
+PrepNp
+Np-Appos
+239310	Conj-CL
+S-O-V
+S-ADV-V
+PrepNp
+239315	ClClCl
+P-VC-S
+NpaNp
+239319	P-VC-S
+NpaNp
+239322	P-VC-S
+NpaNp
+239326	Conj-CL
+S-P-VC-ADV
+All-NP
+PrepNp
+Np-Appos
+239332	Conj-CL
+ClCl2
+sub-CL
+S-P
+PtclCL
+ClCl
+P-VC
+ofNPNP
+DetNP
+ADV-P
+PrepNp
+239344	Conj-CL
+239346	CLaCL
+ADV-O-V-ADV-ADV
+ADV-S-P-VC
+PrepNp
+AdjpNp
+DetNP
+P-VC
+NPofNP
+239355	P-VC-ADV
+PrepNp
+NpaNp
+239359	PrepNp
+DetNP
+NPofNP
+DetNP
+239364	ADV-S-ADV-ADV-V
+AdvpNp
+sub-CL
+VC-P
+PrepNp
+DetNP
+NPofNP
+DetNP
+BeVerb
+239374	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+ClCl
+239383	DetNP
+DetNP
+NPofNP
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+sub-CL
+O-V
+NpPp
+PrepNp
+sub-CL
+O-V
+DetNP
+239398	Conj-CL
+ClCl2
+sub-CL
+VC-P
+V-S-O-ADV-ADV
+DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+239412	Np2CL
+Np-Appos
+DetNP
+239416	Conj-CL
+VC-P
+notNPbutNP
+239420	Conj-CL
+239422	sub-CL
+P2CL
+AdvpNp
+PrepNp
+239427	Conj-CL
+aCLaCL
+239430	ADV-ADV-V-O
+ADV-V-O
+DetCL
+ADV-ADV-VC-P
+239435	ADV-ADV-ADV-V-ADV-ADV
+CLaCL
+V-O
+239439	ADV-V-ADV
+PrepNp
+PrepNp
+NP-CL
+DetNP
+AdjpNp
+AdjpaAdjp
+239447	O-V
+O-ADV-V
+2Advp_h1
+239451	V-O
+Conj4Np
+239458	PtclCL
+PtclCL
+ADV-V-ADV
+PrepNp
+239463	ClCl
+ClCl
+ClCl
+V2CL
+sub-CL
+S2CL
+sub-CL
+ClCl
+S2CL
+sub-CL
+S2CL
+239475	Np2CL
+239477	ADV-O-V
+239479	Conj-CL
+239481	that-VP
+CLaCL
+ADV-V-IO-ADV
+PrepNp
+NPofNP
+DetNP
+DetAdj
+239489	notCLbutCL2CL
+O-V
+DetNP
+NpPp
+NPofNP
+PrepNp
+DetNP
+NPofNP
+Conj2VP
+239500	sub-CL
+O2CL
+NPofNP
+sub-CL
+O2CL
+Np-Appos
+239507	Conj-CL
+P-S
+DetNP
+NPofNP
+239512	Conj-CL
+239514	that-VP
+239516	sub-CL
+P2CL
+O-V
+DetNP
+NPofNP
+239522	Conj-CL
+P-VC-ADV
+NPofNP
+V-IO
+239527	CLaCL
+V-O-ADV-ADV
+239531	V-O
+sub-CL
+O-V
+239535	Conj-CL
+239537	V-ADV-ADV
+PrepNp
+ADVaADV
+239541	ADV-ADV-ADV
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+Np2CL
+NP-CL
+NPofNP
+O-ADV-V-ADV
+PrepNp
+ADV-V-S-ADV
+PrepNp
+239554	Conj-CL
+ClCl
+V-O
+CLaCL
+V-ADV-ADV
+PrepNp
+239561	V-O
+DetNP
+NPofNP
+sub-CL
+V-ADV
+PrepNp
+239568	ClCl
+239570	Np2CL
+DetCL
+O-V
+P-VC
+PrepNp
+O-ADV-V
+DetNP
+239578	Conj-CL
+239580	that-VP
+S-V-O
+Np-Appos
+NumpNP
+NpaNp
+NpPp
+PrepNp
+DetNP
+239589	NpPp
+PrepNp
+DetAdj
+239593	Conj-CL
+239596	S-ADV-V
+NpPp
+PrepNp
+DetNP
+PrepNp
+239602	S-ADV
+NpPp
+PrepNp
+DetAdj
+PrepNp
+DetNP
+S-VC-P
+V2CL
+239611	Conj-CL
+S-VC-P
+NumpNP
+239615	aCLaCL
+239617	CLaCL
+239619	PrepNp
+NPofNP
+ADV-V
+PrepNp
+S-VC-P
+239625	ClCl
+CLaCL
+S-P-VC-ADV
+DetNP
+Np-Appos
+PrepNp
+DetNP
+239633	V-ADV
+DetNP
+AdjpNp
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+239643	DetNP
+AdvpNp
+S-VC-P
+NPofNP
+239648	Conj-CL
+239650	ClCl
+ClCl
+239653	Np2CL
+Np-Appos
+DetCL
+ADV-V
+239658	V2CL
+239660	V2CL
+Np2CL
+DetCL
+ADV-V
+sub-CL
+CLaCL
+P-S-ADV
+DetNP
+NPofNP
+DetAdj
+239671	S2CL
+DetCL
+V-O
+DetNP
+239676	Conj-CL
+239678	Np2CL
+PrepNp
+ofNPNP
+239682	Conj-CL
+239684	sub-CL
+ADV-S-V-O
+DetCL
+ADV-V
+PrepNp
+NpPp
+PrepNp
+239692	Conj-CL
+239694	DetNP
+ClCl
+V-O
+NpaNp
+DetNP
+239700	DetNP
+NPofNP
+sub-CL
+ADV-V-S-ADV
+2Advp_h1
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetAdj
+239713	Conj-CL
+239715	Np2CL
+notNPbutNP
+ofNPNP
+DetAdj
+239720	ADV-O-S-V
+DetNP
+239723	Conj-CL
+CLaCL
+V2CL
+239727	ADV-ADV-ADV-V
+NPofNP
+239731	Np-Appos
+that-VP
+239734	sub-CL
+V2CL
+239737	Conj-CL
+239739	All-NP
+NpAdjp
+V2CL
+that-VP
+P-VC-ADV
+O-V
+All-NP
+DetNP
+239749	PrepNp
+S-ADV-V
+PrepNp
+ADV-V
+DetNP
+239755	Conj-CL
+S-ADV-ADV-O-V
+PrepNp
+NPofNP
+239760	Conj-CL
+ADV-V
+PrepNp
+Np-Appos
+notCLbutCL
+S-O-V
+NpaNp
+239768	S2CL
+NpAdjp
+ADV-V
+PrepNp
+239773	V-ADV
+239775	S-V-O
+S-ADV-ADV-V
+239778	S-ADV-P
+DetNP
+PrepNp
+DetCL
+V-O
+239784	S-O-V
+AdjpNp
+All-NP
+DetNP
+239790	PrepNp
+PrepNp
+that-VP
+O-V
+AdjpNp
+239796	Conj-CL
+239798	DetCL
+V-O
+DetNP
+PtclCL
+P-VC
+239804	Conj-CL
+239806	sub-CL
+S-O-ADV-V
+Np2CL
+ADV-ADV-V
+239811	Conj-CL
+V-S
+DetNP
+NPofNP
+DetNP
+239817	ClCl
+V2CL
+ADV-V-S
+DetCL
+V-O
+239823	Conj-CL
+239825	PrepNp
+Np2CL
+239828	notCLbutCL2CL
+2Advp_h2
+O-ADV
+DetNP
+PrepNp
+NpAdvp
+DetNP
+ADV-V-O
+PrepNp
+DetNP
+239839	Conj-CL
+S-V-ADV
+DetNP
+All-NP
+2Pp
+PrepNp
+AdjpNp
+PrepNp
+NP-CL
+239849	DetNP
+NPofNP
+sub-CL
+O2CL
+239854	Conj-CL
+239856	sub-CL
+O-V
+Conj2VP
+239860	V2CL
+PtclCL
+ADV-V
+PrepNp
+239865	Conj-CL
+239867	CLaCL
+ADV-V
+239870	O-ADV-V
+NPofNP
+2Advp_h1
+239874	Conj-CL
+CLaCL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+239881	S-ADV
+DetNP
+PrepNp
+DetNP
+239886	Conj-CL
+239888	sub-CL
+AdvpCL
+239891	PtclCL
+O-V
+239894	Conj-CL
+ClCl2
+sub-CL
+ADV-V
+ADV-VC-P
+PrepNp
+239901	Conj-CL
+P-VC-S
+NP-CL
+DetNP
+NPofNP
+DetNP
+S-VC-P
+NP-CL
+NpNpNpNpNpNpNpNpNpNpNpNpNpNpNpAndNp
+239911	DetAdj
+AdjpDative
+239914	O-V-IO
+239916	that-VP
+S-O-ADV-V
+DetCL
+O-V
+DetNP
+NPofNP
+239923	ClCl
+Conj-CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+NpNpNpNpNpNpNpNpNp
+P-ADV-VC-S
+PrepNp
+DetNP
+239934	Conj-CL
+S-O-V-ADV
+NPofNP
+DetNP
+Np-Appos
+DetNP
+PrepNp
+NpaNp
+DetNP
+239944	DetNP
+239947	sub-CL
+V-ADV
+239950	ADV-VC-P-ADV-ADV
+O-V
+O-V
+239955	Np2CL
+sub-CL
+ADV-V-S-ADV
+PrepNp
+AdjpNp
+S-V-O-ADV-ADV
+Np-Appos
+DetAdj
+DetNP
+PrepNp
+NPofNP
+239967	PtclCL
+S-V
+AdvpNp
+239971	CLaCL
+O-V
+ofNPNP
+DetNP
+239976	ADV-V-O
+DetNP
+NPofNP
+DetNP
+239981	Conj-CL
+ClCl2
+sub-CL
+V-S-O-ADV
+VC-P
+P-VC
+V-O
+239989	Conj-CL
+CLaCL
+O-V-S
+DetNP
+NPofNP
+239995	CLaCL
+ADV-ADV-ADV-O-V
+PrepNp
+DetNP
+240000	ADV-ADV
+PrepNp
+DetAdj
+240004	Conj-CL
+S-O-V
+DetNP
+AdjpNp
+240009	Conj-CL
+V-S-ADV-ADV
+DetCL
+V-O
+DetNP
+DetCL
+V2CL
+PrepNp
+All-NP
+240020	S-ADV-V
+240022	Conj-CL
+240024	PtclCL
+O-V-S
+sub-CL
+CLaCL
+S-ADV-V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+240037	S-ADV-V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NpAdjp
+240046	Conj-CL
+O-ADV-V
+O-V
+DetAdj
+240051	Conj-CL
+ADV-V-ADV
+NpAdjp
+ADV-V
+240056	Conj-CL
+Conj-CL
+ClCl2
+sub-CL
+O-V
+CLaCL
+V-O-ADV
+DetAdj
+PrepNp
+240066	ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+240072	ClCl
+V2CL
+ADV-IO-V-ADV
+AdjpNp
+DetNP
+AdjpNp
+240081	S-V-O
+V-ADV
+PrepNp
+S-V
+ADV-ADV-ADV-V
+DetNP
+NPofNP
+DetNP
+240090	Conj-CL
+notCLbutCL2CL
+S-O-V
+NpPron
+DetCL
+V2CL
+ClCl
+V-O
+S-V
+sub-CL
+ADV-V
+PrepNp
+DetNP
+AdjpNp
+240105	Conj-CL
+240107	V2CL
+sub-CL
+ADV-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+240118	ADV-IO-S-V
+PrepNp
+240121	Conj-CL
+P-VC-S
+notNPbutNP
+NpaNp
+240126	AdjpNp
+240128	Conj-CL
+240130	S-ADV-V
+NP-Demo
+DetNP
+NpaNp
+Conj2Pp
+PrepNp
+240138	PrepNp
+DetNP
+NPofNP
+DetNP
+240143	ClCl
+ADV-O-IO-S-V
+DetAdj
+sub-CL
+S-O-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+240156	DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+PrepNp
+DetNP
+NPofNP
+Np2CL
+Intj2CL
+240168	S-IO
+Np-Appos
+NpPp
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+DetNP
+NpaNp
+Np-Appos
+DetCL
+VC-P
+PrepNp
+240182	NpPp
+PrepNp
+Np-Appos
+240186	IO-S-ADV
+NpaNp
+240189	PrepNp
+NpaNp
+Np-Appos
+NPofNP
+240194	Np-Appos
+Np-Appos
+240197	P-S
+Np-Appos
+DetNP
+NPofNP
+NpaNp
+240203	Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetCL
+ClCl
+V-O-ADV-ADV-ADV
+PrepNp
+All-NP
+NpAdjp
+PrepNp
+DetAdj
+PrepNp
+sub-CL
+V-O-ADV-ADV-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+VC-S-P-ADV-ADV
+AdjpaAdjp
+240224	PrepNp
+PrepNp
+V-O-ADV-ADV-ADV-ADV-ADV
+PrepNp
+PrepNp
+Np-Appos
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+NPofNP
+DetNP
+NP-CL
+NPofNP
+O2-V-O-ADV
+PrepNp
+DetCL
+V2CL
+240247	ADV-V-O-ADV
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+NPofNP
+O-V-ADV-ADV-ADV-ADV
+PrepNp
+PrepNp
+All-NP
+NpaNp
+240270	V-IO-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NP-CL
+NPofNP
+O-V-ADV-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+ClCl
+V-O-ADV
+DetAdj
+PrepNp
+DetNP
+O-ADV
+NpaNp
+NpPp
+PrepNp
+DetNP
+240297	NpPp
+PrepNp
+DetNP
+PrepNp
+240302	ADV-ADV-V-ADV-ADV
+PrepNp
+V-ADV
+PrepNp
+NPofNP
+DetCL
+O-V-ADV
+DetAdj
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-ADV-S
+Np-Appos
+PrepNp
+NPofNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+240327	ADV-S-ADV-ADV-V-ADV-ADV-ADV
+PrepNp
+AdvpNp
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-ADV-V
+PrepNp
+NP-CL
+DetNP
+NPDetAdj
+NPofNP
+DetNP
+DetAdj
+S-VC-P
+NPofNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+240359	ADV-S-ADV-ADV-V-O-ADV
+PrepNp
+V-O
+NpaNp
+DetNP
+NpPp
+PpNp2Np
+PrepNp
+PrepNp
+DetNP
+Np-Appos
+240371	Np-Appos
+DetNP
+NpPp
+PrepNp
+All-NP
+DetAdj
+V-ADV
+PrepNp
+240380	PrepNp
+DetNP
+NPofNP
+sub-CL
+240385	Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+NpaNp
+240398	PrepNp
+NPofNP
+V-S-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-S-O-ADV
+2CLaCL
+P-VC-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+P-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NpPp
+NPofNP
+PrepNp
+DetAdj
+240425	P-S
+DetNP
+NPofNP
+AdjpNp
+V2CL
+DetNP
+NpPp
+NPofNP
+PrepNp
+Np-Appos
+DetCL
+V2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+240445	O-V-ADV-ADV
+PrepNp
+DetNP
+CLaCL
+V-O-ADV
+PrepNp
+240452	V-ADV-ADV-ADV-ADV
+PrepNp
+NPofNP
+PrepNp
+DetAdj
+PrepNp
+NpaNp
+All-NP
+Conj4Np
+240465	All-NP
+NpAdjp
+V2CL
+notPPbutPP
+2Advp_h1
+PrepNp
+NP-Demo
+DetNP
+AdvPp
+PrepNp
+DetCL
+V2CL
+240478	Conj-CL
+CLaCL
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+240485	O-V-O2-IO
+NpPp
+PrepNp
+NP-CL
+DetNP
+S-VC-P
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetCL
+O-ADV-V
+DetAdj
+PrepNp
+240501	Conj-CL
+240503	S-VC-P-ADV
+NPofNP
+NpaNp
+DetNP
+240508	DetNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+NP-Demo
+DetNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+Np-Appos
+DetNP
+DetCL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+240531	CLaCL
+ADV-S-V-ADV-ADV-ADV
+PrepNp
+AdvpNp
+NP-all
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+V-O
+DetNP
+NPofNP
+NpaNp
+DetNP
+240547	DetNP
+240550	NPofNP
+sub-CL
+S2CL
+AdvpNp
+DetAdj
+240556	Conj-CL
+CLaCL
+ClCl
+S-ADV-ADV-ADV-V-ADV
+DetNP
+P-VC-ADV
+PrepNp
+PrepNp
+DetNP
+NP-CL
+NPofNP
+AdjpNp
+ADV-V-O
+ADV-VC-S-P-ADV
+DetNP
+DetNP
+ADV-V
+BeVerb
+240575	ClCl
+CLaCL
+V2CL
+240579	V-ADV-ADV
+PrepNp
+DetAdj
+PrepNp
+Np-Appos
+sub-CL
+V-ADV-O
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+DetNP
+NPofNP
+AdjpNp
+V2CL
+DetNP
+NpPp
+NPofNP
+PrepNp
+NpPp
+NpPp
+PrepNp
+PrepNp
+Np-Appos
+240605	Conj-CL
+ADV-V-ADV
+DetNP
+BeVerb
+PrepNp
+240611	Conj-CL
+ClCl
+S-ADV-P
+PrepNp
+P2CL
+ofNPNP
+DetNP
+240619	ClCl
+ADV-P
+PrepNp
+sub-CL
+ADV-S-V
+240625	Conj-CL
+VC-P-ADV
+ofNPNP
+V-ADV-ADV
+PrepNp
+Np-Appos
+PrepNp
+NP-CL
+NpAdjp
+240635	O-V-S
+DetNP
+ADV-V
+PrepNp
+240640	Conj-CL
+ClCl
+V2CL
+240644	that-VP
+ADV-S
+Np-Appos
+Np-Appos
+NpPp
+DetNP
+PrepNp
+DetCL
+VC-P-ADV
+PrepNp
+DetCL
+VC-P
+NpAdjp
+NpPp
+PrepNp
+VC-ADV-ADV-P
+NP-Demo
+DetNP
+PrepNp
+AdjpAdjp
+AdjpaAdjp
+V-ADV
+DetNP
+NPofNP
+DetNP
+240670	AdjpofNp
+DetNP
+NPofNP
+DetNP
+AdjpaAdjp
+O-ADV-V
+240677	AdjpPp
+PrepNp
+DetNP
+240681	Conj-CL
+ADV-ADV-S-VC-P-ADV
+PrepNp
+Np-Appos
+Np-Appos
+DetCL
+ADV-VC-P
+PrepNp
+DetNP
+NPofNP
+DetNP
+240693	Conj-CL
+S-VC-P-ADV
+Np-Appos
+DetNP
+NPofNP
+DetCL
+CLaCL
+V-O-O2
+DetAdj
+240703	O-V-ADV
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+240713	DetNP
+NPofNP
+DetNP
+NpPp
+PrepNp
+sub-CL
+CLaCL
+O-V-ADV-ADV-ADV
+DetNump
+PrepNp
+PrepNp
+AdjpNp
+AdjpNp
+V-O
+240728	V-O-ADV-IO-ADV-ADV
+DetAdj
+PrepNp
+AdjpNp
+DetNP
+PrepNp
+DetNP
+V-O-ADV
+DetNP
+PrepNp
+240739	Conj-CL
+ClCl
+CLaCL
+ADV-V-O-IO
+V2CL
+Np-Appos
+DetAdj
+240747	O-IO
+DetNP
+sub-CL
+ADV-V-O-S-ADV-ADV
+PrepNp
+DetNP
+DetAdj
+PrepNp
+AdjpNp
+PrepNp
+DetNP
+240759	Conj-CL
+Conj-CL
+V-ADV
+notCLbutCL
+VC-P
+NpaNp
+240766	VC-P
+NpaNp
+NPofNP
+DetAdj
+240771	NPofNP
+DetNP
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+240780	VC-P-S
+NP-CL
+PronNP
+Np-Appos
+ADV-S-ADV-V-ADV-ADV
+PrepNp
+All-NP
+V2CL
+PrepNp
+NpAdjp
+PrepNp
+NP-CL
+ADV-S-V-ADV-ADV
+PrepNp
+AdvpNp
+PrepNp
+NPofNP
+DetNP
+PrepNp
+240801	ADV-S-P
+NP-Prep
+Np-Appos
+DetNP
+NpPp
+NPofNP
+DetNP
+Np-Appos
+PrepNp
+Np-Appos
+DetNP
+ClCl
+sub-CL
+PtclCL
+V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-IO-ADV
+PrepNp
+sub-CL
+240827	PrepNp
+DetNP
+sub-CL
+V-ADV
+PrepNp
+ADV-V-ADV-O
+PrepNp
+V2CL
+V-O
+DetNP
+NpPp
+NPofNP
+PrepNp
+NP-CL
+DetNP
+NPofNP
+DetNP
+240845	S-ADV-ADV-V-IO
+AdjpNp
+DetNP
+NPofNP
+DetNP
+ADV-V-IO-ADV-S
+DetNP
+NpaNp
+NPofNP
+AdjpNp
+240856	PrepNp
+VC-S-P-ADV-ADV
+DetNP
+Conj3Np
+240862	NPofNP
+DetNP
+PrepNp
+Np-Appos
+PrepNp
+DetNP
+P-VC-ADV
+ofNPNP
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-IO-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+240886	Np-Appos
+DetAdj
+AdjpofNp
+All-NP
+NP-Demo
+DetNP
+CLaCL
+IO-V-O
+DetNP
+DetNP
+NPofNP
+AdjpNp
+DetNP
+240900	V-O
+P-S
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+Np-Appos
+DetNP
+DetCL
+O-V
+DetAdj
+sub-CL
+V-ADV-IO-ADV-S-ADV
+NpPp
+NpaNp
+DetNP
+240922	DetNP
+PrepNp
+DetAdj
+PrepNp
+DetNP
+DetNP
+NPofNP
+AdjpNp
+DetNP
+PrepNp
+NP-CL
+NPofNP
+DetNP
+O-V-ADV
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+Np-Appos
+DetNP
+NPofNP
+ADV-V-O-ADV-ADV
+PrepNp
+DetNP
+NpaNp
+240948	PrepNp
+PrepNp
+DetNP
+NPofNP
+240953	Conj-CL
+V-O
+ADV-V-ADV
+PrepNp
+NP-CL
+DetNP
+NpPp
+NPofNP
+PrepNp
+S-VC-P
+NPofNP
+240966	NP-Prep
+DetNP
+NPofNP
+PrepNp
+NP-CL
+DetNP
+ADV-S-V
+PrepNp
+NpPp
+All-NP
+Conj2Pp
+PrepNp
+240979	PrepNp
+sub-CL
+240982	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-V-ADV-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+AdvpNp
+V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+ADV-V
+PrepNp
+Conj2VP
+241005	sub-CL
+241007	CLaCL
+V-ADV-O
+PrepNp
+All-NP
+DetAdj
+P-S
+DetNP
+Conj4Np
+241019	V-O
+DetNP
+AdjpNp
+V-ADV
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-ADV
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+241034	Conj-CL
+241036	Np2CL
+DetCL
+V-O
+V-ADV-ADV-ADV
+PrepNp
+All-NP
+O-V
+Conj2VP
+241045	PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+241056	PrepNp
+Np-Appos
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+Intj2CL
+241067	Conj-CL
+V-O-S-O2
+Np-Appos
+DetNP
+NpPp
+PrepNp
+ADV-V-ADV-ADV-ADV
+DetNP
+NP-CL
+ADV-V
+ADV-ADV-V-O-ADV
+PrepNp
+All-NP
+NpaNp
+241082	PrepNp
+PrepNp
+V-O
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+241094	ClCl
+P2CL
+NpaNp
+AdjpNp
+241099	AdjpNp
+sub-CL
+ADV-V-ADV
+PrepNp
+AdjpNp
+NPofNP
+DetNP
+NPofNP
+241108	P2CL
+NpNpNpNp
+AdjpNp
+AdjpNp
+AdjpNp
+Np-Appos
+AdjpNp
+NpaNp
+241117	NPofNP
+NpPp
+Conj3Pp
+PrepNp
+241122	PrepNp
+241124	PrepNp
+241126	Conj-CL
+IO-V-S-ADV
+NPofNP
+NpAdjp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+241138	Conj-CL
+241140	ClCl
+ADV-V-O
+V-ADV
+PrepNp
+V-O-IO
+DetNP
+241147	Conj-CL
+241149	DetCL
+V2CL
+sub-CL
+AdvpCL
+that-VP
+ADV-V-ADV
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+241161	S-VC-P
+NpPron
+DetCL
+V2CL
+AdvpNp
+DetCL
+241168	PrepNp
+All-NP
+DetNP
+sub-CL
+V-O
+DetAdj
+241175	Conj-CL
+241177	EitherOr4Np
+241179	DetNP
+241181	DetNP
+241183	DetNP
+241185	DetNP
+NpaNp
+241188	PrepNp
+DetNP
+NpPp
+NpPp
+NPofNP
+DetAdj
+PrepNp
+NPofNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+sub-CL
+241203	DetAdj
+PpPpPp
+PrepNp
+DetNP
+NPofNP
+NpaNp
+DetNP
+241211	DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpAdjp
+PrepNp
+NPofNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+ADV-VC-P
+AdjpAdjp
+V-ADV-ADV
+Conj2VP
+241231	All-NP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NpPp
+NPofNP
+DetNP
+PrepNp
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+241246	ADV-V-ADV-ADV
+V-ADV
+PrepNp
+PrepNp
+NP-CL
+Np-Appos
+NP-CL
+DetAdj
+S-VC-P
+DetNP
+ADV-S-ADV-O-V-ADV
+PrepNp
+All-NP
+DetNP
+V-ADV-ADV
+Conj2VP
+241263	PrepNp
+All-NP
+Np-Appos
+DetNP
+PrepNp
+NPofNP
+NpPp
+PrepNp
+Np-Appos
+NpAdjp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpPp
+NPofNP
+PrepNp
+241281	Conj-CL
+CLaCL
+O-V
+241285	V-ADV-O
+PrepNp
+ClCl
+ADV-S-V
+sub-CL
+ADV-S-V-ADV-ADV
+DetNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+241297	VerbBe
+DetNP
+V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+NP-CL
+S-ADV-O-V-ADV-ADV
+V2CL
+DetNP
+PrepNp
+NpPp
+NPofNP
+NP-all
+PrepNp
+241324	Conj-CL
+ClCl
+S-ADV-ADV-V-O
+DetNP
+sub-CL
+PtclCL
+CLaCL
+O-V
+241333	ADV-V-ADV-O
+PrepNp
+sub-CL
+VC-S-P
+PrepNp
+DetNP
+Conj3CL
+V-S-ADV-O
+PrepNp
+DetNP
+AdjpNp
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+241354	V-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+241360	V-O
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+ADV-V-ADV
+PrepNp
+PrepNp
+NPofNP
+NpaNp
+241371	DetNP
+241373	Conj-CL
+241375	V-O
+DetNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+VC-P
+ofNPNP
+241384	CLaCL
+V2CL
+241387	ADV-V
+241389	ClCl
+S-ADV-V-ADV
+DetNP
+PrepNp
+NPofNP
+ADV-V-O-IO
+DetAdj
+241397	CLaCL
+S-ADV-V
+DetCL
+V2CL
+241402	ClCl
+ADV-V-ADV
+V-ADV-O
+DetNP
+AdjpNp
+DetAdj
+sub-CL
+V-O
+V-IO
+DetCL
+O-V
+241414	CLaCL
+S-ADV-ADV-V
+All-NP
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+241422	ClCl
+sub-CL
+S-P-ADV
+PrepNp
+NPofNP
+DetNP
+sub-CL
+V-O-IO
+DetCL
+V2CL
+241433	Conj-CL
+ADV-V-O
+NP-CL
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+ADV-V-ADV
+PrepNp
+PrepNp
+NPofNP
+241446	S-V-ADV-ADV
+All-NP
+Conj5Np
+241453	PrepNp
+PrepNp
+All-NP
+241457	Conj-CL
+VC-ADV-P-ADV
+PrepNp
+AdjpAdjp
+241462	sub-CL
+S-ADV-V-O
+AdvpNp
+DetNP
+PrepNp
+241468	Conj-CL
+CLaCL
+241471	NPofNP
+DetNP
+sub-CL
+S2CL
+NpAdjp
+241478	PrepNp
+sub-CL
+CLaCL
+S-V-O
+AdvpNp
+DetNP
+241485	V-O-ADV-O2
+PrepNp
+NpPp
+NpAdvp
+NpaNp
+241491	DetNP
+PrepNp
+NPofNP
+241495	Conj-CL
+CLaCL
+CLaCL
+241499	Conj3Np
+241501	NP-all
+241503	PrepNp
+sub-CL
+V-ADV
+241507	S2CL
+NP-CL
+Conj3Np
+241512	S-ADV-V
+241514	ADV-S
+241516	Conj-CL
+O-V-ADV
+241519	that-VP
+S-ADV-V-O-ADV
+NP-CL
+All-NP
+Conj3Np
+241526	S-VC-P
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+241535	AdjpNp
+sub-CL
+ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+241547	Conj-CL
+ADV-VC-P
+NPofNP
+241551	Conj-CL
+CLaCL
+VC-ADV-P
+241555	ADV-P-ADV
+PrepNp
+241560	sub-CL
+S2CL
+NPofNP
+sub-CL
+S-P
+DetNP
+NPofNP
+DetNP
+PrepNp
+All-NP
+Conj3Np
+241573	V-O
+S-VC-P-ADV
+DetNP
+241577	Conj-CL
+ClCl
+CLaCL
+ADV-V-ADV
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+241587	ADV-ADV-V
+sub-CL
+S-P-VC-ADV
+DetCL
+ADV-V-ADV
+PrepNp
+ADV-V
+241595	Conj-CL
+241597	DetAdj
+V-ADV
+PrepNp
+DetNP
+sub-CL
+S-P-VC
+All-NP
+DetCL
+V2CL
+241607	Conj-CL
+241609	Conj3CL
+241611	Np2CL
+DetCL
+V2CL
+241615	V-ADV
+PrepNp
+DetAdj
+241619	V-ADV-S
+DetNP
+241622	Conj-CL
+241624	ClCl
+ADV-V
+notCLbutCL2CL
+sub-CL
+S2CL
+sub-CL
+S2CL
+V-O
+DetNP
+sub-CL
+S-P-VC
+DetNP
+241637	CLaCL
+ADV-ADV-VC-P
+PrepNp
+241641	V-O
+P-S
+DetNP
+NPofNP
+DetNP
+241647	Conj-CL
+notCLbutCL2CL
+V-ADV
+NP-CL
+P-VC-S
+PrepNp
+V-ADV-ADV
+PrepNp
+ClClClCl
+V-IO-ADV
+Conj3Np
+241660	NpAdjp
+V-ADV-IO
+Conj2VP
+241664	DetNP
+NPofNP
+DetNP
+V-ADV-ADV-ADV-O
+PrepNp
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NpaNp
+241678	V-IO-ADV
+PrepNp
+NPofNP
+241683	Np2CL
+DetNP
+DetNP
+AdjpNp
+sub-CL
+IO2CL
+DetNP
+sub-CL
+241692	NPofNP
+DetNP
+sub-CL
+ClCl
+S-P
+AdvpNp
+DetNP
+NPofNP
+DetNP
+S-P
+NPofNP
+DetNP
+241705	Conj-CL
+241707	sub-CL
+S-V-IO
+DetNP
+DetNP
+AdvpNp
+DetNP
+DetNP
+PrepNp
+241717	Np2CL
+DetNP
+V-O
+DetNP
+sub-CL
+CLaCL
+S-V-O
+AdvpNp
+DetNP
+DetNP
+241728	ClCl
+O-V-ADV
+PrepNp
+sub-CL
+241733	V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+sub-CL
+V-S-IO-O-O2
+AdjpAdjp
+DetNP
+V2CL
+notCLbutCL
+V-O
+Conj3Np
+241748	NPofNP
+DetNP
+that-VP
+VC-P
+AdjpaAdjp
+241756	AdvpNp
+DetNP
+V-O
+DetNP
+ofNPNP
+sub-CL
+O2CL
+DetNP
+ofNPNP
+241766	ClCl
+S-O-V
+DetCL
+V-O
+DetNP
+ofNPNP
+sub-CL
+CLaCL
+S-ADV-O-V
+DetNP
+ofNPNP
+241779	Conj2VP
+241781	sub-CL
+241783	AdvpNp
+DetNP
+DetNP
+sub-CL
+VC-P
+NPofNP
+DetNP
+NPofNP
+241792	CLaCL
+CLaCL
+ADV-V-S-O
+PrepNp
+NpaNp
+DetNP
+241799	DetNP
+241801	V-ADV
+PrepNp
+DetNP
+NPofNP
+241806	VC-S-P
+DetNump
+PrepNp
+NpAdjp
+241811	CLaCL
+S-P-VC
+NP-Demo
+DetNP
+241816	S-V-ADV
+Conj2Pp
+PrepNp
+241820	PrepNp
+DetNP
+241823	Conj-CL
+CLaCL
+241826	AdvpNp
+Np-Appos
+NpPp
+PrepNp
+DetNP
+ofNPNP
+sub-CL
+O2CL
+241836	DetNP
+that-VP
+V-O
+DetNP
+241841	ClCl
+241843	Np2CL
+DetNP
+DetNP
+NPofNP
+PrepNp
+sub-CL
+S-VC-P
+241851	ClCl
+241853	V-O
+NpaNp
+DetNP
+NPofNP
+241858	DetNP
+NpPp
+NpAdjp
+PrepNp
+sub-CL
+CLaCL
+P-ADV-VC
+241866	VC-P-ADV
+PrepNp
+DetNP
+241870	Conj-CL
+241872	Np2CL
+DetNP
+notCLbutCL
+V-O
+DetNP
+NPofNP
+V-O-ADV
+PrepNp
+NPofNP
+NpaNp
+241885	Np2CL
+DetNP
+ClCl
+V-O-ADV-ADV
+DetNP
+PpNp2Np
+PrepNp
+PrepNp
+NpaNp
+241895	PrepNp
+NPofNP
+DetNP
+NPofNP
+sub-CL
+O2CL
+DetNP
+notCLbutCL2CL
+ClCl
+ADV2CL
+PrepNp
+sub-CL
+S2CL
+ClCl2
+sub-CL
+S2CL
+NPofNP
+ADV-ADV-ADV
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+241919	PrepNp
+sub-CL
+CLaCL
+O2CL
+DetNP
+241925	ADV-O
+241927	that-VP
+241929	sub-CL
+S-O-V
+NpAdjp
+O-V-ADV
+PrepNp
+aCLaCL
+241936	P2CL
+241938	P2CL
+241940	Conj-CL
+241942	Np2CL
+DetNP
+DetNP
+PrepNp
+V-O
+DetNP
+241949	that-VP
+CLaCL
+S-VC-P
+ofNPNP
+aNpaNp
+241956	DetNP
+PrepNp
+241959	S-ADV-VC-P
+PrepNp
+241962	ADV-V-ADV
+DetAdj
+Conj2Pp
+PrepNp
+241967	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+241974	DetNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+V-S-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+sub-CL
+VC-S-P
+notPPbutPP
+AdvpNp
+DetNP
+PrepNp
+NpaNp
+241993	PpPpPpPp
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-Demo
+PrepNp
+DetNP
+NpPp
+NPofNP
+DetNP
+PrepNp
+DetAdj
+242012	PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-O
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+242025	ADV-V
+O-V
+242028	Conj-CL
+V-ADV-ADV
+Conj3CL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+242036	V-O
+DetNP
+NPofNP
+DetNP
+242041	V-O-ADV
+DetNP
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+ADV-V-O
+PrepNp
+NP-CL
+DetNP
+NPofNP
+DetNP
+ADV-V-O
+PrepNp
+O-V
+All-NP
+Np-Appos
+DetNP
+NPofNP
+DetAdj
+DetCL
+V2CL
+242065	Conj-CL
+V-O-ADV
+NP-CL
+NpaNp
+DetNP
+NPofNP
+DetAdj
+242073	DetNP
+NPofNP
+DetNP
+S-VC-P
+NPofNP
+CLaCL
+ADV-V-ADV-ADV
+PrepNp
+All-NP
+NpaNp
+242084	PrepNp
+All-NP
+PrepNp
+242089	PrepNp
+PrepNp
+All-NP
+NpaNp
+242094	Conj2Pp
+PrepNp
+All-NP
+DetAdj
+242099	PrepNp
+sub-CL
+242102	PrepNp
+NPofNP
+DetNP
+NPofNP
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+sub-CL
+242117	PrepNp
+sub-CL
+V-S
+S-V
+242122	Conj-CL
+ClCl2
+sub-CL
+V-S-O
+AdvpNp
+NP-CL
+NpPp
+PrepNp
+O-V
+O-V-IO-S
+NP-CL
+Np-Appos
+DetNP
+NpaNp
+AdjpNp
+242138	NpPp
+AdjpNp
+PrepNp
+242142	O-V-ADV-ADV
+PrepNp
+PrepNp
+PronNP
+CLaCL
+V-O
+NpPp
+PrepNp
+242151	V-O
+DetNP
+NPofNP
+242155	IO-S-ADV-ADV
+NpaNp
+DetNP
+242159	PrepNp
+PrepNp
+NpaNp
+Np-Appos
+242164	Np-Appos
+Np-Appos
+242167	S-P
+DetNP
+PrepNp
+All-NP
+DetCL
+V-O-ADV
+DetNP
+Np-Appos
+NPofNP
+Np-Appos
+PrepNp
+242179	S-IO
+Np-Appos
+NpaNp
+242183	NPofNP
+Np-Appos
+All-NP
+Np-Appos
+DetAdj
+AdjpPp
+PrepNp
+Np-Appos
+DetCL
+VC-P-ADV
+PrepNp
+PrepNp
+NpaNp
+242198	IO-S-ADV
+NpaNp
+242201	PrepNp
+NpaNp
+Np-Appos
+NPofNP
+242206	Np-Appos
+Np-Appos
+242210	DetNP
+NPofNP
+PrepNp
+All-NP
+DetNP
+NPofNP
+ADV-ADV-ADV-O-V
+PrepNp
+All-NP
+NpPp
+NPofNP
+PrepNp
+All-NP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NpPp
+NpPp
+NPofNP
+PrepNp
+DetNP
+2Pp
+PrepNp
+DetNP
+AdjpNp
+PrepNp
+DetNP
+242239	PronNP
+that-VP
+S-V-ADV
+DetAdj
+V-ADV-O
+PrepNp
+NpAdjp
+PrepNp
+NPofNP
+Np-Appos
+sub-CL
+VC-P-ADV-S-ADV
+O-V-ADV
+PrepNp
+All-NP
+PrepNp
+DetCL
+V-S-ADV-O-ADV-ADV
+PrepNp
+DetNP
+aPpaPp
+242261	PrepNp
+DetNP
+NPofNP
+242265	PrepNp
+DetNP
+NPofNP
+NpaNp
+242270	DetNP
+P-S-VC
+NPofNP
+NPofNP
+DetNP
+All-NP
+242277	Conj-CL
+242279	NPofNP
+DetNP
+PtclCL
+V-O-ADV
+All-NP
+PrepNp
+NPofNP
+Np-Appos
+242288	Conj-CL
+242290	that-VP
+242292	DetNP
+NPofNP
+ADVaADV
+242296	PrepNp
+NpaNp
+242299	All-NP
+PrepNp
+DetCL
+V-S-O
+DetCL
+V2CL
+sub-CL
+VC-P-ADV-ADV
+AdjpaAdjp
+242309	PrepNp
+NPofNP
+V-ADV-ADV
+Np-Appos
+NPofNP
+NpPp
+PrepNp
+Np-Appos
+PrepNp
+NPofNP
+NpaNp
+242322	Conj-CL
+242325	Np2CL
+that-VP
+S-ADV-ADV-V-ADV
+NpPp
+PrepNp
+PrepNp
+NPofNP
+DetNP
+sub-CL
+CLaCL
+S-P-ADV-VC-ADV
+DetNP
+NPofNP
+PrepNp
+PrepNp
+NpaNp
+All-NP
+DetNP
+242344	NP-all
+DetAdj
+242347	S-ADV-ADV-V-O
+DetNP
+NPofNP
+DetNP
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+ADV-O-V
+DetNP
+NPofNP
+DetNP
+242360	aCLaCL
+242362	S-ADV
+AdvPp
+PrepNp
+NpaNp
+242368	S-ADV-O-V
+AdvPp
+PrepNp
+DetNP
+242373	aCLaCL
+242375	S-ADV-ADV
+PrepNp
+242378	that-VP
+ADV-V
+PrepNp
+NPofNP
+DetNP
+242385	PrepNp
+DetNP
+ADV-ADV-ADV
+V-O
+O-V-ADV
+DetNP
+NPofNP
+242393	Conj-CL
+S2CL
+242396	Conj-CL
+that-VP
+CLaCL
+ADV-ADV-S-V
+All-NP
+aNpaNp
+242405	ADV-V
+PrepNp
+242408	Conj-CL
+ClCl
+ADV-V
+sub-CL
+242413	that-VP
+S-ADV-V-ADV-ADV-ADV
+PrepNp
+PrepNp
+NpaNp
+DetNP
+ofNPNP
+242421	NPofNP
+DetNP
+NPofNP
+Np-Appos
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+NpaNp
+242431	sub-CL
+CLaCL
+ADV-V
+PrepNp
+242436	ADV-ADV-ADV-ADV-V-S-ADV-ADV
+PrepNp
+All-NP
+2Advp_h2
+PrepNp
+DetNP
+NPofNP
+aPpaPp
+242445	PrepNp
+242447	PrepNp
+242449	Conj-CL
+CLaCL
+ADV-S-P
+DetCL
+V2CL
+242455	S-P
+DetCL
+V2CL
+242459	Conj-CL
+242461	sub-CL
+S2CL
+DetCL
+V-ADV
+PrepNp
+NPofNP
+242468	Conj-CL
+O-ADV-V
+O-V
+242472	Conj-CL
+ClCl
+V-ADV-ADV
+PrepNp
+DetNump
+O-V-ADV
+DetNP
+PrepNp
+DetCL
+CLaCL
+V2CL
+242484	P-VC
+PrepNp
+sub-CL
+ADV-ADV-P
+242489	Conj-CL
+S-P-ADV
+DetCL
+V-ADV
+DetNP
+PrepNp
+242496	Conj-CL
+242498	O-V
+that-VP
+242501	Conj2VP
+242503	All-NP
+PrepNp
+NpaNp
+DetNP
+ofNPNP
+242509	NPofNP
+DetNP
+sub-CL
+S-V-ADV-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+PrepNp
+PrepNp
+DetNP
+AdjpNp
+NpPp
+NpAdvp
+PrepNp
+242525	ClCl
+242527	DetNP
+NPofNP
+DetNP
+sub-CL
+242532	aCLaCL
+242534	CLaCL
+V2CL
+242537	V-O
+242539	V2CL
+NpPp
+PrepNp
+that-VP
+242544	PrepNp
+AdjpNp
+ADVaADV
+ADV-V-ADV
+AdjpNp
+DetNP
+NPofNP
+DetNP
+242553	ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetCL
+V2CL
+CLaCL
+CLaCL
+S-VC-ADV-P
+NPofNP
+242563	P2CL
+ofNPNP
+242566	S-P
+PrepNp
+sub-CL
+IO-V-S-ADV
+Np-Appos
+NpPp
+PrepNp
+notNPbutNP
+2Advp_h1
+DetCL
+ADV-V
+PrepNp
+AdvpNp
+DetCL
+ADV-V
+PrepNp
+V-O
+NP-CL
+DetNP
+PronNP
+CLaCL
+O-V-ADV
+PrepNp
+242590	ADV-V-ADV
+PrepNp
+242593	Conj-CL
+ClCl2
+ClClClCl
+sub-CL
+S-P
+AdjpNp
+PrepNp
+sub-CL
+S2CL
+AdjpNp
+NPofNP
+sub-CL
+S2CL
+AdjpNp
+NPofNP
+sub-CL
+S2CL
+AdjpNp
+NpaNp
+242614	V-O
+ofNPNP
+DetNP
+ClCl
+O-V-ADV-ADV-ADV
+DetNP
+O-V
+DetNP
+PronNP
+O-V
+DetAdj
+CLaCL
+O-ADV
+Conj2Pp
+PrepNp
+242630	PrepNp
+242633	DetNP
+V-ADV
+notCLbutCL2CL
+O-ADV-V
+NPofNP
+O-ADV
+AdvpNp
+NPofNP
+242643	O-V-ADV
+PrepNp
+S-ADV-P
+PrepNp
+Np-Appos
+CLaCL
+S-ADV-ADV-O2-V-O
+ADV-V
+PrepNp
+NPofNP
+DetCL
+VC-P-ADV
+242656	O-V-ADV-ADV
+O-V
+NPofNP
+P-VC
+PrepNp
+NPofNP
+242663	Conj-CL
+ADV-V-O-ADV
+242666	sub-CL
+S2CL
+VC-P-ADV
+PrepNp
+NpaNp
+242672	NPofNP
+242674	Conj-CL
+ClCl
+CLaCL
+S-O-V
+AdvpNp
+DetNP
+242681	V-IO-O
+Np-Appos
+DetNP
+NpPp
+PrepNp
+All-NP
+sub-CL
+CLaCL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+All-NP
+NPofNP
+Conj3Np
+242699	S-V-O-ADV
+All-NP
+that-VP
+P-S
+Np-Appos
+PrepNp
+NPofNP
+Np-Appos
+242708	Conj-CL
+242710	Np2CL
+NPofNP
+sub-CL
+ADV-V-ADV
+sub-CL
+notCLbutCL2CL
+P-ADV
+PrepNp
+DetNP
+NPofNP
+ADV-ADV-P
+AdjpAdvp2Advp
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NpaNp
+242728	DetNP
+ofNPNP
+242731	Conj-CL
+S-VC-P
+DetCL
+V-ADV-O
+PrepNp
+aNpaNp
+242738	DetCL
+V2CL
+242741	DetCL
+V-ADV
+PrepNp
+DetNP
+242747	PrepNp
+NpaNp
+242750	sub-CL
+VC-P-ADV
+Np-Appos
+AdjpaAdjp
+242755	NpAdjp
+NPofNP
+NPofNP
+NP-CL
+NpAdjp
+AdjpaAdjp
+242762	V2CL
+242764	ADV-V-ADV-ADV-ADV
+PrepNp
+sub-CL
+S2CL
+PrepNp
+O-V-ADV-ADV
+NPofNP
+PrepNp
+NpAdvp
+PrepNp
+NPofNP
+notCLbutCL2CL
+ADV-V
+PrepNp
+ADV-V
+PrepNp
+242781	Conj-CL
+ClCl2
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+242790	DetNP
+NPofNP
+CLaCL
+V2CL
+242795	V-ADV
+All-NP
+242798	Conj-CL
+CLaCL
+ADV-S-V
+DetNP
+AdvpNp
+242804	V-ADV
+242806	Conj-CL
+242808	PrepNp
+Np-Appos
+O-ADV-V-IO
+sub-CL
+S-V-ADV
+V-O
+NpPp
+PrepNp
+242817	Conj-CL
+ClCl
+242820	NpAdjp
+S-ADV-O-V
+NpPp
+PrepNp
+sub-CL
+ClCl
+S-O-V
+DetAdj
+NPofNP
+ADV-O
+NPofNP
+Np-Appos
+242833	Conj-CL
+242835	DetNP
+NPofNP
+sub-CL
+ClCl2
+sub-CL
+ADV-S
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+242846	Conj-CL
+aCLaCL
+242849	V-O
+O-V-ADV-ADV
+sub-CL
+PtclCL
+V-O
+NpPp
+PrepNp
+242858	PrepNp
+that-VP
+S-ADV-V
+AdvpNp
+242863	Conj-CL
+242865	O-V-ADV
+Np-Appos
+Conj3Np
+DetNP
+NPofNP
+Conj3Np
+242874	ofNPNP
+242876	NPofNP
+DetNP
+NPofNP
+PrepNp
+sub-CL
+CLaCL
+V-O
+VerbBe
+All-NP
+242886	ClCl
+V2CL
+sub-CL
+242890	that-VP
+V2CL
+242893	Conj-CL
+ADV-V-ADV
+AdjpDative
+242897	Conj-CL
+242899	DetNP
+NpaNp
+242902	notNPbutNP
+NpAdjp
+AdvpNp
+sub-CL
+ADV-O-ADV-V
+PrepNp
+242909	Conj-CL
+242911	sub-CL
+ClCl
+ADV-V
+V-O-ADV
+S-P-VC
+242917	Conj-CL
+ClCl
+CLaCL
+V-O-ADV-ADV
+PrepNp
+PrepNp
+All-NP
+242925	O-O2-V
+DetNP
+sub-CL
+242929	PrepNp
+DetNP
+NPofNP
+PrepNp
+V-ADV
+DetNP
+sub-CL
+V-O
+DetNP
+NPofNP
+ofNPNP
+DetNP
+PpNp2Np
+PrepNp
+242945	DetAdj
+Np2CL
+NPofNP
+PrepNp
+242950	S-P
+O-V-IO
+DetNP
+aCLaCL
+242955	ADV-ADV-P
+242957	ADV-P
+242959	ClClCl
+V-O
+DetNP
+V-O
+DetNP
+AdjpNp
+V-O
+DetNP
+242968	Conj-CL
+VC-P-S
+Np-Appos
+DetNP
+DetCL
+Conj3CL
+ADV-V
+NPofNP
+242977	V-ADV
+PrepNp
+Np-Appos
+242981	ADV-ADV-V-ADV
+PrepNp
+sub-CL
+S-V-O-ADV
+AdvPp
+PrepNp
+242988	ClCl2
+sub-CL
+S-V-O
+NpAdjp
+V-ADV
+PrepNp
+S-ADV
+242996	ClClClClClClCl
+ADV-P
+P2CL
+PrepNp
+NPofNP
+P2CL
+NPofNP
+P2CL
+NpPp
+PrepNp
+ADV-P
+PrepNp
+ADV-P
+PrepNp
+V-O
+DetNP
+ADV-VC-P
+PrepNp
+Np-Appos
+NpPp
+PrepNp
+243018	Conj-CL
+243020	S-VC-ADV-P
+PrepNp
+DetNP
+243024	Conj-CL
+PtclCL
+PtclCL
+PtclCL
+ClCl
+243030	S-P-VC
+PrepNp
+NPofNP
+DetCL
+V2CL
+DetNP
+NPofNP
+NP-CL
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+CLaCL
+ADV-O-V
+PrepNp
+DetAdj
+243047	V-O2
+sub-CL
+CLaCL
+O-V
+243052	V-ADV-ADV-ADV
+PrepNp
+V-O
+notNPbutNP
+Np-Appos
+AdjpNp
+NpPp
+PrepNp
+Np-Appos
+NpPp
+PrepNp
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+NpPp
+PrepNp
+DetNP
+DetCL
+V-O-ADV
+Conj3Np
+243074	DetNP
+NPofNP
+DetNP
+NPofNP
+243079	NPofNP
+NPofNP
+V-ADV
+DetNP
+NPofNP
+PtclCL
+PtclCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+243093	notCLbutCL2CL
+that-VP
+CLaCL
+ADV-V
+243098	ADV-V
+243100	PtclCL
+ADV-V-O
+ADV-ADV-V-ADV
+PrepNp
+PrepNp
+Np-Appos
+243108	Np2CL
+S-V
+243111	Conj-CL
+ClCl
+O2CL
+ADV-ADV-V-ADV
+aCLaCL
+243117	O-V
+DetNP
+243120	ADV-V
+DetNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+AdvpNp
+NpPp
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+243134	Conj-CL
+243136	S-P
+243138	Conj-CL
+ClCl2
+sub-CL
+O-ADV-V
+O-S-IO-V
+AdvpNp
+DetNP
+243146	Conj-CL
+243148	ADV2CL
+PrepNp
+O-V
+DetNP
+243154	P-VC
+NPofNP
+Np2CL
+243158	V-O
+DetCL
+ClCl
+ADV-V
+sub-CL
+V-O2-O
+243165	Conj-CL
+ClCl
+243168	S-V
+O-ADV-V-IO
+243171	ADV-ADV-ADV-V-O
+V2CL
+P2CL
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+S-P
+ofNPNP
+DetNP
+CLaCL
+S-P
+ofNPNP
+DetNP
+DetNP
+243188	S-P
+DetNP
+PrepNp
+DetNP
+NPofNP
+P2CL
+DetCL
+O-V
+DetAdj
+243198	Conj-CL
+243200	ofNPNP
+DetNP
+PrepNp
+ADV-ADV-V-O
+PrepNp
+NP-CL
+Np-Appos
+Np-Appos
+Np-Appos
+S-V-O-O2-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+AdjpDative
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetCL
+V-S-O
+ADV-V-IO-O
+DetAdj
+243227	Conj-CL
+243229	Np2CL
+Np-Appos
+NpAdjp
+NPofNP
+AdjpaAdjp
+243235	NPofNP
+NpaNp
+243238	PrepNp
+Np2CL
+243241	ClCl
+CLaCL
+O-V
+243245	O-V
+O-V-ADV
+DetNP
+PrepNp
+243251	Intj2CL
+243253	AdvpNp
+Np2CL
+AdjpNp
+V-ADV
+NP-CL
+S-ADV-V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+aNpaNp
+243265	DetNP
+AdjpNp
+NP-CL
+NPofNP
+S-P
+ofNPNP
+DetNP
+PrepNp
+NPofNP
+243275	V-ADV-ADV
+PrepNp
+243279	V2CL
+243281	S-V-IO
+DetNP
+NPofNP
+All-NP
+243286	S-P
+DetNP
+243289	CLaCL
+O-V
+243292	ADV-ADV-ADV-S-V-ADV
+PrepNp
+NpaNp
+DetNP
+243297	DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+243304	Conj-CL
+S-V-O-ADV
+Np-Appos
+DetNP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+All-NP
+NpaNp
+DetNP
+NPofNP
+243317	DetNP
+NPofNP
+PrepNp
+Np-Appos
+243323	DetAdj
+Np2CL
+243326	Np2CL
+NpNpNpNpNpNp
+S-VC-P
+S-P
+S-P
+S-P
+S-P
+S-P
+CLaCL
+sub-CL
+S-P
+243338	sub-CL
+S-P
+O-V
+243343	O-V-ADV
+EitherOr4Vp
+243349	PrepNp
+243351	Conj-CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+PrepNp
+243358	Conj-CL
+243360	PrepNp
+sub-CL
+243363	DetCL
+ADV-V
+PrepNp
+CLaCL
+ADV-ADV-V
+PrepNp
+243370	V2CL
+243373	that-VP
+ADV-V
+PrepNp
+sub-CL
+S-V-O
+ADV-P-VC
+P-VC
+PrepNp
+243383	ADV-V
+V-O
+ADV-V
+243387	ADV-V-ADV
+Conj2Pp
+PrepNp
+243391	PrepNp
+ClCl
+aCLaCL
+243395	V2CL
+243397	V2CL
+aCLaCL
+243400	V2CL
+243402	V2CL
+243404	O-V-ADV
+PrepNp
+DetCL
+V-O
+243409	Conj-CL
+ADV-V-ADV
+V-ADV
+ofNPNP
+DetNP
+243415	Conj-CL
+243418	AdvpNp
+Np2CL
+that-VP
+ClCl2
+243423	PrepNp
+NPofNP
+DetNP
+sub-CL
+V-ADV
+PrepNp
+AdjpNp
+PrepNp
+NPofNP
+NpaNp
+243434	sub-CL
+ADV-S
+NpAdjp
+sub-CL
+ADV-ADV-ADV-V
+AdvPp
+PrepNp
+aAdvpaAdvp
+243444	PrepNp
+DetNP
+NpAdvp
+243448	notCLbutCL2CL
+that-VP
+V-O
+DetNP
+V-O
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+NPofNP
+243460	Conj-CL
+CLaCL
+V-O
+243464	V2CL
+243466	V-ADV
+V-ADV-O
+PrepNp
+Np-Appos
+NpPp
+PrepNp
+NpNpNp
+NPofNP
+NpAdjp
+NpAdvp
+DetNP
+243478	Conj-CL
+S-V-O-ADV
+DetNP
+NPofNP
+All-NP
+NPofNP
+PrepNp
+DetNP
+NpPp
+NPofNP
+PrepNp
+NpPp
+PrepNp
+Np-Appos
+243493	Conj-CL
+243495	DetNP
+NPofNP
+NpaNp
+243499	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+243506	V-O-ADV
+All-NP
+PrepNp
+Np-Appos
+243511	V-O-S
+DetNP
+PpNp2Np
+PrepNp
+243516	CLaCL
+V-O-S
+All-NP
+DetAdj
+243521	ADV-S
+NpPp
+PrepNp
+DetNP
+ofNPNP
+243527	S-P
+DetNP
+NPofNP
+Np-Appos
+DetNP
+Np-Appos
+PrepNp
+DetNP
+NPofNP
+243537	S-IO
+NpaNp
+Np-Appos
+NpPp
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+243546	Np-Appos
+DetNP
+DetNP
+NpPp
+PpNp2Np
+PrepNp
+AdjpNp
+AdjpaAdjp
+243555	PrepNp
+243557	IO-S-ADV
+NpaNp
+243560	PrepNp
+Np-Appos
+NPofNP
+243565	Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+ADV-V
+PrepNp
+V-O-ADV
+NpaNp
+DetNP
+NpPp
+NPofNP
+PrepNp
+Np-Appos
+243582	DetNP
+NP-CL
+O-V-ADV
+PrepNp
+All-NP
+DetAdj
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+sub-CL
+ClCl
+ADV-V
+AdvPp
+PrepNp
+All-NP
+DetNP
+BeVerb
+Conj2VP
+243617	sub-CL
+243619	AdvPp
+PrepNp
+PrepNp
+NP-CL
+PronNP
+V2CL
+Conj2VP
+243627	V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+sub-CL
+V-ADV
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+AdjpNp
+S-VC-P
+Np-Appos
+AdjpNp
+PpNp2Np
+PrepNp
+NPofNP
+DetNP
+DetCL
+ADV-V-IO-O
+DetNP
+ofNPNP
+NpPp
+PrepNp
+243654	ADV-S-ADV-ADV-V-O
+PrepNp
+AdvpNp
+PrepNp
+ADV-V
+PronNP
+243661	PrepNp
+Conj2VP
+243664	that-VP
+V-ADV-ADV-ADV-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+All-NP
+NpaNp
+243674	NpAdjp
+V-ADV-ADV-ADV
+DetNP
+PrepNp
+All-NP
+ClClCl
+CLaCL
+ADV-V
+PrepNp
+All-NP
+NpAdjp
+243686	V-ADV
+DetNP
+NPofNP
+DetNP
+ADV-V-ADV-ADV
+PrepNp
+All-NP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+All-NP
+NpaNp
+243702	ADV-V-O
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+DetCL
+V-O-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetAdj
+PrepNp
+DetNP
+CLaCL
+S-V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+243724	V-ADV
+PrepNp
+DetNP
+NPofNP
+NP-CL
+NP-CL
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-V-O
+PrepNp
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+243742	S-VC-P
+Np-Appos
+NPofNP
+DetNP
+NPDetAdj
+DetAdj
+NPofNP
+All-NP
+ADV-V-S
+PrepNp
+Np-Appos
+DetNP
+NpPp
+Conj2Pp
+PrepNp
+DetNP
+243759	PrepNp
+DetNP
+Np-Appos
+NpaNp
+DetAdj
+243765	DetAdj
+2Np
+aNpaNp
+243770	aNpaNp
+243774	Conj3CL
+S-ADV-V
+DetAdj
+Conj2Pp
+PrepNp
+243780	PrepNp
+243782	S-VC-P
+PrepNp
+243785	S-ADV-V
+DetAdj
+PrepNp
+243789	Conj-CL
+243791	S-VC-P
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetNP
+243798	S-VC-P
+Np-Appos
+NpPp
+PrepNp
+DetAdj
+VC-S-P
+ADV-V
+PrepNp
+V-O
+CLaCL
+ADV-S-V
+PrepNp
+All-NP
+DetNP
+243813	ClCl
+ADV-V-O-ADV-ADV
+PrepNp
+DetAdj
+PrepNp
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-O
+PrepNp
+aNpaNp
+243828	NpPp
+PrepNp
+DetNP
+243832	NpPp
+PrepNp
+DetNP
+243836	Conj-CL
+CLaCL
+S-ADV-VC-P-ADV-ADV
+Conj2P
+V2CL
+243842	DetNP
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+243849	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+V-O-O2-ADV
+Conj3Adjp
+243860	PrepNp
+sub-CL
+PtclCL
+V-ADV-ADV
+DetNP
+Conj3CL
+V2CL
+243868	P2CL
+243870	ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+NP-CL
+Np-Appos
+DetNP
+NP-CL
+O-V
+DetCL
+V-ADV
+PrepNp
+All-NP
+Np-Appos
+NpPp
+PrepNp
+DetNP
+P-VC-S
+ofNPNP
+Np-Appos
+243891	CLaCL
+ADV-V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+243897	V-O-ADV-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NP-CL
+DetNP
+NPofNP
+S-VC-P
+NP-CL
+DetNP
+P-VC-S-ADV-ADV
+ofNPNP
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-IO-ADV
+PrepNp
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+Conj2Pp
+PrepNp
+DetNP
+243936	PrepNp
+DetNP
+243939	Conj-CL
+243941	NP-CL
+DetNP
+NPofNP
+ADV-V-S-O
+DetNP
+V-O
+243948	DetNP
+NPofNP
+DetNP
+NPofNP
+NP-Demo
+DetNP
+PrepNp
+DetNP
+S-VC-P
+S-P
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+243964	O-S-V-ADV
+V-ADV
+CLaCL
+V-O
+All-NP
+243970	V-O
+All-NP
+PrepNp
+All-NP
+243975	All-NP
+PrepNp
+ADV-ADV-V-ADV
+PrepNp
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-ADV-ADV
+PrepNp
+PrepNp
+243989	Conj-CL
+243991	S-V-O
+O-V-ADV
+AdjpNp
+PrepNp
+Conj3Np
+243997	NpPp
+PrepNp
+244000	S-ADV-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+sub-CL
+V-S-ADV-ADV
+DetNP
+NPofNP
+V-ADV
+Conj2Pp
+PrepNp
+244012	PrepNp
+All-NP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NP-CL
+ADV-VC-S-P
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+NpaNp
+244035	sub-CL
+S-O-V-ADV
+PrepNp
+244039	Conj-CL
+ClCl2
+sub-CL
+ADV-V
+AdvpNp
+DetNP
+Conj-CL
+ADV-P-VC-ADV
+DetNP
+PrepNp
+CLaCL
+V2CL
+244052	V-O
+NpaNp
+ofNPNP
+DetNP
+244057	DetNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+NPofNP
+244064	Conj-CL
+ClCl2
+sub-CL
+V-O-O2
+Np-Appos
+DetNP
+DetNP
+ADV-V-ADV-ADV
+PrepNp
+CLaCL
+V-ADV
+Conj2VP
+244077	PrepNp
+244080	DetNP
+sub-CL
+V2CL
+V-ADV
+PrepNp
+244086	ClCl
+ClCl
+V2CL
+PtclCL
+S-VC-P
+DetCL
+V-O-ADV-ADV
+PrepNp
+DetNP
+NpaNp
+244097	AdjpNp
+2PpaPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+244108	AdvPp
+PrepNp
+sub-CL
+CLaCL
+ADV-V-S-ADV
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+244119	V-ADV
+BeVerb
+PrepNp
+NP-CL
+NP-CL
+S-VC-P
+DetNP
+NPofNP
+All-NP
+NpaNp
+244130	ADV-ADV-V-ADV-ADV-ADV
+PrepNp
+NpAdjp
+2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV-ADV
+PrepNp
+NP-CL
+DetNP
+ADV-ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V-O-ADV
+PrepNp
+244161	Conj-CL
+CLaCL
+ADV-V-O-ADV-ADV-ADV
+S-P-VC-ADV
+NpaNp
+DetNP
+244168	DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+V-IO-O
+All-NP
+DetNP
+V-O
+NP-CL
+DetNP
+PpNp2Np
+PrepNp
+NpAdvp
+DetNP
+S-VC-P
+NPofNP
+244186	O-V-ADV-ADV
+PrepNp
+DetAdj
+V-O-IO
+DetNP
+244192	ADV-V-ADV-ADV
+V-O
+NpaNp
+DetNP
+244197	DetNP
+PrepNp
+V-O-ADV
+PrepNp
+244202	Conj-CL
+ADV-S-O-V-ADV
+Conj3Pp
+PrepNp
+244207	PrepNp
+244209	PrepNp
+NPofNP
+NP-CL
+Conj3Np
+244215	CLaCL
+S-VC-P
+NPofNP
+DetCL
+V2CL
+244221	S-P
+DetNP
+DetNP
+244225	S-O-V-ADV
+ClClCl
+V-ADV
+PrepNp
+NpaNp
+244231	NPofNP
+DetNP
+O-V
+O-V
+CLaCL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+244243	ADV-V-O
+NP-CL
+DetNP
+ADV-S-ADV-V-ADV
+PrepNp
+All-NP
+DetNP
+ADV-V
+PrepNp
+DetNP
+NpaNp
+244255	Conj2VP
+244257	DetNP
+NPofNP
+DetNP
+244261	ClCl
+ClCl2
+sub-CL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+ADV-ADV-V
+sub-CL
+V-ADV
+PrepNp
+244275	ADV-V
+Conj3VP
+244279	NpPp
+PrepNp
+NpAdvp
+DetNP
+PrepNp
+DetNP
+NPofNP
+NpaNp
+244288	DetNP
+S-VC-ADV-ADV-P-ADV
+PtclCL
+V-O-ADV
+NPofNP
+PrepNp
+Conj3Np
+244297	NPofNP
+PrepNp
+NpAdjp
+PrepNp
+NPofNP
+DetNP
+244304	Conj-CL
+244306	sub-CL
+V-ADV
+DetNP
+O-V
+DetNP
+ADV-S-V-ADV
+DetNP
+BeVerb
+PrepNp
+NPofNP
+DetNP
+244319	DetNP
+ADV-O
+NpPp
+PrepNp
+DetNP
+244325	Conj-CL
+CLaCL
+V2CL
+244329	S-V-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+244338	sub-CL
+V-S
+Np-Appos
+DetNP
+DetNP
+NPofNP
+AdvpNp
+PrepNp
+PrepNp
+244348	Conj-CL
+V-O
+Np-Appos
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NP-CL
+4NpaNp
+NpAdjp
+244360	DetNP
+NP-CL
+S-VC-P
+ADV-V-S-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+244370	ADV-S-V-ADV
+AdvpNp
+V-ADV
+PrepNp
+244375	Conj-CL
+ADV-V-S-O-ADV
+AdvpNp
+Np-Appos
+DetAdj
+NpNpNpNpNp
+PrepNp
+DetNP
+NPofNP
+244386	PrepNp
+CLaCL
+V-O-ADV
+DetNP
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+244395	V-O
+Np-Appos
+DetAdj
+DetCL
+V-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+DetCL
+V-O
+sub-CL
+CLaCL
+P-VC-S
+NpNpNpNp
+NpaNp
+244411	NpaNp
+244413	2Np
+2Np
+244416	CLaCL
+P2CL
+244419	P-S
+PrepNp
+244422	Conj-CL
+244424	PrepNp
+NpAdjp
+NPofNP
+DetNP
+AdjpaAdjp
+244430	V2CL
+NpNpNpNpNp
+NPofNP
+CLaCL
+V-O
+244436	V-O
+sub-CL
+S-ADV-V-O
+PrepNp
+244442	sub-CL
+S-V-O
+AdvpNp
+DetNP
+AdvpNp
+244448	Conj-CL
+ADV-O
+PrepNp
+All-NP
+DetNP
+NP-CL
+S-VC-P
+NPofNP
+DetNP
+244458	Conj-CL
+244460	S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+PrepNp
+AdjpNp
+244471	Conj-CL
+P-VC
+244474	S-V-ADV-ADV-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+ADV-V-O-ADV
+PrepNp
+All-NP
+Conj2VP
+244484	NpNpNp
+NpAdjp
+ADV-V-ADV-IO
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+244494	Conj-CL
+244496	Np2CL
+All-NP
+NP-CL
+PtclCL
+O-V-ADV
+Conj2Pp
+PrepNp
+244504	PrepNp
+PrepNp
+NPofNP
+Np-Appos
+V-O-ADV
+Np-Appos
+DetNP
+PrepNp
+244514	Np2CL
+DetNP
+DetNP
+sub-CL
+V-ADV
+PrepNp
+244522	Np2CL
+DetNP
+V-O
+DetNP
+244527	ADV-V-ADV
+PrepNp
+244530	ClCl
+244532	Np2CL
+DetNP
+DetNP
+PrepNp
+sub-CL
+S-P-VC-ADV
+PrepNp
+244541	Np2CL
+DetNP
+DetNP
+NPofNP
+sub-CL
+ADV-V
+244549	Np2CL
+DetNP
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+notCLbutCL2CL
+244557	PrepNp
+sub-CL
+S2CL
+ADV-ADV
+PrepNp
+NPofNP
+V-O
+DetNP
+244566	O-ADV-V-ADV-ADV
+PtclCL
+O-V
+PrepNp
+PrepNp
+NpaNp
+DetNP
+244574	AdvpNp
+244576	that-VP
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+244583	O-V
+Np-Appos
+DetNP
+244587	Conj-CL
+CLaCL
+S-V-O
+DetCL
+V2CL
+O-V
+244594	P-VC-S
+244597	Np2CL
+DetNP
+NpaNp
+DetAdj
+244602	DetNP
+DetNP
+244605	that-VP
+S-V-O-ADV
+AdvpNp
+PrepNp
+244610	O-V-ADV-ADV
+DetNP
+V-ADV-ADV
+PrepNp
+PrepNp
+ClCl
+244617	AdvPp
+PrepNp
+that-VP
+S-V-ADV-O-ADV
+DetNP
+NPofNP
+DetNP
+V-O
+NP-CL
+DetNP
+NPofNP
+DetNP
+ADV-ADV-V
+PrepNp
+sub-CL
+244633	sub-CL
+V-S
+S-V
+244637	ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+O-V
+DetNP
+244644	S-ADV-P-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+ADV-V
+V-O
+ADV-V-S
+S-IO-V
+NpAdjp
+244654	O-V-IO-S
+DetNP
+PpNp2Np
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+NpPp
+Conj3Np
+AdjpNp
+244665	AdjpNp
+244667	PrepNp
+O-V-ADV-ADV-ADV-ADV
+PrepNp
+PrepNp
+PronNP
+sub-CL
+CLaCL
+V-O
+NpPp
+PrepNp
+244678	V-O
+DetNP
+NPofNP
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+AdjpNp
+AdjpaAdjp
+244688	S-VC-P
+PrepNp
+244691	IO-V-O
+All-NP
+DetNP
+244695	V-O-S
+Np-Appos
+Conj3Np
+Np-Appos
+DetNP
+NPofNP
+244702	NP-CL
+Np-Appos
+DetNP
+NPofNP
+244707	ADV-V-O
+PrepNp
+sub-CL
+V-ADV
+PrepNp
+V-O
+244714	Np-Appos
+DetCL
+VC-P
+DetCL
+VC-P
+PrepNp
+244722	AdjpNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+S-VC-ADV-P
+244729	V-O-S-ADV
+Np-Appos
+Np-Appos
+NpPp
+PrepNp
+NPofNP
+Np-Appos
+244737	PrepNp
+PrepNp
+DetNP
+sub-CL
+CLaCL
+V-ADV
+244744	V-ADV
+PrepNp
+All-NP
+NPofNP
+DetNP
+244750	Conj-CL
+244752	that-VP
+V-O-ADV
+AdjpNp
+PrepNp
+Conj3Np
+244758	NpPp
+PrepNp
+244761	NpPp
+PrepNp
+244764	V-O-S
+NpaNp
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+244772	V-O
+Conj3Np
+DetNP
+PpNp2Np
+PrepNp
+244779	DetNP
+PpNp2Np
+PrepNp
+NPofNP
+244784	Conj-CL
+ClCl2
+sub-CL
+V-ADV-S
+PrepNp
+DetNP
+ClCl
+V2CL
+CLaCL
+that-VP
+ADV-V
+AdvPp
+PrepNp
+DetNP
+ofNPNP
+244800	that-VP
+O-S-V
+NpPp
+PrepNp
+AdvpNp
+244806	Conj-CL
+244808	ClCl
+V-O
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+sub-CL
+O-V
+244817	S-ADV
+DetNP
+DetNP
+AdjpNp
+NPofNP
+244823	V-O
+ofNPNP
+DetNP
+244827	S-P
+DetNP
+PrepNp
+244831	S-IO
+Conj3Np
+244835	DetNP
+NpPp
+NPofNP
+PrepNp
+NpaNp
+Np-Appos
+244842	Np-Appos
+Np-Appos
+244845	IO-S
+NpaNp
+244849	ClCl
+244851	DetNP
+PrepNp
+All-NP
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+ADV-V-O-ADV
+ofNPNP
+Conj3Np
+DetNP
+NPofNP
+DetNP
+244865	DetNP
+NPofNP
+DetNP
+244869	DetNP
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+PrepNp
+DetNP
+NPofNP
+NpaNp
+244882	V-O
+Np2CL
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+sub-CL
+244892	DetNP
+NPofNP
+notPPbutPP
+PrepNp
+PpAdvp
+PrepNp
+AdvPp
+Conj2Pp
+PrepNp
+244902	PrepNp
+NpaNp
+NpAdjp
+244906	NpAdjp
+sub-CL
+V-O
+P-VC-ADV-ADV
+PrepNp
+PrepNp
+244913	Conj-CL
+S-VC-P-ADV-ADV
+NPofNP
+NpaNp
+244918	DetNP
+V-O-ADV-ADV
+DetNP
+PrepNp
+NpAdjp
+PrepNp
+NPofNP
+NpAdjp
+sub-CL
+VC-S-P-ADV
+All-NP
+NpPp
+DetCL
+V2CL
+Conj2Pp
+PrepNp
+DetNP
+244936	PrepNp
+DetNP
+244939	Conj-CL
+CLaCL
+ADV-V-S-ADV-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpaNp
+DetNP
+244951	ADV-S-V-ADV
+PrepNp
+All-NP
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+sub-CL
+ADV-O-V-S-ADV
+V-O
+244964	Conj-CL
+S-ADV-V-O
+PrepNp
+CLaCL
+O-V-ADV
+AdjpNp
+PrepNp
+244972	ADV-V-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+CLaCL
+V-O
+NpAdjp
+AdjpaAdjp
+V2CL
+244984	V-ADV-O
+Np-Appos
+DetNP
+NP-CL
+NPofNP
+PrepNp
+DetNP
+O-V-ADV
+PrepNp
+DetAdj
+Np-Appos
+DetCL
+V-O-ADV
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+245003	Conj-CL
+245005	Np2CL
+Np-Appos
+DetNP
+NPofNP
+NpPp
+PrepNp
+that-VP
+notCLbutCL2CL
+P-VC
+ADV-V-ADV-ADV
+245016	Conj2VP
+245018	sub-CL
+V2CL
+PrepNp
+PrepNp
+DetNP
+NPofNP
+V-ADV-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+AdjpNp
+245032	Conj-CL
+CLaCL
+S-ADV-P
+DetNP
+NPofNP
+Conj3Pp
+PrepNp
+245040	PrepNp
+245042	PrepNp
+245044	ClCl2
+sub-CL
+V-ADV-ADV
+PrepNp
+DetNP
+V-O
+DetNP
+ADV-V-ADV
+sub-CL
+V-O
+notNPbutNP
+Np-Appos
+DetCL
+V-O
+DetNP
+NPofNP
+245061	Conj-CL
+notCLbutCL2CL
+Conj3CL
+245065	PrepNp
+NPofNP
+sub-CL
+V2CL
+245070	ClCl
+P2CL
+PrepNp
+NPofNP
+S-P
+245076	V-ADV-O-ADV-ADV
+PrepNp
+aPpaPp
+245080	PrepNp
+245082	PrepNp
+245084	P-VC
+PrepNp
+sub-CL
+S2CL
+ofNPNP
+VC-P-ADV
+PrepNp
+NPofNP
+245093	ClCl
+ClCl2
+sub-CL
+sub-CL
+S-V-O
+DetNP
+ofNPNP
+ADV-V-O
+ADV-V-O
+V-IO-O
+notNPbutNP
+AdvpNp
+DetNP
+NPofNP
+DetNP
+AdvpNp
+DetNP
+ofNPNP
+sub-CL
+P-ADV-VC
+245114	Conj-CL
+245116	Np2CL
+NpaNp
+DetNP
+NPofNP
+245121	DetNP
+245123	ADV-V-ADV-O
+ADV-V-ADV
+NpaNp
+245127	PrepNp
+DetCL
+ADV-V-O
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+245136	ClCl
+245138	NpaNp
+245140	DetNP
+P-ADV-VC
+2Advp_h1
+Conj3Advp
+245146	Np-Appos
+DetCL
+V2CL
+sub-CL
+245151	sub-CL
+O-ADV-ADV
+NPofNP
+NpAdjp
+sub-CL
+S-O
+NPofNP
+V-O-ADV
+Conj3VP
+245162	PrepNp
+DetCL
+V-S-ADV-ADV
+Np-Appos
+DetNP
+DetCL
+V-O-ADV
+PrepNp
+DetNP
+ofNPNP
+NpaNp
+245175	Conj-CL
+245177	ADV-S-V-O-ADV
+PrepNp
+AdvpNp
+DetNP
+ADV-V-O
+V-O
+NPofNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+notNPbutNP
+NPofNP
+NP-CL
+CL-NP
+sub-CL
+P-VC
+NPofNP
+S-ADV-V-ADV
+PrepNp
+Np-Appos
+DetCL
+V2CL
+245201	Conj-CL
+245203	S-VC-P
+NPofNP
+Np2CL
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+VC-P-ADV
+PrepNp
+DetNP
+PrepNp
+Np-Appos
+sub-CL
+ClCl
+O-V-S-ADV
+DetNP
+AdvpNp
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+S-ADV
+AdvpNp
+PrepNp
+Np-Appos
+DetNP
+DetCL
+Conj4CL
+V-O
+aNpaNp
+245235	Np-Appos
+DetNP
+245238	DetNP
+245240	O-V
+245242	O-ADV-V
+245244	ClCl
+ADV-P
+All-NP
+V-O-ADV
+245249	DetNP
+sub-CL
+V2CL
+PrepNp
+DetCL
+V-O-ADV
+ofNPNP
+DetNP
+245258	Conj-CL
+V-ADV-S-ADV
+PrepNp
+DetNP
+PrepNp
+245264	Conj-CL
+245266	Np2CL
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+AdvAdv
+AdvpNp
+O-V
+DetNP
+NPofNP
+PrepNp
+AdjpNp
+245279	Conj-CL
+245281	V-ADV
+PrepNp
+PtclCL
+CLaCL
+S-ADV
+Np-Appos
+aAdvpaAdvp
+245291	V-O-S
+DetNP
+245294	Conj-CL
+CLaCL
+S-P
+ofNPNP
+Conj3Np
+245301	NPofNP
+245303	PtclCL
+S-P-ADV
+AdvpNp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+DetNP
+ofNPNP
+245314	Conj-CL
+S-VC-P
+NpaNp
+DetNP
+NPofNP
+245320	DetNP
+245322	Conj-CL
+CLaCL
+ADV-V-O
+ADV-V
+V-ADV-ADV
+PrepNp
+245329	V-O-ADV
+Np-Appos
+NpaNp
+DetNP
+NPofNP
+245335	NpPp
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+2Np
+DetCL
+V-O-ADV
+Conj2VP
+245348	PrepNp
+DetNP
+NPofNP
+DetCL
+S-V-ADV
+PrepNp
+NP-Demo
+DetNP
+245357	Conj-CL
+245359	that-VP
+ADV-V
+PrepNp
+245363	Conj-CL
+ClCl2
+AdvpCL
+sub-CL
+P-VC
+PrepNp
+ClCl
+245371	that-VP
+V-O
+V2CL
+sub-CL
+AdvpCL
+CLaCL
+V2CL
+245379	V2CL
+245382	PrepNp
+ADV-V
+PrepNp
+DetCL
+V-O
+DetNP
+NPofNP
+PtclCL
+PtclCL
+CLaCL
+V-O-S
+DetCL
+V2CL
+245396	ADV-V-S
+PrepNp
+DetNP
+NPofNP
+245401	Conj-CL
+ClCl
+ClCl2
+CLaCL
+ADV-V-S-ADV-ADV
+PrepNp
+PrepNp
+245409	V-IO-O
+Conj3Np
+DetNP
+245413	DetNP
+NPofNP
+245416	that-VP
+V-O-ADV-ADV
+NpAdjp
+NPofNP
+245421	O-V
+sub-CL
+S-O
+AdvpNp
+245426	PrepNp
+Np2CL
+PrepNp
+PrepNp
+All-NP
+DetNP
+NPofNP
+NpaNp
+245435	PrepNp
+DetNP
+ofNPNP
+sub-CL
+245440	sub-CL
+S-V-ADV
+PrepNp
+245444	Conj-CL
+V-O-ADV
+O-IO-V-ADV-ADV
+AdjpNp
+DetNP
+PrepNp
+PrepNp
+All-NP
+DetNP
+NP-CL
+ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+ADV-ADV-V-ADV
+NpaNp
+245462	PrepNp
+DetCL
+CLaCL
+V-O
+ofNPNP
+DetNP
+245469	V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+245475	Conj-CL
+S-V-O-ADV
+NpaNp
+PronNP
+DetNP
+NPofNP
+NpaNp
+245484	Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+245491	Conj-CL
+O-S-V-ADV-ADV-ADV
+DetNP
+Conj2VP
+245496	DetNP
+NpPp
+Conj2Pp
+PrepNp
+245501	PrepNp
+sub-CL
+S-ADV
+AdvpNp
+PrepNp
+PrepNp
+DetCL
+V-O-O2-ADV-ADV-ADV
+ofNPNP
+DetNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+NpaNp
+245517	PrepNp
+DetNP
+NpPp
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+All-NP
+DetNP
+NPofNP
+245529	Conj-CL
+245531	Np2CL
+Conj2VP
+245534	PrepNp
+Np-Appos
+that-VP
+245538	sub-CL
+245540	PrepNp
+DetCL
+ADV-V-S
+CLaCL
+S-V
+245546	V-O
+sub-CL
+ADV-V
+V-ADV
+245551	Conj-CL
+V-O
+O-V-IO-ADV
+AdjpNp
+PrepNp
+Np-Appos
+DetNP
+245559	Conj-CL
+ClCl
+P-VC-S
+NPofNP
+DetNP
+P2CL
+NP-CL
+DetNP
+NPofNP
+ClCl
+ClCl
+V-S-ADV
+PrepNp
+DetNP
+V-S-O-ADV
+NPofNP
+ClCl
+O-V-ADV
+DetNP
+ofNPNP
+PrepNp
+NpaNp
+245582	ClCl
+ADV-P
+PrepNp
+NPofNP
+sub-CL
+S2CL
+AdvpNp
+Np-Appos
+DetNP
+DetCL
+ADV-V-O
+DetNP
+DetCL
+ADV-V-ADV-O
+Conj2VP
+245598	PrepNp
+DetNP
+DetNP
+NPofNP
+sub-CL
+ClCl
+P-S-ADV
+PrepNp
+All-NP
+sub-CL
+CLaCL
+ADV-V-IO
+245611	V2CL
+245613	Conj-CL
+notCLbutCL2CL
+V-O-S-ADV
+DetNP
+PrepNp
+ADV2CL
+PrepNp
+245621	Conj-CL
+S-V-O
+DetCL
+V2CL
+notNPbutNP
+Np-Appos
+DetNP
+DetCL
+ADV-V-O-ADV
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+PrepNp
+245636	Conj-CL
+245638	PrepNp
+DetNP
+V-IO
+sub-CL
+S-P-VC-ADV
+PronNP
+PrepNp
+DetCL
+V-O
+245648	Conj-CL
+ADV-V-O-ADV
+PrepNp
+All-NP
+DetNP
+NpPp
+PrepNp
+All-NP
+DetNP
+245658	Conj-CL
+245661	Conj4CL
+S-V-ADV
+Np2CL
+245665	V-O
+V2CL
+245668	V-O
+DetAdj
+245671	V-ADV
+DetNP
+NPofNP
+sub-CL
+IO-V
+sub-CL
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+245682	O-V
+ofNPNP
+245685	Conj-CL
+245687	S-V-ADV
+Np2CL
+PrepNp
+DetCL
+V2CL
+sub-CL
+245694	sub-CL
+S2CL
+AdvpNp
+Np-Appos
+DetAdj
+DetCL
+ADV-V-O
+245702	Conj-CL
+ClCl2
+sub-CL
+245706	that-VP
+S-V
+Conj2VP
+245710	ADV-ADV-S-O-V-ADV
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+245718	Conj-CL
+ClCl
+245721	PrepNp
+NPofNP
+that-VP
+S-ADV-V-O
+Np-Appos
+Np-Appos
+DetCL
+V2CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+2Advp_h1
+DetCL
+V2CL
+sub-CL
+CLaCL
+S-ADV-V-ADV
+PronNP
+DetNP
+2PpaPp
+PrepNp
+PrepNp
+NPofNP
+245748	PrepNp
+NPofNP
+PrepNp
+245752	ClCl
+S-V-ADV
+DetNP
+NpPp
+PrepNp
+ADV-S-ADV-ADV-V-ADV-ADV
+Np-Appos
+Np-Appos
+DetCL
+V2CL
+DetCL
+V2CL
+PrepNp
+PrepNp
+PrepNp
+NpPp
+NPofNP
+DetNP
+PrepNp
+245772	Conj-CL
+ADV-ADV-P-VC
+PrepNp
+245776	Conj-CL
+V-O-ADV
+PrepNp
+NP-Demo
+DetNP
+245782	Conj-CL
+245784	PrepNp
+NpaNp
+DetNP
+245788	DetNP
+Np2CL
+IO-V
+sub-CL
+245793	that-VP
+245795	NPofNP
+sub-CL
+S-ADV
+PrepNp
+245800	ClCl2
+sub-CL
+V-O
+NpaNp
+245805	CLaCL
+245807	AdjpNp
+sub-CL
+S-ADV
+DetNP
+DetCL
+ADV-V
+PrepNp
+245815	ADV-V
+2Advp_h1
+245818	Conj-CL
+245821	Np2CL
+PrepNp
+sub-CL
+245825	DetNP
+sub-CL
+S2CL
+sub-CL
+S-VC-P
+All-NP
+NpaNp
+NPofNP
+245834	NPofNP
+245836	ADV-VC-P
+NpaNp
+245840	Conj-CL
+Conj-CL
+notCLbutCL2CL
+ClCl
+V2CL
+sub-CL
+S2CL
+DetAdj
+CLaCL
+V2CL
+245851	V2CL
+245853	Conj-CL
+CLaCL
+S-ADV-V
+DetCL
+V2CL
+245859	S-ADV-V
+DetCL
+V2CL
+245863	Conj-CL
+245865	P-VC
+V-O
+NpaNp
+NPofNP
+NpaNp
+245872	NPofNP
+NPofNP
+sub-CL
+245876	V-O-S-ADV
+DetNP
+PrepNp
+ADV-ADV
+PrepNp
+NPofNP
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetCL
+V-ADV
+PrepNp
+sub-CL
+ClCl2
+aCLaCL
+245895	V2CL
+245897	V2CL
+ADV-ADV-V
+PrepNp
+245901	Conj-CL
+245903	V-O
+245905	V-ADV-O
+DetAdj
+sub-CL
+ADV-V
+245910	Conj-CL
+245912	CLaCL
+S-V-O
+Np2CL
+DetCL
+Conj3CL
+V-ADV
+PrepNp
+245920	V-O-ADV
+PrepNp
+245923	V-O
+245925	V-O-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+245931	V-ADV
+PrepNp
+245934	Conj-CL
+245936	Np2CL
+ClClClCl
+V-O
+DetAdj
+V-O
+DetAdj
+V-O
+DetAdj
+V-ADV
+PrepNp
+245948	notCLbutCL2CL
+S-O-ADV-IO-V
+PrepNp
+ADV-O-V-ADV
+DetAdj
+Conj2Pp
+PrepNp
+245956	PrepNp
+245958	ClClCl
+ADV-V
+ADV-V
+ADV-V
+PrepNp
+245964	Conj-CL
+S-P-ADV-ADV
+NPofNP
+PrepNp
+Np-Appos
+PrepNp
+245971	CLaCL
+ClCl
+O-ADV-V
+DetNP
+O-ADV-V
+245977	ClClCl
+O-V
+O-V
+DetAdj
+ADV-V
+PrepNp
+All-NP
+NpAdjp
+245986	Conj-CL
+CLaCL
+S-V-O-ADV
+PronNP
+DetNP
+NPofNP
+DetNP
+245994	S-ADV-ADV-V
+AdjpNp
+ofNPNP
+Conj3Np
+DetNP
+246000	DetNP
+246002	DetNP
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+246011	P-S
+NP-CL
+DetCL
+V-O
+S-ADV-V
+246018	Np2CL
+PrepNp
+246021	V-O-ADV
+NP-all
+DetNP
+PrepNp
+NpAdjp
+246027	V-O-ADV-ADV
+DetNP
+V-S-IO
+DetNP
+All-NP
+DetNP
+246034	S-P
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+PrepNp
+246043	S-IO
+Conj3Np
+246047	DetNP
+NpPp
+NPofNP
+PrepNp
+NpaNp
+Np-Appos
+NPofNP
+246055	Np-Appos
+Np-Appos
+246058	IO-S-ADV
+NpaNp
+246061	PrepNp
+NpaNp
+Np-Appos
+246065	Np-Appos
+Np-Appos
+246070	V-O-ADV-ADV
+DetNP
+PrepNp
+Np2CL
+sub-CL
+P-VC
+sub-CL
+ClCl
+CLaCL
+V-S
+DetNP
+NPofNP
+246083	V-S
+DetNP
+NpPp
+NPofNP
+NPofNP
+NpAdjp
+All-NP
+PrepNp
+sub-CL
+S-ADV-V-ADV-ADV
+PronNP
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpaNp
+DetNP
+NPofNP
+246104	NpPp
+PrepNp
+NP-CL
+All-NP
+NpaNp
+DetNP
+NPofNP
+246112	DetNP
+ADV-V
+246116	NPofNP
+DetNP
+AdjpNp
+NPofNP
+DetNP
+PrepNp
+DetCL
+V-S-ADV
+DetNP
+NP-CL
+NPofNP
+DetNP
+ADV-ADV-V
+PrepNp
+sub-CL
+ClCl
+246133	PrepNp
+CLaCL
+V-IO-O
+DetCL
+V-O
+246139	IO-O-ADV-ADV-ADV
+Np-Appos
+DetCL
+V2CL
+PrepNp
+PrepNp
+DetNP
+NpPp
+NpPp
+NpPp
+NPofNP
+Np-Appos
+DetNP
+PrepNp
+PrepNp
+NPofNP
+NPofNP
+PrepNp
+NPofNP
+V-O-IO
+NP-CL
+NpaNp
+DetCL
+ADV-V-O
+246164	DetCL
+ADV-V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+S-V-O-ADV
+Np-Appos
+NpAdjp
+Conj2Pp
+PrepNp
+NPofNP
+DetNP
+246179	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+V-ADV-ADV
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+246192	V-ADV
+PrepNp
+All-NP
+DetCL
+V2CL
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+246208	ADV-ADV-V-ADV-ADV
+PrepNp
+PrepNp
+CLaCL
+O-V-ADV-S
+DetNP
+DetNP
+NPofNP
+246217	V-O-ADV
+All-NP
+NpaNp
+NPofNP
+246222	NPofNP
+PrepNp
+CLaCL
+V-S-ADV
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+246233	S-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+NPofNP
+246242	Np-Appos
+Np-Appos
+246245	Conj-CL
+246247	Np2CL
+PrepNp
+NpaNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+246257	NpPp
+ofNPNP
+PrepNp
+PrepNp
+DetCL
+246263	Conj2VP
+ADV-ADV-V-S-ADV
+PrepNp
+DetNP
+246268	aPpaPpaPp
+246270	PrepNp
+246272	PrepNp
+246274	PrepNp
+NpPp
+AdvPp
+PrepNp
+sub-CL
+that-VP
+V-S
+DetNP
+NPofNP
+DetNP
+246286	PrepNp
+AdjpNp
+sub-CL
+sub-CL
+AdvpCL
+CLaCL
+V-S-ADV
+DetNP
+246295	V-S-ADV
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+DetCL
+V-ADV
+Conj2VP
+246308	PrepNp
+All-NP
+V-O
+NpaNp
+246313	sub-CL
+S-ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+246320	that-VP
+VC-P
+246324	ADV-V
+ADV-O-V-IO
+ADV-VC-P
+PrepNp
+246329	Conj-CL
+ADV-O-V-ADV
+DetCL
+V2CL
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+DetNP
+ofNPNP
+246340	Conj-CL
+246342	DetNP
+NPofNP
+DetNP
+ClCl
+ADV-S-ADV
+DetCL
+V2CL
+sub-CL
+ADV-V
+PrepNp
+246353	Conj-CL
+ADV-V-S
+NP-CL
+NP-CL
+DetAdj
+CLaCL
+O-S-V-ADV
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+246367	V-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+S-VC-P-ADV-ADV-ADV
+ofNPNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+Conj2Pp
+PrepNp
+All-NP
+Conj3Np
+246384	NPofNP
+246386	PrepNp
+All-NP
+NPofNP
+DetCL
+V2CL
+PrepNp
+ADV-O-ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetCL
+V-S
+246400	Conj-CL
+246402	PrepNp
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-S-O
+DetNP
+sub-CL
+V-S
+All-NP
+DetCL
+notCLbutCL2CL
+V-O
+DetNP
+V-ADV
+DetNP
+246419	Conj-CL
+ClCl
+246422	V-O-ADV-ADV
+DetNP
+PrepNp
+Np2CL
+NpAdjp
+V-ADV
+PrepNp
+sub-CL
+246431	DetNP
+PrepNp
+PrepNp
+PrepNp
+NpaNp
+NPofNP
+246438	NPofNP
+ADV-ADV-V-O-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NPofNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+246452	Conj-CL
+Conj-CL
+246455	Np2CL
+V2CL
+246458	V-O
+DetNP
+NP-CL
+O-V-ADV
+aPpaPp
+246464	PrepNp
+246466	PrepNp
+NPofNP
+246469	Conj-CL
+CLaCL
+S-V-O
+NpaNp
+PronNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+246479	Np-Appos
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetCL
+CLaCL
+V-O
+246488	V-O-ADV
+NpaNp
+NpAdjp
+246492	NpAdjp
+PrepNp
+ofNPNP
+DetNP
+246497	V-ADV
+PrepNp
+All-NP
+NpAdjp
+NpaNp
+246505	DetAdj
+Np2CL
+PrepNp
+CLaCL
+that-VP
+ClCl
+CLaCL
+S-V
+DetNP
+NPofNP
+DetNP
+246517	V2CL
+sub-CL
+ADV2CL
+AdvPp
+PrepNp
+246523	that-VP
+V-ADV
+PrepNp
+DetNP
+AdjpNp
+AdjpaAdjp
+246531	Conj-CL
+ADV-P-S
+DetNP
+246535	Conj-CL
+P-VC-S
+NP-CL
+DetNP
+CLaCL
+S-V-O
+246542	V-ADV
+PrepNp
+DetAdj
+246546	Conj-CL
+246548	PrepNp
+PrepNp
+that-VP
+O-V
+O-V
+EitherOrVp
+246557	Conj-CL
+S-V-O-ADV
+DetNP
+ofNPNP
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+246568	PrepNp
+DetNP
+NPofNP
+DetNP
+246573	Conj-CL
+246575	Np2CL
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+Np-Appos
+V-S-ADV
+PrepNp
+All-NP
+NpAdjp
+CLaCL
+ADV-V
+246588	ADV-ADV
+PrepNp
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+246595	Conj-CL
+ClCl
+246598	ADV-V-S
+V-O
+sub-CL
+notCLbutCL2CL
+CLaCL
+V-ADV
+PrepNp
+246606	ADV-O-V-ADV
+PrepNp
+ADV-ADV-V-ADV
+PrepNp
+NpaNp
+246612	NpaNp
+246614	PrepNp
+DetCL
+ADV-V-O
+NPofNP
+246619	notCLbutCL2CL
+that-VP
+ADV-V-O
+that-VP
+O-O2-V-IO-ADV
+PrepNp
+DetCL
+V-O
+246628	Conj-CL
+ClCl2
+AdvpCL
+sub-CL
+VC-P
+PrepNp
+246635	that-VP
+246637	sub-CL
+S-ADV-V-O
+V2CL
+246641	Conj-CL
+V-O
+S-V-ADV-ADV-ADV
+PrepNp
+notCLbutCL2CL
+V2CL
+V2CL
+246649	Conj-CL
+246651	DetNP
+Conj2VP
+246654	PrepNp
+Np-Appos
+Np-Appos
+that-VP
+ADV-O-V
+ADV-V
+PrepNp
+DetNP
+ofNPNP
+246664	Conj-CL
+246666	Np2CL
+V2CL
+246669	Conj-CL
+ClCl
+ClCl2
+sub-CL
+S-ADV-V-O
+DetNP
+NpPp
+NPofNP
+PrepNp
+DetNP
+O-V-ADV
+ADV-V-ADV
+sub-CL
+V2CL
+246684	Conj-CL
+notCLbutCL2CL
+ClCl2
+sub-CL
+O2CL
+V2CL
+246691	sub-CL
+O2CL
+246694	Conj-CL
+S-V-IO-O-ADV-ADV
+PronNP
+DetNP
+NPofNP
+DetNP
+DetNP
+PrepNp
+PrepNp
+All-NP
+246705	S-P
+DetNP
+PrepNp
+All-NP
+246711	DetNP
+DetNP
+AdjpNp
+NPofNP
+S-VC-P-ADV
+PrepNp
+All-NP
+246719	ADV-V
+246721	S-P
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+PrepNp
+All-NP
+246731	S-IO
+Np-Appos
+NpPp
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+NpaNp
+Np-Appos
+NPofNP
+246742	Np-Appos
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+NpPp
+AdjpNp
+PrepNp
+246751	S-ADV
+NpNpNp
+PrepNp
+NpaNp
+Np-Appos
+246757	Np-Appos
+Np-Appos
+DetNP
+NPofNP
+246762	ClCl
+sub-CL
+V-O-ADV
+S-V-ADV
+PrepNp
+V-ADV
+PrepNp
+sub-CL
+V-IO-O
+CLaCL
+ADV-V
+246774	V-ADV
+NP-CL
+NpaNp
+246778	NpAdjp
+CLaCL
+S-O-V-ADV
+246782	O2CL
+Np-Appos
+NPofNP
+NpPp
+PrepNp
+246788	Conj-CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+NpPp
+PrepNp
+NP-CL
+Conj3Np
+AdjpNp
+246799	NpAdjp
+246801	NpAdjp
+ADV-S-V-ADV-ADV
+ADV-V
+PrepNp
+246806	VC-P
+ADV-V-O
+aNpaNp
+246810	O-V
+246812	ADV-V
+PrepNp
+246815	Conj-CL
+246817	that-VP
+246819	DetNP
+sub-CL
+S-O-ADV-V-ADV
+246823	V-O
+notCLbutCL2CL
+ADV-S-V
+CLaCL
+ADV2CL
+NpNpNpNpNpNpNpNpNpNp
+NpaNp
+246831	NpaNp
+246833	NpaNp
+246835	NpaNp
+246838	sub-CL
+S-V-O
+NpAdjp
+DetNP
+AdjpNp
+V2CL
+NpPp
+PrepNp
+NP-CL
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+AdjpNp
+O-V-S
+246856	Np-Appos
+DetCL
+V-O
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+sub-CL
+O2-O-V-ADV-ADV
+V-ADV
+PrepNp
+ADV-VC-P
+DetAdj
+Conj3Np
+246873	Conj-CL
+CLaCL
+ClCl
+V2CL
+sub-CL
+ADV-V-ADV
+V2CL
+PrepNp
+246882	V-S-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+NpaNp
+246891	NpPp
+PrepNp
+Np-Appos
+246896	AdjpaAdjp
+DetNP
+246899	AdvpAdjp
+All-NP
+that-VP
+246903	Np-Appos
+PrepNp
+DetNP
+O-V
+P-VC-S
+ofNPNP
+246910	Conj-CL
+246912	ADV-V
+PrepNp
+ADV-V-S-O-ADV
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+AdjpNp
+PrepNp
+NPofNP
+DetCL
+V-O
+V-ADV-ADV
+PrepNp
+PrepNp
+NpAdjp
+246929	Conj-CL
+246931	Np-Appos
+DetNP
+NPofNP
+DetNP
+AdjpNp
+3Adjp
+NpaNp
+246939	PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+246946	Demo-NP
+DetNP
+Np2CL
+Np-Appos
+PrepNp
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+sub-CL
+V-ADV-O-ADV
+PrepNp
+DetNP
+AdjpNp
+V-O
+NpaNp
+246963	NP-CL
+AdjpNp
+246966	ADV-S-ADV-V
+O-V
+PrepNp
+DetNP
+NP-CL
+NpaNp
+246974	O-V-IO
+DetNP
+V-O
+ADV-V
+246979	Conj-CL
+V-O
+246982	NPofNP
+NpNpNpNp
+2Pp
+PrepNp
+All-NP
+PrepNp
+NpaNp
+246990	All-NP
+DetCL
+P-VC
+PrepNp
+sub-CL
+O-V-ADV
+AdjpNp
+AdjpaAdjp
+246999	PrepNp
+All-NP
+NpaNp
+247004	S-P-ADV
+AdjpaAdjp
+247007	PrepNp
+NP-CL
+DetNP
+Np-Appos
+NPofNP
+S-V-O
+S-V
+All-NP
+CLaCL
+V2CL
+247018	ADV-V
+PrepNp
+NPofNP
+247022	Conj-CL
+ClCl
+P-S
+P-S
+AdvpNp
+Np-Appos
+NPofNP
+NpaNp
+247031	Np-Appos
+Np-Appos
+Np-Appos
+DetCL
+V-O-O2-ADV
+PrepNp
+247039	DetNP
+NpAdjp
+247042	ADV-VC-S-P
+PrepNp
+Np-Appos
+NpaNp
+247047	ADV-V
+NpPp
+NPofNP
+PrepNp
+NpaNp
+247054	Conj-CL
+V-O
+247057	DetNP
+PrepNp
+All-NP
+V-O
+AdjpNp
+PrepNp
+NpaNp
+247065	AdvpCL
+S-ADV-ADV-V-O-ADV
+PrepNp
+NpAdjp
+PrepNp
+NpaNp
+247072	notPPbutPP
+PrepNp
+Conj4Np
+247078	NpAdjp
+PrepNp
+CL-NP
+S-V-ADV
+NpAdjp
+V-O
+NpAdjp
+247086	S-ADV-V-ADV
+PrepNp
+PrepNp
+All-NP
+247091	Conj-CL
+V-O
+notCLbutCL2CL
+CLaCL
+V-S
+247097	V-O
+VC-P
+PrepNp
+247101	Conj-CL
+CLaCL
+ClCl
+S-ADV-V
+ADV-S
+247107	CLaCL
+S-ADV-V
+247110	S-ADV-ADV-V
+DetNP
+V2CL
+PrepNp
+247115	Conj-CL
+ClCl
+V-ADV
+PrepNp
+DetNP
+sub-CL
+V-ADV-ADV
+PrepNp
+Conj3Np
+247126	PrepNp
+247128	P-S
+DetNP
+247132	sub-CL
+S-O-V
+AdjpNp
+247136	Conj-CL
+V-S
+S-VC-P-ADV
+DetNP
+Np-Appos
+NpNpNpNpNpNpNpNp
+ofNPNP
+AdjpNp
+NpNpNp
+AdvpNp
+notNPbutNP
+ClCl
+O-ADV-V
+DetNP
+AdjpNp
+O-V-ADV-ADV
+PrepNp
+PrepNp
+All-NP
+247156	Conj-CL
+ClCl2
+sub-CL
+S-O-ADV-V
+O-V
+DetNP
+AdjpNp
+ADV-O-V
+NPofNP
+247167	sub-CL
+ADV-ADV-ADV-V
+V2CL
+PrepNp
+NPofNP
+DetAdj
+247174	Conj-CL
+247176	O-V-ADV
+NpAdjp
+PrepNp
+DetNP
+sub-CL
+ADV-V-ADV
+PrepNp
+NpaNp
+247185	NPofNP
+DetAdj
+247188	ADV-S
+S-P
+AdjpAdjpAdjpAdjpAdjp
+AdvpAdjp
+ADV-ADV-V
+NpAdjp
+AdvpAdjp
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+AdjpNp
+247202	Conj-CL
+ClCl
+S-V-ADV
+AdvpNp
+ADV-V-ADV
+P-VC
+247209	ADV-S
+S-P
+AdjpAdjpAdjpAdjp
+AdvpAdjp
+AdjpPp
+PrepNp
+247216	S-VC-P-ADV
+ofNPNP
+AdjpNp
+ADV-V-O
+NpaNp
+247222	DetNP
+AdjpNp
+247225	Conj-CL
+CLaCL
+S-O-IO-V
+DetCL
+ADV-V
+NpAdjp
+247232	O-ADV
+AdjpNp
+PrepNp
+Np-Appos
+NpPp
+PrepNp
+Np-Appos
+247240	O-IO-V-ADV
+V-O
+V-ADV-ADV
+PrepNp
+247245	Conj-CL
+ClCl2
+sub-CL
+V2CL
+sub-CL
+V-O
+ADV-V-S
+V-ADV
+PrepNp
+NP-CL
+NPofNP
+S-VC-P
+Np-Appos
+NPofNP
+NpAdjp
+V2CL
+NPofNP
+NpaNp
+247264	DetNP
+247266	Conj-CL
+ADV-P-VC-S
+DetNP
+ofNPNP
+DetNP
+247272	ClClClClClCl
+S-V-ADV
+PrepNp
+V-ADV
+PrepNp
+V-IO
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+V-ADV
+PrepNp
+247285	Conj-CL
+247287	DetNP
+that-VP
+ADV-V-S-ADV-ADV-ADV
+PrepNp
+AdjpNp
+DetNP
+V-ADV
+NpaNp
+NpAdjp
+247297	NPofNP
+PrepNp
+NPofNP
+NpAdjp
+ClClCl
+V-ADV
+DetNP
+AdjpNp
+V-O
+V2CL
+V-O
+NP-CL
+247310	O-S-V-ADV
+DetNP
+PrepNp
+NpAdvp
+NpPp
+PrepNp
+DetNP
+NpaNp
+247319	V-O
+DetNP
+ClCl
+CLaCL
+S-P
+All-NP
+NPofNP
+247327	S-P-ADV
+ADV-V
+PrepNp
+sub-CL
+V-ADV
+PrepNp
+NpaNp
+NPofNP
+247337	ADV-VC-P-ADV
+O-V-IO
+DetNP
+AdjpNp
+NPofNP
+Np-Appos
+V-ADV
+DetNP
+NPofNP
+NpaNp
+DetNP
+247349	NP-CL
+DetNP
+AdjpNp
+ADV-V
+247354	Conj-CL
+O-V
+DetNP
+AdjpNp
+AdjpaAdjp
+247361	Conj-CL
+V-O-ADV
+PrepNp
+247365	Conj-CL
+CLaCL
+S-ADV-VC-P
+DetNP
+AdjpNp
+PrepNp
+247372	S-ADV-P-VC-ADV
+DetNP
+PrepNp
+V-O
+NPofNP
+NPofNP
+NpaNp
+DetNP
+247381	DetCL
+V2CL
+247384	S-P
+AdjpaAdjp
+DetNP
+247388	AdvpAdjp
+All-NP
+247391	Conj-CL
+247393	ADV-V
+PrepNp
+Conj2VP
+247397	V-ADV
+PrepNp
+NP-CL
+NpAdjp
+V2CL
+S-VC-P
+NPofNP
+2Np
+All-NP
+AdvpNp
+247408	O-V
+Conj2VP
+247412	CLaCL
+S-O-V
+ofNPNP
+DetNP
+247417	VC-P-ADV
+NPofNP
+DetAdj
+PpPpPpPpPp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+247427	ClCl2
+sub-CL
+V2CL
+V-ADV
+NpNpNp
+DetNP
+DetNP
+DetNP
+247436	ADV-V-O
+NP-CL
+DetNP
+PpNp2Np
+PrepNp
+S-V-IO-ADV-ADV
+PrepNp
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+247449	ClCl
+247451	P-VC
+PrepNp
+sub-CL
+S-P-VC-ADV
+ofNPNP
+DetNP
+247458	ClCl
+247460	NpaNp
+247462	DetNP
+V-ADV
+sub-CL
+ADV-V-O
+O-V
+aNpaNp
+247470	DetCL
+V-O
+247473	ClCl
+CLaCL
+O-ADV-V
+247477	V-ADV
+PrepNp
+ClClCl
+O-ADV
+PrepNp
+O-ADV
+PrepNp
+O-ADV-ADV
+PrepNp
+PrepNp
+All-NP
+247489	V-O
+Np-Appos
+DetNP
+AdvpNp
+247494	Conj-CL
+247496	sub-CL
+S-O-V
+AdjpNp
+NpaNp
+247501	CLaCL
+O-V
+DetNP
+AdjpNp
+247506	O-V-IO
+DetNP
+247509	Conj-CL
+S-VC-P-ADV
+PrepNp
+DetNP
+247514	Conj-CL
+CLaCL
+S-V-ADV
+DetNP
+AdvpNp
+NpaNp
+247521	V2CL
+PrepNp
+247524	V-ADV-ADV
+NpaNp
+DetNP
+247528	DetNP
+NpaNp
+247532	Conj-CL
+S-ADV-V
+DetCL
+V2CL
+V2CL
+247539	AdvpNp
+sub-CL
+P-VC
+247543	Conj-CL
+ClCl2
+sub-CL
+S-O-ADV-V
+DetNP
+NpaNp
+247550	AdvpNp
+CLaCL
+O-V
+DetNP
+247555	VC-ADV-P
+247558	AdvpNp
+NPofNP
+NpNump
+VC-P
+ofNPNP
+AdjpNp
+ADV-V
+PrepNp
+NpAdjp
+ClClClClCl
+sub-CL
+V2CL
+sub-CL
+V2CL
+sub-CL
+O-V
+ofNPNP
+sub-CL
+O-V
+V2CL
+sub-CL
+ADV-V
+All-NP
+NpAdjp
+247583	Conj-CL
+O-V
+AdjpNp
+247587	Conj-CL
+ClCl2
+sub-CL
+V-ADV
+DetNP
+O-V-ADV
+V2CL
+ClCl
+V-O
+sub-CL
+O-V
+DetNP
+AdjpNp
+247601	Conj-CL
+CLaCL
+ADV-ADV-V-ADV
+AdvpAdjp
+V-ADV
+DetNP
+247608	notCLbutCL2CL
+ADV-P
+P-ADV
+AdvpNp
+AdjpaAdjp
+247614	V-O
+DetCL
+ADV-V
+247618	Conj-CL
+V-O
+S-V
+ClClClCl
+V2CL
+V2CL
+V2CL
+O-V-IO-ADV
+AdjpNp
+DetCL
+V2CL
+NP-Prep
+247631	Conj-CL
+ADV-S-V-ADV
+PrepNp
+DetNP
+247637	sub-CL
+S-V-O
+AdjpNp
+V-O
+247642	ADV-V-S
+DetNP
+sub-CL
+O-V
+DetNP
+AdvpNp
+247649	ClCl
+S-ADV-V
+DetNP
+AdjpNp
+ADV-V
+AdjpNp
+ADV-S
+DetCL
+V-ADV
+PrepNp
+NpaNp
+247662	Conj-CL
+247664	DetNP
+CLaCL
+O-ADV-V
+NpAdjp
+V2CL
+247670	P-S-ADV
+DetNP
+DetNP
+NPofNP
+247676	PrepNp
+AdvpCL
+sub-CL
+ADV-ADV
+PrepNp
+NumpNP
+Conj2Nump3
+247685	DetCL
+V2CL
+PrepNp
+sub-CL
+S-O-V
+AdvpNp
+DetAdj
+247694	PrepNp
+Conj3Np
+DetNP
+247698	Np-Appos
+247700	DetNP
+AdjpNp
+that-VP
+O-V-ADV-ADV
+PrepNp
+O-V-ADV
+PrepNp
+247708	CLaCL
+O-ADV-IO-V
+247711	V-ADV
+NpAdjp
+247714	O-O2-V
+247716	notCLbutCL2CL
+V2CL
+O-V-ADV
+NpAdjp
+PrepNp
+NpaNp
+DetNP
+247724	DetNP
+AdjpNp
+ofNPNP
+247728	CLaCL
+S-P-VC-ADV
+ofNPNP
+AdjpNp
+DetNP
+V-ADV
+PrepNp
+247736	ADV-ADV-V
+247738	AdvpCL
+CLaCL
+S-P
+AdvpNp
+DetNP
+NPDetAdj
+DetAdj
+247746	S-O-ADV-V
+DetCL
+ADV-V
+V2CL
+247752	S-O-O2-V
+S-VC-ADV-P
+PrepNp
+DetNP
+AdjpNp
+AdvpAdjp
+All-NP
+ADV-S-V
+NpaNp
+DetNP
+NPofNP
+DetNP
+247765	DetNP
+247767	Conj-CL
+247769	DetCL
+V-O
+AdjpNp
+sub-CL
+P-VC
+247775	Conj-CL
+ClCl
+ADV-V
+sub-CL
+VC-P-S
+NpaNp
+247782	DetCL
+O-V
+DetNP
+247786	O-V
+Conj2VP
+247790	ClCl2
+sub-CL
+CLaCL
+S-V
+247795	ADV-V-ADV
+NpaNp
+Np-Appos
+AdjpNp
+V2CL
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+247806	DetNP
+PpNp2Np
+PrepNp
+V-ADV
+CLaCL
+O-V
+247813	V-ADV
+PrepNp
+NP-CL
+NpaNp
+247818	ADV-V-S
+PrepNp
+NpNpNpNpNp
+NpAdjp
+NPofNP
+NpAdjp
+CLa2CL
+V-ADV
+DetNP
+247828	V-ADV
+DetNP
+V-O
+P-VC-S
+DetNP
+247834	Conj-CL
+VC-P-S
+NpAdjp
+DetNP
+NpPp
+PrepNp
+247841	Conj-CL
+247843	PrepNp
+DetNP
+sub-CL
+ADV-O-V
+V-O
+247849	Conj-CL
+ADV-ADV-V
+V-O
+NpaNp
+247855	Conj-CL
+S-V-ADV
+DetCL
+V-O
+V2CL
+PrepNp
+NP-CL
+Conj3Np
+247865	NpAdjp
+NpAdjp
+AdjpaAdjp
+247869	S-V-O-ADV
+DetNP
+PrepNp
+NpaNp
+247875	Conj-CL
+P-VC-S
+NPofNP
+All-NP
+DetAdj
+NP-CL
+DetNP
+CLaCL
+ADV-S-V-ADV
+O-V
+PrepNp
+DetNP
+247888	O-V-ADV
+NpAdjp
+247891	Conj-CL
+247893	Np2CL
+intjNP
+NPofNP
+247897	Conj-CL
+ClClCl
+V-O
+NpNpNpNpNpNp
+V-O
+DetNP
+AdjpNp
+NPofNP
+DetNP
+V-O
+NP-CL
+DetNP
+AdjpNp
+ADV-V
+PrepNp
+CLaCL
+V2CL
+247915	V-O-ADV
+DetNP
+AdjpNp
+PrepNp
+AdjpNp
+247921	V-ADV-O
+PrepNp
+NpaNp
+Np-Appos
+DetNP
+DetCL
+V-O
+DetAdj
+247930	Np-Appos
+Np-Appos
+DetCL
+V-ADV-O
+PrepNp
+Np-Appos
+DetNP
+AdjpNp
+V-S-O-ADV-ADV
+DetNP
+AdjpAdjp
+PrepNp
+NP-CL
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+O-ADV-V-S
+NpAdjp
+NP-CL
+NP-CL
+Np-Appos
+Np-Appos
+DetNP
+AdjpNp
+AdjpaAdjp
+247959	DetNP
+NpaNp
+NPofNP
+DetCL
+V2CL
+247965	NPofNP
+DetCL
+V2CL
+DetNP
+NpAdjp
+ClCl
+V-O
+ADV-V
+NpAdjp
+CLaCL
+O-V-S
+NPofNP
+247978	O-V
+V2CL
+247981	NpaNp
+247983	NpAdjp
+Intj2CL
+247987	DetAdj
+AdjpPp
+PrepNp
+DetNP
+AdjpNp
+ClClClClClCl
+notCLbutCL2CL
+CLaCL
+V2CL
+247997	V-ADV
+PrepNp
+ofNPNP
+ADV2CL
+PrepNp
+Np-Appos
+DetCL
+V-IO-O-ADV-ADV
+PrepNp
+V2CL
+V-ADV
+PrepNp
+NpAdjp
+P-VC
+P2CL
+V-IO-O-ADV
+NpAdjp
+PrepNp
+DetCL
+V2CL
+sub-CL
+V-O
+DetNP
+AdvpNp
+248023	Np2CL
+intjNP
+DetNP
+V-O
+DetNP
+NpaNp
+AdjpNp
+248031	NPofNP
+DetNP
+NP-CL
+AdjpNp
+ADV-S-ADV-V
+O-V
+PrepNp
+DetNP
+248040	S-P
+DetNP
+PrepNp
+248044	S-IO
+Np-Appos
+NpPp
+NpPp
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+PrepNp
+NPofNP
+Np-Appos
+NpPp
+PrepNp
+Np-Appos
+Np-Appos
+AdjpNp
+248061	S-ADV
+NpNpNp
+PrepNp
+NpaNp
+Np-Appos
+248067	Np-Appos
+Np-Appos
+DetNP
+NPofNP
+248073	NP-CL
+DetNP
+O-V-ADV-ADV
+PrepNp
+PrepNp
+AdjpNp
+sub-CL
+ADV-V-O-ADV-ADV-ADV
+DetNP
+PpNp2Np
+PrepNp
+PrepNp
+DetNP
+NPofNP
+NpaNp
+248089	ClCl
+V-O-ADV
+O-V
+V-O
+ofNPNP
+DetNP
+sub-CL
+ADV-V-ADV
+V-O
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+NP-CL
+AdjpNp
+CLaCL
+S-V-ADV-ADV
+PrepNp
+NpaNp
+Np-Appos
+DetNP
+NPofNP
+248112	Np-Appos
+DetNP
+NPofNP
+248117	that-VP
+ADV2CL
+AdvPp
+PrepNp
+248122	ADV-V-O
+PrepNp
+PronNP
+S-V-O
+NP-CL
+DetNP
+NPofNP
+DetNP
+S-VC-P-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+248138	Conj-CL
+notCLbutCL2CL
+V-IO-S-O
+DetNP
+NPofNP
+O2CL
+Conj3Np
+248148	Conj-CL
+notCLbutCL2CL
+V-O
+NpaNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+248157	Np-Appos
+DetNP
+NPofNP
+V-ADV-ADV
+DetNP
+PrepNp
+NPofNP
+Np-Appos
+DetCL
+CLaCL
+V-O
+248169	V-ADV-ADV
+NpAdjp
+notPPbutPP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+AdjpNp
+NpaNp
+248179	Np-Appos
+DetCL
+CLaCL
+V-IO-ADV-ADV
+PrepNp
+Np-Appos
+PrepNp
+NpAdjp
+248188	V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+NpAdjp
+Np-Appos
+aCLaCL
+248199	V-O
+DetNP
+248202	V-O-ADV
+NpaNp
+248205	PrepNp
+NP-CL
+DetNP
+ADV-VC-S-P
+PrepNp
+Conj3Np
+248215	CLaCL
+ADV-O-V
+PrepNp
+PronNP
+AdvpNp
+248221	ADV-V
+CLaCL
+V-O
+O-V
+248227	that-VP
+VC-P
+AdjpCL
+O-V-ADV
+DetNP
+NPofNP
+PrepNp
+Demo-NP
+DetNP
+248237	V-O-ADV
+NPofNP
+NP-CL
+AdjpNp
+V2CL
+O-ADV-V
+PrepNp
+PrepNp
+Np-Appos
+NpaNp
+248248	NpPp
+PrepNp
+Np-Appos
+248252	O-V-ADV
+DetNP
+AdjpNp
+PrepNp
+Np-Appos
+NpAdjp
+DetCL
+V-ADV
+PrepNp
+248263	that-VP
+V-O-S
+NP-CL
+All-NP
+NpPp
+PrepNp
+DetNP
+P-VC-S
+NpaNp
+248274	ClCl
+V-O-S-IO
+DetNP
+DetNP
+ofNPNP
+sub-CL
+CLaCL
+ADV-O-V
+248283	notCLbutCL2CL
+O-V
+DetNP
+NPofNP
+CLaCL
+ADV-ADV-V-O
+VC-P
+PrepNp
+248292	V2CL
+248294	V-IO-S-O
+DetNP
+V-O-ADV-ADV
+PrepNp
+PrepNp
+Demo-NP
+DetNP
+248302	Conj-CL
+O-ADV-S-V
+O-ADV-V
+PrepNp
+248307	Conj-CL
+248309	S-V-ADV
+Np2CL
+NPofNP
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+Np-Appos
+248320	O-V-ADV-ADV
+PrepNp
+PrepNp
+AdjpNp
+NP-CL
+AdjpNp
+S-P-VC-ADV
+O-V
+AdvpNp
+248330	V-ADV
+PrepNp
+AdjpNp
+NPofNP
+Np-Appos
+248337	V2CL
+DetNP
+ofNPNP
+DetNP
+sub-CL
+O-V
+DetCL
+V2CL
+248346	Conj-CL
+248348	sub-CL
+ADV-V-S
+sub-CL
+ADV-ADV-V
+248353	V-S
+S-ADV-O-V
+DetNP
+AdjpNp
+V2CL
+DetNP
+248360	V-O
+O-V
+248363	Conj-CL
+V-IO-S-O-ADV
+DetNP
+PrepNp
+248368	V-O
+Np-Appos
+NpPp
+NpPp
+NpAdjp
+V-ADV
+PrepNp
+PrepNp
+NPofNP
+PrepNp
+NP-CL
+DetNP
+NPofNP
+CLaCL
+248383	ADV-V-ADV
+PrepNp
+PrepNp
+S2CL
+248388	S-ADV-V
+DetNP
+NPofNP
+DetNP
+248394	PrepNp
+PrepNp
+DetAdj
+that-VP
+S-V-O-ADV
+AdvpNp
+Np-Appos
+NpPp
+PrepNp
+Np-Appos
+PrepNp
+NpAdjp
+248407	P-S
+DetNP
+248410	Conj-CL
+248412	sub-CL
+V2CL
+248416	sub-CL
+V2CL
+248419	ClCl2
+sub-CL
+V2CL
+S-V-O
+248424	ClCl
+ClCl2
+sub-CL
+V2CL
+S-P-VC
+sub-CL
+O-ADV-V
+V-O
+248433	O-V-ADV
+V-ADV-O
+PrepNp
+DetNP
+AdvpCL
+V-ADV-ADV
+PrepNp
+AdjpNp
+PrepNp
+NPofNP
+DetCL
+V2CL
+248446	V-O
+V-O-O2
+Np-Appos
+AdjpDative
+DetNP
+NpAdjp
+NpAdjp
+V-O
+DetNP
+NPofNP
+DetNP
+248458	Conj-CL
+O-V
+DetNP
+AdjpNp
+248463	Conj-CL
+248465	ADV-V
+PrepNp
+NPofNP
+248469	S-ADV-O-V
+DetNP
+NPofNP
+PrepNp
+P-VC-S
+NP-CL
+NpaNp
+248477	CLaCL
+S-ADV-V-ADV
+PrepNp
+DetNP
+V-O
+S-ADV-V
+248484	V-O
+DetNP
+ofNPNP
+248488	Conj-CL
+S-V-ADV
+DetNP
+AdjpNp
+NPofNP
+DetNP
+248495	NP-Demo
+DetNP
+CLaCL
+V-S-O
+DetCL
+VC-P
+248502	V-ADV-S
+PrepNp
+All-NP
+DetCL
+V-O
+DetNP
+NPofNP
+248510	Conj-CL
+CLaCL
+P-VC-S
+PrepNp
+AdjpNp
+notNPbutNP
+AdvpNp
+NpAdjp
+AdjpaAdjp
+248520	AdvpNp
+AdjpaAdjp
+248524	aCLaCL
+248526	S-P
+PrepNp
+248529	S-P
+PrepNp
+248532	Conj-CL
+248534	sub-CL
+S-V-O-ADV
+PrepNp
+NpAdjp
+NpAdjp
+NpAdjp
+NpPp
+PrepNp
+V2CL
+AdjpAdvp
+DetNP
+ADV-V
+PrepNp
+All-NP
+NpAdjp
+248550	Conj-CL
+CLaCL
+O-V
+DetNP
+AdjpNp
+248556	V-O-ADV
+NpNpNpNp
+PrepNp
+DetCL
+V-O-ADV
+DetNP
+PrepNp
+AdjpNp
+248565	Conj-CL
+O-V-ADV
+DetNP
+AdjpNp
+AdjpaAdjp
+248572	that-VP
+V-O
+248575	Conj-CL
+248577	CLaCL
+S-ADV-V
+NPofNP
+248581	VC-P-ADV
+3Adjp
+AdjpPp
+PrepNp
+ADV-V-O
+PrepNp
+DetCL
+V2CL
+CLaCL
+ADV-ADV-V-IO-S-O-ADV
+DetNP
+PrepNp
+NPofNP
+248595	V-ADV-ADV
+PrepNp
+DetNP
+ofNPNP
+DetNP
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+ofNPNP
+248606	Conj-CL
+248608	that-VP
+ADV-V-S
+PrepNp
+AdjpNp
+NpAdjp
+248614	Conj-CL
+ClCl
+248617	DetNP
+NpNpNpNpNpNpNpNpNpNpNpNpNpNpNpNp
+AdvpAdjp
+CLaCL
+ADV-P-ADV
+V2CL
+248624	P2CL
+CLaCL
+V-O
+NPofNP
+248629	O-V
+DetNP
+NPofNP
+248633	O-V
+AdvpNp
+248636	Conj-CL
+P-VC-S
+PrepNp
+DetCL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+248645	V-O
+NpAdjp
+NpAdjp
+ClCl
+V-ADV
+V-ADV
+NpAdjp
+CLaCL
+ADV-V
+248655	ADV-O-V
+ADV-V
+PrepNp
+NPofNP
+248660	Conj-CL
+248663	ADV-S-V-O
+PronNP
+NpaNp
+248667	DetNP
+NpAdjp
+NpAdjp
+V-ADV
+DetNP
+AdjpPp
+PrepNp
+DetNP
+248676	Conj-CL
+ADV-V-ADV
+PrepNp
+248680	Conj-CL
+248682	DetNP
+NPofNP
+sub-CL
+S-V
+AdvpNp
+NPofNP
+248689	Conj-CL
+CLaCL
+S-V-ADV
+2Np
+ofNPNP
+7Np
+DetNP
+DetNP
+DetNP
+DetNP
+DetNP
+DetNP
+DetNP
+NP-CL
+NP-CL
+2Np
+DetNP
+DetNP
+S-ADV-VC-P
+PpPpPp
+PrepNp
+PrepNp
+PrepNp
+O-V
+AdjpNp
+248715	ADV-O-V-S
+PrepNp
+DetNP
+248719	Conj-CL
+S-V
+AdvpNp
+All-NP
+DetCL
+V-O
+V-ADV-ADV
+PrepNp
+Np-Appos
+248729	Conj-CL
+S-V-ADV-ADV
+NpaNp
+AdjpNp
+248734	PrepNp
+DetAdj
+V2CL
+Conj2VP
+248740	Conj-CL
+S-V-ADV-ADV
+PrepNp
+O-V
+Conj2VP
+248747	CLaCL
+ADV-V
+PrepNp
+248751	that-VP
+ADV-V-O
+PrepNp
+Np-Appos
+AdjpNp
+DetCL
+V-O
+O-V-ADV-ADV
+PrepNp
+PrepNp
+Np-Appos
+NpPp
+PrepNp
+Np-Appos
+248767	All-NP
+AdjpaAdjp
+248770	AdjpPp
+PpPpPpPp
+PrepNp
+PrepNp
+PrepNp
+PrepNp
+Np-Appos
+NpPp
+PrepNp
+sub-CL
+P-VC-S-ADV
+DetNP
+ofNPNP
+DetNP
+ADV-V
+PrepNp
+All-NP
+NpAdjp
+248789	V-ADV
+ADVaADV
+PrepNp
+NpaNp
+DetNP
+248795	Np-Appos
+Np-Appos
+DetCL
+V-O
+V-O
+NpaNp
+V2CL
+248804	NpaNp
+DetNP
+NPofNP
+248808	DetNP
+NPofNP
+248811	ClClCl
+V-O
+DetNP
+V-ADV
+2Advp_h1
+V-ADV
+ClClCl
+V2CL
+V2CL
+V2CL
+PrepNp
+All-NP
+NpaNp
+248826	Conj-CL
+ClCl
+V-S
+sub-CL
+CLaCL
+notCLbutCL2CL
+O-V
+DetNP
+AdjpNp
+V2CL
+ADV-IO-V-O-ADV
+PrepNp
+DetNP
+AdjpNp
+V-O
+DetNP
+248843	aCLaCL
+248845	ADV-O-V
+PrepNp
+DetNP
+DetNP
+248850	ADV-V
+PrepNp
+DetNP
+248854	Conj-CL
+ClClClCl
+S-V-ADV
+PrepNp
+V2CL
+V-O
+NPofNP
+O-V
+DetNP
+NPofNP
+248865	Conj-CL
+CLaCL
+S-ADV-V
+248869	S-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+248875	ClClCl
+O-V
+DetNP
+AdjpNp
+O-V
+DetNP
+O-V
+DetNP
+248884	ADV-V-ADV-S
+NP-CL
+DetNP
+ofNPNP
+DetNP
+CLaCL
+O-V-IO-S-ADV
+Np-Appos
+DetNP
+PrepNp
+Demo-NP
+DetNP
+DetNP
+AdjpNp
+248899	IO2CL
+notNPbutNP
+AdvpNp
+AdvpNp
+All-NP
+DetCL
+V-O
+DetNP
+NPofNP
+248909	V-O
+V-ADV-ADV
+PrepNp
+248913	Conj-CL
+ClCl
+ClClCl
+CLaCL
+S-O-V-ADV
+V-O
+DetNP
+AdjpNp
+248922	V-ADV
+PrepNp
+S-ADV
+PrepNp
+S-ADV
+PrepNp
+S-VC-ADV-P
+PrepNp
+248931	ClCl
+ADV-V-ADV
+O-V
+PrepNp
+sub-CL
+VC-ADV-P-ADV
+PrepNp
+248939	Conj-CL
+O-V-ADV
+PrepNp
+248943	CLaCL
+O-ADV-V
+DetNP
+NP-CL
+O-V-ADV-ADV
+PrepNp
+PrepNp
+V2CL
+248952	O2CL
+2Np
+DetNP
+AdvpNp
+DetNP
+248958	S-O-IO-V
+Np-Appos
+DetNP
+AdjpNp
+248964	DetNP
+PrepNp
+DetNP
+NPofNP
+O-S-V
+AdvpNp
+248971	Conj-CL
+ADV-V-O
+DetNP
+AdjpNp
+248976	CLaCL
+ADV-S-ADV-V
+PrepNp
+DetNP
+AdjpNp
+ofNPNP
+248983	S-O-V
+248985	ADV-IO-V
+248987	Conj-CL
+CLaCL
+ClCl
+CLaCL
+S-ADV-V
+DetNP
+248994	V-O
+sub-CL
+CLaCL
+ADV-S-V
+PrepNp
+DetNP
+249001	V-S
+All-NP
+DetNP
+249005	V-ADV
+PrepNp
+NPofNP
+249010	CLaCL
+V-O-S-ADV
+DetNP
+PrepNp
+All-NP
+NpAdjp
+249017	V-ADV
+PrepNp
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+249030	V-O
+Conj3Np
+249034	DetNP
+ofNPNP
+249037	CLaCL
+S-V-ADV
+PrepNp
+249041	O-V-ADV-ADV
+PrepNp
+V2CL
+249045	V-O
+ADV-V
+PrepNp
+249049	V-O-S
+Conj5Np
+249055	NP-all
+DetNP
+249058	S-P
+DetNP
+PrepNp
+DetNP
+NPofNP
+249064	S-P
+DetNP
+PrepNp
+249068	S-ADV-ADV-IO
+Np-Appos
+NpaNp
+NPofNP
+249073	NPofNP
+Np-Appos
+PrepNp
+NpaNp
+NPofNP
+NPofNP
+249080	NPofNP
+Np-Appos
+NpPp
+PrepNp
+PrepNp
+NPofNP
+NP-CL
+NpAdjp
+CLaCL
+O-V-S-ADV
+DetNP
+AdjpNp
+PrepNp
+NpAdjp
+249095	V-ADV-O-ADV
+NpAdjp
+DetNP
+NPofNP
+PrepNp
+NP-CL
+O-V-S-ADV
+PrepNp
+NPofNP
+DetNP
+Np-Appos
+NPofNP
+Np-Appos
+NpPp
+AdjpNp
+PrepNp
+AdjpNp
+249113	S-ADV
+NpaNp
+249116	PrepNp
+NpaNp
+Np-Appos
+249120	Np-Appos
+Np-Appos
+DetNP
+NPofNP
+249125	ClCl
+ADV-V-O-ADV
+NP-Prep
+PrepNp
+sub-CL
+CLaCL
+O-V
+DetCL
+V2CL
+249135	ClCl
+ClCl
+V-ADV-O
+PrepNp
+sub-CL
+S-IO-V
+sub-CL
+S-VC-P
+NpNpNp
+ofNPNP
+AdjpNp
+V-O
+NpAdjp
+NpAdjp
+AdvpCL
+Conj2P
+PrepNp
+NPofNP
+249155	Conj-CL
+V-S
+S-VC-ADV-P-ADV
+DetNP
+AdjpAdjp
+PrepNp
+ofNPNP
+AdjpaAdjp
+AdjpAdjpAdjpAdjpAdjp
+AdvpAdjp
+AdvpAdjp
+AdvpAdjp
+ADV-P
+AdvpAdjp
+249170	AdjpAdjpAdjpAdjpAdjpAdjp
+249172	DetNP
+PpNp2Np
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+VC-P
+AdjpCL
+aCLaCL
+249182	V-ADV
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+249189	O-V
+DetCL
+V2CL
+249193	Conj-CL
+VC-P-S
+NP-CL
+NP-CL
+2Np
+2Np
+NpaNp
+249201	AdvpNp
+NpPp
+PrepNp
+DetNP
+S-V
+O-V
+S-O-V-ADV
+All-NP
+V-O-ADV
+S-ADV-V
+NP-Prep
+AdjpNp
+249215	Np-Appos
+NpPp
+PrepNp
+AdjpNp
+ofNPNP
+S-ADV-P
+NpNpNp
+AdjpNp
+NpAdjp
+249225	S-VC-P
+NP-Demo
+DetNP
+249230	ADV-V-O-ADV
+PrepNp
+PronNP
+V-ADV-ADV
+PrepNp
+DetNP
+ADV-V-ADV
+NpaNp
+AdjpNp
+249240	NPofNP
+NpAdjp
+V-O
+DetNP
+249245	S-P-ADV
+DetAdj
+249248	Conj-CL
+CLaCL
+ADV-S-P
+DetAdj
+AdjpaAdjp
+V2CL
+249256	V-S
+ofNPNP
+aNpaNp
+249260	DetNP
+249262	DetNP
+249264	CLaCL
+O-V
+O-V
+249268	ADV-V-ADV
+DetNP
+VC-P
+Conj3Adjp
+249274	PP-Adjp
+PrepNp
+All-NP
+NpAdjp
+249279	Conj-CL
+S-V-O
+S-V-ADV
+DetNP
+AdjpNp
+V2CL
+249286	S-VC-P
+AdjpAdjpAdjpAdjp
+V-ADV
+NpNpNp
+DetNP
+DetNP
+DetNP
+249294	ClCl
+249296	PrepNp
+AdjpAdjpAdjpAdjp
+AdvpAdjp
+ADV-IO-V
+NpAdjp
+sub-CL
+V-O
+S-VC-P
+DetAdj
+AdjpAdjpAdjpAdjpAdjpAdjpAdjp
+V-IO
+DetNP
+AdjpNp
+sub-CL
+ADV-S-V
+DetNP
+NPofNP
+DetNP
+249315	O-ADV-V-O2
+DetAdj
+V2CL
+249319	ClCl
+ClCl
+ADV-O-V-O2
+PrepNp
+NPofNP
+AdjpNp
+ADV-O
+PrepNp
+DetNP
+NpNpNp
+NpAdjp
+NpAdjp
+sub-CL
+S-V-ADV
+NpPp
+PrepNp
+V-O
+V-ADV-O
+NpAdjp
+PrepNp
+249340	ClCl
+ClCl
+S-IO-V-ADV
+AdjpNp
+PrepNp
+P-VC-ADV
+CLaCL
+249348	ADV-V
+249350	O-V
+All-NP
+NpAdjp
+sub-CL
+O-V-ADV
+Np-Appos
+DetNP
+NPofNP
+DetNP
+Np-Appos
+NPofNP
+PrepNp
+249363	Conj-CL
+V-S-ADV-ADV
+DetNP
+NPofNP
+DetNP
+AdjpDative
+All-NP
+249371	that-VP
+ADV-ADV-V-ADV-ADV
+V-O
+NpaNp
+DetNP
+249377	DetNP
+AdjpNp
+Conj3Advp
+249382	PrepNp
+DetNP
+AdjpNp
+V-O
+DetNP
+NpaNp
+AdjpNp
+249390	NPofNP
+DetNP
+NPofNP
+NP-CL
+Np-Appos
+DetNP
+Np-Appos
+AdjpNp
+NpaNp
+249400	Np-Appos
+249402	S-V-O-ADV
+PrepNp
+CLaCL
+V-O-ADV
+PrepNp
+All-NP
+249409	V-IO-O
+Np-Appos
+NpAdjp
+NPofNP
+AdjpNp
+249415	CLaCL
+O-V
+249418	V-ADV
+Conj2VP
+249421	PrepNp
+All-NP
+249424	S-O-V
+249426	V-O-O2-ADV
+ClClClClClCl
+IO-V
+2Np
+V2CL
+ADV-P-VC
+PrepNp
+All-NP
+NpAdjp
+O-V
+P-VC
+P2CL
+O-V-ADV
+All-NP
+PrepNp
+All-NP
+249443	Conj-CL
+VC-ADV-S-P
+AdvpNp
+AdjpAdjpAdjpAdjpAdjpAdjpAdjp
+V2CL
+V-O
+NpAdjp
+NpaNp
+249452	ADV-V
+PrepNp
+NpaNp
+249456	V-O
+249458	Conj-CL
+249460	sub-CL
+S-V
+NPofNP
+NpaNp
+DetNP
+249466	DetNP
+DetNP
+Np-Appos
+NPofNP
+ADV-V-O-ADV
+notPPbutPP
+PrepNp
+NP-CL
+Np-Appos
+NpPp
+PrepNp
+O-V-S
+PrepNp
+DetNP
+ofNPNP
+PrepNp
+NpaNp
+NPofNP
+249485	NPofNP
+NP-CL
+NpAdjp
+O-V-ADV-ADV-ADV
+PrepNp
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+ADV-P-VC-ADV
+V-ADV
+DetNP
+ofNPNP
+PrepNp
+NPofNP
+NpAdjp
+249503	P-S
+DetNP
+249506	Conj-CL
+ADV-V-O
+PrepNp
+249510	that-VP
+V-O-S
+O-V
+AdjpNp
+DetCL
+V-O
+249517	S-VC-P-ADV
+AdjpaAdjp
+249520	DetNP
+249522	Conj-CL
+249524	Conj4Np
+AdjpNp
+249529	NpAdjp
+sub-CL
+VC-P
+AdjpaAdjp
+249535	O-ADV-V-ADV
+AdjpNp
+PrepNp
+AdjpNp
+AdjpaAdjp
+249542	that-VP
+S-V-ADV
+Conj2VP
+DetNP
+249547	VC-P
+249549	ClCl
+ClCl2
+sub-CL
+V-ADV-O
+NpaNp
+PrepNp
+249556	V-O
+V-ADV-ADV
+PrepNp
+PrepNp
+sub-CL
+O-V
+ADV-V
+249565	NpaNp
+Np-Appos
+DetAdj
+249569	sub-CL
+S-ADV-V
+249572	Conj-CL
+249574	AdvpNp
+DetNP
+O-V-ADV
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+ADV-VC-P
+249584	V-O-S
+NP-all
+NpPp
+PrepNp
+249589	V-O
+DetCL
+V-O-ADV
+PrepNp
+249594	S-P
+DetNP
+PrepNp
+All-NP
+249599	S-IO
+NpaNp
+Np-Appos
+NPofNP
+Np-Appos
+249605	Np-Appos
+DetNP
+Conj4Np
+Np-Appos
+DetNP
+NPofNP
+AdjpaAdjp
+249614	Np-Appos
+DetNP
+249617	Np-Appos
+DetNP
+NPofNP
+249621	DetNP
+PpNp2Np
+PrepNp
+NPofNP
+249626	IO-S-ADV
+NpaNp
+249629	PrepNp
+NpaNp
+Np-Appos
+NPofNP
+249634	Np-Appos
+Np-Appos
+249638	DetNP
+NPofNP
+O-V-ADV
+NPofNP
+PrepNp
+DetNP
+NPofNP
+V-O
+NP-CL
+ofNPNP
+NpaNp
+DetNP
+249651	DetNP
+O-V-ADV
+Conj2Pp
+PrepNp
+Np-Appos
+DetNP
+249658	PrepNp
+All-NP
+DetAdj
+sub-CL
+S-P-VC-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+All-NP
+Np-Appos
+NpPp
+2Pp
+PrepNp
+PrepNp
+249676	Conj-CL
+249678	NpaNp
+NpAdjp
+249681	PrepNp
+DetNP
+NPofNP
+sub-CL
+S-V-ADV
+DetNP
+NPofNP
+DetAdj
+PrepNp
+Np2CL
+249692	Conj-CL
+ADV-ADV-ADV-V-ADV
+O-V-ADV
+AdjpNp
+PpNp2Np
+PrepNp
+V-IO-O
+DetCL
+V2CL
+PrepNp
+DetNP
+CLaCL
+P-VC-ADV
+PrepNp
+Np-Appos
+249708	ADV-P
+AdvpNp
+NPofNP
+Np-Appos
+249713	V-O-ADV
+PrepNp
+NP-CL
+DetNP
+AdjpNp
+V-ADV-O
+PronNP
+PrepNp
+DetNP
+NP-CL
+NP-CL
+Np-Appos
+DetAdj
+AdjpaAdjp
+AdvpAdjp
+DativeAdjp
+249730	AdvpAdjp
+DativeAdjp
+aNpaNp
+249735	V-IO-O
+PronNP
+NP-CL
+S-VC-P
+DetNP
+AdjpNp
+ClCl
+S-V-O
+O-ADV-V
+PrepNp
+sub-CL
+ADV-O-V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+249753	Conj-CL
+249755	PrepNp
+DetNP
+AdjpNp
+O-V
+sub-CL
+notCLbutCL2CL
+P-S-VC
+AdvPp
+PrepNp
+DetNP
+NPofNP
+P2CL
+PrepNp
+249769	Conj-CL
+249771	PrepNp
+PrepNp
+sub-CL
+249775	notPPbutPP
+PrepNp
+PrepNp
+NpAdjp
+CLaCL
+ADV-IO
+249782	ADV-IO-ADV
+2Advp_h2
+aPpaPp
+249786	PrepNp
+249788	PrepNp
+249790	Conj-CL
+ClCl2
+sub-CL
+O-V-O2
+ClCl
+V-O
+sub-CL
+O2CL
+249799	Conj-CL
+249801	sub-CL
+CLaCL
+ADV-O-V
+249805	V2CL
+249808	Np-Appos
+DetNP
+AdjpNp
+ClCl
+S-V
+sub-CL
+249815	that-VP
+O-IO-V
+AdvpNp
+249820	Intj2CL
+Np2CL
+PrepNp
+249824	V-O-ADV
+ofNPNP
+DetNP
+PrepNp
+249829	ADV-V-IO-ADV
+V-ADV
+DetNP
+NPofNP
+249834	that-VP
+ADV-V
+AdvPp
+PrepNp
+O-V
+249840	Conj-CL
+ClCl
+ADV-V-IO-O
+2Advp_h1
+sub-CL
+249846	V2CL
+ADV-V-IO
+PrepNp
+DetNP
+NPofNP
+249852	V-O-S
+2Np
+Np-Appos
+DetNP
+NpPp
+NPofNP
+PrepNp
+Np-Appos
+Np-Appos
+NpNpNpNp
+DetNP
+NPofNP
+249865	S-P
+DetNP
+NPofNP
+Np-Appos
+DetNP
+Np-Appos
+PrepNp
+DetNP
+NPofNP
+249875	ADV-S-ADV-V-IO-ADV
+ADV-ADV-V-IO-ADV
+AdvpaAdvp
+249879	DetNP
+DetNP
+PrepNp
+DetNP
+PrepNp
+NPofNP
+NP-Demo
+DetNP
+PrepNp
+NP-CL
+NP-CL
+NP-CL
+O-V-O2
+NPofNP
+ADV-ADV-V-O
+PrepNp
+DetNP
+249897	S-ADV-ADV-V-ADV-ADV
+CLaCL
+VC-P
+NpaNp
+NPofNP
+DetNP
+249904	NPofNP
+DetNP
+NPofNP
+249908	V-O-ADV
+DetAdj
+DetNP
+NPofNP
+DetNP
+NPofNP
+O-V
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+PrepNp
+ADV-P-VC-ADV
+DetNP
+AdjpNp
+PrepNp
+249926	Conj-CL
+249928	NPofNP
+DetNP
+ClCl
+P-VC-S
+NPofNP
+S-ADV-V-O
+249935	Conj-CL
+249937	CLaCL
+S-VC-ADV-P
+PrepNp
+249941	S-VC-ADV-P
+PrepNp
+249944	Conj-CL
+ClCl2
+sub-CL
+ADV-V-O-ADV
+DetAdj
+PrepNp
+DetNP
+249952	Conj-CL
+V-O-S
+All-NP
+NPofNP
+249957	Conj-CL
+aCLaCL
+249961	PrepNp
+DetNP
+P2CL
+DetCL
+CLaCL
+V-O-O2
+DetNP
+NPofNP
+249970	O-O2
+DetNP
+NPofNP
+ofNPNP
+249975	ClCl
+ADV2CL
+PrepNp
+DetNP
+249980	S-P
+DetNP
+NPofNP
+Np2CL
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+249990	P-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+249998	CLaCL
+V-O
+250001	V-O
+250003	ADV-V-O-S-ADV-ADV
+PrepNp
+Np-Appos
+DetNP
+DetNP
+NPofNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+250014	Conj-CL
+250016	S-ADV-O-V
+PrepNp
+Np2CL
+DetNP
+250021	P-VC-S
+NPofNP
+DetNP
+NPofNP
+DetNP
+250027	CLaCL
+S-V
+250030	S-V
+250032	Conj-CL
+CLaCL
+250035	sub-CL
+S2CL
+250038	ClCl
+250040	sub-CL
+O2CL
+250043	sub-CL
+S2CL
+250046	Conj-CL
+CLaCL
+S-P-VC
+DetNP
+250051	S-ADV-V
+DetNP
+NPofNP
+250055	Conj-CL
+250057	PrepNp
+NPofNP
+DetNP
+ClCl
+V-ADV
+PrepNp
+NPofNP
+sub-CL
+PtclCL
+V-O-O2
+DetNP
+NPofNP
+NPofNP
+DetNP
+NPofNP
+250073	PtclCL
+S-VC-P
+AdjpNp
+NpAdjp
+ADV-V-ADV
+PrepNp
+PrepNp
+DetCL
+V-O
+V-O
+250085	PrepNp
+ADV-V-S-ADV
+DetCL
+V2CL
+ADV-ADV-V
+250091	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+S-VC-P
+DetNP
+AdjpNp
+ADV-V
+PrepNp
+250101	S-V-O
+All-NP
+NpaNp
+250105	AdjpNp
+ADV-S-V-ADV
+V-O
+NP-CL
+AdjpNp
+250111	S-ADV-ADV-ADV-V
+ADV-V-ADV
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetCL
+V2CL
+PrepNp
+DetNP
+EitherOr4Np
+250125	AdjpNp
+250127	ofNPNP
+NpAdjp
+PrepNp
+DetNP
+ofNPNP
+250133	Conj-CL
+ADV-IO-V-O
+NP-CL
+Np-Appos
+DetNP
+DetCL
+V2CL
+ADV-V
+PrepNp
+250143	Conj-CL
+V-ADV-S-ADV
+250146	CLaCL
+250148	sub-CL
+V-O
+250152	NPofNP
+sub-CL
+V-O
+250156	ClClCl
+V-O-ADV-ADV
+AdjpNp
+PrepNp
+ADV-V-O
+NpaNp
+250163	O-V-ADV
+PrepNp
+DetNP
+NPofNP
+250168	Conj-CL
+ADV-O-V-O2
+PrepNp
+DetCL
+V-IO-O
+DetAdj
+DativeAdjp
+250176	Conj-CL
+ADV-ADV-V-O
+IO-S-V
+DetAdj
+250181	Conj-CL
+V-O
+250184	Np-Appos
+DetCL
+ADV-ADV-V
+AdjpNp
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NpaNp
+250195	sub-CL
+ADV-ADV-V-O
+NPofNP
+PrepNp
+250200	Conj-CL
+V-ADV-S
+NP-CL
+CLaCL
+ADV-S
+PrepNp
+DetAdj
+250208	ADV-S
+PrepNp
+DetAdj
+ADV-O-ADV-V
+O-ADV-V
+AdjpNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+250221	Conj-CL
+S-P
+aNpaNp
+250225	DetCL
+V2CL
+250228	DetCL
+V2CL
+PpNp2Np
+PrepNp
+250233	ADV-ADV-V-ADV-ADV
+PrepNp
+PronNP
+O2-O-V
+250239	DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-V-O
+PrepNp
+NPofNP
+250247	Conj-CL
+ClCl
+ADV2CL
+S-V-ADV
+BeVerb
+PrepNp
+250254	Conj-CL
+250257	V2CL
+NpaNp
+250260	DetNP
+NP-CL
+O-IO-V-S
+DetNP
+250265	Conj-CL
+250267	sub-CL
+S-V-O
+DetNP
+NpaNp
+250272	AdvpNp
+DetNP
+sub-CL
+CLaCL
+ADV-V-O
+PrepNp
+DetNP
+NP-CL
+DetCL
+O-V
+DetNP
+NPofNP
+DetNP
+S-VC-P
+DetAdj
+250288	V-O
+NP-CL
+S-ADV-ADV-P-VC
+NPofNP
+PrepNp
+All-NP
+DetCL
+V2CL
+AdjpofNp
+250298	Conj-CL
+notCLbutCL2CL
+PtclCL
+O-V
+O-V
+NPofNP
+250305	Conj-CL
+ClCl
+V-O
+ADV-ADV-V
+PrepNp
+DetNP
+sub-CL
+VC-P-ADV-ADV
+AdjpNp
+AdjpaAdjp
+250316	NpPp
+PrepNp
+DetNP
+PrepNp
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+250326	Conj-CL
+ADV-V-O
+PrepNp
+O-V-S-ADV
+V2CL
+O-V
+DetCL
+V2CL
+250335	Conj-CL
+250337	Np2CL
+Np-Appos
+NpAdjp
+ofNPNP
+NpAdjp
+Np-Appos
+DetNP
+NPofNP
+NpaNp
+250347	DetNP
+NPofNP
+NpAdjp
+250351	DetCL
+V-O
+sub-CL
+S-ADV
+AdvpNp
+PrepNp
+All-NP
+DetNP
+NPofNP
+250361	Conj-CL
+250363	AdjpNp
+PrepNp
+ADV-O-V-ADV-S
+PrepNp
+AdjpNp
+DetNP
+DetCL
+V-O
+250372	Conj-CL
+CLaCL
+S-V-ADV
+All-NP
+PrepNp
+250378	S-P
+DetCL
+O-V
+250382	Conj-CL
+aCLaCL
+250385	S-P-ADV-ADV-ADV
+PrepNp
+All-NP
+DetNP
+NPofNP
+PrepNp
+PrepNp
+NPofNP
+DetCL
+V2CL
+250396	S-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+NP-CL
+250403	P-VC-S
+ofNPNP
+O-ADV-ADV-V
+NpaNp
+DetNP
+250409	DetNP
+NPofNP
+DetNP
+PrepNp
+250414	Conj-CL
+sub-CL
+250417	DetNP
+NPDetAdj
+DetAdj
+ClCl2
+sub-CL
+ADV-O-V
+DetNP
+NPofNP
+ClCl
+ADV-V-O
+DetNP
+NPofNP
+sub-CL
+ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NP-CL
+DetAdj
+CLaCL
+ADV-V-S-ADV
+DetNP
+NPofNP
+PrepNp
+250446	V-O-ADV
+DetNP
+NPofNP
+NumpNP
+250451	Conj-CL
+CLaCL
+V-O
+NP-Demo
+DetNP
+250457	ClCl
+250459	CLaCL
+ADV-V-ADV
+DetNP
+250463	S-ADV-V-O
+DetNP
+NPofNP
+sub-CL
+250468	PrepNp
+DetNP
+NPofNP
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+250477	CLaCL
+ClCl
+250480	Np2CL
+ADV-ADV-VC-P-S-ADV
+PrepNp
+NPofNP
+NPofNP
+NpAdjp
+PrepNp
+DetCL
+V-ADV
+PrepNp
+NpAdjp
+V2CL
+250494	PrepNp
+AdjpNp
+PrepNp
+ADV-P-VC
+DetNP
+sub-CL
+ADV-V-S-ADV
+NpPp
+PrepNp
+NPofNP
+DetNP
+250506	Conj-CL
+ClCl
+P-VC
+NPofNP
+DetNP
+sub-CL
+O-ADV-ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+PrepNp
+DetCL
+250520	ClCl2
+sub-CL
+ADV-O-V
+DetNP
+NPofNP
+ClCl
+ADV-V-O
+DetNP
+NPofNP
+sub-CL
+ADV2CL
+PrepNp
+DetNP
+250534	Conj-CL
+S-ADV-V
+V2CL
+250538	Conj-CL
+PtclCL
+S2CL
+All-NP
+DetCL
+V-ADV-ADV
+PrepNp
+PrepNp
+250547	Conj-CL
+O-V-ADV
+NumpNP
+250551	PtclCL
+O2CL
+NP-CL
+DetCL
+V2CL
+S-V-ADV
+ofNPNP
+DetNP
+PrepNp
+DetAdj
+250562	Conj-CL
+250564	ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-IO
+DetCL
+V2CL
+250573	Conj-CL
+250575	V2CL
+ADV-V-O-ADV
+V2CL
+PrepNp
+250580	Conj-CL
+ClCl
+V2CL
+250584	ADV-ADV-V-S-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+NpPp
+PrepNp
+V2CL
+250593	Conj-CL
+CLaCL
+250596	BeVerb
+sub-CL
+S2CL
+250600	ADV-V-S-O-ADV
+DetNP
+NPofNP
+DetNP
+ADV-V-ADV-ADV
+DetNP
+DetCL
+V2CL
+250609	Conj-CL
+ClCl
+250612	PrepNp
+DetNP
+DetCL
+V2CL
+sub-CL
+250618	sub-CL
+250620	PrepNp
+DetNP
+NPofNP
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+S-ADV-V
+DetNP
+PrepNp
+NPofNP
+250634	Conj-CL
+250636	PrepNp
+DetAdj
+Conj-CL
+V-S-ADV-ADV
+DetNP
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+All-NP
+DetNP
+NPofNP
+250650	Conj-CL
+250652	PrepNp
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+250659	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+V-S
+S-V-ADV
+PrepNp
+250667	S-ADV-V-ADV
+DetCL
+ADV-V
+PrepNp
+250672	Np-Appos
+AdjpNp
+ADV-V-ADV
+PrepNp
+PrepNp
+AdjpNp
+sub-CL
+250680	ClCl2
+sub-CL
+ADV-O-V
+DetNP
+NPofNP
+ADV-V-O
+DetNP
+NPofNP
+250689	Conj-CL
+ClCl2
+sub-CL
+O-S-V
+PtclCL
+ADV-ADV-V-ADV
+PrepNp
+AdjpNp
+PrepNp
+250699	Conj-CL
+V-S-IO
+DetNP
+NPofNP
+DetNP
+250705	Conj-CL
+250707	Np-Appos
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+AdvpNp
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-S
+PrepNp
+DetAdj
+DetNP
+250723	Conj-CL
+ClCl
+V-O
+V-ADV
+PrepNp
+Demo-NP
+DetNP
+sub-CL
+ADV-ADV-S-V
+PrepNp
+DetNP
+PronNP
+NPofNP
+DetNP
+250738	Conj-CL
+S-P
+Conj5AdjP
+V2CL
+DetNP
+NPofNP
+DetNP
+250747	AdjpPp
+PrepNp
+All-NP
+NpAdjp
+250752	V-ADV
+PrepNp
+NPofNP
+2Np
+NpaNp
+250758	aNpaNp
+250762	AdjpofNp
+NPofNP
+NpaNp
+250767	Conj-CL
+CLaCL
+ADV-VC-S-P-ADV
+PrepNp
+250772	S-P-ADV
+AdjpaAdjp
+250775	V2CL
+DetNP
+NPofNP
+NP-CL
+P-ADV-S
+PrepNp
+DetNP
+250783	Conj-CL
+ADV-V-O
+V-O
+Np-Appos
+NpAdjp
+NpAdjp
+V-ADV
+DetNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetNP
+250797	Conj-CL
+V-O
+NpAdjp
+notCLbutCL2CL
+ADV-V-O
+V-ADV
+DetNP
+NPofNP
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+PrepNp
+250810	Conj-CL
+250812	PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+V-O
+250820	O-V-ADV
+PrepNp
+AdjpNp
+250824	Conj-CL
+250826	All-NP
+NpAdjp
+ADV-V
+PrepNp
+PrepNp
+NpPp
+PrepNp
+DetNP
+sub-CL
+V-O-ADV-ADV
+aNpaNp
+250839	PrepNp
+250841	V-ADV
+DetCL
+V2CL
+Conj2VP
+250846	sub-CL
+CLaCL
+S-V-O
+AdvpNp
+250851	ADV-V-O
+PrepNp
+250854	sub-CL
+ADV2CL
+PrepNp
+DetNP
+AdvPp
+PrepNp
+PrepNp
+250862	Conj-CL
+notCLbutCL2CL
+ADV-S-V-O
+DetNP
+250867	PrepNp
+DetNP
+sub-CL
+S2CL
+AdvpNp
+250874	ADV-S-ADV-O-V-ADV
+AdvpNp
+DetNP
+VC-P
+250879	ClCl
+S2CL
+DetCL
+250883	PrepNp
+ClCl
+P-VC-S
+NPofNP
+S-ADV-V-O
+sub-CL
+250890	AdvPp
+PrepNp
+S-P-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+S-ADV
+CLaCL
+ADV-O-ADV-ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+aNpaNp
+250909	PrepNp
+DetCL
+V-O
+V-O-ADV
+PrepNp
+PrepNp
+NpaNp
+NpAdjp
+250919	V-ADV
+PrepNp
+DetNP
+250923	ADV-V-ADV-O
+sub-CL
+VC-P
+PrepNp
+O-V
+DetNP
+250930	Conj-CL
+ADV-VC-ADV-P-ADV
+V2CL
+All-NP
+DetCL
+V-O
+NPofNP
+NpAdjp
+V-ADV-O
+PrepNp
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+250946	CLaCL
+ADV-P-ADV-S
+PrepNp
+DetNP
+250952	V2CL
+sub-CL
+P-VC-ADV
+DetNP
+250957	Conj-CL
+CLaCL
+ADV-ADV-V-O
+ADV-V-O-ADV
+VC-P
+PrepNp
+DetNP
+NPofNP
+DetCL
+V-O-S-O2
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+250975	VC-P
+V-O
+NPofNP
+2Np
+AdvpNp
+AdjpNp
+250982	Conj-CL
+CLaCL
+250985	All-NP
+DetCL
+V-O
+AdjpofNp
+NPofNP
+sub-CL
+P-VC
+250993	VC-S-P
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+ADV-O-O2-V-ADV
+PrepNp
+DetNP
+DetNP
+V2CL
+PrepNp
+NPofNP
+aNpaNp
+251009	Conj-CL
+ADV-ADV-V-ADV
+V-O
+DetNP
+ofNPNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+ADV-ADV-V-O
+Np-Appos
+NPofNP
+NpaNp
+NpPp
+PrepNp
+AdjpNp
+251027	NpPp
+PrepNp
+NPofNP
+2Np
+NpaNp
+251033	NPofNP
+NpaNp
+NPofNP
+251037	NpAdjp
+251039	Conj-CL
+251041	sub-CL
+V-S
+DetNP
+251045	Conj-CL
+P-S-ADV
+O-ADV-V-ADV
+DetCL
+Conj5CL
+ADV-V
+251052	V-O
+DetNP
+NPofNP
+DetAdj
+251057	O-V
+NPofNP
+NpAdjp
+251061	V-O
+NpaNp
+AdjpNp
+ofNPNP
+251066	NPofNP
+AdjpNp
+V2CL
+251070	V2CL
+PrepNp
+CLaCL
+V-ADV-O
+DetNP
+NPofNP
+DetNP
+251078	V2CL
+251080	Conj-CL
+CLaCL
+S-V-O-ADV
+Np-Appos
+DetCL
+CLaCL
+V-O
+DetNP
+AdjpNp
+ADV-V-ADV
+PrepNp
+251092	V-O-IO
+NpAdjp
+NP-CL
+ADV-ADV-V
+PrepNp
+PrepNp
+DetNP
+251101	S-P
+V-O
+NpaNp
+251106	P2CL
+NP-Prep
+S-P
+ofNPNP
+DetNP
+PrepNp
+251113	Conj-CL
+251115	PrepNp
+Np2CL
+DetAdj
+AdjpaAdjp
+251120	V-ADV
+sub-CL
+ADV-ADV-V
+251124	Conj-CL
+ADV-P-S-ADV
+DetNP
+V-O
+NpaNp
+DetNP
+NPofNP
+251132	DetNP
+NP-CL
+O-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+V-O
+Conj2VP
+DetAdj
+251143	Conj-CL
+251145	S-O-V-ADV-ADV
+NPofNP
+DetNP
+PronNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+sub-CL
+CLaCL
+ADV-P-VC
+251158	P2CL
+NPofNP
+DetCL
+ADV-V-O
+PrepNp
+NpaNp
+251165	DetNP
+251167	Conj-CL
+ADV-S-ADV-V-ADV-ADV
+IO-V
+DetNP
+DetNP
+sub-CL
+O-V
+ADV-V
+PrepNp
+NpAdjp
+PrepNp
+251179	sub-CL
+PtclCL
+CLaCL
+ADV-V-O
+V2CL
+251185	ADV-V-O
+V2CL
+251188	Conj-CL
+ADV-ADV-V-O
+V2CL
+DetNP
+251193	Conj-CL
+CLaCL
+S-ADV-V
+PrepNp
+DetAdj
+251199	ADV-P-ADV-S
+ofNPNP
+All-NP
+PrepNp
+DetNP
+251206	ADV-S-V-ADV
+ADV-ADV-V-O
+PrepNp
+DetNP
+V-IO-O
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-O-V-S-ADV
+PrepNp
+NP-CL
+NumpNP
+NpAdjp
+ADV-P-S
+PrepNp
+V-S
+AdjpNp
+DetCL
+V2CL
+V-O
+NP-CL
+DetNP
+AdjpNp
+V2CL
+O-V-ADV
+PrepNp
+NpAdjp
+NPofNP
+DetNP
+AdjpaAdjp
+EitherOrAdjp
+251244	V-ADV
+PrepNp
+NP-CL
+DetNP
+NPofNP
+DetNP
+ADV-S-ADV-V-ADV
+Np-Appos
+PrepNp
+ADV-P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+251260	Conj-CL
+S-ADV-ADV-VC-P-ADV
+NP-CL
+Np-Appos
+Demo-NP
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+NPofNP
+Np-Appos
+DetNP
+DetNP
+DetCL
+CLaCL
+V-O-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+251282	V-O
+IO-O-ADV-V-S
+AdvpNp
+PrepNp
+aCLaCL
+251288	ADV-VC-P
+NPofNP
+251291	ADV-P
+AdvpNp
+NP-CL
+NPofNP
+S-VC-P
+NPofNP
+AdvAdv
+3Adjp
+CLaCL
+O-V
+aNpaNp
+251303	NPofNP
+251305	ofNPNP
+251307	V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetAdj
+251314	Conj-CL
+251316	P-S
+NP-CL
+IO-O-S-V-ADV
+Np-Appos
+PrepNp
+DetNP
+DetNP
+251324	Conj-CL
+aCLaCL
+251327	S-O-V-ADV
+DetCL
+ADV-O-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV-O-ADV
+NP-CL
+DetNP
+PrepNp
+DetNP
+S-VC-P
+DetNP
+NPofNP
+sub-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+251348	CLaCL
+S-V-O
+DetCL
+ADV-V-ADV
+PrepNp
+251354	O-V
+DetCL
+V-O
+DetNP
+251359	Conj-CL
+ADV-S-ADV-V
+PrepNp
+All-NP
+DetAdj
+PrepNp
+DetAdj
+251367	Conj-CL
+aCLaCL
+251370	ADV-O-S-V
+AdjpNp
+V2CL
+251375	that-VP
+V2CL
+251378	Conj-CL
+ClCl
+ClCl2
+sub-CL
+O-V
+ADV-S-V
+PrepNp
+AdvpNp
+Np-Appos
+DetCL
+O-V
+sub-CL
+251391	PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-O-S
+251398	Conj-CL
+Conj-CL
+ClCl2
+sub-CL
+ClCl
+S-ADV-V
+PrepNp
+DetNP
+AdjpNp
+sub-CL
+S-ADV-V
+DetNP
+PrepNp
+P-ADV-S-ADV
+CLaCL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+AdjpNp
+251419	ADV-ADV-V
+PrepNp
+DetNP
+NPofNP
+251424	Conj-CL
+ClCl2
+V-S
+DetNP
+ADV-S-V
+PrepNp
+AdvpNp
+ofNPNP
+251433	Conj-CL
+251435	S-O-V
+ADV-V-S
+PrepNp
+NpAdjp
+PrepNp
+DetNP
+251442	Conj-CL
+251444	that-VP
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+ADV-ADV-O-S-V
+PrepNp
+PronNP
+PrepNp
+251454	Conj-CL
+251456	AdvpAdjp
+sub-CL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+NP-CL
+NpAdjp
+S-V-ADV
+notPPbutPP
+PrepNp
+NPofNP
+NpAdjp
+PrepNp
+NPofNP
+NpAdjp
+251473	Conj-CL
+251475	that-VP
+S-P-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+251483	Conj-CL
+aCLaCL
+251487	NPofNP
+AdjpNp
+V2CL
+PrepNp
+DetNP
+ofNPNP
+NpaNp
+251495	sub-CL
+O-V-S
+DetNP
+251499	S2CL
+NPofNP
+NP-CL
+AdjpNp
+ADV-V-ADV
+PrepNp
+DetNP
+251507	Conj-CL
+251510	ADV-ADV-ADV
+PrepNp
+PrepNp
+aCLaCL
+251515	S-ADV-VC-P
+PrepNp
+BeVerb
+251519	S-ADV-ADV
+PrepNp
+PrepNp
+DetCL
+251524	PrepNp
+ClCl
+CLaCL
+V-S
+251529	ADV-V
+S-P-ADV
+PrepNp
+DetNP
+PrepNp
+AdvpNp
+ofNPNP
+AdjpNp
+251538	Conj-CL
+aCLaCL
+251541	S-VC-P-ADV
+DetAdj
+BeVerb
+PrepNp
+DetCL
+ADV-V-S
+V2CL
+251549	S-ADV-ADV-V-O
+PrepNp
+DetCL
+V-S-ADV
+PrepNp
+DetNP
+DetNP
+251557	Conj-CL
+ADV-V-O-ADV
+V-ADV-O
+PrepNp
+DetAdj
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+ADV-V-ADV
+PrepNp
+DetCL
+V-ADV
+PrepNp
+251572	Conj-CL
+ClCl
+ADV-ADV-V-S
+NP-CL
+AdjpNp
+NpAdjp
+AdjpAdjpAdjpAdjp
+CLaCL
+V-ADV
+PrepNp
+DetAdj
+251584	P-ADV-VC
+DetNP
+S-ADV-V-ADV-O-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+ClCl
+ADV-ADV-O-V
+PrepNp
+DetNP
+AdjpNp
+ADV-ADV
+NPofNP
+DetNP
+sub-CL
+O-V-ADV-ADV
+O-V
+251602	Conj-CL
+CLaCL
+S-O-V-O2-ADV
+DetNP
+V-O
+251608	S-O-ADV
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+ADV-V
+PrepNp
+DetNP
+251620	Conj-CL
+ClCl
+S2CL
+NpPp
+PrepNp
+DetCL
+V2CL
+V-O
+AdjpNp
+Np-Appos
+NP-CL
+S-V-ADV-ADV
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+NpaNp
+DetAdj
+251643	DetNP
+NP-CL
+NPDetAdj
+DetAdj
+O-V-S
+2Np
+DetNP
+AdvpNp
+251652	Conj-CL
+S-ADV-V
+All-NP
+PrepNp
+DetCL
+V-O
+aNpaNp
+251662	Conj-CL
+P-S
+V-S-O
+NP-CL
+AdvpNp
+O-V
+251669	Conj-CL
+aCLaCL
+251672	ClCl2
+sub-CL
+VC-P
+PrepNp
+PtclCL
+ClCl
+ADV-VC-P
+251680	DetCL
+V-ADV-O
+PrepNp
+DetNP
+251685	S-O-V
+NPofNP
+NpaNp
+251689	DetAdj
+251691	V-O
+V-O
+DetNP
+sub-CL
+251697	V2CL
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-IO-ADV
+PrepNp
+DetNP
+251707	ADV-O-V
+AdjpNp
+NPofNP
+NP-CL
+AdjpNp
+S-ADV-V
+PrepNp
+AdjpNp
+251716	Conj-CL
+251718	sub-CL
+S-VC-P
+NP-Demo
+DetAdj
+ADV-S-V
+ofNPNP
+251725	Conj-CL
+251727	V-O
+CLaCL
+ClCl2
+ClCl2
+V2CL
+S-V
+V-S
+251735	ClCl2
+251737	Conj2Pp
+PrepNp
+DetNP
+NPofNP
+251742	PrepNp
+DetNP
+NPofNP
+NpAdjp
+ClCl
+ADV-ADV
+PrepNp
+DetNP
+NP-CL
+251752	O-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+V-O-ADV
+PrepNp
+NPofNP
+sub-CL
+ClCl
+S-ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+S-V-O
+V-S
+251770	sub-CL
+ClCl
+P-S
+DetNP
+NP-CL
+O-V-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+NP-Demo
+DetNP
+251782	CLaCL
+CLaCL
+V-O-ADV
+NPofNP
+PrepNp
+DetNP
+NPofNP
+251790	ADV-V-O
+PrepNp
+NPofNP
+251794	CLaCL
+VC-ADV-P
+PrepNp
+251798	S-VC-ADV-P
+PrepNp
+251801	Conj-CL
+ClCl
+CLaCL
+ADV-V-ADV-O
+2Advp_h1
+DetNP
+NPofNP
+251809	ADV-O-ADV
+DetNP
+NPofNP
+251813	V-O
+DetNP
+sub-CL
+S-V-O-ADV
+2Pp
+PrepNp
+PrepNp
+NPofNP
+251822	sub-CL
+CLaCL
+P-VC-ADV
+DetNP
+NPofNP
+251828	O-ADV-V-ADV
+DetNP
+NPofNP
+2Advp_h1
+251833	ADV-V-O
+PrepNp
+DetCL
+V-O
+DetAdj
+251839	Conj-CL
+S-P
+DetAdj
+AdjpaAdjp
+V2CL
+251845	V2CL
+PrepNp
+251848	Conj-CL
+Conj-CL
+V-S-O
+AdvpNp
+DetAdj
+NpaNp
+NPofNP
+251856	NpAdjp
+DetAdj
+251859	Conj-CL
+V-S
+NP-CL
+NP-CL
+NPDetAdj
+DetAdj
+P-S
+PrepNp
+aNpaNpaNp
+251869	DetNP
+251871	DetNP
+251873	DetNP
+NPofNP
+DetNP
+S-VC-P
+251878	Conj-CL
+P-S
+PrepNp
+DetNP
+AdjpNp
+NpAdjp
+Np-Appos
+DetCL
+VC-P
+NPofNP
+V-O
+NpaNp
+AdjpNp
+251892	NP-CL
+NpAdjp
+DetNP
+NPofNP
+DetNP
+V-ADV-ADV
+CLaCL
+P-S
+PrepNp
+Conj3Np
+NpAdjp
+NpAdjp
+V-O
+DetNP
+251907	Np-Appos
+DetNP
+NPofNP
+DetCL
+V2CL
+251913	DetNP
+NPofNP
+DetNP
+251917	P-S
+PrepNp
+NpAdjp
+NPofNP
+V-O
+DetNP
+251924	ADV-ADV-VC-P-S
+PrepNp
+V-ADV
+PrepNp
+251929	Conj-CL
+ClCl
+ClCl2
+S-ADV-V
+aCLaCL
+251935	ADV-ADV-V-S-ADV
+PrepNp
+DetNP
+AdjpNp
+PrepNp
+DetNP
+O-V
+DetNP
+251944	ADV-ADV-ADV-S-ADV
+PrepNp
+DetAdj
+AdvpNp
+DetNP
+DetNP
+AdvPp
+PrepNp
+NP-CL
+O-V-ADV
+PrepNp
+NpaNp
+251957	DetNP
+ofNPNP
+DetNP
+251961	DetNP
+NPDetAdj
+DetAdj
+251965	DetNP
+ofNPNP
+DetNP
+251969	ADV-S-V-O
+DetNP
+AdjpNp
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V2CL
+251979	ADV-S-V-ADV
+PrepNp
+aNpaNp
+251984	ADV-V-O
+ADV-V-O
+PrepNp
+DetCL
+V2CL
+PrepNp
+Conj3Np
+251993	AdjpNp
+NpAdjp
+NPofNP
+ADV-V
+PrepNp
+NPofNP
+252000	Conj-CL
+ADV-S-ADV-V-ADV-ADV-ADV
+Np-Appos
+V2CL
+NPofNP
+DetNP
+AdjpNp
+V2CL
+Conj2Pp
+Conj2Pp
+PrepNp
+DetNP
+NP-CL
+NpAdjp
+AdjpNp
+AdjpaAdjp
+252017	AdvpAdjp
+S-VC-ADV-P
+Demo-NP
+DetNP
+252022	PrepNp
+NPofNP
+NpaNp
+252027	PrepNp
+DetNP
+AdjpNp
+PrepNp
+DetAdj
+O-V
+AdjpNp
+252035	Conj-CL
+252037	sub-CL
+S-ADV-V-ADV
+NpaNp
+DetNP
+NPofNP
+NpaNp
+252045	NPofNP
+V-O
+DetCL
+V2CL
+PrepNp
+DetNP
+ofNPNP
+DetNP
+2Advp_h2
+DetNP
+NPofNP
+NP-CL
+DetNP
+S-ADV-O-V-O2-IO
+PrepNp
+NpAdjp
+DetNP
+DetNP
+NPofNP
+PrepNp
+AdjpNp
+PrepNp
+DetCL
+V-O
+NpAdjp
+V2CL
+252072	Conj-CL
+252074	PrepNp
+ofNPNP
+NpAdjp
+sub-CL
+ClCl2
+S-V-ADV
+PrepNp
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+AdjpNp
+V-S-O
+DetNP
+NPofNP
+DetCL
+V2CL
+DetNP
+AdjpNp
+252095	Conj-CL
+ADV-P-S
+P-S
+V-S
+NPofNP
+DetCL
+V2CL
+252103	Conj-CL
+252105	PrepNp
+sub-CL
+252108	sub-CL
+V-S
+DetCL
+V2CL
+252113	Conj-CL
+ADV-S-ADV-V
+DetAdj
+PrepNp
+252118	Conj-CL
+252120	V-S-ADV-ADV-IO
+All-NP
+PrepNp
+DetNP
+PrepNp
+All-NP
+DetNP
+V-O-ADV
+DetNP
+NPofNP
+NpaNp
+DetNP
+252133	DetNP
+PrepNp
+Conj3Np
+252137	NpAdjp
+252139	aNpaNp
+252141	PronNP
+DetNP
+252144	All-NP
+DetNP
+252147	S-P
+DetNP
+NPofNP
+DetNP
+NP-CL
+O-V-ADV-S
+PrepNp
+DetNP
+252156	Conj-CL
+O-ADV-ADV-V
+aNpaNp
+252160	DetNP
+252162	All-NP
+DetNP
+NPofNP
+DetNP
+DetNP
+252168	Conj-CL
+CLaCL
+ADV-ADV-S-V-ADV
+PrepNp
+PrepNp
+DetNP
+252175	ADV-ADV-V-S
+PrepNp
+252178	Conj-CL
+P-S
+aCLaCL
+252182	S-ADV-V
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+252189	S-ADV
+PronNP
+DetAdj
+NpAdjp
+AdjpPp
+PrepNp
+252196	Conj-CL
+V-S-ADV-ADV
+notPPbutPP
+PrepNp
+Np-Appos
+AdjpNp
+NPofNP
+DetAdj
+PrepNp
+PronNP
+DetNP
+ADV-V-ADV-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+252214	sub-CL
+252216	sub-CL
+S-V-ADV-ADV-ADV
+DetNP
+PrepNp
+DetAdj
+PrepNp
+PrepNp
+NpAdjp
+sub-CL
+V-S
+S-ADV-V-ADV
+PrepNp
+NPofNP
+252230	Conj-CL
+ADV-ADV-ADV-ADV-ADV-V
+PrepNp
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+252242	Conj-CL
+252244	CLaCL
+ADV-V-ADV-S
+PrepNp
+DetNP
+ADV-V
+252250	ADV-S
+PrepNp
+AdvpNp
+DetNP
+ADV-V-ADV
+PrepNp
+DetCL
+O-V
+ofNPNP
+PrepNp
+PrepNp
+DetCL
+O-V
+PrepNp
+252265	Conj-CL
+252267	V-O
+2Np
+NPofNP
+DetNP
+DetNP
+AdjpNp
+V2CL
+AdvpNp
+PronNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+PronNP
+NP-CL
+O-V-ADV
+PrepNp
+DetAdj
+O-V
+DetCL
+V2CL
+sub-CL
+PtclCL
+PtclCL
+V-O-ADV
+V2CL
+PrepNp
+DetCL
+ADV-V-ADV-O-S-ADV
+NPofNP
+DetCL
+V2CL
+ADV-V
+252302	Conj-CL
+P-S-ADV
+PrepNp
+NPofNP
+PrepNp
+252308	Conj-CL
+P-S
+S-V-O
+NPofNP
+NpaNp
+252315	Conj-CL
+252317	V-ADV
+PrepNp
+DetNP
+ClClCl
+CLaCL
+O-ADV-V
+NpaNp
+252326	O-V-IO
+O-ADV-V
+NpaNp
+252330	PrepNp
+252333	V-ADV
+ADV-V-ADV
+PrepNp
+NPofNP
+PrepNp
+DetCL
+V-O
+Np2CL
+DetNP
+DetNP
+NPofNP
+252346	ADV-ADV-V
+252348	that-VP
+252350	O-V
+Conj4Np
+252355	PrepNp
+notVPbutVP
+PrepNp
+DetCL
+V-O
+DetNP
+NPofNP
+252364	DetAdj
+sub-CL
+O-V
+DetAdj
+252369	ADV-V-ADV-ADV
+PrepNp
+PronNP
+VerbBe
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+252380	Conj-CL
+Conj-CL
+S-V-ADV
+All-NP
+CLaCL
+ADV-V
+PrepNp
+252388	ADV-V-O
+DetNP
+PronNP
+NP-CL
+S-ADV-V-O
+V-O
+252395	Conj-CL
+S-ADV-V-ADV-ADV
+O-ADV-V-ADV
+AdjpNp
+PrepNp
+PrepNp
+DetAdj
+PrepNp
+NPofNP
+DetNP
+252406	DetAdj
+sub-CL
+V-S-ADV
+DetNP
+NPofNP
+NPofNP
+DetNP
+NPofNP
+252415	Conj-CL
+ADV-V-ADV-O
+AdjpNp
+PrepNp
+DetAdj
+DetCL
+V2CL
+252423	Conj-CL
+V-IO-S
+AdvpNp
+DetNP
+NPDetAdj
+DetAdj
+252430	Conj-CL
+CLaCL
+252433	ADV-V-S
+PrepNp
+DetCL
+252437	P-S
+DetNP
+NP-CL
+O-V-ADV-ADV
+PrepNp
+PrepNp
+NP-Demo
+DetNP
+ADV-ADV-V-O
+V-O-ADV
+NPofNP
+PrepNp
+NPofNP
+AdvPp
+PrepNp
+DetNP
+NPofNP
+252455	O-ADV-V-ADV
+NpaNp
+DetNP
+NPofNP
+252460	DetNP
+NPofNP
+2Advp_h1
+252464	ADV-ADV-S
+P-S
+NPofNP
+NpPp
+PrepNp
+252470	Conj-CL
+252472	CLaCL
+252474	Np2CL
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetAdj
+PrepNp
+DetNP
+NPofNP
+O-V-ADV-ADV-ADV
+NpAdjp
+AdjpaAdjp
+252487	V2CL
+PrepNp
+NP-CL
+DetNP
+S-VC-P
+DetNP
+NPofNP
+252495	O-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+AdjpNp
+PrepNp
+NPofNP
+CLaCL
+V-ADV-ADV
+DetNP
+PrepNp
+NpAdjp
+252511	V-ADV-ADV
+DetNP
+NpAdjp
+252516	DetNP
+NPofNP
+DetNP
+sub-CL
+P-S
+DetCL
+V2CL
+252524	Conj-CL
+V-O-ADV-ADV
+PrepNp
+NPofNP
+NpaNp
+252530	AdjpNp
+notCLbutCL2CL
+252533	DetNP
+NPofNP
+sub-CL
+P-ADV
+V-ADV-ADV
+AdvpNp
+NP-CL
+ADV-V-O
+V-S
+DetNP
+252544	Conj-CL
+252546	ADV-V-S-ADV
+PrepNp
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+ADV-ADV-V-S
+PrepNp
+252556	S2CL
+NpaNp
+AdjpNp
+AdjpNp
+NPofNP
+252562	NPofNP
+NpAdjp
+V-O
+V-O
+DetAdj
+252568	S-ADV-ADV-ADV-V
+V-O
+NPofNP
+PrepNp
+PrepNp
+AdjpNp
+AdjpaAdjp
+252577	ADV-V-O
+ADV-V-S
+AdjpNp
+DetCL
+Conj3CL
+O-V
+DetNP
+NPofNP
+DetNP
+252587	O2-V-O
+NP-CL
+DetNP
+NPofNP
+DetNP
+ADV-V
+PrepNp
+252595	O-V
+DetNP
+NPofNP
+DetNP
+252600	Conj-CL
+V-O
+DetCL
+CLaCL
+252605	ClCl
+ADV-S
+S-V
+252609	ClCl
+ADV2CL
+V-S-O
+DetNP
+NPofNP
+252615	P-S
+DetCL
+V-ADV
+PrepNp
+NPofNP
+NpAdjp
+V2CL
+252623	Conj-CL
+V-O
+NP-CL
+DetNP
+AdjpNp
+ADV-ADV-V-O-ADV
+PrepNp
+V2CL
+AdjpNp
+NPofNP
+aCLaCL
+252635	ADV-ADV-V
+aNpaNp
+252640	ADV-P-VC
+NPofNP
+DetCL
+ADV-V
+252645	Conj-CL
+CLaCL
+ADV-V
+AdvpNp
+DetNP
+252651	O-ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+V2CL
+PrepNp
+V-O
+V-S-O
+NpAdjp
+AdjpaAdjp
+252663	V2CL
+252665	Conj-CL
+ADV-V-O
+NP-CL
+DetNP
+NPofNP
+S-V-O
+AdjpNp
+252673	Conj-CL
+ClCl
+O-V
+ofNPNP
+sub-CL
+ADV-V-O
+O-V
+DetNP
+NPofNP
+DetNP
+DetNP
+252685	Conj-CL
+CLaCL
+ADV-ADV-S-V
+AdjpNp
+2Np
+DetCL
+V2CL
+252693	ADV-V
+252695	Conj-CL
+CLaCL
+S-ADV-V
+DetNP
+NPofNP
+PrepNp
+252702	ClCl2
+sub-CL
+V2CL
+ADV-V-S-ADV
+DetNP
+NPofNP
+PrepNp
+252710	Conj-CL
+S-VC-P
+notNPbutNP
+NpPp
+PrepNp
+NpPp
+PrepNp
+NPofNP
+252719	Conj-CL
+VC-S-P
+2Np
+ofNPNP
+V2CL
+NPofNP
+NpAdjp
+ADV-V
+252728	Conj-CL
+ADV-V-S
+PrepNp
+DetAdj
+252733	ADV-V-O
+V-S-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetCL
+ADV-ADV-S-V
+PrepNp
+V2CL
+DetCL
+V2CL
+252746	NpPp
+AdjpNp
+PrepNp
+DetNP
+CLaCL
+252752	ADV-V-S
+PrepNp
+VC-P
+PrepNp
+DetNP
+NPofNP
+DetNP
+252760	ADV-ADV-ADV-V
+PrepNp
+V2CL
+252764	CLaCL
+ADV-S-V-ADV
+DetCL
+ADV-V-O
+252769	ClCl
+ADV-V
+sub-CL
+V-O-S
+DetNP
+252775	Conj-CL
+CLaCL
+ADV-V-O
+PrepNp
+DetNP
+V-O
+DetNP
+252784	PrepNp
+V2CL
+sub-CL
+V-S
+252789	DetCL
+V-ADV
+DetNP
+that-VP
+CLaCL
+V2CL
+252796	ADV-P-VC
+DetCL
+V-O
+252801	V-ADV
+PrepNp
+DetCL
+ADV-V
+V2CL
+PrepNp
+NPofNP
+DetNP
+NPofNP
+CLaCL
+ADV-V-O
+PrepNp
+DetNP
+252815	P-VC
+ofNPNP
+DetNP
+PpNp2Np
+PrepNp
+252821	CLaCL
+ADV-ADV-S-V-ADV
+V2CL
+V-ADV
+PrepNp
+NP-CL
+V-O
+O-V-ADV
+PrepNp
+252831	V-ADV
+ADV-V-O
+ADV-V
+252835	ADV-V-ADV-ADV-ADV
+PrepNp
+NPofNP
+DetNP
+PrepNp
+ADV-V-ADV
+PrepNp
+PrepNp
+Np-Appos
+NpaNp
+252846	DetNP
+NPofNP
+DetNP
+NPDetAdj
+DetNP
+252852	Conj-CL
+V-O
+NP-CL
+DetNP
+AdjpNp
+O-V
+DetNP
+P-S
+ofNPNP
+NpaNp
+252863	DetNP
+252866	AdvpNp
+PronNP
+PrepNp
+NPofNP
+AdvPp
+PrepNp
+NPofNP
+sub-CL
+O2-V-O
+DetCL
+V2CL
+252878	Conj-CL
+252880	AdvPp
+PrepNp
+Np-Appos
+AdvpNp
+V2CL
+CLaCL
+sub-CL
+S-ADV
+DetNP
+NPofNP
+DetNP
+DetNP
+252893	sub-CL
+S-P
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetAdj
+252904	ADV-V-S-ADV
+PrepNp
+NP-all
+notCLbutCL2CL
+V-O
+DetNP
+CLaCL
+ADV-O-V
+Conj2VP
+252916	that-VP
+P-VC-ADV
+NpaNp
+252920	PrepNp
+DetNP
+252923	Conj-CL
+252925	DetCL
+O-V
+that-VP
+O-V
+252930	Conj-CL
+aCLaCL
+252934	sub-CL
+V-O
+NP-CL
+ADV-V
+PrepNp
+V-O-ADV
+V2CL
+252942	ADV-V-O
+NP-CL
+S-VC-P
+252946	Conj-CL
+ADV-V-O-S-ADV
+DetNP
+P-VC
+NPofNP
+252952	Conj-CL
+V-IO-O
+252955	CLaCL
+ADV-V-S-O-ADV
+DetNP
+V2CL
+252960	O-V-S-ADV
+DetAdj
+NP-CL
+DetCL
+O-V
+DetNP
+252967	ADV-V
+PrepNp
+ADV-V-IO-S
+PrepNp
+252972	that-VP
+ADV-P-S
+ADV-V
+AdvPp
+PrepNp
+DetNP
+252979	Conj-CL
+O-ADV-V
+AdvPp
+PrepNp
+252984	ADV-ADV-V-S-O
+AdvPp
+PrepNp
+V2CL
+NpaNp
+DetNP
+252991	DetNP
+252993	CLaCL
+ADV-S-ADV-O-V
+V2CL
+NPofNP
+DetNP
+NPofNP
+253000	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+253007	CLaCL
+ADV-S-ADV-ADV-V
+V2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+253016	ADV-V
+PrepNp
+DetNP
+NPofNP
+253022	V2CL
+PrepNp
+DetNP
+NPofNP
+sub-CL
+CLaCL
+V-O
+P-S
+DetNP
+253032	ADV-V-O
+DetNP
+NPofNP
+DetNP
+253038	P-VC
+VC-P
+NPofNP
+NPofNP
+V-O
+CLaCL
+ADV-V-ADV
+DetNP
+NPofNP
+DetNP
+253049	ADV-V-O
+ofNPNP
+O2-V-ADV-O
+AdjpNp
+DetNP
+ofNPNP
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-ADV
+PrepNp
+DetNP
+253064	ADV-V-O
+DetNP
+NPofNP
+DetNP
+sub-CL
+O-ADV-V
+DetAdj
+sub-CL
+V2CL
+253075	NpaNp
+DetNP
+253078	DetNP
+NPofNP
+DetNP
+sub-CL
+ADV-S-V-O
+DetCL
+V-O
+DetAdj
+253088	DetNP
+AdjpNp
+AdvPp
+PrepNp
+AdjpNp
+ADV-S-V
+O-V
+ofNPNP
+DetAdj
+253098	ADV-S-V-ADV
+DetNP
+NPofNP
+V-ADV
+PrepNp
+NumpNP
+253105	ADV-S-ADV-V-ADV-ADV
+Np-Appos
+DetNP
+DetCL
+V2CL
+V-O-ADV
+DetNP
+PrepNp
+253114	Conj-CL
+O-ADV-V
+253117	Conj-CL
+V-S-O
+S-V-ADV
+DetNP
+PrepNp
+NP-CL
+2Np
+NpNpNpNp
+aNpaNpaNp
+253129	DetNP
+ClClClClClClClClCl
+S-ADV-V-O
+PrepNp
+V-O
+V-O
+V-O
+NPofNP
+V-O
+NPofNP
+V-O
+NPofNP
+V-ADV
+PrepNp
+VC-P-ADV
+PrepNp
+O-V
+NPofNP
+253148	V-S-ADV-O
+PrepNp
+DetNP
+NPofNP
+253153	Conj-CL
+253155	ADV-V-O
+DetNP
+sub-CL
+O-V
+AdjpNp
+253161	Conj-CL
+CLaCL
+S-O-V
+ofNPNP
+NpaNp
+253168	O2CL
+AdvpNp
+NpaNp
+253174	V2CL
+V2CL
+V2CL
+ADV-V
+PrepNp
+NPofNP
+V-ADV-ADV-ADV
+2Pp
+PrepNp
+PrepNp
+AdjpNp
+ClClCl
+V2CL
+V2CL
+V2CL
+ADV-ADV-VC-P-S
+DetNP
+V-ADV
+PrepNp
+Conj4Np
+253197	DetNP
+NPofNP
+DetNP
+253201	Conj-CL
+ClCl
+253204	NP-all
+V-ADV
+PrepNp
+DetNP
+DetNP
+S-ADV-O-V
+DetNP
+PrepNp
+AdjpNp
+sub-CL
+ADV-ADV-V
+PrepNp
+253217	Conj-CL
+S-ADV-ADV-ADV-V-O-ADV
+AdvpNp
+V-O
+AdjpNp
+AdjpNp
+V-ADV
+NPofNP
+V-O
+NpaNp
+NP-all
+253229	DetNP
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+V-ADV
+V-ADV
+PrepNp
+NP-CL
+Np-Appos
+DetNP
+ofNPNP
+DetNP
+NpaNp
+253244	CLaCL
+S-ADV-V-O-ADV
+PrepNp
+DetNP
+AdjpNp
+V-ADV
+O-V
+253252	ADV-V
+PrepNp
+NPofNP
+DetNP
+NPofNP
+DetNP
+253259	Conj-CL
+253261	DetCL
+V-O
+AdjpNp
+PpNp2Np
+PrepNp
+DetAdj
+PpNp2Np
+PrepNp
+sub-CL
+ADV-V-ADV-ADV
+DetNP
+NPofNP
+V2CL
+253275	ADV-ADV-V-ADV
+PrepNp
+ADV-V
+PrepNp
+DetNP
+253281	Conj-CL
+V-O
+NP-CL
+DetNP
+253286	S-IO-ADV-V
+Conj-CL
+IO2CL
+Np2CL
+NPofNP
+ADV-V-O
+NPofNP
+253294	V-ADV
+ADV-V
+PrepNp
+253298	Conj-CL
+CLaCL
+O-S-V
+O-V
+253303	V-O
+All-NP
+NP-CL
+O-V
+253308	ADV-V
+PrepNp
+253312	sub-CL
+IO2CL
+DetNP
+253316	Conj-CL
+P-S
+NP-CL
+O-ADV-V-S
+253321	Conj-CL
+253323	sub-CL
+VC-P
+PrepNp
+NP-CL
+P-VC-S
+ofNPNP
+P-VC
+NpaNp
+253332	AdvpNp
+253334	Conj-CL
+ClCl
+CLaCL
+ADV-O-V-O2
+DetNP
+ofNPNP
+DetNP
+NPofNP
+253343	V2CL
+CLaCL
+ADV-ADV-V-IO
+2Advp_h1
+DetNP
+NPofNP
+DetNP
+253351	V2CL
+253353	Conj-CL
+aCLaCL
+253356	S-ADV-ADV-V
+PrepNp
+AdjpNp
+PrepNp
+DetCL
+V-ADV
+253363	S-ADV-ADV
+PrepNp
+DetCL
+V2CL
+PrepNp
+DetCL
+V-O
+DetNP
+NPofNP
+253373	Conj-CL
+S-P
+All-NP
+aCLaCL
+253378	ADV-V-O
+PrepNp
+DetCL
+V2CL
+notCLbutCL2CL
+P-VC
+P2CL
+253386	ADV-O-IO-V
+NPofNP
+NpAdjp
+DetCL
+ADV-V
+PrepNp
+253393	Conj-CL
+253395	O-V
+NpaNp
+DetNP
+AdjpNp
+V2CL
+253401	DetNP
+AdjpNp
+V2CL
+253405	O-V-IO
+NpAdjp
+DetNP
+NPofNP
+sub-CL
+CLaCL
+ADV-S-V
+DetAdj
+253414	V-ADV
+253416	V-ADV-O-ADV
+NpaNp
+PrepNp
+253420	NP-CL
+DetNP
+ADV-S-V-O
+NP-Prep
+DetNP
+V-O
+ClClCl
+PtclCL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+PtclCL
+CLaCL
+S-ADV-V
+AdjpNp
+NPofNP
+ADV-V
+253440	ADV-V-S
+PrepNp
+DetAdj
+PtclCL
+S-P
+NpaNp
+253447	NpPp
+PrepNp
+NP-CL
+S-ADV-V-O
+PrepNp
+NpAdjp
+DetNP
+NPofNP
+253456	Conj-CL
+253458	that-VP
+253460	ADV-V-O
+V-O
+DetNP
+Conj-CL
+253465	ofNPNP
+sub-CL
+ADV-V-O
+PrepNp
+253470	Conj-CL
+ADV-V-ADV
+Conj7Np
+V2CL
+253475	AdjpNp
+V2CL
+253481	ofNPNP
+253483	NP-CL
+NPofNP
+ADV-S-V-O
+DetCL
+V2CL
+ADV-V-IO-S
+253490	Conj-CL
+ADV-V-O
+DetCL
+253494	ClCl2
+PtclCL
+S-V-O
+DetNP
+V2CL
+253500	Conj-CL
+ClCl
+ADV-P-VC-S
+DetCL
+V2CL
+253506	VC-P
+AdjpaAdjp
+253510	Conj-CL
+V-ADV
+Conj8Np
+Np-Appos
+253515	Np-Appos
+NPofNP
+NpAdjp
+V2CL
+NpAdjp
+253521	Np-Appos
+NPofNP
+253524	NPofNP
+NpAdjp
+V-ADV
+PrepNp
+253529	Np-Appos
+NPofNP
+253532	NPofNP
+NpAdjp
+V2CL
+253536	Np-Appos
+ofNPNP
+NpAdjp
+253540	NpAdjp
+NPofNP
+O-V-ADV
+PrepNp
+DetNP
+253546	ClCl
+V2CL
+PtclCL
+V-O
+DetCL
+V2CL
+253553	Conj-CL
+ClCl2
+sub-CL
+ADV-V-S
+NpAdjp
+V-O
+DetCL
+ADV-V
+PrepNp
+ADV-S
+2Advp_h1
+Np-Appos
+DetCL
+O-V
+NpPp
+PrepNp
+253570	CLaCL
+S-O-V-ADV
+ofNPNP
+DetNP
+DetNP
+253576	ADV-V-ADV
+253578	ADV-S-V-O
+2Advp_h1
+notNPbutNP
+AdvpNp
+DetNP
+AdvpNp
+DetNP
+253586	Conj-CL
+253588	DetNP
+2Advp_h1
+DetNP
+ofNPNP
+DetCL
+V2CL
+PrepNp
+V2CL
+sub-CL
+V-S
+DetCL
+ADV-V
+253601	Conj-CL
+ADV-V-O
+O-V
+NpAdjp
+NP-CL
+ADV-V-ADV-O-ADV
+PrepNp
+DetNP
+PrepNp
+NpaNp
+253613	Conj-CL
+S-P
+AdvpNp
+DetNP
+NPofNP
+NpAdjp
+V2CL
+253621	S-V
+DetNP
+253624	ClCl
+O-ADV-V
+DetNP
+sub-CL
+ADV-V-S-ADV
+PrepNp
+V-O
+253632	ClCl
+V-O-ADV
+DetNP
+sub-CL
+V2CL
+O-ADV
+DetCL
+V2CL
+sub-CL
+S-VC-P
+AdvpNp
+PrepNp
+253645	ClCl
+CLaCL
+P-S-ADV
+DetNP
+PrepNp
+253651	S-P
+DetNP
+sub-CL
+O-V-S
+NpaNp
+253657	DetNP
+253659	P-S
+DetNP
+253662	V-ADV
+DetCL
+V2CL
+253666	Conj-CL
+ClCl
+253669	CLaCL
+ADV-O-V
+2Advp_h1
+253673	ADV-O-V
+2Advp_h1
+sub-CL
+253677	V2CL
+ClClCl
+S-ADV-P
+ADV-V
+O-V-IO-S
+253683	V-O
+NP-CL
+NP-CL
+DetNP
+NPofNP
+V2CL
+S-V-IO-O
+DetNP
+NPofNP
+DetNP
+ADV-V-O
+O-V
+ofNPNP
+DetNP
+NPofNP
+DetNP
+DetNP
+253701	CLaCL
+S-ADV-P
+Np-Appos
+ADVaADV
+253706	DetNP
+253708	ADV2CL
+PrepNp
+DetNP
+253712	ADV-ADV-V
+NpAdjp
+AdjpaAdjp
+253717	Conj-CL
+P-S
+ADV-V-S-ADV
+DetNP
+AdvpNp
+NP-CL
+ADV-ADV-V-S
+PrepNp
+DetCL
+V2CL
+253728	V-O
+NP-CL
+ADV-ADV-V-O-S
+ADV-V
+PrepNp
+DetCL
+O-V
+DetNP
+253737	Conj-CL
+ClCl
+V-S-ADV-ADV-ADV
+ofNPNP
+PronNP
+DetNP
+PrepNp
+PrepNp
+DetAdj
+PrepNp
+DetNP
+S-V-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+253754	Conj-CL
+S-ADV-ADV-V
+AdvpNp
+sub-CL
+V-ADV-O
+PrepNp
+DetNP
+AdjpNp
+DetNP
+PrepNp
+DetNP
+253766	Conj-CL
+V-ADV-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+O-V
+DetNP
+NPofNP
+253775	Conj-CL
+notCLbutCL2CL
+V-ADV-O
+AdjpNp
+V2CL
+O-V
+DetCL
+V2CL
+253784	Conj-CL
+ADV-V-ADV-IO-O
+PrepNp
+NP-CL
+NPofNP
+PrepNp
+DetNP
+S-VC-P
+NPofNP
+NpAdjp
+V-IO
+DetNP
+NPofNP
+253798	Conj-CL
+ClCl
+O-ADV-V
+DetNP
+NpaNp
+253804	sub-CL
+ADV-V-S
+AdjpNp
+DetNP
+253810	CLaCL
+V-O
+DetNP
+NPofNP
+V2CL
+253816	V2CL
+sub-CL
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+O-V
+sub-CL
+CLaCL
+ADV-O-V
+PrepNp
+253829	ClCl
+ADV-ADV
+V2CL
+sub-CL
+P-ADV-S
+253836	PrepNp
+sub-CL
+253839	that-VP
+O-V-ADV
+AdjpNp
+O-V
+ADV-ADV-V
+PrepNp
+253846	Conj-CL
+253848	O-V
+sub-CL
+ADV-V-IO
+253852	Conj-CL
+253854	Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-ADV-ADV-O
+PrepNp
+Np-Appos
+DetNP
+NPDetAdj
+NPofNP
+DetNP
+DetAdj
+PrepNp
+NPofNP
+NpAdjp
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+All-NP
+PrepNp
+DetCL
+V-O
+DetNP
+NPofNP
+V-ADV-O-ADV-ADV
+PrepNp
+DetAdj
+PrepNp
+PrepNp
+Np-Appos
+IO-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+253894	Conj-CL
+ClCl
+ClCl
+253898	Np2CL
+V-O
+DetNP
+NPofNP
+DetNP
+sub-CL
+ADV-V-IO
+AdvPp
+PrepNp
+253909	S-V
+Np-Appos
+DetNP
+NPofNP
+ADV-ADV-V-O
+PrepNp
+sub-CL
+ADV-V
+253918	V-O
+NpaNp
+All-NP
+DetNP
+NPofNP
+V2CL
+253925	All-NP
+DetAdj
+253928	V-O-S
+NpPp
+PrepNp
+DetNP
+253933	S-ADV
+DetNP
+PrepNp
+All-NP
+253938	S-IO-O
+Np-Appos
+ofNPNP
+NpaNp
+253943	Np-Appos
+Np-Appos
+DetNP
+Np-Appos
+NumpNP
+NpPp
+PrepNp
+DetNP
+V2CL
+253954	All-NP
+Np2CL
+NPofNP
+sub-CL
+ADV-V
+NpAdjp
+253961	that-VP
+S-V-O
+DetNP
+NPofNP
+ofNPNP
+DetNP
+253968	Conj-CL
+253970	DetNP
+NpAdjp
+sub-CL
+VC-P-ADV
+AdjpaAdjp
+253976	ADV-V
+PrepNp
+253979	Conj-CL
+ClCl2
+sub-CL
+S-V-O
+NPofNP
+CLaCL
+V-ADV
+PrepNp
+DetNP
+AdjpNp
+CLaCL
+V-IO-ADV
+253992	ADV-V
+253994	V-IO
+253996	Conj-CL
+V-ADV-ADV
+PrepNp
+O-V
+254001	Conj-CL
+S-V-ADV
+DetCL
+V2CL
+NpAdjp
+NPofNP
+AdjpaAdjp
+V2CL
+254010	V2CL
+254012	Conj-CL
+ClCl
+254015	NP-Demo
+DetNP
+that-VP
+V-O-ADV
+PrepNp
+DetNP
+S-P-ADV
+NpAdjp
+PrepNp
+All-NP
+DetNP
+NPofNP
+254028	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+NPofNP
+254038	ClCl
+S-ADV
+DetAdj
+PrepNp
+DetNP
+NPofNP
+sub-CL
+254046	sub-CL
+S2CL
+NPofNP
+254050	Conj-CL
+CLaCL
+CLaCL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+254058	V-O
+DetNP
+254061	CLaCL
+S-V
+DetNP
+NPofNP
+254066	S-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+254072	ADV-S-ADV-V
+AdvpNp
+DetAdj
+PrepNp
+DetNP
+NPofNP
+254079	ClCl
+P-S
+NP-CL
+S-V-O
+sub-CL
+ADV-V-O
+P-VC
+NP-CL
+DetNP
+NPofNP
+DetNP
+O-V-IO
+DetCL
+V-O
+254095	V2CL
+that-VP
+ADV-V
+PrepNp
+254100	Conj-CL
+CLaCL
+S-P-VC-ADV
+DetNP
+254105	V-S-O
+254107	Conj-CL
+S-V-ADV
+ADV-V
+PrepNp
+DetNP
+AdjpNp
+Conj2VP
+254116	CLaCL
+ADV-S-ADV-V-O
+DetNP
+V2CL
+254121	S-ADV-V-O
+DetNP
+V2CL
+254126	Np2CL
+NpAdjp
+NPofNP
+254130	S-P-VC-ADV
+NpaNp
+All-NP
+NpAdjp
+254135	All-NP
+NpAdjp
+V-ADV
+PrepNp
+NP-CL
+DetNP
+NPofNP
+DetNP
+P-ADV-VC-S
+PrepNp
+NpaNp
+254147	ofNPNP
+254149	ADV-V-O-ADV-ADV
+V2CL
+NPofNP
+PrepNp
+DetCL
+VC-S-P
+NPofNP
+NpAdjp
+DetNP
+ofNPNP
+254161	Np2CL
+NpAdjp
+NPofNP
+254165	Conj-CL
+ClClCl
+VC-S-P-ADV
+All-NP
+PrepNp
+DetCL
+V2CL
+P-ADV
+PrepNp
+DetCL
+V2CL
+P-ADV
+PrepNp
+254179	Conj-CL
+S-O-ADV-V
+NPofNP
+NPofNP
+254184	Conj-CL
+ADV-ADV-V-O
+V-O
+All-NP
+NpaNp
+254190	NPofNP
+PrepNp
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-O
+V-O
+DetNP
+NPofNP
+254201	Conj-CL
+ClCl
+CLaCL
+VC-P
+NPofNP
+254207	ADV-P-ADV-ADV
+V-O
+sub-CL
+ClCl2
+sub-CL
+CLaCL
+S-P-VC
+NPofNP
+254216	ADV-P
+254218	NpAdjp
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+sub-CL
+Conj3CL
+V-O
+254229	V2CL
+254231	ADV-V-O
+P-VC
+254234	Conj-CL
+254236	Np2CL
+DetCL
+CLaCL
+V-ADV
+PrepNp
+Np-Appos
+NpAdjp
+NPofNP
+DetNP
+254246	V-ADV
+VC-P
+notNPbutNP
+NPofNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+254255	ClCl2
+sub-CL
+S-V-O-ADV
+P-VC
+notCLbutCL2CL
+V-O
+NPofNP
+V-O
+NPofNP
+S-P
+ofNPNP
+DetNP
+254268	S-VC-P
+NpPp
+NpAdjp
+AdjpaAdjp
+254273	PrepNp
+DetNP
+NpaNp
+254277	NP-CL
+ClCl
+V-O-ADV
+NpaNp
+254282	PrepNp
+DetNP
+NPofNP
+O2-O-V-ADV
+PrepNp
+DetNP
+254290	Np2CL
+NPofNP
+PrepNp
+DetNP
+NPofNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetNP
+254302	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+CLaCL
+V-ADV-S
+PrepNp
+NPofNP
+NpPp
+NpAdjp
+PrepNp
+NpAdjp
+254315	V-S
+AdvpNp
+NpPp
+PrepNp
+AdjpNp
+254321	CLaCL
+CLaCL
+V-ADV
+PrepNp
+DetCL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+254332	S-V-ADV-ADV
+254335	DetAdj
+CLaCL
+S-V-ADV
+254339	V-ADV
+PrepNp
+DetNP
+NPofNP
+PtclCL
+CLaCL
+V-ADV
+PrepNp
+254348	VC-P
+NPofNP
+NpAdjp
+254353	Np2CL
+NpAdjp
+NPofNP
+254357	PtclCL
+S-V-O-O2
+DetNP
+DetNP
+NpAdvp
+DetNP
+NpaNp
+NpPp
+PrepNp
+254367	NPofNP
+DetNP
+NP-CL
+O-V-IO
+DetCL
+V-O
+254374	Conj-CL
+S-V-O
+DetAdj
+254378	PtclCL
+CLaCL
+S-V-O
+DetAdj
+254383	S-V-O-ADV
+PrepNp
+254386	PtclCL
+S-V-O
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-ADV
+PrepNp
+254395	ClCl2
+sub-CL
+sub-CL
+O-V-ADV
+NpAdjp
+PrepNp
+DetNP
+NP-CL
+ClCl
+V-O
+DetNP
+NPofNP
+sub-CL
+O2CL
+ADV-V
+254411	Conj-CL
+ClCl2
+sub-CL
+V2CL
+O-V-ADV
+254417	PrepNp
+DetNP
+sub-CL
+S2CL
+254422	Conj-CL
+S-VC-P
+CLaCL
+S-O-V
+All-NP
+DetNP
+254429	V-ADV
+PrepNp
+ofNPNP
+254433	Conj-CL
+254435	DetCL
+254437	ADV-V
+ADV-V
+254440	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+ADV-V
+254446	V2CL
+VC-P
+NPofNP
+254450	ClCl
+CLaCL
+ADV-V
+254454	ADV-V
+sub-CL
+O-V
+ADV-V
+PrepNp
+NPofNP
+254461	Conj-CL
+ClCl
+S-P-ADV
+DetNP
+DetCL
+ADV-V-O
+V-S-O
+254470	P-S
+DetNP
+Np2CL
+NPofNP
+sub-CL
+CLaCL
+O-V-S
+O-V
+254479	O-ADV-V
+254481	PtclCL
+V-S-O
+DetNP
+V-O
+254486	ClCl2
+sub-CL
+CLaCL
+CLaCL
+S-P-VC
+NpaNp
+254494	V-O
+DetNP
+AdjpNp
+254498	CLaCL
+254500	NpPp
+PrepNp
+ClCl
+V-ADV
+PrepNp
+CLaCL
+V2CL
+254508	V2CL
+254510	ADV-V-IO-O
+DetNP
+NPofNP
+DetNP
+P-S
+DetNP
+254517	ADV-S-ADV-P-VC-ADV
+AdvpNp
+DetNP
+sub-CL
+ADV-V-O
+PrepNp
+254524	Conj-CL
+254527	S-O-V
+254530	DetNP
+NPofNP
+PrepNp
+DetNP
+S-IO-V-ADV-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+254541	that-VP
+P-VC-S
+DetNP
+254545	ADV-V
+254547	CLaCL
+S-V
+AdvpNp
+DetNP
+254552	V2CL
+254554	Conj-CL
+254557	Np2CL
+intjNP
+NpAdjp
+that-VP
+S-ADV-P-VC
+DetNP
+PrepNp
+DetNP
+254567	Np2CL
+Np-Appos
+DetNP
+NPofNP
+ADV-V-ADV
+PrepNp
+V-O-ADV
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+DetNP
+254581	V2CL
+CLaCL
+CLaCL
+S-V-ADV
+DetNP
+DetNP
+NPofNP
+254589	ADV-S-V
+PrepNp
+DetNP
+DetNP
+254594	CLaCL
+V-S
+Np-Appos
+DetNP
+DetCL
+V-O
+CLaCL
+Conj-CL
+V-S-O
+DetNP
+254605	V-IO-ADV
+PrepNp
+254608	P-VC
+NPofNP
+254612	that-VP
+CLaCL
+ADV-V-S
+PrepNp
+254617	ADV-ADV-ADV
+PrepNp
+254620	Conj-CL
+ADV-S-ADV-V-ADV
+AdvpNp
+Np-Appos
+DetNP
+AdvPp
+PrepNp
+CLaCL
+V-O
+DetNP
+254631	ADV-V
+AdjpNp
+254634	Conj-CL
+ClCl2
+sub-CL
+S-ADV-P-VC
+DetNP
+PrepNp
+ADV-ADV-S-ADV-P-VC
+DetNP
+PrepNp
+254645	Np2CL
+NPofNP
+254648	that-VP
+O-V
+AdjpNp
+254652	Conj-CL
+ADV-V-S
+254655	ClCl2
+sub-CL
+S-ADV-ADV-V
+PrepNp
+S-P
+NpAdjp
+AdjpNp
+AdjpCL
+V-O
+AdvpNp
+All-NP
+DetNP
+254668	Conj-CL
+ClCl2
+sub-CL
+O-ADV-V-ADV
+ofNPNP
+DetNP
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetCL
+V-S-O
+O-V
+AdvpNp
+All-NP
+DetNP
+NPofNP
+254687	AdvpNp
+DetNP
+CLaCL
+P-VC
+254692	ADV-V
+PrepNp
+NpAdjp
+PrepNp
+AdjpNp
+ADV-S-V
+DetNP
+NPofNP
+DetCL
+V2CL
+254703	CLaCL
+ADV-S-P-VC
+AdvpNp
+DetNP
+AdjpNp
+254709	O-V
+254712	AdjpNp
+AdjpNp
+254715	Conj-CL
+ClCl
+ClCl
+S-P
+DetNP
+P2CL
+DetNP
+NPofNP
+DetNP
+ClCl
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+P2CL
+DetCL
+Conj3CL
+V-O
+All-NP
+DetNP
+254737	V-O
+DetNP
+NPofNP
+DetNP
+254742	V-ADV
+PrepNp
+DetNP
+254746	Conj-CL
+CLaCL
+S-V-ADV
+All-NP
+NPofNP
+EitherOr4Np
+254756	Conj2VP
+254758	DetNP
+NPDetAdj
+DetAdj
+254762	ClCl
+O-V-S
+O-V
+DetNP
+NPofNP
+P2CL
+3Adjp
+AdjpAdvp
+NpAdjp
+254772	CLaCL
+ADV-V-O
+PrepNp
+DetNP
+NpaNp
+254779	ADV-V-O
+PrepNp
+Np-Appos
+DetNP
+DetCL
+ADV-V
+PrepNp
+NPofNP
+254788	ADV-V-S
+PrepNp
+DetNP
+PronNP
+NpaNp
+254796	Np2CL
+NPofNP
+S-P-VC
+254800	PtclCL
+S-ADV-V-O
+DetNP
+PrepNp
+DetNP
+PronNP
+NpaNp
+DetAdj
+254809	DetAdj
+254812	CLaCL
+V-S-O
+Np2CL
+NPofNP
+O-V
+254818	S-O
+254820	Conj-CL
+S-V-O
+AdjpNp
+254824	S-P-ADV
+AdjpaAdjp
+254827	PrepNp
+254829	V-ADV-O-ADV
+PrepNp
+DetNP
+AdjpNp
+DetNP
+NPofNP
+PrepNp
+NPofNP
+254838	Conj-CL
+ClCl2
+sub-CL
+V-O-ADV
+NpaNp
+NpAdjp
+254845	PrepNp
+DetNP
+NPofNP
+AdvpCL
+CLaCL
+V2CL
+254852	V-ADV
+PrepNp
+DetNP
+254856	notCLbutCL2CL
+VC-S-P
+Demo-NP
+DetNP
+ADV-V
+P2CL
+3Adjp
+254864	Conj-CL
+ClCl2
+P-S
+NpaNp
+254869	P-S
+NpaNp
+254872	All-NP
+AdjpNp
+254875	Conj-CL
+254877	DetNP
+AdvpNp
+ADV-P
+AdjpAdjpAdjpAdjpAdjpAdjp
+AdjpAdvp
+NpaNp
+254884	NpAdjp
+254886	Conj-CL
+S-ADV-V-ADV
+NPofNP
+PrepNp
+DetCL
+V-O
+254893	CLaCL
+P-S
+254896	P-S-ADV
+PrepNp
+254899	PtclCL
+P2CL
+AdvPp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+254912	CLaCL
+V2CL
+254915	ADV-V
+254917	CLaCL
+CLaCL
+V2CL
+254921	V2CL
+254923	ADV-V-O
+V2CL
+254926	CLaCL
+V2CL
+254929	V2CL
+254931	ADV-V-ADV
+PrepNp
+DetCL
+ADV-V-S
+254936	ClCl
+CLaCL
+V2CL
+254940	ADV-V
+sub-CL
+254943	sub-CL
+ADV-V
+PrepNp
+DetNP
+NPofNP
+254950	Np2CL
+254952	that-VP
+S-P-VC
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+254960	Conj-CL
+S-O-V
+PtclCL
+S-V-O
+VC-P
+NPofNP
+DetNP
+NPofNP
+DetNP
+254970	Conj-CL
+254972	that-VP
+254974	DetNP
+ADV-V-O
+PrepNp
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+254982	Conj-CL
+O-V
+AdjpNp
+254986	Conj-CL
+254988	CLaCL
+S-O-V
+DetNP
+254992	IO-V-O
+254994	Conj-CL
+CLaCL
+V-O
+DetNP
+254999	CLaCL
+V-O
+DetAdj
+255003	V-ADV
+PrepNp
+255006	CLaCL
+V-ADV
+DetNP
+255010	V-ADV
+255012	CLaCL
+255014	Np2CL
+255017	Np2CL
+255019	Conj3CL
+V2CL
+255022	V2CL
+255024	V2CL
+255026	CLaCL
+S-ADV-V
+DetNP
+NPofNP
+PrepNp
+255032	S-ADV
+DetNP
+PrepNp
+255036	CLaCL
+V-ADV
+PrepNp
+255040	V-O
+255043	Np2CL
+255045	CLaCL
+S-V-O
+DetCL
+CLaCL
+V-O
+255051	V-O
+DetNP
+NPofNP
+255055	V-O
+255057	Conj-CL
+ClCl2
+sub-CL
+O-V
+VC-P
+notNPbutNP
+NPofNP
+255065	P-VC-S
+Np-Appos
+NpaNp
+255069	DetCL
+V-O
+V2CL
+Conj2VP
+255075	Conj-CL
+255077	Np2CL
+DetCL
+V-O
+DetNP
+255082	ClCl
+255084	Np2CL
+NP-CL
+DetCL
+255088	CLaCL
+ADV-V-ADV
+AdvpaAdvp
+255092	PrepNp
+AdjpNp
+DetNP
+255096	Conj3CL
+V-ADV-ADV
+255099	V2CL
+255101	V2CL
+255104	S-ADV-V-O
+DetNP
+DetNP
+NPofNP
+VC-P
+Np-Appos
+DetCL
+ClCl
+ADV-V
+PrepNp
+ADV-V
+2Advp_h1
+ADV2CL
+PrepNp
+DetCL
+255120	ClCl2
+sub-CL
+S-V
+DetNP
+aCLaCL
+255126	V2CL
+255128	V-O
+NpaNp
+255132	Conj-CL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+255138	S-P-VC
+NP-Demo
+All-NP
+255142	Conj-CL
+ClCl2
+CLaCL
+V-O
+O-V
+255148	ADV-V
+S-ADV-V
+255151	ClCl
+ClCl
+V-ADV
+Np2CL
+DetAdj
+V-ADV
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V2CL
+255165	CLaCL
+S-V
+DetNP
+NPofNP
+255170	S-P-VC
+DetNP
+NPofNP
+255174	CLaCL
+S-V
+NpaNp
+DetNP
+NPofNP
+255180	DetNP
+255182	CLaCL
+S-P-ADV-VC
+DetNP
+NPofNP
+PrepNp
+255188	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+255193	V-ADV
+PrepNp
+AdjpNp
+255198	S-V
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V-O
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+255212	S-ADV-V
+DetNP
+NPofNP
+DetCL
+V2CL
+PrepNp
+DetNP
+NPofNP
+NPofNP
+255222	CLaCL
+V-ADV
+PrepNp
+DetNP
+255227	V2CL
+255229	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+NPofNP
+255235	V-O
+VpVp
+DetAdj
+255239	ADV-V-O
+255241	Conj-CL
+255243	Np2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+255250	DetNP
+DetNP
+AdjpNp
+NPofNP
+DetNP
+V-ADV
+PrepNp
+sub-CL
+V-O
+NpaNp
+255263	V-S
+AdvpNp
+V-O
+DetNP
+NPofNP
+sub-CL
+S-V
+DetNP
+NPofNP
+DetNP
+255275	Np2CL
+PrepNp
+sub-CL
+ADV-V
+255281	DetNP
+PrepNp
+DetNP
+255286	NPofNP
+Np2CL
+NpaNp
+DetNP
+255291	DetNP
+NP-CL
+DetNP
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+255300	DetCL
+V2CL
+255304	O-V
+DetNP
+NPofNP
+255308	O-V
+DetNP
+NPofNP
+that-VP
+VC-S-P
+AdjpaAdjp
+DetNP
+255317	Conj-CL
+255319	PrepNp
+Np2CL
+NPofNP
+aNpaNpaNp
+255324	DetNP
+255326	DetNP
+255328	AdjpNp
+255330	Conj-CL
+255332	VC-S-P
+ofNPNP
+DetNP
+255336	S-P
+DetNP
+sub-CL
+ADV-ADV-V
+PrepNp
+255342	ClCl
+V-S
+NpPp
+PrepNp
+V2CL
+255348	ClCl
+V-S
+V2CL
+255352	ClCl
+V-S
+NpPp
+PrepNp
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+255362	V-ADV-ADV
+PrepNp
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+255370	Conj-CL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+DetCL
+V2CL
+255379	V-O-S
+DetNP
+255382	ClCl2
+sub-CL
+O-V
+BeVerb
+V-IO
+255388	Conj-CL
+ClCl
+CLaCL
+V-IO-O
+DetNP
+255394	V-ADV
+PrepNp
+sub-CL
+V2CL
+255399	ADV-V-S-ADV
+NPofNP
+V2CL
+255403	CLaCL
+S-VC-P
+NpAdjp
+AdjpDative
+255408	CLaCL
+ADV-V-ADV
+DetCL
+ADV-V
+255413	ADV-V-ADV-ADV
+PrepNp
+DetNP
+NpaNp
+NpAdjp
+255419	NpNump
+255421	Conj-CL
+CLaCL
+ADV-V
+255425	CLaCL
+S-O-V
+DetNP
+255429	S-V-O
+DetNP
+DetNP
+NPofNP
+255435	Np2CL
+NPofNP
+sub-CL
+CLaCL
+S-V-ADV
+NpPp
+PrepNp
+PrepNp
+DetNP
+255445	V-S-O
+255447	V2CL
+CLaCL
+S-V-O-ADV
+DetCL
+V-O-ADV
+PrepNp
+NPofNP
+NPofNP
+NPofNP
+PrepNp
+255458	V-O
+NPofNP
+255461	S-IO
+Np-Appos
+NPofNP
+Np-Appos
+AdjpNp
+NpPp
+NPofNP
+NPofNP
+4NpaNp
+255471	PpPpPp
+PrepNp
+NPofNP
+Np-Appos
+PrepNp
+NPofNP
+PrepNp
+NpaNp
+255480	NPofNP
+NPofNP
+Np-Appos
+255484	S-IO-V
+NpaNp
+255488	P-S
+Np-Appos
+DetNP
+NPofNP
+NpaNp
+255494	Np-Appos
+DetNP
+NPofNP
+Np-Appos
+DetCL
+ADV-V-O-ADV-ADV-ADV
+PrepNp
+DetNP
+AdjpNp
+ofNPNP
+PrepNp
+NpAdjp
+V2CL
+PrepNp
+NpPp
+NPofNP
+Np-Appos
+PrepNp
+PrepNp
+NpAdjp
+NpAdjp
+Conj3Adjp
+255518	V-ADV-ADV
+PrepNp
+PrepNp
+Np-Appos
+DetCL
+ADV-V-ADV-ADV-ADV
+PrepNp
+NPofNP
+PrepNp
+PrepNp
+NpAdjp
+V-ADV
+PrepNp
+NpAdjp
+255535	ADV-V
+PrepNp
+ADV-ADV-V-S
+V-ADV
+PrepNp
+AdjpNp
+S-V-ADV-ADV
+DetNP
+NpAdjp
+NPofNP
+ofNPNP
+DetNP
+AdjpAdvp
+Np-Appos
+DetCL
+CLaCL
+V2CL
+255553	ADV-V
+PrepNp
+PrepNp
+Conj3Np
+255559	PrepNp
+NPofNP
+Np-Appos
+255563	CLaCL
+O-ADV-V
+ADV-V
+255567	ADV-V-ADV-ADV
+ADV-ADV-V
+PrepNp
+ADV-ADV-V
+NpAdjp
+AdjpaAdjp
+255574	V2CL
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+255582	ADV-V-S-ADV
+PrepNp
+PronNP
+Conj2VP
+255587	Np-Appos
+DetCL
+ADV-V
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+V-ADV
+PrepNp
+NP-CL
+NpaNp
+255599	AdjpNp
+V-S-ADV
+DetNP
+PpNp2Np
+PrepNp
+NPofNP
+V-O
+NpaNp
+DetNP
+PpNp2Np
+PrepNp
+255611	DetNP
+PpNp2Np
+PrepNp
+255616	IO-V
+IO-V-O
+notNPbutNP
+NP-CL
+NP-CL
+S-ADV-V-IO-ADV
+PrepNp
+DetCL
+V-O-ADV
+PrepNp
+NpAdjp
+NpAdjp
+V-ADV
+PrepNp
+O-V-S
+ADV-V
+PrepNp
+255634	Conj-CL
+ADV-ADV-V-ADV-ADV
+ClCl
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+V2CL
+PrepNp
+DetNP
+AdjpNp
+V-IO
+PrepNp
+NPofNP
+Np-Appos
+255651	ClCl
+ClCl2
+sub-CL
+P2CL
+NPofNP
+notCLbutCL2CL
+V-ADV
+DetNP
+PpNp2Np
+AdvPp
+PrepNp
+DetNP
+NPofNP
+ADV-S-P-ADV-VC
+PrepNp
+DetNP
+AdjpNp
+V-O
+AdvpNp
+PrepNp
+All-NP
+sub-CL
+255674	ClCl
+P-VC
+sub-CL
+S-P
+255679	Conj-CL
+ClCl2
+sub-CL
+O2-V-O
+DetCL
+ADV-V-ADV
+PrepNp
+DetNP
+ofNPNP
+ADV-ADV-V-ADV
+PrepNp
+DetNP
+ofNPNP
+DetNP
+NPofNP
+255695	that-VP
+notCLbutCL2CL
+ADV-V-ADV
+AdjpNp
+NpaNp
+255701	PrepNp
+DetNP
+AdjpNp
+ofNPNP
+NpAdjp
+ClCl
+ADV2CL
+AdjpNp
+sub-CL
+ADV2CL
+Np-Appos
+NpAdjp
+AdjpaAdjp
+255715	NpAdjp
+aCLaCL
+255718	V-ADV
+PrepNp
+NPofNP
+255722	V-ADV-ADV
+PrepNp
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+DetNP
+PpNp2Np
+PrepNp
+NpPp
+PrepNp
+Np-Appos
+DetCL
+CLaCL
+V-O-ADV
+PrepNp
+255739	O-IO-V-ADV
+sub-CL
+S-VC-P
+DetNP
+NpaNp
+NPofNP
+255746	PrepNp
+255748	ADV-ADV-O-V-ADV-ADV
+O-V-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpAdjp
+PrepNp
+V-ADV-ADV
+notADVbutADV
+PrepNp
+NpAdjp
+PrepNp
+NpAdjp
+NPofNP
+AdjpaAdjp
+V2CL
+255769	V2CL
+255771	sub-CL
+ClCl
+CLaCL
+S-P
+All-NP
+PrepNp
+255778	S-P
+All-NP
+NPofNP
+PrepNp
+NPofNP
+CLaCL
+CLaCL
+V-S
+DetNP
+255788	S-V
+DetNP
+255791	S-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+255797	Conj-CL
+S-VC-P
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+255805	Conj-CL
+ClCl
+255808	V-O
+Conj5Np
+All-NP
+255812	All-NP
+255816	All-NP
+PrepNp
+AdjpNp
+DetNP
+AdjpNp
+AdjpNp
+sub-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+sub-CL
+255828	that-VP
+P-S
+DetNP
+255832	ADV-S-ADV-V-ADV-ADV-ADV
+V-ADV
+PrepNp
+Np-Appos
+NpAdjp
+NpAdjp
+V2CL
+aCLaCL
+255841	ADV-V
+PrepNp
+255844	ADV-P
+PrepNp
+AdjpAdjp
+AdvpNp
+PrepNp
+NpAdjp
+V2CL
+NpAdjp
+PrepNp
+NpAdjp
+V-O-IO-ADV
+NpAdjp
+AdjpNp
+PrepNp
+Np-Appos
+255860	sub-CL
+255862	PrepNp
+255864	V-ADV-O
+PrepNp
+NpAdjp
+NpAdjp
+NpAdjp
+255870	S-ADV-V
+DetCL
+V-ADV
+PrepNp
+2Advp_h1
+255876	Conj-CL
+S-ADV
+Np-Appos
+DetNP
+DetCL
+V2CL
+255883	Conj-CL
+255885	V2CL
+CLaCL
+255888	Np2CL
+NP-CL
+O-V-S
+DetCL
+V2CL
+PrepNp
+NPofNP
+255896	P2CL
+NpaNp
+NPofNP
+255900	NPofNP
+255902	S-V-ADV
+O-V
+DetNP
+PrepNp
+255907	Conj-CL
+ClCl
+255910	NpNpNpNp
+NpAdjp
+AdjpNp
+NpAdjp
+NpPp
+PrepNp
+sub-CL
+V-O
+DetNP
+NPofNP
+DetCL
+ADV-O-V-ADV
+PrepNp
+PrepNp
+DetNP
+AdjpNp
+ofNPNP
+CLaCL
+S-ADV-ADV-P
+255930	ADV-P
+NPofNP
+CLaCL
+S-ADV-P
+V2CL
+255936	ADV-P
+V2CL
+255940	Np2CL
+ADV-V-O
+PrepNp
+NpaNp
+255945	DetNP
+NP-CL
+AdjpNp
+S-V-ADV
+PrepNp
+DetNP
+255952	ClCl
+O-ADV-V-O2
+DetNP
+NPofNP
+PrepNp
+DetNP
+sub-CL
+ADV-ADV-V-O-ADV
+PrepNp
+255962	ADV-V-O
+O2CL
+ADV-V
+PrepNp
+DetNP
+AdjpNp
+DetNP
+PrepNp
+NPofNP
+255972	V-ADV-IO
+Np-Appos
+All-NP
+AdjpNp
+PrepNp
+DetNP
+aNpaNp
+255980	NpPp
+PrepNp
+V2CL
+255984	NP-CL
+sub-CL
+ADV-V-ADV
+PrepNp
+PrepNp
+NpaNp
+NPofNP
+255992	NPofNP
+255994	sub-CL
+ADV-VC-S-P
+DetNP
+NPofNP
+DetNP
+ADV-V-O
+V2CL
+DetNP
+ofNPNP
+DetNP
+AdjpNp
+256006	CLaCL
+sub-CL
+P2CL
+256010	notCLbutCL2CL
+sub-CL
+V-O2-O
+NPofNP
+DetNP
+DetNP
+sub-CL
+P2CL
+ofNPNP
+256020	ClClClCl
+O-V
+O-V
+DetNP
+O-V
+DetNP
+O-V
+DetNP
+256030	Np2CL
+DetNP
+PrepNp
+All-NP
+Np-Appos
+DetNP
+notNPbutNP
+AdvpNp
+DetAdj
+AdjpaAdjp
+256041	AdvpNp
+DetAdj
+256044	Conj-CL
+ClCl
+S-P
+sub-CL
+ADV-V-S-O-ADV
+PrepNp
+NPofNP
+V-ADV
+256053	Conj-CL
+CLaCL
+256056	sub-CL
+ADV-V
+V2CL
+Conj2VP
+256063	sub-CL
+ADV-V
+V2CL
+Conj2VP
+256068	PrepNp
+256070	Conj-CL
+256072	PrepNp
+sub-CL
+256075	AdvpNp
+PrepNp
+IO-V-O
+sub-CL
+V-ADV
+DetNP
+NPofNP
+256083	CLaCL
+S-O-ADV-V
+256086	V-S-ADV
+PrepNp
+DetNP
+NPofNP
+256091	CLaCL
+256093	S-ADV-ADV-V
+V2CL
+V2CL
+256097	V-IO
+DetCL
+V-ADV
+256102	S-O-V-ADV-ADV
+NpPron
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+ADV-ADV-V
+ADV-V
+DetNP
+DetNP
+256116	ADV-V
+ofNPNP
+DetNP
+256120	Conj-CL
+CLaCL
+VC-P
+PrepNp
+NpAdjp
+V2CL
+256127	V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+256133	DetNP
+NPofNP
+256137	ADV-V-IO
+Np2CL
+DetNP
+AdjpNp
+sub-CL
+ClCl2
+sub-CL
+S-V-O
+AdvpNp
+DetNP
+ADV-ADV-V-ADV
+PrepNp
+DetNP
+ofNPNP
+DetNP
+PrepNp
+V-O
+DetNP
+NPofNP
+PpNp2Np
+PrepNp
+AdjpNp
+256160	ADV-VC-P
+notNPbutNP
+DetNP
+AdvpNp
+ofNPNP
+Conj3Np
+NPofNP
+256168	NPofNP
+256170	NPofNP
+DetNP
+NpPp
+AdjpNp
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+NP-CL
+DetNP
+AdjpNp
+AdjpaAdjp
+256184	S-VC-ADV-P
+PrepNp
+DetNP
+256188	Conj-CL
+ClCl
+ADV-ADV-S-V-O-ADV
+AdvpNp
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-ADV
+PrepNp
+V-IO
+DetNP
+AdjpNp
+sub-CL
+256203	DetNP
+O2-O-V
+P-VC-ADV
+ofNPNP
+CLaCL
+V2CL
+256210	ADV-V-O
+AdjpNp
+256214	Np2CL
+DetNP
+PrepNp
+ClCl2
+sub-CL
+IO2CL
+AdjpNp
+IO-V-O-ADV-ADV
+DetAdj
+sub-CL
+IO2CL
+AdvpNp
+NPofNP
+NPofNP
+PrepNp
+DetCL
+ADV-V-S
+DetNP
+NPofNP
+256234	Conj-CL
+ADV-S-P
+DetNP
+AdjpAdjpAdjpAdjpAdjpAdjp
+notCLbutCL2CL
+CLaCL
+V-O-ADV
+PrepNp
+256243	O-ADV
+PrepNp
+256246	sub-CL
+256248	PrepNp
+sub-CL
+O-V
+256252	Conj-CL
+CLaCL
+CLaCL
+S-V-O-ADV
+DetCL
+V-O
+CLaCL
+O-V
+256261	V-O
+NpAdjp
+DetNP
+PrepNp
+256266	O-ADV
+DetCL
+ADV-V-O
+256270	ClCl
+CLaCL
+V-ADV
+PrepNp
+256275	V-O
+CLaCL
+V-O
+256279	V-O
+256281	sub-CL
+CLaCL
+CLaCL
+S-P
+NPofNP
+PrepNp
+256288	S-P
+NPofNP
+PrepNp
+NPofNP
+256293	S-P
+NPofNP
+PrepNp
+V-O
+256298	Conj-CL
+256300	DetCL
+V-O
+sub-CL
+P-VC
+ofNPNP
+DetAdj
+256307	Conj-CL
+256309	sub-CL
+ADV-V-ADV
+PrepNp
+256313	Conj-CL
+ClCl
+CLaCL
+CLaCL
+CLaCL
+ADV-ADV-V
+DetNP
+NPofNP
+256322	V2CL
+256324	O-V-ADV-ADV
+Np-Appos
+DetNP
+PrepNp
+DetNP
+NPofNP
+P-ADV-ADV-ADV
+PrepNp
+All-NP
+DetCL
+V-O-O2
+NpPp
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+256341	ADV-O-V
+PrepNp
+NpaNp
+256345	NpAdjp
+sub-CL
+ADV-V-S
+PrepNp
+ADV-V
+DetCL
+V-O
+ofNPNP
+DetNP
+AdjpNp
+PpNp2Np
+PrepNp
+256358	Conj-CL
+ClCl
+CLaCL
+P-S
+ADV-ADV-V
+V2CL
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+256370	V2CL
+sub-CL
+256373	S-ADV-ADV-V
+AdvpNp
+PrepNp
+S-ADV
+PrepNp
+sub-CL
+O-V-IO-ADV
+DetNP
+aCLaCL
+256383	V-ADV
+256385	V-ADV
+256387	ADV-ADV-V-IO
+PrepNp
+Np-Appos
+AdvpNp
+DetNP
+PpNp2Np
+PrepNp
+V2CL
+256396	sub-CL
+ClCl
+V-S-ADV
+DetNP
+ofNPNP
+DetNP
+PrepNp
+NPofNP
+V-S
+NP-CL
+ADV-S-V-ADV
+PrepNp
+NP-CL
+S-VC-P
+NumpNP
+PrepNp
+256413	ADV-O-ADV-V-S-ADV
+AdvpNp
+Np-Appos
+Np-Appos
+notNPbutNP
+ofNPNP
+NPofNP
+NpPp
+ofNPNP
+NpAdjp
+PrepNp
+PrepNp
+NPofNP
+NP-CL
+Np-Appos
+256429	S-VC-P-ADV
+PrepNp
+NPofNP
+V-ADV
+PrepNp
+Conj3Np
+256438	Conj-CL
+ClCl
+ClCl2
+S-V-ADV
+S-O-V-ADV
+AdvpNp
+DetNP
+PronNP
+sub-CL
+S-V-ADV
+DetCL
+V-ADV
+PrepNp
+DetCL
+ADV-O-V
+notNPbutNP
+ofNPNP
+NPofNP
+DetNP
+AdjpNp
+PpNp2Np
+PrepNp
+256461	Conj-CL
+P-S-ADV
+DetNP
+AdjpNp
+V2CL
+256467	DetNP
+NPofNP
+DetNP
+256471	V-ADV
+PrepNp
+NpaNp
+NpNpNpNpNp
+256476	AdjpNp
+PrepNp
+ADV-V-S-ADV
+PrepNp
+DetNP
+PronNP
+ofNPNP
+DetNP
+V2CL
+S-V-O-IO
+DetCL
+ADV-V-ADV
+V-O
+NpaNp
+V2CL
+256493	Conj-CL
+256495	PrepNp
+AdvpNp
+that-VP
+aCLaCL
+256500	V-ADV-ADV
+PrepNp
+256503	V-ADV-ADV
+PrepNp
+256506	Conj-CL
+S-V
+ofNPNP
+DetNP
+256511	Conj-CL
+V-ADV
+Conj2VP
+256515	PrepNp
+256518	PrepNp
+DetNP
+PpNp2Np
+PrepNp
+NpAdjp
+sub-CL
+S-V-O
+NPofNP
+256527	P-ADV-ADV
+PrepNp
+PrepNp
+256531	ClCl
+ClCl
+ClCl
+S-ADV-ADV-O-V
+sub-CL
+V-O
+PrepNp
+sub-CL
+S2CL
+AdjpNp
+NPofNP
+AdjpNp
+NPofNP
+ClCl
+ClCl2
+sub-CL
+S-V
+sub-CL
+O2CL
+NPofNP
+ClCl2
+sub-CL
+S-V
+sub-CL
+ADV2CL
+PrepNp
+NP-CL
+O-V-S
+DetNP
+sub-CL
+ADV-V-S-ADV
+PrepNp
+DetNP
+PrepNp
+NP-CL
+Np-Appos
+256568	NpaNp
+DetNP
+256571	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+256579	Np2CL
+notCLbutCL2CL
+ClCl
+ClCl
+V-ADV
+DetNP
+PpNp2Np
+PrepNp
+ADV-ADV-V
+PrepNp
+sub-CL
+S-ADV-V
+ClCl2
+sub-CL
+V-ADV
+DetNP
+ofNPNP
+DetNP
+V2CL
+sub-CL
+ADV-V-ADV
+AdvPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+V2CL
+256608	ClCl
+ClCl2
+sub-CL
+V-ADV
+PrepNp
+NPofNP
+P2CL
+sub-CL
+S-ADV-V
+NpaNp
+NPofNP
+DetNP
+256621	DetNP
+ofNPNP
+DetNP
+PrepNp
+256626	Conj-CL
+ClCl
+CLaCL
+ADV-S-V-ADV
+NPofNP
+Conj2Pp
+PrepNp
+Conj3Np
+256637	PrepNp
+256639	ClCl2
+sub-CL
+ADV2CL
+PrepNp
+notCLbutCL2CL
+V2CL
+V-O-ADV
+DetNP
+PrepNp
+NP-Demo
+DetNP
+sub-CL
+S-ADV
+DetNP
+DetCL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+256661	Conj-CL
+ClCl2
+sub-CL
+ADV-P
+PrepNp
+P-S
+DetNP
+NPofNP
+DetCL
+V-O
+DetNP
+ofNPNP
+DetNP
+256675	Conj-CL
+256677	sub-CL
+S-ADV-V
+DetAdj
+DetNP
+NpaNp
+256684	Conj-CL
+S-IO-V-O-ADV
+AdvpNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+AdjpNp
+DetNP
+NPofNP
+PrepNp
+256698	Conj-CL
+O-V-S
+NpPp
+PrepNp
+NpaNp
+DetNP
+NpaNp
+256706	NPofNP
+DetNP
+ofNPNP
+DetNP
+256711	DetNP
+ofNPNP
+DetNP
+AdjpNp
+V-O
+V2CL
+256718	V-O-ADV-ADV-ADV-ADV
+DetNP
+PpNp2Np
+PrepNp
+NPofNP
+DetNP
+notADVbutADV
+PrepNp
+notADVbutADV
+notCLbutCL2CL
+sub-CL
+V-ADV
+DetNP
+VC-P
+NPofNP
+DetNP
+256735	Conj-CL
+ClCl2
+V-S
+DetNP
+V-O
+DetNP
+AdjpNp
+ofNPNP
+DetNP
+256746	Np2CL
+256748	Conj-CL
+256750	DetNP
+sub-CL
+CLaCL
+S-O-V
+DetNP
+256756	IO-V-O
+256758	Conj-CL
+V-ADV-ADV-ADV
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+sub-CL
+O-V-ADV
+PrepNp
+ClCl
+O-V-ADV
+All-NP
+DetNP
+NPofNP
+PrepNp
+sub-CL
+ADV-V-ADV
+PrepNp
+256779	V2CL
+256782	S-ADV-V-ADV
+Np-Appos
+DetNP
+NPofNP
+sub-CL
+S2CL
+NpAdjp
+V2CL
+V-O
+O-V
+AdjpDative
+DetNP
+V-O
+S-ADV-V
+DetNP
+NPofNP
+DetNP
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+ofNPNP
+256805	Conj-CL
+ClCl
+256808	Np2CL
+Np-Appos
+DetNP
+NPofNP
+All-NP
+DetCL
+V-O-ADV-ADV
+PrepNp
+DetNP
+AdjpNp
+ofNPNP
+PrepNp
+ADV-S-V
+ADV-V
+V2CL
+V2CL
+V2CL
+256826	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+256833	IO-ADV-ADV-V-ADV
+PrepNp
+Np-Appos
+DetNP
+NP-CL
+AdjpNp
+sub-CL
+V2CL
+PrepNp
+CLaCL
+V2CL
+256845	V-O
+256847	AdjpNp
+NPofNP
+DetNP
+ADV-V
+PrepNp
+256853	V-O-S
+NpaNp
+DetNP
+PpNp2Np
+PrepNp
+256859	Np-Appos
+DetNP
+NPofNP
+256863	V-O-ADV
+PrepNp
+NPofNP
+256867	S-IO
+Np-Appos
+All-NP
+NpPp
+PrepNp
+256873	S-IO
+Np-Appos
+Np-Appos
+NPofNP
+NpaNp
+256879	Np-Appos
+DetCL
+ADV-V-O-ADV
+AdjpNp
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+NpaNp
+Np-Appos
+256890	Np-Appos
+256892	S-IO-V-ADV
+NpaNp
+256895	PrepNp
+NPofNP
+NpaNp
+DetNP
+256900	Np-Appos
+DetNP
+NPofNP
+256904	sub-CL
+IO-S-O-V-ADV
+Np-Appos
+DetAdj
+DetNP
+AdjpNp
+NPofNP
+NpPp
+PrepNp
+NpaNp
+256915	PrepNp
+DetNP
+NPofNP
+DetCL
+V-O-ADV
+NP-CL
+AdjpNp
+NpaNp
+256925	ADV-O-IO-V
+PrepNp
+DetNP
+AdjpNp
+AdjpaAdjp
+256931	ADV-VC-P-ADV
+PrepNp
+NPofNP
+AdjpNp
+V-O
+DetNP
+PpNp2Np
+PrepNp
+DetNP
+PpNp2Np
+PrepNp
+256943	Conj-CL
+Conj7CL
+ADV-ADV-V-ADV-O
+AdvpNp
+PronNP
+O-V
+NP-all
+PrepNp
+DetNP
+NPofNP
+DetNP
+256955	ADV-O
+PrepNp
+DetNP
+DetNP
+256960	ADV-O
+PrepNp
+DetNP
+DetNP
+256965	ADV-O
+PrepNp
+DetNP
+DetNP
+256970	ADV-O
+PrepNp
+DetNP
+DetNP
+256975	ADV-O
+PrepNp
+DetNP
+DetNP
+256980	ADV-O
+PrepNp
+DetNP
+DetNP
+256985	Conj-CL
+S-ADV-O2-V-ADV
+ADV-V
+Conj2VP
+256990	notNPbutNP
+PrepNp
+DetNP
+ofNPNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+256999	Conj-CL
+S-P-VC-ADV-ADV
+ADV-ADV-V-S
+V2CL
+V-O
+NPofNP
+DetNP
+NPofNP
+DetNP
+AdvpNp
+ofNPNP
+257011	Conj-CL
+257013	Np2CL
+O2-O-V
+ofNPNP
+DetNP
+NpaNp
+257020	Conj-CL
+ADV-ADV-V-ADV
+O-V
+2Advp_h1
+257025	Conj-CL
+ADV-ADV-V-IO-S
+DetNP
+NpPp
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+Np-Appos
+DetNP
+NpaNp
+NPofNP
+257038	Np-Appos
+257040	Conj-CL
+ClCl
+V-O
+ADV-O-V-ADV
+PrepNp
+sub-CL
+V-ADV
+Conj2VP
+257049	PrepNp
+DetNP
+AdjpNp
+V2CL
+257054	Conj-CL
+O2-V-ADV-O-ADV
+PrepNp
+ADV-VC-P
+PrepNp
+Demo-NP
+DetNP
+V-O-ADV
+PrepNp
+257064	that-VP
+ClCl
+P-VC-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+S-V-IO
+AdvpNp
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+257079	Conj-CL
+V-O
+O-V
+ADV-V-S-ADV-O
+2Advp_h1
+PrepNp
+DetNP
+AdjpNp
+DetNP
+ofNPNP
+257090	Conj-CL
+notCLbutCL2CL
+ADV-V-IO-O
+O-V
+AdjpNp
+V2CL
+DetNP
+ofNPNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+NpaNp
+257104	VC-P
+NPofNP
+DetNP
+ofNPNP
+257109	Conj-CL
+CLaCL
+ClCl
+V-ADV-O
+PrepNp
+Np-Appos
+NpaNp
+257118	NP-Demo
+PrepNp
+DetNP
+AdjpNp
+257123	Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-S-V
+PrepNp
+257131	O-S-V-ADV-ADV
+Demo-NP
+DetNP
+ADV-V
+PrepNp
+ADV-VC-P
+PrepNp
+PrepNp
+DetNP
+AdjpNp
+257142	Conj-CL
+257144	DetNP
+AdjpNp
+ADV-V-ADV-ADV
+O-V-ADV-ADV
+sub-CL
+O2CL
+NpAdjp
+V-ADV
+PrepNp
+AdjpNp
+PrepNp
+CLaCL
+ADV-S-V
+257158	S-V-ADV
+PrepNp
+DetNP
+NPofNP
+257163	that-VP
+S-ADV-ADV-V
+All-NP
+NPofNP
+AdjpNp
+257169	Conj-CL
+notCLbutCL2CL
+ADV-V-S-ADV
+NPofNP
+ADV-V-ADV-S
+ADV-V
+PrepNp
+NpAdjp
+PrepNp
+257179	Conj-CL
+ClCl
+VC-S-P
+AdvpNp
+PrepNp
+DetNP
+sub-CL
+P-VC-S
+AdvPp
+PrepNp
+NP-CL
+S-V-O-ADV-ADV
+NPofNP
+O-V
+AdvpNp
+DetNP
+AdjpNp
+V-O
+V-IO-O
+AdjpNp
+257200	Conj-CL
+257202	S-V-O
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+257210	Conj-CL
+ADV-ADV-O-V
+PrepNp
+AdjpNp
+257215	CLaCL
+ADV-S-ADV-ADV-V
+DetNP
+257219	S-ADV-V
+DetNP
+NPofNP
+257223	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+CLaCL
+CLaCL
+S-O-ADV-V
+DetNP
+NpAdjp
+V2CL
+257234	ADV-ADV-V-ADV
+NPofNP
+V2CL
+ADV-V
+PrepNp
+257240	CLaCL
+O-ADV-V
+AdjpNp
+257244	O-V-ADV
+Np-Appos
+Np-Appos
+ofNPNP
+O-IO-V
+NPofNP
+257251	CLaCL
+ADV-ADV-V-ADV
+O-V
+NPofNP
+NpaNp
+257257	O2-V
+NPofNP
+V-O
+V2CL
+257262	ClCl
+O-V
+NpAdjp
+Np-Appos
+V-ADV
+PrepNp
+DetNP
+ofNPNP
+NpPp
+DetAdj
+PrepNp
+sub-CL
+ADV-S-ADV-ADV-O-ADV-V
+NpaNp
+257277	DetAdj
+V-ADV
+PrepNp
+NpPp
+PrepNp
+NpAdjp
+AdjpNp
+V-S-O
+CLaCL
+O-ADV-V
+PrepNp
+257289	CLaCL
+O-ADV-V
+ADV-V
+PrepNp
+NPofNP
+257295	ADV-O
+DetCL
+CLaCL
+ADV-ADV-V
+PrepNp
+PrepNp
+NPofNP
+257303	O-V
+257305	S-ADV-ADV-V-ADV
+NpAdjp
+O-V
+ADV-S-ADV-ADV-V-ADV-ADV-O
+ADV-P-VC
+NpaNp
+257312	PrepNp
+PrepNp
+AdjpNp
+257316	Conj-CL
+257318	PrepNp
+AdjpNp
+NpAdjp
+V-ADV-ADV
+PrepNp
+NpaNp
+257325	ADV-V
+PrepNp
+O-V
+ADV-ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+V-ADV
+NPofNP
+257335	ADV-V-ADV
+ClClClClClClClClCl
+O2-V-O
+DetNP
+PpNp2Np
+PrepNp
+P2CL
+NpaNp
+257344	V-ADV
+PrepNp
+DetNP
+NPofNP
+V-ADV
+V-O
+NpAdjp
+AdjpaAdjp
+AdjpAdvp
+257354	AdjpAdvp
+V-O
+NpAdjp
+O-V
+NpAdjp
+V-ADV
+P2CL
+ofNPNP
+V-O
+AdjpNp
+V-O
+DetNP
+NPofNP
+NP-CL
+DetNP
+Np-Appos
+NPofNP
+CLaCL
+S-O-V
+NPofNP
+257375	O-V
+NPofNP
+AdjpNp
+257379	S-ADV-V-O
+NpAdjp
+ADV-V
+PrepNp
+ofNPNP
+DetNP
+ofNPNP
+DetNP
+257389	NpaNp
+NpAdjp
+257392	NpAdjp
+ADV-V
+PrepNp
+IO-S-V
+DetNP
+NPofNP
+DetNP
+257400	Conj-CL
+ADV-V-ADV-O-ADV
+O-V
+NPofNP
+PrepNp
+Np-Appos
+NPofNP
+DetCL
+ADV-V-O
+DetCL
+ADV-V
+PrepNp
+257413	S-VC-P
+NPofNP
+DetNP
+257417	Conj-CL
+257419	ADV-S-V
+257421	Conj-CL
+ClCl2
+sub-CL
+ADV-V
+CLaCL
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+Np-Appos
+DetNP
+NpaNp
+257436	Np-Appos
+257438	ADV-ADV-V
+VC-ADV-S-P-ADV
+DetAdj
+DetAdj
+257443	Conj-CL
+CLaCL
+P-VC-ADV-S
+ADV-V-O
+DetNP
+NPofNP
+DetNP
+257451	ADV-V-ADV
+V2CL
+PrepNp
+DetNP
+AdjpNp
+V-IO
+AdjpNp
+257460	NPofNP
+DetNP
+AdjpNp
+CLaCL
+S-V-ADV
+PrepNp
+DetNP
+AdjpNp
+257469	S-ADV-ADV
+V2CL
+PrepNp
+NPofNP
+257475	Demo-NP
+Np2CL
+AdjpNp
+ADV-V-ADV-O-ADV
+PrepNp
+ofNPNP
+PrepNp
+DetNP
+AdjpNp
+V-O
+NpaNp
+DetNP
+AdjpNp
+V-ADV
+PrepNp
+DetNP
+AdjpNp
+257493	DetNP
+ofNPNP
+DetNP
+NPofNP
+NPofNP
+DetNP
+NpaNp
+257503	that-VP
+V-ADV-ADV-S-ADV
+PrepNp
+AdjpNp
+DetNP
+PrepNp
+CLaCL
+ADV-V
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+257518	DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+ADV-S-ADV-V-ADV
+PrepNp
+ADV-S-V
+DetNP
+PrepNp
+NPofNP
+257530	Conj-CL
+257532	O-V
+that-VP
+257535	S-VC-P
+257537	S-ADV-V-ADV
+Conj2Pp
+PrepNp
+257541	PrepNp
+DetNP
+ofNPNP
+DetNP
+ADV-S-ADV-V
+PrepNp
+DetNP
+AdvpNp
+ADV-V
+257551	Conj-CL
+S-ADV-V-ADV-ADV
+NpaNp
+DetNP
+AdjpNp
+257557	DetNP
+DetNP
+PronNP
+VerbBe
+V-ADV
+PrepNp
+NPofNP
+NPofNP
+NpaNp
+257567	DetNP
+AdjpNp
+257570	Conj-CL
+257572	NP-Demo
+Np2CL
+that-VP
+CLaCL
+S-ADV-P
+AdjpNp
+PrepNp
+PrepNp
+AdjpNp
+257582	S-P
+AdjpNp
+PrepNp
+NpAdjp
+257587	notCLbutCL2CL
+257589	DetNP
+sub-CL
+S-O-V
+V-ADV-ADV
+PrepNp
+V-O
+notCLbutCL2CL
+S-V
+S-ADV-V
+PrepNp
+257600	Conj-CL
+257602	NPofNP
+PrepNp
+CLaCL
+ADV-S-ADV-V
+PrepNp
+DetNP
+257609	CLaCL
+S-ADV-V
+V2CL
+257613	S-V
+NpaNp
+257616	DetNP
+PpNp2Np
+PrepNp
+257620	ClCl2
+ADV-S-V
+NP-all
+V-S
+P-VC-S-ADV-ADV
+PrepNp
+NpaNp
+AdjpNp
+257629	V-O
+Conj2VP
+257632	DetNP
+NPofNP
+DetNP
+NP-CL
+ofNPNP
+DetNP
+CLaCL
+ADV-S-ADV-V
+PrepNp
+V2CL
+257643	S-ADV-V
+V2CL
+257646	Conj-CL
+257648	NpaNp
+AdjpNp
+257651	NpAdjp
+PrepNp
+DetNP
+NPofNP
+ADV-S-V
+PrepNp
+257658	Conj-CL
+257660	Np2CL
+ADV-V-O
+O-V
+P-ADV-VC-ADV
+AdjpaAdjp
+257666	PrepNp
+257669	DetNP
+ofNPNP
+DetNP
+NPofNP
+sub-CL
+S-ADV-V-IO-ADV
+AdvpNp
+Np-Appos
+DetNP
+AdjpNp
+ofNPNP
+PrepNp
+DetNP
+AdjpNp
+V-IO
+sub-CL
+257686	AdvPp
+PrepNp
+All-NP
+PrepNp
+PrepNp
+ADV-VC-P-S
+PrepNp
+NP-CL
+O-S-V-ADV-ADV
+DetAdj
+AdjpaAdjp
+257698	sub-CL
+O2CL
+AdvpNp
+DetNP
+AdjpNp
+PrepNp
+DetNP
+AdjpNp
+ofNPNP
+257708	Conj-CL
+257710	Np2CL
+V2CL
+sub-CL
+ADV-ADV-V-ADV
+ADV-V
+DetNP
+ofNPNP
+DetAdj
+DetNP
+AdjpNp
+257721	Conj-CL
+V-ADV
+PrepNp
+NPofNP
+NpaNp
+257727	Np-Appos
+DetNP
+NpaNp
+NPofNP
+257732	Np-Appos
+257734	IO-S-ADV
+DetNP
+EitherAdvpOrPp
+PrepNp
+NPofNP
+257740	S-P
+NpNpNpNp
+S-VC-P
+PrepNp
+O-V
+O-V-ADV
+DetNP
+NPofNP
+CLaCL
+O-V
+257751	S-V
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+257759	Conj-CL
+Conj4CL
+S-V
+DetNP
+257764	V2CL
+257766	V2CL
+257768	V-IO-O
+NP-CL
+DetNP
+NPDetAdj
+DetAdj
+CLaCL
+S-VC-P
+PrepNp
+DetNP
+257778	V-IO
+257781	O-V-IO
+O-V
+Conj2VP
+257785	AdvpNp
+S-O-V-ADV
+AdvpNp
+PrepNp
+257790	Conj-CL
+S-P
+AdvpNp
+DetNP
+NPDetAdj
+DetAdj
+Conj2Pp
+PrepNp
+DetNP
+257800	PrepNp
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+257806	Conj-CL
+257808	sub-CL
+S-V
+DetNP
+NPofNP
+BeVerb
+257814	Conj-CL
+257816	DetNP
+NP-CL
+CLaCL
+O-V-ADV
+PrepNp
+257822	V-IO
+that-VP
+CLaCL
+S-P-VC
+DetNP
+257828	P-ADV-VC-S
+NpAdjp
+PrepNp
+257832	ClCl2
+sub-CL
+CLaCL
+V-O
+that-VP
+O-V-ADV
+PrepNp
+257840	ADV-V
+PrepNp
+DetNP
+CLaCL
+V2CL
+257846	ADV-V-O
+DetNP
+257849	Conj-CL
+257851	sub-CL
+257853	PrepNp
+DetNP
+sub-CL
+S-VC-P
+PrepNp
+DetNP
+O-V-ADV
+PrepNp
+257862	S-V-O-ADV
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+PrepNp
+All-NP
+257871	ClCl2
+sub-CL
+V-O
+that-VP
+O-ADV-V
+CLaCL
+O-V
+257879	S-ADV-VC-P
+DetNP
+PrepNp
+257883	ClCl2
+sub-CL
+V-O
+DetNP
+NPofNP
+257889	AdjpaAdjp
+257891	sub-CL
+CLaCL
+V-IO-O
+DetNP
+257896	V-O-ADV
+PrepNp
+All-NP
+257900	ClCl2
+sub-CL
+257903	that-VP
+ADV-V
+CLaCL
+O2-V-O
+257908	S-ADV-VC-P
+DetNP
+NPofNP
+PrepNp
+257914	Np2CL
+NPofNP
+sub-CL
+ADV-V
+257919	Conj-CL
+257921	sub-CL
+S-V
+Np-Appos
+PrepNp
+DetNP
+Np-Appos
+Np-Appos
+257929	Conj-CL
+CLaCL
+S-P-VC-ADV
+PrepNp
+DetNP
+NPofNP
+257936	ADV2CL
+notPPbutPP
+PpAdvp
+PrepNp
+DetAdj
+AdvPp
+PrepNp
+All-NP
+DetNP
+257946	Conj-CL
+257948	PrepNp
+that-VP
+V-O
+sub-CL
+O-V
+DetNP
+NPofNP
+257956	CLaCL
+S-P-VC
+DetCL
+CLaCL
+257961	that-VP
+V-O
+257964	O-ADV-V
+DetNP
+NPofNP
+257968	P-S-ADV-VC
+PrepNp
+DetNP
+257972	Conj-CL
+ClCl2
+PtclCL
+S-V-O
+ofNPNP
+DetNP
+ADV-ADV-S-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+257984	ADV-V-O
+PrepNp
+that-VP
+P-VC
+PrepNp
+257991	Np2CL
+DetCL
+V-O
+ADV-V
+PrepNp
+V-S-O
+sub-CL
+S-V
+AdvpNp
+ADV-V
+258003	Np2CL
+notNPbutNP
+NpAdjp
+NP-CL
+NpAdjp
+O-V-ADV
+PrepNp
+258011	S-VC-P
+DetNP
+NPDetAdj
+DetAdj
+DetNP
+NP-CL
+O-V
+258020	NpAdjp
+258022	S-VC-P-ADV
+Conj2Pp
+PrepNp
+258026	PrepNp
+CLaCL
+S-V
+DetNP
+258031	S-ADV-V
+DetNP
+NPDetAdj
+DetAdj
+258036	S-P-VC-ADV
+DetCL
+CLaCL
+V-O
+P-VC
+PrepNp
+DetNP
+258044	O-V
+DetNP
+NPofNP
+PrepNp
+DetNP
+PrepNp
+258051	CLaCL
+S-ADV-V
+DetCL
+V-O
+DetNP
+NPofNP
+PrepNp
+DetNP
+258060	S-P-ADV-VC
+PrepNp
+258063	Conj-CL
+ClCl
+Conj3CL
+S-P-VC
+DetCL
+V-O
+DetNP
+NPofNP
+PrepNp
+DetNP
+258074	ADV-V
+PrepNp
+DetNP
+258078	ADV-V-O
+ADV-V
+sub-CL
+S-V-O
+DetNP
+DetNP
+NPofNP
+258087	Np2CL
+sub-CL
+V-IO-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+258096	Np2CL
+sub-CL
+V-O
+NpPp
+PrepNp
+258103	Np2CL
+sub-CL
+V-O
+DetAdj
+258109	Np2CL
+sub-CL
+V-O
+DetNP
+258115	Np2CL
+sub-CL
+V-O
+NpPp
+PrepNp
+258122	Np2CL
+sub-CL
+Conj3CL
+P-VC
+258127	S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+258133	V-O
+DetAdj
+258136	ADV-V-O
+NpaNp
+DetNP
+258140	NpPp
+PrepNp
+DetNP
+258145	sub-CL
+S-V-O
+DetNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+258153	sub-CL
+notCLbutCL2CL
+S-VC-P
+All-NP
+Np-Appos
+NpPp
+PrepNp
+DetNP
+Conj3Np
+DetNP
+NPofNP
+DetNP
+258166	DetNP
+NPofNP
+DetNP
+258170	DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+P-VC
+PrepNp
+DetNP
+258179	Conj-CL
+CLaCL
+V-S
+NpaNp
+DetNP
+258185	DetNP
+NPofNP
+258188	S-V-ADV
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+258198	Np2CL
+P-VC
+AdjpNp
+258202	ClCl
+ClCl2
+sub-CL
+258206	that-VP
+S-V
+ADV-S-V
+2Advp_h1
+NpAdjp
+sub-CL
+258213	that-VP
+P-VC
+AdjpNp
+258217	CLaCL
+ADV-V
+PrepNp
+258221	ADV-VC-P
+PrepNp
+258224	Conj-CL
+258226	sub-CL
+P-VC
+PrepNp
+V-ADV
+PrepNp
+258232	Conj-CL
+sub-CL
+258235	that-VP
+ADV-VC-S-P
+PrepNp
+258239	Conj-CL
+CLaCL
+S-O-V-ADV
+PrepNp
+DetAdj
+258245	V-S
+258247	V-IO-ADV
+notCLbutCL2CL
+sub-CL
+ADV-V-O
+DetNP
+CLaCL
+sub-CL
+V-O
+258256	sub-CL
+S-P-ADV-VC
+All-NP
+PrepNp
+DetNP
+258263	DetNP
+sub-CL
+ADV-P
+DetCL
+258268	that-VP
+S-ADV-VC-P
+DetNP
+258272	S-VC-P
+Np-Appos
+DetNP
+DetCL
+V-O
+NpaNp
+DetNP
+258280	DetNP
+258282	S-ADV-O-V
+All-NP
+DetCL
+V-O
+DetNP
+DetNP
+258289	S-O-V
+DetCL
+V-O
+DetNP
+AdvpNp
+DetNP
+258297	Np2CL
+O-V-ADV
+PrepNp
+PrepNp
+258303	sub-CL
+ADV-V-S
+PrepNp
+O-ADV-V
+PrepNp
+AdvpNp
+Conj2Pp
+PrepNp
+DetNP
+258313	PrepNp
+DetNP
+258316	Conj-CL
+258318	DetNP
+NP-CL
+O-S-V-IO
+P2CL
+DetNP
+NPDetAdj
+DetAdj
+258326	O-V-IO-ADV
+PrepNp
+DetCL
+V-O
+258331	Conj-CL
+258333	Np2CL
+S-V-ADV
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+PrepNp
+258342	ADV-O-V
+S-V-O
+258345	Conj-CL
+ClCl2
+CLaCL
+sub-CL
+CLaCL
+S-V-O-ADV
+DetNP
+ofNPNP
+PrepNp
+258355	CLaCL
+P-VC
+258358	ADV-VC-P
+258360	sub-CL
+V-O
+V-ADV
+PrepNp
+258365	Conj-CL
+258367	Np2CL
+PrepNp
+sub-CL
+CLaCL
+258372	sub-CL
+V2CL
+258375	ADV-V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+258381	ClCl2
+sub-CL
+258384	that-VP
+P-VC
+258387	that-VP
+S-ADV-V
+AdvpNp
+All-NP
+DetCL
+V-O
+DetNP
+PrepNp
+258396	ClCl2
+V2CL
+258399	O-V-IO-S
+AdjpNp
+DetNP
+P-VC
+NPofNP
+258405	Conj-CL
+VC2CL
+258409	PrepNp
+DetNP
+sub-CL
+ADV-V-O
+258415	Np2CL
+ADV-P-VC
+NPofNP
+258419	ADV-V-S
+P-VC
+258423	that-VP
+258425	sub-CL
+V2CL
+sub-CL
+258429	sub-CL
+V2CL
+258432	Conj-CL
+ClCl
+S-V-O
+All-NP
+DetCL
+V-O-ADV
+NP-Demo
+DetNP
+PrepNp
+sub-CL
+S-P-VC
+258444	CLaCL
+S-O-V
+All-NP
+DetCL
+V-O
+DetNP
+AdvpNp
+DetNP
+258453	S-VC-P
+DetNP
+DetNP
+258457	Conj-CL
+258459	that-VP
+CLaCL
+258462	sub-CL
+O-V
+DetNP
+258466	S-P-ADV-VC
+PrepNp
+258469	S-ADV-V
+All-NP
+DetCL
+ADV-V
+PrepNp
+258475	CLaCL
+S-ADV-V-O
+All-NP
+DetCL
+V2CL
+258481	V-O
+258484	Np2CL
+258487	DetCL
+V-O
+DetNP
+sub-CL
+S-P-VC
+258494	DetCL
+V-O
+DetNP
+PrepNp
+DetAdj
+sub-CL
+ADV-S-V
+PrepNp
+DetAdj
+258505	PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-O
+DetNP
+NPofNP
+DetAdj
+258515	ClCl
+S-O-ADV-V
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+sub-CL
+S-ADV-V
+NPofNP
+PrepNp
+258527	Conj-CL
+258529	V2CL
+sub-CL
+ADV-V
+PrepNp
+DetNP
+258535	ADV-P-VC-S
+PrepNp
+NpaNp
+DetNP
+NPofNP
+DetNP
+258542	DetNP
+NPofNP
+DetAdj
+258546	ClCl
+CLaCL
+S-ADV-VC-P
+All-NP
+DetCL
+ADV-V-O
+PrepNp
+DetNP
+258555	S2CL
+DetCL
+ADV-V-O
+DetNP
+NPofNP
+sub-CL
+258562	DetNP
+NP-CL
+O-V-ADV
+PrepNp
+that-VP
+V-O
+258569	AdvpCL
+sub-CL
+CLaCL
+S-P-VC
+PrepNp
+DetAdj
+258576	V-O
+DetNP
+NPofNP
+258580	Conj-CL
+ADV-V-O
+PrepNp
+258584	that-VP
+CLaCL
+S-P-VC
+DetNP
+NPofNP
+258590	S-P
+NPofNP
+DetNP
+NPofNP
+258596	Np2CL
+sub-CL
+V-O-S
+DetNP
+258602	that-VP
+258604	PrepNp
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-O
+DetNP
+258612	S-V-ADV
+DetCL
+ADV-V
+PrepNp
+DetNP
+258618	CLaCL
+S-P-VC
+All-NP
+DetCL
+V-O
+DetNP
+NPofNP
+258627	that-VP
+S-ADV-V-O
+All-NP
+NpAdjp
+NpAdjp
+ADV-V
+PrepNp
+258636	PrepNp
+DetNP
+that-VP
+S-ADV-O-V
+PrepNp
+DetNP
+NPofNP
+258644	Conj-CL
+S-V-ADV-O
+PrepNp
+DetNP
+O-V
+DetNP
+258651	Conj-CL
+ClCl2
+PtclCL
+Conj3CL
+S-V-O
+DetNP
+NPofNP
+DetNP
+258660	V-O
+S-O-V
+DetNP
+NPofNP
+258665	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+ADV-S-V-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+258676	Np2CL
+notADVbutADV
+NpaNp
+258680	DetNP
+PrepNp
+NpaNp
+258685	CLaCL
+258687	PrepNp
+that-VP
+P-VC
+PrepNp
+DetNP
+258693	ClCl
+ADV-V-O
+PrepNp
+DetNP
+NPofNP
+258699	that-VP
+sub-CL
+V-S
+ofNPNP
+DetNP
+CLaCL
+P-VC-S-ADV
+DetNP
+DetNP
+NPofNP
+258710	V-O
+258713	Np2CL
+ClCl2
+sub-CL
+S-ADV-V
+DetNP
+O-V-ADV
+PrepNp
+DetNP
+258723	O-V-ADV
+PtclCL
+O-V
+PrepNp
+CLaCL
+O-V
+DetNP
+NPofNP
+258732	O-ADV-V
+DetAdj
+PrepNp
+258736	Conj-CL
+258738	DetNP
+NPofNP
+that-VP
+CLaCL
+V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+258750	ClCl
+V-O
+sub-CL
+V-O-IO
+258755	Conj-CL
+CLaCL
+S-ADV-V
+DetCL
+V-O
+DetNP
+NPofNP
+PrepNp
+258764	S-ADV
+PrepNp
+258767	Conj-CL
+258769	PrepNp
+that-VP
+V-ADV
+PrepNp
+ADV2CL
+PrepNp
+DetNP
+NP-CL
+O-IO-V
+258780	Np2CL
+notCLbutCL2CL
+O-V
+All-NP
+ClCl
+V-O
+DetNP
+PtclCL
+P-VC
+PrepNp
+DetNP
+sub-CL
+S-V-ADV
+AdjpNp
+PrepNp
+DetNP
+258797	ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+258803	CLaCL
+S-P-VC
+All-NP
+NP-CL
+S-V-O
+S-ADV-V
+Np-Appos
+PrepNp
+PrepNp
+DetNP
+258814	S-P-ADV-VC
+All-NP
+NP-CL
+S-ADV-V-O
+DetNP
+PrepNp
+DetNP
+258822	Conj-CL
+S-VC-P
+NP-CL
+NPofNP
+DetNP
+CLaCL
+258829	ADV-V
+V2CL
+258832	ADV-P-VC-ADV
+PrepNp
+DetNP
+258837	S-P-VC
+PrepNp
+DetNP
+Np2CL
+258842	V-O
+sub-CL
+CLaCL
+P-VC-S
+NpPp
+PrepNp
+258849	S2CL
+NpPp
+PrepNp
+DetNP
+258854	S-P-VC
+PrepNp
+DetNP
+258858	CLaCL
+ADV-ADV-V
+PrepNp
+PrepNp
+DetNP
+258864	S-O-V
+DetNP
+258867	S-P-VC
+PrepNp
+DetNP
+258872	DetCL
+V-O
+DetNP
+S-ADV-V-O
+S-ADV-VC-P
+PrepNp
+DetNP
+258880	ADV-V-O
+PrepNp
+NpaNp
+DetNP
+NPofNP
+DetNP
+258887	DetNP
+NPofNP
+DetNP
+258892	Np2CL
+V-O
+sub-CL
+CLaCL
+S-P-VC
+DetNP
+PrepNp
+DetNP
+258901	CLaCL
+S-ADV-V
+All-NP
+DetCL
+V2CL
+PrepNp
+DetNP
+258909	V-O
+DetNP
+258913	DetCL
+ADV-V
+DetNP
+sub-CL
+S-P-VC
+DetNP
+258921	PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+that-VP
+258928	DetNP
+NPDetAdj
+NPofNP
+DetAdj
+DetNP
+PrepNp
+DetNP
+sub-CL
+V-ADV
+PrepNp
+258940	PrepNp
+DetNP
+notCLbutCL2CL
+that-VP
+S-V-O
+DetNP
+that-VP
+CLaCL
+S-V-O
+258950	V-O-O2
+DetNP
+NPofNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+258959	Np2CL
+sub-CL
+ADV-S-V-O
+DetNP
+AdvpNp
+O-V
+258966	O-S-ADV-V
+258969	sub-CL
+V-O
+S-ADV-V
+DetNP
+PrepNp
+258975	S-ADV-V
+DetNP
+NPofNP
+VerbBe
+PrepNp
+258982	PrepNp
+that-VP
+CLaCL
+ADV-V
+PrepNp
+258988	S-ADV
+PrepNp
+that-VP
+O-V-IO
+PrepNp
+DetNP
+NPofNP
+258996	Conj-CL
+S-V-O
+Conj2VP
+259000	that-VP
+S-V-O-O2
+DetNP
+DetNP
+NPofNP
+DetNP
+259007	ClCl2
+PtclCL
+259010	S-V
+S-VC-P
+DetNP
+NPofNP
+DetNP
+CLaCL
+S-ADV-V
+DetNP
+PrepNp
+259020	S-ADV
+PrepNp
+DetNP
+259024	Conj-CL
+S-V-O
+Conj2VP
+259028	DetNP
+NP-CL
+O-V-S-ADV
+DetNP
+PrepNp
+259034	CLaCL
+S-P-VC
+DetNP
+259038	CLaCL
+S-ADV-V
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+259047	S-ADV-V
+DetNP
+PrepNp
+259052	ADV-V-S-ADV
+PrepNp
+DetNP
+PrepNp
+sub-CL
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+that-VP
+259064	sub-CL
+S-VC
+AdvpNp
+PrepNp
+NP-Demo
+DetNP
+259072	S-ADV-VC-P
+PrepNp
+DetNP
+259076	S-ADV-V-O
+DetNP
+AdjpNp
+DetNP
+sub-CL
+CLaCL
+S-O-V
+DetNP
+259085	S-ADV-V-ADV
+DetCL
+V2CL
+PrepNp
+DetNP
+259092	sub-CL
+S-ADV-V-O
+259095	ClCl2
+sub-CL
+CLaCL
+259099	that-VP
+V-O
+DetNP
+259103	O-V
+DetNP
+NPofNP
+P-VC
+259108	Conj-CL
+S-ADV-V-O
+DetCL
+ADV-V-O
+DetNP
+NP-CL
+NPofNP
+O-V
+O-V
+DetNP
+NP-CL
+O-ADV-V
+259121	Conj-CL
+259123	Demo-NP
+DetNP
+PrepNp
+that-VP
+S-V-O
+DetCL
+V-O
+DetNP
+AdvpNp
+DetNP
+NPofNP
+259135	CLaCL
+S-ADV-V
+All-NP
+DetCL
+259140	that-VP
+S-VC-P
+DetNP
+PrepNp
+DetNP
+259146	S-V-O
+All-NP
+DetCL
+V-O
+DetCL
+V2CL
+DetCL
+V-ADV
+PrepNp
+259156	ClCl
+259158	PrepNp
+that-VP
+V-O
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+O-V
+DetNP
+259169	O-V
+DetNP
+NPofNP
+259173	Conj-CL
+259175	P-VC-S
+DetNP
+NPofNP
+DetNP
+O-V
+DetNP
+NPofNP
+259183	Conj-CL
+259185	DetNP
+NPofNP
+sub-CL
+S-V-O
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+DetNP
+259196	Conj-CL
+ClCl
+P-VC-S
+Np-Appos
+DetNP
+DetCL
+V-O
+DetNP
+P2CL
+DetNP
+NPofNP
+259208	ClCl
+P-VC-S
+DetCL
+V-O
+DetNP
+sub-CL
+ADV-P
+DetCL
+259217	that-VP
+S-VC-P
+DetNP
+NPofNP
+DetNP
+259223	ClCl
+P-VC-S
+DetCL
+V-ADV
+PrepNp
+NpaNp
+259230	P2CL
+Np-Appos
+259233	notCLbutCL2CL
+ADV-ADV
+PrepNp
+DetNP
+ADV2CL
+Conj2Pp
+PrepNp
+DetNP
+259242	PrepNp
+DetNP
+259245	Conj-CL
+259247	DetNP
+DetCL
+V2CL
+sub-CL
+S-VC-P
+DetNP
+DetNP
+259255	sub-CL
+CLaCL
+259258	DetCL
+V2CL
+P2CL
+Conj3Np
+DetNP
+259264	DetNP
+259266	DetNP
+259268	S-P-VC
+DetAdj
+PrepNp
+DetAdj
+259273	ClCl
+ClCl2
+Conj-CL
+O-V
+DetNP
+NPofNP
+DetNP
+S-P-VC
+DetNP
+NPofNP
+DetNP
+sub-CL
+259286	DetNP
+NPofNP
+DetNP
+that-VP
+V-ADV
+PrepNp
+DetNP
+NPofNP
+259295	S-V-O-ADV
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetNP
+PrepNp
+259306	DetCL
+ADV-V-O
+DetNP
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+NP-CL
+O-V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+259320	Conj-CL
+259322	DetNP
+that-VP
+CLaCL
+O-V-S-IO
+NpAdjp
+DetNP
+259329	S-P-VC
+Demo-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+259336	S-V-O
+DetCL
+V-O
+DetNP
+DetNP
+259342	S-O-ADV-V
+DetCL
+ADV-V-O
+DetNP
+NPofNP
+DetNP
+DetNP
+259351	Np-Appos
+sub-CL
+259354	that-VP
+O-V
+NpAdjp
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+259366	Conj-CL
+259368	P-VC-S
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+ClCl2
+sub-CL
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+V-O
+259381	Conj-CL
+ClCl2
+sub-CL
+259385	that-VP
+V-O-ADV
+PtclCL
+O-V
+259390	that-VP
+V-O
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+259397	CLaCL
+ClCl2
+sub-CL
+S-V-O
+S-V-O
+DetNP
+NPofNP
+NpPp
+AdvPp
+PrepNp
+V2CL
+259409	V-O-IO
+Np-Appos
+DetCL
+V-O
+AdvPp
+PrepNp
+259416	V-S
+NpPp
+PrepNp
+259421	PrepNp
+that-VP
+V2CL
+259425	CLaCL
+S-P-VC
+All-NP
+259429	V-S
+NpPp
+AdvPp
+PrepNp
+259435	that-VP
+CLaCL
+S-ADV-V
+All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+259444	CLaCL
+S-V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+259451	S-ADV-V-O
+DetAdj
+259455	that-VP
+CLaCL
+P-VC
+PrepNp
+DetNP
+259461	S-ADV-V
+NP-all
+DetNP
+PrepNp
+DetAdj
+259467	Conj-CL
+259469	that-VP
+CLaCL
+S-V
+DetNP
+NPofNP
+DetNP
+259477	sub-CL
+V-O
+DetAdj
+259481	Conj-CL
+VC-P
+2Pp
+PrepNp
+DetAdj
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+259492	S-VC-P
+NpaNp
+DetNP
+AdjpNp
+259497	NpAdjp
+259500	Np2CL
+PrepNp
+DetNP
+259504	CLaCL
+S-IO
+DetAdj
+NP-CL
+NpaNp
+AdjpNp
+259511	DetNP
+NPofNP
+O-V-ADV-S-ADV
+NpaNp
+PrepNp
+259517	notNPbutNP
+NpAdjp
+AdvpNp
+All-NP
+DetCL
+V-O
+DetNP
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+259531	P-VC-ADV
+PrepNp
+PrepNp
+DetNP
+259536	VC-P-S-ADV
+PrepNp
+NpPp
+NpNpNp
+Conj2Pp
+PrepNp
+Np-Appos
+259544	PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpaNp
+259554	ClCl
+V-ADV
+sub-CL
+V-O
+ClCl
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+sub-CL
+O-V-ADV
+PrepNp
+DetNP
+259569	Conj-CL
+259571	Np2CL
+V-IO-ADV
+notCLbutCL2CL
+sub-CL
+O2CL
+NpAdjp
+O-V-ADV
+PrepNp
+sub-CL
+V-O
+259582	Conj-CL
+259584	P-VC-S
+DetNP
+V-ADV
+PrepNp
+DetNP
+NPofNP
+259592	DetNP
+sub-CL
+V-ADV
+PrepNp
+that-VP
+ADV-V
+PrepNp
+259600	sub-CL
+V-ADV-S
+Np-Appos
+AdjpNp
+PrepNp
+DetNP
+DetCL
+ADV-V-O
+S-V-ADV
+Np-Appos
+PrepNp
+259612	S-VC-P
+NpaNp
+DetAdj
+259616	DetNP
+259619	sub-CL
+notCLbutCL2CL
+V-O
+O-V
+O-V
+NpAdjp
+259626	S-O-ADV-V
+All-NP
+DetCL
+CLaCL
+V2CL
+259632	ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+259639	Np2CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+aNpaNp
+259646	DetNP
+259648	DetNP
+259650	ClCl2
+sub-CL
+CLaCL
+S-V-ADV
+PrepNp
+259656	O-ADV-V
+Demo-NP
+DetNP
+CLaCL
+ADV-V-O-ADV
+PrepNp
+259663	O-IO-ADV-V
+V2CL
+259666	Conj-CL
+S-V-ADV
+DetCL
+V-IO-O
+V2CL
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+259676	CLaCL
+ADV-ADV-V-ADV
+V-O
+O-IO-V
+PrepNp
+NpaNp
+259685	CLaCL
+VC-P
+PrepNp
+259689	ADV-V
+NpPp
+PrepNp
+sub-CL
+S-V
+DetNP
+NPofNP
+VerbBe
+259698	V-O-S
+DetNP
+NPofNP
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+259706	S-IO
+DetAdj
+NP-CL
+NPDetAdj
+DetAdj
+O-S-V-ADV
+PrepNp
+259715	Np2CL
+PrepNp
+S-V
+Conj2VP
+259720	sub-CL
+V-S
+ofNPNP
+DetNP
+259725	Conj-CL
+ClCl
+V-ADV
+ClCl
+CLaCL
+V-S
+259732	V-ADV
+ofNPNP
+DetNP
+sub-CL
+S-ADV-V
+PrepNp
+259740	O-ADV-ADV-V
+AdjpNp
+V-O
+S-ADV-V
+DetNP
+AdjpNp
+PrepNp
+DetNP
+259750	Np2CL
+O-V-ADV
+PtclCL
+O-V-ADV
+PrepNp
+DetNP
+259757	O-ADV
+NP-CL
+NP-CL
+S-V-ADV-ADV
+ofNPNP
+DetNP
+PrepNp
+ADV-ADV-V-ADV
+V-ADV-ADV
+DetNP
+259768	Conj-CL
+ADV-V-ADV
+PrepNp
+DetNP
+O-V-ADV
+PrepNp
+DetAdj
+259776	Conj-CL
+259778	V-O
+DetNP
+sub-CL
+P-VC-ADV
+DetNP
+259784	V-O-IO
+DetNP
+259787	Conj-CL
+S-ADV-V-O
+Np-Appos
+DetCL
+V-ADV
+259793	ADV-ADV-V-O
+PrepNp
+sub-CL
+V2CL
+NP-CL
+ofNPNP
+DetNP
+O-V-ADV
+ADV-V-O
+NpAdjp
+259804	Conj-CL
+ClCl2
+ADV-V-ADV
+PrepNp
+aCLaCLaCL
+259810	S-V-O
+DetNP
+259813	O-V
+DetCL
+V2CL
+259817	ADV-V
+PrepNp
+DetNP
+259822	Np2CL
+V-O
+DetAdj
+O2CL
+DetAdj
+259828	S-P-VC
+DetCL
+V2CL
+PrepNp
+DetNP
+259834	S-ADV-V-O
+DetCL
+V2CL
+DetNP
+259839	ADV-V-ADV
+Conj2Pp
+PrepNp
+259843	PrepNp
+PronNP
+DetNP
+259847	Conj-CL
+CLaCL
+S-V
+AdvpNp
+259853	that-VP
+S-P-VC
+DetNP
+NPofNP
+259858	CLaCL
+V-O
+O-V-IO
+259862	ADV-V-O
+ADV-IO-V
+PrepNp
+NpaNp
+259868	Conj-CL
+CLaCL
+V-O
+ADV-O-V
+259873	ADV-V
+NpPp
+PrepNp
+259877	S-IO
+259879	V-O-S
+DetAdj
+259882	V-O-ADV
+DetAdj
+PrepNp
+259886	S-IO
+Np-Appos
+NpaNp
+ofNPNP
+Np-Appos
+259892	NPofNP
+DetNP
+AdjpNp
+CLaCL
+ADV-V
+PrepNp
+Np-Appos
+259900	ADV-V
+Np-Appos
+259903	IO-S-V
+Conj3Np
+259909	Np2CL
+O-V-ADV
+All-NP
+V-IO-ADV
+PrepNp
+DetNP
+AdjpNp
+ofNPNP
+V-IO-ADV
+V-O
+V-ADV
+DetNP
+AdjpNp
+ADV-V-IO
+DetAdj
+259925	Conj-CL
+V-S-ADV
+Np-Appos
+Np-Appos
+AdjpNp
+DetCL
+ADV-V-ADV
+PrepNp
+Demo-NP
+DetNP
+CLaCL
+O-V-ADV
+DetNP
+ofNPNP
+DetNP
+NPofNP
+PrepNp
+259943	O-V
+DetNP
+NpaNp
+AdjpNp
+259948	Np-Appos
+NPofNP
+Np-Appos
+259952	Conj-CL
+V-ADV-O
+ClCl
+V-O
+V-ADV-O
+259958	CLaCL
+S-ADV-ADV-O-V
+O-ADV-V
+PrepNp
+NPofNP
+DetAdj
+DetCL
+ADV-V
+259967	O-ADV-ADV-ADV-V
+Np-Appos
+DetCL
+CLaCL
+ADV-V-O
+DetNP
+ofNPNP
+259975	V-O
+DetNP
+AdjpNp
+PrepNp
+NPofNP
+AdjpNp
+NpAdjp
+PrepNp
+sub-CL
+S-ADV-V-O-ADV
+Conj3Np
+259988	DetNP
+PpNp2Np
+PrepNp
+CLaCL
+O-ADV-V
+DetNP
+AdjpNp
+259996	V-ADV
+PrepNp
+NpAdjp
+O-V
+ofNPNP
+NpAdjp
+260003	Conj-CL
+ADV-S-V
+AdvpNp
+Demo-NP
+V2CL
+aCLaCLaCL
+260010	O-V
+260012	O-V
+260014	O-V
+260016	Conj-CL
+ClCl2
+notCLbutCL2CL
+S-V-O
+Np-Appos
+DetNP
+DetNP
+sub-CL
+ADV-V-ADV
+ADV-V
+DetAdj
+PrepNp
+DetNP
+ofNPNP
+O-V
+NPofNP
+260033	V-O-S
+260035	Conj-CL
+aCLaCL
+260038	S-O-V
+O-ADV-V
+260042	O-ADV-ADV-V
+sub-CL
+S2CL
+DetNP
+AdjpNp
+PrepNp
+260049	ClCl
+S-IO
+sub-CL
+Conj3CL
+ADV-V
+DetNP
+NPofNP
+DetNP
+260058	ADV-V
+DetNP
+NPofNP
+DetNP
+ofNPNP
+260064	ADV-V
+DetNP
+NPofNP
+DetNP
+260070	DetNP
+PpNp2Np
+PrepNp
+DetNP
+NPofNP
+ClCl
+V-ADV
+O-V
+P2CL
+NpNpNpNp
+NpAdjp
+NpAdjp
+ADV-V
+PrepNp
+NpAdjp
+NpAdjp
+NpAdjp
+NpAdjp
+ADV-V
+V2CL
+NpAdjp
+NPofNP
+NpAdjp
+V-O
+DetNP
+ofNPNP
+NP-CL
+Np-Appos
+IO-S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+260104	Conj-CL
+V-IO-S-ADV
+AdvpNp
+Np-Appos
+NpPp
+PrepNp
+260112	PrepNp
+AdjpNp
+NPofNP
+CLaCL
+V-O-ADV
+PrepNp
+260119	V-O-ADV
+All-NP
+DetAdj
+Conj2Pp
+PrepNp
+All-NP
+DetNP
+NP-CL
+NPofNP
+NPofNP
+ADV-V
+260131	PrepNp
+All-NP
+DetNP
+NP-CL
+O-V-ADV-S
+PrepNp
+NpAdjp
+260139	CLaCL
+S-VC-P
+NpAdjp
+NpAdjp
+ADV-V
+PrepNp
+DetNP
+NPofNP
+260148	S-V-O-ADV
+DetNP
+NPofNP
+V-O-ADV
+NP-Prep
+260154	Conj-CL
+260156	Np2CL
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+260169	that-VP
+260171	P-VC-S
+PrepNp
+AdjpNp
+DetNP
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+ofNPNP
+NPofNP
+DetNP
+260183	S-VC-P
+NpNpNp
+DetCL
+V2CL
+O-ADV-V
+260189	Conj-CL
+260191	Np2CL
+260193	DetNP
+AdjpNp
+ofNPNP
+ADV-V
+PrepNp
+NpAdjp
+PrepNp
+NPofNP
+V-O-ADV
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+Np-Appos
+PrepNp
+NpAdjp
+260211	Conj-CL
+aCLaCL
+260215	O-V
+NpAdjp
+V2CL
+ADV-V
+PrepNp
+260221	O-V-ADV-ADV
+PrepNp
+V-O
+AdvpNp
+DetNP
+AdjpNp
+ADV-V
+PrepNp
+DetNP
+260231	Conj-CL
+260233	Np-Appos
+DetNP
+V-O
+CLaCL
+V-O-O2
+260239	V-ADV-O2-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+AdjpNp
+NPofNP
+PrepNp
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+3NpaNp
+260254	Conj3ADV
+PrepNp
+All-NP
+DetNP
+260260	PrepNp
+All-NP
+DetNP
+Intj2CL
+260265	P2CL
+NP-CL
+NPofNP
+Np-Appos
+CLaCL
+O-V-IO-S-ADV
+DetNP
+V-IO-O
+DetNP
+NPofNP
+S-V
+S-V-ADV
+PrepNp
+260279	V-ADV
+V-ADV-IO
+PrepNp
+DetNP
+NPofNP
+NP-CL
+Np-Appos
+DetNP
+NPofNP
+S-V-O
+NP-CL
+NpaNp
+DetNP
+NPofNP
+DetNP
+260295	DetNP
+NPofNP
+Np-Appos
+O-V
+260301	NpaNp
+DetCL
+V2CL
+260305	DetCL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+260312	V-O
+DetCL
+ADV-V
+PrepNp
+sub-CL
+S-P
+DetNP
+260320	S-IO
+Np-Appos
+DetNP
+NumpNP
+NpPp
+PrepNp
+DetNP
+260328	S-IO-ADV
+NpaNp
+260331	Conj3Pp
+PrepNp
+Conj3Np
+DetCL
+V2CL
+260337	DetCL
+V2CL
+260340	DetCL
+V2CL
+260343	PrepNp
+DetNP
+NP-CL
+NumpNP
+S-P
+PrepNp
+DetNP
+NPofNP
+260352	PrepNp
+Np-Appos
+Np-Appos
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+NpaNp
+DetNP
+NPofNP
+DetAdj
+260364	DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+260370	ClCl2
+CLaCL
+Np2CL
+DetCL
+CLaCL
+V-O
+260377	V-O-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+260385	V-O-O2
+2Np
+NpAdvp
+DetNP
+NPofNP
+NpaNp
+260393	NpaNp
+DetNP
+260396	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+260403	CLaCL
+260405	PrepNp
+DetNP
+260408	CLaCL
+V-O-S
+NpaNp
+All-NP
+260413	S-O-V
+260415	V-ADV-S
+PrepNp
+All-NP
+DetNP
+NPofNP
+DetNP
+260423	Intj2CL
+260425	ClCl
+ClCl2
+S-VC-P
+NpaNp
+DetNP
+260431	DetNP
+V-S
+Np-Appos
+DetNP
+P2CL
+Np-Appos
+Conj3Np
+DetCL
+V2CL
+260441	DetCL
+V2CL
+260444	DetCL
+V2CL
+DetNP
+260448	S-V-ADV-ADV
+Np-Appos
+Np-Appos
+DetNP
+NpaNp
+NPofNP
+260455	NpPp
+PrepNp
+DetNP
+NpPp
+Conj3Np
+260462	PrepNp
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-P
+PrepNp
+NpaNp
+DetNP
+NPofNP
+DetNP
+260474	DetNP
+NPofNP
+260477	CLaCL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+AdjpNp
+260484	V-ADV-O-ADV-ADV
+PrepNp
+NpAdjp
+PrepNp
+260489	CLaCL
+O-V-ADV
+O-V
+PrepNp
+260494	V-IO
+DetNP
+NumpNP
+NpPp
+Conj7Pp
+PrepNp
+260501	PrepNp
+260503	PrepNp
+260505	PrepNp
+260507	PrepNp
+260509	PrepNp
+260511	PrepNp
+260513	Conj-CL
+V-ADV
+V-O
+DetNP
+NP-CL
+S-V-ADV
+PrepNp
+260521	Conj-CL
+CLaCL
+ADV-V-O
+V2CL
+NumpNP
+NpAdjp
+260528	ADV-O
+PrepNp
+NPofNP
+DetNP
+AdjpAdvp
+NpAdjp
+NPofNP
+CLaCL
+V-O
+260538	V-ADV-O
+PrepNp
+DetNP
+NpAdjp
+260543	Conj-CL
+Conj7CL
+ClCl
+260547	NpaNp
+DetNP
+NPofNP
+260551	DetNP
+sub-CL
+S-P
+sub-CL
+S2CL
+260557	S-P
+DetNP
+NPofNP
+PrepNp
+NPofNP
+260563	S-P-ADV
+DetNP
+NPofNP
+NpAdjp
+sub-CL
+ADV-V
+PrepNp
+260571	ClCl
+S2CL
+DetNP
+NPofNP
+sub-CL
+S2CL
+NPofNP
+NpAdjp
+260580	V-ADV-O
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+NpNump
+260587	ADV-S-V
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+NpAdjp
+260594	ClCl
+S2CL
+DetNP
+NPofNP
+sub-CL
+S-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+260605	Conj-CL
+260607	sub-CL
+V-O
+PrepNp
+DetNP
+NPofNP
+PrepNp
+260614	Conj-CL
+V-O-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+260620	ADV-V
+260622	CLaCL
+S-VC-P
+Conj3Np
+DetAdj
+260627	DetAdj
+260629	DetCL
+V2CL
+260632	CLaCL
+VC-P
+260636	V-ADV
+VerbBe
+PrepNp
+DetNP
+NPofNP
+DetNP
+260643	V-O
+DetNP
+NPofNP
+NpaNp
+DetNP
+260649	DetNP
+260651	Conj-CL
+V-O
+Conj3Np
+O-V
+260656	S-V
+260658	S-V-O
+V-ADV
+PrepNp
+260663	Np2CL
+NpaNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+NumpNP
+O-V-ADV
+PrepNp
+DetNP
+NPofNP
+260675	DetNP
+NumpNP
+NPDetAdj
+DetAdj
+S-P-VC
+DetNP
+NumpNP
+NPofNP
+DetNP
+NumpNP
+260686	S-P-VC
+DetNP
+NPofNP
+DetNump
+NumpNP
+260692	IO-V
+DetNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+260699	O-V-S
+Np-Appos
+DetCL
+V-O-ADV
+DetNP
+NumpNP
+PrepNp
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+NPofNP
+DetNP
+NumpNP
+NPDetAdj
+DetAdj
+260717	CLaCL
+V-O
+Conj3Np
+DetNP
+NPofNP
+260723	DetNP
+260725	DetNP
+NPofNP
+260728	that-VP
+CLaCL
+ADV-V-O
+V-O
+260733	CLaCL
+V-O
+DetCL
+V-O-O2
+260738	CLaCL
+ADV-VC
+260741	V-O
+S-P
+260744	Conj-CL
+CLaCL
+O-V
+260748	CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+260754	ADV-V
+260756	Conj-CL
+260758	PrepNp
+that-VP
+O-V
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+260766	Conj-CL
+Conj3CL
+V-O
+ADV-V
+260771	V2CL
+260773	O-V
+DetNP
+AdjpNp
+260777	Conj-CL
+CLaCL
+260780	sub-CL
+ADV2CL
+260784	DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-V
+260792	Conj-CL
+260794	that-VP
+V-O
+NP-CL
+DetNP
+NPofNP
+DetNP
+O-S-V
+260802	S-V-O
+DetCL
+V-O
+O-S-V-IO
+DetNP
+DetNP
+260810	Np2CL
+DetCL
+V2CL
+V-ADV
+PrepNp
+DetNP
+NP-CL
+NPofNP
+DetNP
+S-VC-P
+PrepNp
+DetNP
+NPofNP
+DetNP
+260825	Conj-CL
+IO-V
+DetNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+260833	O-V-S
+NP-CL
+NpaNp
+DetAdj
+260838	DetAdj
+CLaCL
+S-VC-P
+260842	V2CL
+260844	CLaCL
+CLaCL
+V-O
+ofNPNP
+NpaNp
+DetNP
+260851	DetNP
+260853	P-VC
+260855	CLaCL
+O2CL
+DetNP
+NpPp
+PrepNp
+DetCL
+V-O
+P-VC-S
+260864	notCLbutCL2CL
+V2CL
+P2CL
+NPofNP
+DetNP
+260870	ADV-V-O
+O-V
+O-V
+260876	V-O-ADV
+DetAdj
+PrepNp
+PrepNp
+sub-CL
+V2CL
+260883	V-O
+NPofNP
+NpNump
+260887	CLaCL
+VC-P-ADV
+PrepNp
+260891	V-IO-O
+DetNP
+NPofNP
+DetNP
+260896	S-V-O
+DetCL
+V-O
+O-S-V-IO
+DetNP
+DetNP
+260903	S-ADV-V-ADV
+DetCL
+V2CL
+2Advp_h1
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+260912	Conj-CL
+IO-V
+DetNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+260920	O-V-S
+DetCL
+V-O
+DetNP
+NPDetAdj
+NPDetAdj
+DetAdj
+DetAdj
+260929	Conj3CL
+V-O
+NP-CL
+ADV-V
+P-S
+DetNP
+NPofNP
+DetNP
+260938	V-O
+DetNP
+NPofNP
+260942	ADV-V-O-ADV
+DetNP
+NPofNP
+AdvPp
+PrepNp
+DetNP
+NPofNP
+NP-CL
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+260957	S-V-ADV
+PrepNp
+DetNP
+260961	Conj-CL
+ClCl
+V-ADV-O
+PrepNp
+sub-CL
+V-ADV-O
+V-O
+DetNP
+NPofNP
+NP-CL
+S-V-IO-O
+DetNP
+260974	PrepNp
+DetNP
+NPofNP
+CLaCL
+V-O
+260980	V2CL
+260982	ADV-V-S-O-ADV
+AdvpNp
+V-O
+DetNP
+NPofNP
+DetNP
+260989	Conj-CL
+V2CL
+260992	Conj-CL
+260994	sub-CL
+ADV2CL
+V-ADV-ADV
+260998	V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+261006	S-V-O
+DetCL
+V-O
+O-S-V-IO
+DetNP
+DetNP
+261014	Np2CL
+DetCL
+V2CL
+V-IO-O
+Np-Appos
+DetNP
+DetCL
+V2CL
+261023	V-IO-O
+NpaNp
+NpAdjp
+261027	NP-CL
+AdjpNp
+ADV-V
+PrepNp
+DetNP
+NpAdjp
+261034	O-S-V
+ADV-S
+DetCL
+V2CL
+261039	Conj-CL
+IO-V
+DetNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+261047	O-V-S
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+CLaCL
+V-O-O2
+DetNP
+NPofNP
+PrepNp
+NPofNP
+261060	S-P-ADV
+DetNP
+NPofNP
+261064	V-O
+NpaNp
+NpaNp
+ofNPNP
+DetNP
+261070	Conj4Np
+DetNP
+261073	DetNP
+261075	DetNP
+261077	DetNP
+NPofNP
+261080	S-P-ADV
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+DetAdj
+261087	Conj-CL
+CLaCL
+261090	V-ADV
+PrepNp
+V-O
+Np-Appos
+Np-Appos
+DetNP
+DetCL
+V-O-O2
+261099	V-O
+Conj2VP
+261102	S-V
+DetNP
+AdjpNp
+CLaCL
+V2CL
+261108	V-O
+261110	Conj-CL
+CLaCL
+261113	sub-CL
+V2CL
+261116	ADV-V-O
+V-ADV
+PrepNp
+DetNP
+NPofNP
+261123	V-O-ADV
+PrepNp
+261127	DetCL
+V-ADV
+PrepNp
+PrepNp
+NpAdjp
+sub-CL
+ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+261138	Conj-CL
+O-V-ADV
+DetNP
+NPofNP
+PrepNp
+261144	Conj-CL
+CLaCL
+261147	All-NP
+DetNP
+that-VP
+S-VC-P
+DetCL
+V-O
+NpaNp
+261156	V-IO-ADV
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+261162	Conj-CL
+261164	NP-CL
+NP-CL
+Np-Appos
+Np-Appos
+DetAdj
+NpPp
+PrepNp
+S-ADV-V-O
+NP-Demo
+DetNP
+261175	S-ADV-V-O
+DetNP
+NPofNP
+DetNP
+V2CL
+ADV-V-ADV-O
+PrepNp
+AdjpNp
+261184	Conj-CL
+O-V-ADV
+O-V
+PrepNp
+PtclCL
+ADV-V
+261191	Conj-CL
+261193	Np2CL
+NpaNp
+DetCL
+V2CL
+261198	DetCL
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+261204	V-IO-O
+NpPp
+PrepNp
+DetNP
+261210	PrepNp
+NpAdjp
+sub-CL
+S-V
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+261223	V-IO-O
+DetNP
+NPDetAdj
+DetAdj
+261228	S-V-O
+DetCL
+V-O
+O-S-V-IO
+DetNP
+DetNP
+261235	Conj-CL
+IO-V
+DetNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+261243	O-V-S
+DetCL
+V-O
+NpaNp
+DetNP
+NumpNP
+NPofNP
+DetNP
+261252	DetNP
+NumpNP
+261256	ofNPNP
+DetNP
+that-VP
+CLaCL
+261261	that-VP
+V2CL
+261264	P-VC
+261266	ClCl
+CLaCL
+V2CL
+BeVerb
+261271	V-O
+NP-CL
+DetAdj
+S-V-O
+V2CL
+sub-CL
+ADV-V-O
+S-V-ADV
+ofNPNP
+PrepNp
+DetNP
+NPofNP
+261284	Conj-CL
+CLaCL
+V-O
+ADV-V
+Conj2VP
+261291	CLaCL
+V2CL
+261294	V2CL
+261296	Conj-CL
+ClCl2
+sub-CL
+ADV-V
+CLaCL
+V-ADV
+PrepNp
+261304	ADV-V-O
+2Advp_h1
+ADV-V-ADV
+AdjpNp
+PrepNp
+261310	Conj-CL
+CLaCL
+261313	AdjpNp
+PrepNp
+S-ADV-V-O
+DetNP
+NPofNP
+261320	PrepNp
+PrepNp
+sub-CL
+P-VC
+261325	Conj3CL
+S-ADV-V-ADV
+DetCL
+V2CL
+PrepNp
+NpAdjp
+261332	ADV-V-O-ADV
+2Advp_h1
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+261341	V-O-ADV
+DetNP
+NPofNP
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+261349	PrepNp
+DetNP
+NPofNP
+261353	S-V-O
+DetCL
+V-O
+O-S-V-IO
+DetNP
+DetNP
+261360	Conj-CL
+IO-V
+DetNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+261368	O-V-S
+Np-Appos
+Np-Appos
+Np-Appos
+DetAdj
+DetAdj
+DetCL
+V-O
+DetNP
+NPofNP
+DetCL
+CLaCL
+CLaCL
+V2CL
+261383	S-V
+261385	CLaCL
+V2CL
+261388	S-V
+261391	ofNPNP
+DetNP
+261394	V-ADV-O
+PrepNp
+NP-CL
+NpAdjp
+V2CL
+O-S-V
+O-V
+Np-Appos
+sub-CL
+Conj3CL
+O-V
+AdjpNp
+261407	V-O
+ofNPNP
+DetNP
+261411	ADV-V-O
+DetNP
+NPofNP
+261416	V-O
+Np-Appos
+PrepNp
+DetNP
+NPofNP
+DetNP
+DetCL
+V-O
+S-P-VC
+261426	notCLbutCL2CL
+V2CL
+V2CL
+261430	ClCl2
+V2CL
+CLaCL
+261434	that-VP
+CLaCL
+V2CL
+261438	V-ADV
+PrepNp
+DetNP
+NPofNP
+261444	that-VP
+S-V-O
+261447	ClCl2
+sub-CL
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+S-O-V-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+V-O
+V-ADV-ADV
+PrepNp
+NP-all
+DetNP
+V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+261472	V-ADV
+261475	O-V
+sub-CL
+S-V-O
+DetNP
+NPofNP
+261482	Np2CL
+DetCL
+V2CL
+V-O-O2-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+261492	ADV-ADV-V-ADV
+2Advp_h1
+261495	V-ADV-O
+PrepNp
+Conj3Np
+DetNP
+NPofNP
+DetNP
+NPofNP
+261503	DetNP
+NPofNP
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+AdjpNp
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+261521	DetNP
+NPDetAdj
+NPofNP
+DetAdj
+261526	S-V-O
+DetCL
+V-O
+O-S-V-IO
+DetNP
+DetNP
+261533	Conj-CL
+IO-V
+DetNP
+NPofNP
+DetNP
+PpNp2Np
+PrepNp
+261541	O-V-S
+Np-Appos
+Np-Appos
+DetNP
+DetNP
+NPDetAdj
+DetAdj
+AdjpaAdjp
+261550	DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+261557	ofNPNP
+DetNP
+that-VP
+VC-P
+EitherOrAdjp
+261565	ClCl
+V2CL
+VC-P
+AdjpaAdjp
+261572	ADV2CL
+sub-CL
+CLaCL
+P-VC
+261577	P2CL
+EitherOrAdjp
+261581	O-V-ADV
+PrepNp
+DetNP
+NPofNP
+261586	ClCl2
+sub-CL
+CLaCL
+261590	that-VP
+Conj3CL
+P-VC
+261594	V2CL
+261596	O-V
+AdjpNp
+261600	that-VP
+S-VC-P
+DetAdj
+Conj5AdjP
+261608	V-IO-O
+Conj3CL
+261611	PrepNp
+NpAdjp
+V-ADV
+PrepNp
+sub-CL
+V2CL
+261619	NpAdjp
+sub-CL
+CLaCL
+V2CL
+261624	ADV-V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+261631	V-O
+DetNP
+NPofNP
+sub-CL
+V2CL
+261637	S-O-V
+PtclCL
+O-V
+Conj2VP
+261643	Conj-CL
+CLaCL
+V2CL
+261647	V2CL
+261650	V-ADV
+PrepNp
+DetNP
+261654	V2CL
+261656	ClCl2
+sub-CL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+261663	V-O
+DetNP
+CLaCL
+V-ADV
+PrepNp
+261669	CLaCL
+V-ADV
+PrepNp
+261673	S-ADV
+PrepNp
+261677	Np2CL
+DetCL
+V2CL
+V-ADV-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+sub-CL
+CLaCL
+S-V
+261689	V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+261697	S-V-O
+DetCL
+V-O
+O-S-V-IO
+DetNP
+DetNP
+261704	CLaCL
+ADV-V
+PrepNp
+261709	S-V-ADV
+PrepNp
+DetNP
+261713	S-ADV-V-ADV-ADV
+DetNP
+NP-CL
+NPDetAdj
+DetAdj
+O-V
+PrepNp
+PrepNp
+261722	CLaCL
+V-ADV
+261725	V-IO-O
+S-V
+S-V-ADV
+PrepNp
+261730	ADV-V-ADV
+PrepNp
+261733	Conj-CL
+261735	S-V-ADV
+PrepNp
+DetNP
+261739	CLaCL
+ADV-V
+PrepNp
+DetNP
+261744	CLaCL
+S-P-ADV-ADV
+DetCL
+V2CL
+Np-Appos
+NpaNp
+261752	S-P-ADV-ADV
+NpPp
+PrepNp
+DetNP
+261757	Conj-CL
+Conj3CL
+P-S
+PrepNp
+DetNP
+NpNump
+NumpAdjp
+261765	ADV-S-V-ADV
+PrepNp
+DetNP
+NumpNP
+NumpAdjp
+V-ADV
+PrepNp
+NpAdjp
+261774	P-S
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+261780	Conj-CL
+ADV-V-S
+PrepNp
+DetNP
+Conj3Np
+261788	Conj-CL
+CLaCL
+261791	NumpNP
+NPofNP
+PrepNp
+DetNP
+S-VC-P
+DetNP
+NumpNP
+NPofNP
+DetNP
+261801	P-S
+PrepNp
+DetNP
+PrepNp
+NpAdjp
+NpAdjp
+P-ADV
+261809	Conj-CL
+P-S
+Conj2Pp
+PrepNp
+NPofNP
+DetNP
+261816	NPofNP
+DetNP
+AdjpNp
+NpAdjp
+V-O-ADV
+AdvpaAdvp
+261824	Conj-CL
+Conj4CL
+S-P-ADV
+DetNP
+NPDetAdj
+DetAdj
+261831	S-P-ADV
+DetNP
+AdjpNp
+261835	S-V-O
+DetNP
+AdjpNp
+DetNP
+NpPp
+PrepNp
+261842	S-P-ADV
+DetNP
+AdjpNp
+NpAdjp
+V2CL
+261848	Conj-CL
+S-ADV-ADV-V-O
+DetNP
+AdjpNp
+ADV-V-ADV-O
+NpPp
+PrepNp
+NPofNP
+NpNump
+AdvpaAdvp
+261860	Conj-CL
+O-ADV-V-ADV-ADV
+NpaNp
+261865	P-S
+3Adjp
+Np-Appos
+Np-Appos
+Np-Appos
+DetNP
+DetNP
+Conj3Np
+DetCL
+V2CL
+261876	DetCL
+V2CL
+261879	DetCL
+V2CL
+261882	Conj-CL
+ClCl2
+sub-CL
+V-S-O-IO
+DetNP
+Conj3Np
+261890	Np-Appos
+DetCL
+V-ADV
+PrepNp
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+CLaCL
+V-S-ADV
+DetNP
+NumpNP
+NumpAdjp
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+261912	CLaCL
+V-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+261921	V-O-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+261928	P-VC-ADV
+Np2CL
+NPofNP
+NpaNp
+DetNP
+261934	DetNP
+V-O
+Conj3Np
+DetNP
+261939	DetNP
+261941	DetNP
+sub-CL
+CLaCL
+S-V-O
+DetAdj
+261947	ADV-V
+PrepNp
+DetNP
+NPofNP
+Conj2VP
+261954	Conj-CL
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NpAdjp
+NpAdjp
+V-ADV
+AdvpaAdvp
+261968	V-ADV
+NpNump
+261971	Conj-CL
+V-O
+S-V-ADV-O
+NpAdjp
+PrepNp
+NpAdjp
+S-P-ADV
+CLaCL
+V-O
+DetNP
+261982	V-O
+DetNP
+NPofNP
+261986	Conj-CL
+V-S-O
+NpPp
+Conj3Pp
+PrepNp
+DetNP
+261993	PrepNp
+DetNP
+261996	PrepNp
+DetNP
+CLaCL
+V-O
+DetNP
+262002	V-O
+262004	Conj-CL
+262006	sub-CL
+S-V-ADV
+NpAdjp
+CLaCL
+V-O
+DetNP
+262013	V-O
+262015	Conj-CL
+262017	NpPp
+PrepNp
+DetAdj
+ADV-V
+262023	Np-Appos
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+V-O
+NpaNp
+DetNP
+262036	DetNP
+NumpNP
+NPofNP
+262040	Conj-CL
+V-O
+ADV-S-V-ADV-ADV
+Conj2Pp
+PrepNp
+NPofNP
+NpaNp
+DetNP
+262049	DetNP
+AdjpNp
+262052	PrepNp
+NPofNP
+DetAdj
+Conj-CL
+V2CL
+V-O
+NpaNp
+NpNump
+262061	NP-CL
+NpNump
+S-VC-P
+DetNP
+NumpNP
+NpAdjp
+NPofNP
+DetNP
+V-ADV
+PrepNp
+All-NP
+DetNP
+262074	Conj-CL
+CLaCL
+V2CL
+262078	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+262087	Conj-CL
+ClCl2
+sub-CL
+V-O
+DetNP
+S-V-ADV-ADV
+NpaNp
+DetNP
+AdjpNp
+262097	DetNP
+NumpNP
+NumpAdjp
+PrepNp
+DetNP
+V-ADV-O
+NpaNp
+262105	NpAdjp
+NpAdjp
+V-O
+NP-CL
+S-VC-P
+DetNP
+NPofNP
+DetAdj
+262114	Conj-CL
+V-O-ADV
+NpAdjp
+262118	ClCl
+P-VC-ADV
+CLaCL
+V-O
+DetNP
+262124	V-O
+DetNP
+NPofNP
+sub-CL
+Conj4CL
+V2CL
+262131	V-IO-ADV-O
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+All-NP
+Conj4Np
+262143	V-O-IO-O2
+DetNP
+NPofNP
+NpaNp
+262149	V-ADV
+PrepNp
+DetNP
+262153	Conj-CL
+CLaCL
+V2CL
+262157	ClCl
+CLaCL
+V-O-ADV
+NPofNP
+NpAdjp
+NPofNP
+Conj3Np
+DetNP
+262166	DetNP
+262168	DetAdj
+262170	VC-S-P
+DetNP
+NPofNP
+NpaNp
+NPofNP
+262176	NPofNP
+V-ADV-O
+NpAdjp
+P-VC-S-ADV
+Np-Appos
+DetNP
+DetCL
+V2CL
+V-O
+DetNP
+Conj7Np
+262194	Conj-CL
+262196	O-V
+S-V
+NpaNp
+All-NP
+NP-CL
+S-P-VC
+Conj4Pp
+PrepNp
+DetNP
+262206	PrepNp
+DetNP
+262209	PrepNp
+DetNP
+262212	PrepNp
+DetNP
+262215	DetNP
+PpNp2Np
+PrepNp
+NpaNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+262224	DetNP
+Conj4Np
+DetNP
+262228	DetNP
+262230	DetNP
+262232	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+262238	Conj-CL
+262240	DetNP
+AdjpNp
+Intj2CL
+262244	Conj-CL
+CLaCL
+S-V
+DetAdj
+262249	V2CL
+262251	Conj-CL
+CLaCL
+ClCl
+V2CL
+sub-CL
+V-S-O
+DetNP
+NpPp
+PrepNp
+DetNP
+NumpNP
+262263	V-O
+262265	NpPp
+PrepNp
+DetNP
+AdjpNp
+PrepNp
+NPofNP
+V2CL
+262273	Conj-CL
+CLaCL
+V2CL
+262277	CLaCL
+CLaCL
+262280	V2CL
+NpAdjp
+262283	S-V-O
+DetCL
+V-ADV
+PrepNp
+262288	CLaCL
+V-IO-S
+262291	CLaCL
+V-ADV
+V2CL
+262295	sub-CL
+V2CL
+262298	Conj-CL
+ClCl2
+sub-CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+V-O
+262307	DetNP
+AdjpNp
+V2CL
+262311	Conj-CL
+CLaCL
+V-S
+AdjpNp
+NpAdjp
+262318	Np2CL
+DetCL
+V-ADV
+PrepNp
+CLaCL
+V-IO-S
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+262329	sub-CL
+O-V
+262332	V-IO-S
+NpAdjp
+262335	Conj-CL
+ClCl2
+sub-CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+V-O
+262344	DetNP
+AdjpNp
+V2CL
+262348	Conj-CL
+CLaCL
+V2CL
+262352	CLaCL
+262354	V2CL
+NpAdjp
+262357	S-V-O-ADV
+DetCL
+V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+262365	Conj-CL
+V-O
+sub-CL
+262369	PrepNp
+NPofNP
+DetNP
+AdjpNp
+CLaCL
+CLaCL
+S-P
+NPofNP
+262378	S-P
+AdjpNp
+NPofNP
+262382	O-ADV-V
+NpaNp
+DetNP
+262386	DetNP
+262388	Conj-CL
+ClCl2
+sub-CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+V-O
+262397	NPofNP
+DetNP
+AdjpNp
+V2CL
+262402	Conj-CL
+CLaCL
+V2CL
+262406	CLaCL
+262408	V2CL
+NpAdjp
+262411	CLaCL
+262413	Np2CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+262419	S-V-ADV
+DetNP
+PrepNp
+262423	Conj-CL
+V-IO-S-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV
+Conj4Pp
+PrepNp
+262433	PrepNp
+262435	PrepNp
+262437	PrepNp
+DetNP
+NPofNP
+DetNP
+262442	Conj-CL
+ClCl2
+sub-CL
+V-O
+DetNP
+AdjpNp
+V-ADV-O
+PrepNp
+DetNP
+DetNP
+NPofNP
+DetCL
+V-ADV
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+262461	PrepNp
+DetNP
+NP-CL
+O-V
+262466	Conj-CL
+V-ADV-ADV
+NpAdjp
+V-O
+262471	ADV-ADV-V
+PrepNp
+Np2CL
+DetNP
+NPDetAdj
+DetAdj
+AdjpaAdjp
+262480	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+262489	Conj-CL
+CLaCL
+V-IO-S
+NpAdjp
+NpAdjp
+262495	V-IO-S
+that-VP
+262498	NpAdjp
+sub-CL
+V-S
+AdvpNp
+Np-Appos
+NpaNp
+DetNP
+NPofNP
+262507	DetNP
+NPofNP
+DetCL
+V-O
+ClCl
+V2CL
+sub-CL
+S2CL
+AdvpNp
+262517	Conj-CL
+CLaCL
+ClCl
+V2CL
+sub-CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+262527	Conj6CL
+S-V
+NpAdjp
+262531	S-VC-P-ADV
+DetNP
+PrepNp
+NpAdjp
+262536	S-V-ADV
+NP-all
+DetNP
+PrepNp
+262542	DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+Conj-CL
+S-V-O-ADV
+DetNP
+NPofNP
+ADV-V
+PrepNp
+NpAdjp
+262556	DetNP
+Conj-CL
+S-V
+262560	S-ADV-V
+All-NP
+NpaNp
+262564	PrepNp
+DetNP
+NPofNP
+262568	Conj-CL
+S-V-O-ADV
+Conj6Np
+DetNP
+NPofNP
+DetNP
+262575	DetNP
+262577	DetNP
+262579	DetAdj
+262581	DetAdj
+262583	All-NP
+NpaNp
+262586	Conj2Pp
+PrepNp
+DetNP
+262590	PrepNp
+DetNP
+NPofNP
+DetNP
+262595	Conj-CL
+262597	NpaNp
+DetNP
+262600	DetNP
+ClCl
+CLaCL
+V-ADV
+PrepNp
+262606	V-O-ADV
+Conj2Pp
+PrepNp
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+262615	PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+V-S
+DetNP
+NPofNP
+NPDetAdj
+DetAdj
+DetNP
+NPofNP
+262629	S-V-O
+V2CL
+262632	ADV-V-O
+PrepNp
+262635	AdjpNp
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+V-O
+DetNP
+AdjpNp
+NPofNP
+DetNP
+sub-CL
+ADV-V-S-ADV
+Conj3Pp
+PrepNp
+DetNP
+262652	PrepNp
+DetNP
+262655	PrepNp
+All-NP
+262658	Conj-CL
+CLaCL
+V-O
+S-V-ADV-ADV
+AdjpNp
+PrepNp
+NPofNP
+V-O
+NPofNP
+NpAdjp
+V2CL
+262670	V-ADV-IO-ADV
+NpAdjp
+DetNP
+NP-CL
+AdjpNp
+IO-V-S
+Np-Appos
+V-O
+NpaNp
+DetNP
+262681	DetNP
+262683	ClCl
+ADV-V-O
+Conj3Np
+DetNP
+262688	DetNP
+262690	DetNP
+sub-CL
+V-O-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+262701	Conj-CL
+V-O
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V2CL
+NpAdjp
+NumpNP
+NumpNumpNump
+V-ADV
+PrepNp
+All-NP
+NPofNP
+NPofNP
+262717	ClClClClClClClClClClClCl
+ADV-S-V
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S
+PrepNp
+NPofNP
+NumpNP
+ADV-S-V
+PrepNp
+NPofNP
+NumpNP
+262767	CLaCL
+ADV-V
+PrepNp
+262772	S-V-ADV-ADV
+NpPp
+NP-CL
+NpAdjp
+O-S-V
+O-V
+Np-Appos
+PrepNp
+All-NP
+Conj4Np
+262785	Conj2Pp
+PrepNp
+DetNP
+262789	PrepNp
+DetNP
+V-O
+NpAdjp
+262794	S-P
+PrepNp
+DetNP
+NPofNP
+262799	Conj-CL
+V-ADV-ADV
+NpAdjp
+262803	S-IO
+DetNP
+NpaNp
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+262814	DetNP
+262816	Conj-CL
+CLaCL
+S-V-ADV
+All-NP
+DetNP
+NPofNP
+Conj3Np
+DetNP
+262825	DetAdj
+262827	DetNP
+AdjpNp
+262830	CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+262838	V-O-ADV
+DetNP
+262842	Intj2CL
+Conj7Np
+DetNP
+262846	DetNP
+262848	DetNP
+262850	DetNP
+262852	DetNP
+262854	DetNP
+262856	DetNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+Intj2CL
+262865	Conj-CL
+V-S-ADV
+NpPp
+PrepNp
+DetAdj
+262871	CLaCL
+S-P-VC
+Np-Appos
+DetCL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+262880	ADV-V
+262882	Conj-CL
+262885	Np2CL
+NPofNP
+262888	Conj-CL
+262890	CLaCL
+S-VC-P
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetAdj
+262899	CLaCL
+V-O
+DetNP
+NPofNP
+262904	V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+262910	CLaCL
+CLaCL
+ADV-VC-P
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+262919	V-O-ADV-ADV
+NpaNp
+262922	PrepNp
+DetNP
+NPofNP
+262926	S-V-ADV
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+262934	ADV-V-ADV
+262936	V-ADV
+262938	ADV-V-ADV-S
+PrepNp
+NpaNp
+DetNP
+262943	All-NP
+sub-CL
+CLaCL
+CLaCL
+S-V-O
+Np-Appos
+DetNP
+NpPp
+PrepNp
+NPofNP
+DetNP
+262955	V-O-ADV
+PrepNp
+ofNPNP
+NPofNP
+262960	V-S-O-ADV
+DetNP
+All-NP
+PrepNp
+DetNP
+NPofNP
+262967	Conj-CL
+ClCl2
+sub-CL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+V-S-ADV-ADV
+PrepNp
+DetNP
+AdvpNp
+262979	Conj-CL
+CLaCL
+V-O
+DetNP
+NP-CL
+NumpNP
+S-ADV-V
+PrepNp
+DetNP
+262989	V-IO-S
+NumpNP
+262992	Conj-CL
+CLaCL
+S-V
+AdjpNp
+262997	CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+V-O
+NpAdjp
+263004	ClCl
+V-IO-S
+NpAdjp
+sub-CL
+V-ADV-ADV
+DetNP
+NPofNP
+NP-all
+DetNP
+PrepNp
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+NpPp
+PrepNp
+DetNP
+263022	Conj-CL
+V-S-ADV-ADV-ADV
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+DetAdj
+PrepNp
+NPofNP
+DetNP
+PrepNp
+DetNP
+263036	Conj-CL
+Conj3CL
+V-S-O
+DetNP
+DetNP
+263042	V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+263048	V-ADV
+PrepNp
+DetNP
+263052	Conj-CL
+V-S
+Conj4Np
+263059	Conj-CL
+263061	Np-Appos
+DetNP
+NumpNP
+DetCL
+V-O
+DetNP
+NumpNP
+sub-CL
+V2CL
+263071	Conj-CL
+S-V
+DetAdj
+263075	Conj-CL
+CLaCL
+V-S-ADV
+NpaNp
+263080	V-ADV
+PrepNp
+263083	V-ADV
+PrepNp
+DetNP
+263087	Conj-CL
+Conj3CL
+S-V
+DetNP
+NPofNP
+DetNP
+263094	S-V
+DetNP
+NPofNP
+DetNP
+263099	S-V
+All-NP
+NpAdjp
+263103	Conj-CL
+S-V
+DetNP
+AdjpNp
+263108	Conj-CL
+S-V-ADV
+PrepNp
+NpAdjp
+NpAdjp
+ADV-V
+PrepNp
+DetNP
+263117	Conj-CL
+Conj3CL
+VC-S-P
+DetNP
+NPofNP
+DetNP
+263124	V-S
+DetNP
+NPofNP
+Np-Appos
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+DetCL
+V-O
+263136	S-V
+DetNP
+NPofNP
+DetNP
+263141	Conj-CL
+S-V
+DetNP
+AdjpNp
+263146	Conj-CL
+CLaCL
+V-ADV-S-ADV
+PrepNp
+DetNP
+NpAdjp
+ClCl
+V2CL
+sub-CL
+S2CL
+263157	V-ADV
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+263164	PrepNp
+DetNP
+NPofNP
+DetNP
+263169	Conj-CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+DetNP
+263176	Conj-CL
+CLaCL
+VC-S-P
+DetNP
+NPofNP
+DetNP
+PrepNp
+263184	ClCl
+S-V-ADV
+NPofNP
+DetNP
+PrepNp
+DetNP
+sub-CL
+V2CL
+263193	Conj-CL
+S-V
+DetNP
+AdjpNp
+263198	Conj-CL
+CLaCL
+263201	Conj3Np
+DetNP
+NPofNP
+DetNP
+263206	DetNP
+NPofNP
+DetNP
+263210	DetNP
+NPofNP
+DetNP
+sub-CL
+V-S
+DetNP
+NPofNP
+263218	CLaCL
+S-ADV-V-ADV
+DetNP
+DetNP
+NPofNP
+263224	S-ADV
+DetNP
+263227	Conj-CL
+CLaCL
+V2CL
+263231	V-O
+263233	AdjpNp
+V-ADV
+PrepNp
+NpAdjp
+S-ADV-ADV
+NpNpNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-O
+V2CL
+263256	Conj-CL
+S-V
+DetNP
+AdjpNp
+263261	Conj-CL
+CLaCL
+V-O
+S-ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+263270	V-IO-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+263277	Conj-CL
+CLaCL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+263286	PrepNp
+DetNP
+sub-CL
+S2CL
+NPofNP
+NpAdjp
+263293	V-S-ADV
+NpaNp
+DetNP
+263297	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+263303	Conj-CL
+CLaCL
+ADV-V-S-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+263312	sub-CL
+V-O-S
+DetNP
+NPofNP
+DetNP
+263318	Conj-CL
+V-IO-S
+that-VP
+ClCl
+ADV-V-O
+Conj3Np
+DetNP
+NPofNP
+DetNP
+263328	All-NP
+263330	All-NP
+sub-CL
+ADV-O
+DetNP
+NP-CL
+S-ADV-V-O-ADV
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+263342	Conj-CL
+V-IO-S
+that-VP
+notCLbutCL2CL
+V-O
+that-VP
+V-ADV
+NpNump
+263351	Conj-CL
+263353	DetNP
+NPofNP
+PrepNp
+NPofNP
+sub-CL
+V-O
+263360	Conj-CL
+CLaCL
+CLaCL
+ADV-V-S-O
+PrepNp
+NP-Demo
+DetNP
+DetNP
+DetNP
+263370	ADV-V-O
+2Advp_h1
+263373	CLaCL
+V-O
+V2CL
+263377	V-S-ADV
+DetNP
+PrepNp
+263381	Conj-CL
+Conj7CL
+S-P-ADV
+DetNP
+NPofNP
+DetNP
+NpAdjp
+V-ADV
+PrepNp
+263391	P-S
+PrepNp
+DetNP
+NPofNP
+PrepNp
+NP-CL
+P-ADV
+263399	S-P
+DetNP
+NPofNP
+PrepNp
+NPofNP
+263405	V-O
+NpPp
+PrepNp
+NPofNP
+263410	S-P-VC
+DetNP
+NPofNP
+PrepNp
+263415	V-O
+NpPp
+PrepNp
+NpAdjp
+263420	S-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+NPofNP
+NpAdjp
+NpAdjp
+V-ADV
+PrepNp
+263433	Conj-CL
+CLaCL
+V-O
+NpaNp
+NP-CL
+P-ADV
+263441	P-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+NPofNP
+V-O-ADV
+DetNP
+NpNump
+263452	V-ADV-O
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+263459	CLaCL
+S-ADV-P
+NpAdvp
+263463	ADV-O-V-O2
+PrepNp
+DetAdj
+263467	S-V
+DetNP
+NPDetAdj
+DetAdj
+263473	NumpNP
+PrepNp
+263476	Conj-CL
+S-V
+DetNP
+AdjpNp
+263481	Conj-CL
+V-O-ADV-ADV
+NpAdjp
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+NpPp
+PrepNp
+DetNP
+V-IO-O
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-O
+DetNP
+V-O
+Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-ADV
+PrepNp
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+263514	Conj-CL
+263516	Np-Appos
+DetNP
+AdjpNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+Conj4Np
+263527	sub-CL
+V-O
+DetNP
+NPofNP
+DetNP
+263533	Conj-CL
+S-P
+DetNP
+NPofNP
+DetNP
+NPDetAdj
+DetAdj
+NPofNP
+263542	V-O
+DetNP
+NPofNP
+263546	Conj-CL
+CLaCL
+ADV-V-O-ADV
+DetNP
+PrepNp
+DetNP
+263553	S-V-O
+DetCL
+V-ADV
+PrepNp
+NpAdjp
+Conj3Adjp
+263562	Conj-CL
+CLaCL
+S-P
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+263571	ADV-V-S
+PrepNp
+DetNP
+NPofNP
+Conj3Np
+263579	V-S-ADV
+2Pp
+PrepNp
+NP-Demo
+DetNP
+AdjpNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+Np-Appos
+Conj3Np
+DetNP
+263593	DetNP
+263595	DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+263602	Conj-CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+263612	PrepNp
+DetNP
+NPofNP
+263616	Conj-CL
+CLaCL
+S-P-ADV-ADV
+DetNP
+NPofNP
+V-O
+263623	ADV-V
+PrepNp
+263626	Conj-CL
+CLaCL
+263629	S-ADV-V-ADV
+DetNP
+NP-CL
+NPofNP
+DetNP
+S-ADV-V-ADV
+PrepNp
+NP-Demo
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-V-O
+NpaNp
+DetNP
+263647	DetNP
+NP-CL
+NPDetAdj
+Conj5Np
+DetAdj
+263653	DetAdj
+263655	DetAdj
+263657	DetAdj
+263659	DetAdj
+S-V-O
+V2CL
+EitherOr3Vp
+263667	ADV-V-ADV
+Conj4Pp
+PrepNp
+DetNP
+NPofNP
+263673	PrepNp
+DetNP
+NPofNP
+263677	PrepNp
+DetNP
+NPofNP
+263681	PrepNp
+DetNP
+NPofNP
+263685	Conj-CL
+CLaCL
+V-O
+S-V-ADV-ADV
+AdjpNp
+NpAdjp
+PrepNp
+DetNP
+V-O
+263695	CLaCL
+Conj3CL
+S-P
+DetNP
+PrepNp
+DetNP
+NPofNP
+263703	S-P
+DetNP
+NPofNP
+PrepNp
+DetNP
+263709	S-P
+DetNP
+NPofNP
+PrepNp
+NPofNP
+263715	V-ADV-O
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+V2CL
+263722	Conj-CL
+CLaCL
+CLaCL
+V-O-ADV
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+PrepNp
+DetNP
+263733	O-ADV
+DetAdj
+PrepNp
+DetNP
+263739	NpAdjp
+sub-CL
+S-V
+263743	Conj-CL
+ClCl2
+sub-CL
+V2CL
+V-S-O
+DetNP
+NumpNP
+DetNP
+ofNPNP
+263753	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+NumpNP
+V-O
+V2CL
+263762	Conj-CL
+V-O
+S-ADV-V-O
+PrepNp
+DetNP
+CLaCL
+V-O
+O-V-S
+DetNP
+NumpNP
+263773	ADV-O-V
+263775	Conj-CL
+CLaCL
+S-V-O-ADV
+DetNP
+NP-CL
+O-V
+S-V-ADV
+Conj2Pp
+PrepNp
+DetNP
+263786	PrepNp
+DetNP
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+PrepNp
+DetNP
+263796	PrepNp
+NP-CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+S-V-O
+Conj3Np
+NpaNp
+DetNP
+263809	NpPp
+PrepNp
+263812	NpaNp
+DetNP
+263815	NpPp
+PrepNp
+263818	NpaNp
+DetNP
+263821	NpPp
+PrepNp
+that-VP
+CLaCL
+S-ADV-V
+263828	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+AdjpNp
+sub-CL
+V-O
+V2CL
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-O
+Np-Appos
+DetNP
+ofNPNP
+DetNP
+263848	Conj-CL
+CLaCL
+S-ADV-V-ADV
+DetNP
+NP-CL
+O-V-ADV
+PrepNp
+DetNP
+PrepNp
+263858	V-O
+ClCl
+V2CL
+V-O
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+Conj2Pp
+PrepNp
+DetNP
+263877	PrepNp
+DetNP
+263880	Conj-CL
+V-ADV-ADV
+PrepNp
+DetNP
+V-IO-O
+V-IO-O
+DetNP
+263888	Conj-CL
+263890	CLaCL
+CLaCL
+V2CL
+263894	V-O
+263896	CLaCL
+V-O
+ofNPNP
+DetNP
+263902	PrepNp
+DetNP
+NPofNP
+sub-CL
+S2CL
+263908	Conj-CL
+CLaCL
+CLaCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+263918	V-O
+263920	VC-ADV-ADV-P
+PrepNp
+DetNP
+NPofNP
+PrepNp
+263926	Conj-CL
+263928	sub-CL
+V-O
+DetNP
+NPofNP
+263933	Conj-CL
+263935	V-S
+S-ADV-V-ADV
+PrepNp
+NpAdjp
+Conj4Np
+263944	Conj-CL
+V-IO-S-ADV
+NP-CL
+P-ADV
+263949	CLaCL
+V2CL
+263952	V-O
+Conj3Np
+DetNP
+NPofNP
+DetNP
+263958	DetNP
+263960	DetCL
+V-ADV
+PrepNp
+263964	Conj-CL
+263966	O-V-ADV
+Np-Appos
+DetNP
+NPofNP
+DetAdv
+DetNP
+263973	ADV-O-V
+sub-CL
+CLaCL
+V-IO
+DetNP
+263979	O-V-ADV
+DetNP
+NPDetAdj
+DetAdj
+NpNump
+NumpNump
+263986	Conj-CL
+CLaCL
+V-IO
+DetNP
+AdjpNp
+NPofNP
+263993	V-ADV-ADV
+NpNump
+NumpNumpNump3
+V-O
+263998	S-VC-P
+Np-Appos
+NpaNp
+DetNP
+NumpNP
+264004	DetNP
+NumpNP
+DetCL
+ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+264013	Conj-CL
+ClCl2
+sub-CL
+S-V-O
+O-V
+CLaCL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+264024	V-O
+DetNP
+NPofNP
+264028	Conj-CL
+ClCl2
+sub-CL
+S-V-O
+O-V
+ADV-V-S
+S-V
+264036	Conj3CL
+ClCl
+S-V-O-ADV
+DetNP
+V-O
+DetNP
+sub-CL
+ADV-S-V-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+264049	O-V-ADV-ADV
+PrepNp
+DetNP
+V-O-ADV
+PrepNp
+264055	ClCl
+V-O-ADV
+DetNP
+PrepNp
+All-NP
+AdvpCL
+PtclCL
+V2CL
+264064	Conj-CL
+ClCl2
+sub-CL
+V-O
+DetNP
+NPofNP
+CLaCL
+S-V-ADV-O
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+264080	CLaCL
+V-O
+264083	V-O
+264085	Conj-CL
+S-P
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NP-CL
+NP-CL
+NPDetAdj
+DetAdj
+S-VC-ADV-P
+NpaNp
+264100	ADV-S-V
+AdvpNp
+DetNP
+NPofNP
+264105	Conj-CL
+CLaCL
+V-S-O-ADV
+PrepNp
+Conj4Np
+DetNP
+264114	DetNP
+NPofNP
+NpAdjp
+AdjpaAdjp
+264120	ADV-V-O
+S-V-ADV
+DetNP
+NPofNP
+PrepNp
+264126	Conj-CL
+264128	CLaCL
+S-V-ADV
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+264136	V2CL
+264138	O-V-IO
+sub-CL
+S-V-O
+Demo-NP
+DetNP
+NumpNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+264149	Conj-CL
+CLaCL
+CLaCL
+ADV-S-ADV-V-ADV
+PrepNp
+DetNP
+AdjpNp
+AdjpaAdjp
+264158	NPofNP
+PrepNp
+DetNP
+PrepNp
+264163	V-ADV
+PrepNp
+DetNP
+NPofNP
+264168	S-V-ADV
+NpAdjp
+PrepNp
+DetCL
+V-O
+264174	Conj-CL
+V-O
+264177	NpAdjp
+PrepNp
+DetNP
+V-ADV
+264182	Conj-CL
+CLaCL
+V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+264190	V-O-S
+DetNP
+NPofNP
+264194	Conj-CL
+CLaCL
+ADV-V-S
+PrepNp
+Demo-NP
+DetNP
+NpAdjp
+264202	CLaCL
+S-V
+DetNP
+NPofNP
+DetNP
+264208	CLaCL
+V-ADV-S
+PrepNp
+DetNP
+Np-Appos
+NPofNP
+NpNump
+264216	CLaCL
+S-P-VC
+DetAdj
+264220	V-O-IO
+DetNP
+NPofNP
+DetNP
+264225	S-V
+DetNP
+NPDetAdj
+DetAdj
+264231	DetNP
+NPDetAdj
+DetAdj
+264235	Conj-CL
+S-V
+DetNP
+AdjpNp
+264240	Conj-CL
+V-S-ADV-ADV
+NpAdjp
+PrepNp
+DetNP
+264246	CLaCL
+VC-S-P
+DetNP
+NPofNP
+DetNP
+NpaNp
+DetNP
+NPofNP
+264255	DetNP
+NPofNP
+264258	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+264264	Conj-CL
+CLaCL
+S-V-ADV
+Np-Appos
+DetNP
+NumpNP
+NumpAdjp
+DetCL
+ADV-V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+264282	V-O-ADV
+DetNP
+264285	ClCl
+264287	Np2CL
+Np-Appos
+Np-Appos
+Np-Appos
+DetNP
+DetNP
+NpaNp
+DetCL
+V2CL
+264297	DetCL
+V2CL
+sub-CL
+CLaCL
+V-O
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+264307	V2CL
+264309	Conj-CL
+CLaCL
+S-V
+DetNP
+264314	CLaCL
+V-S
+DetNP
+NPofNP
+264319	S2CL
+DetNP
+NP-CL
+NPofNP
+DetAdj
+Conj3CL
+V2CL
+264327	V-O-IO-ADV
+DetNP
+Np-Appos
+DetNP
+NPofNP
+Conj3Np
+DetNP
+264335	DetAdj
+264337	DetCL
+V-O
+DetNP
+NPofNP
+NpaNp
+DetAdj
+264344	DetAdj
+264346	V-O
+DetCL
+V-O
+DetNP
+264351	Conj-CL
+CLaCL
+V-S
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NpPp
+PrepNp
+DetNP
+264362	V-S-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+264371	Conj-CL
+V-S
+Conj5Np
+264378	NpAdjp
+264380	Conj-CL
+264382	NpAdjp
+PrepNp
+DetNP
+CLaCL
+CLaCL
+Conj3CL
+S-V-O
+DetNP
+264391	S-P
+DetNP
+PrepNp
+DetNP
+NPofNP
+264397	P-S
+PrepNp
+DetNP
+NPofNP
+NPofNP
+NpNump
+264404	ADV-V
+PrepNp
+264407	V-ADV
+CLaCL
+V2CL
+264411	V-ADV
+V2CL
+264414	Conj-CL
+CLaCL
+V-S-ADV
+AdjpNp
+PrepNp
+DetNP
+264421	CLaCL
+264423	S-V-O
+NpAdjp
+NpAdjp
+NpaNp
+NpNump
+264429	NpNump
+264431	P-S
+PrepNp
+DetNP
+NPofNP
+NumpNP
+264437	CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+264447	V-O-ADV
+PrepNp
+DetNP
+264451	Conj-CL
+264453	DetNP
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-O
+V2CL
+sub-CL
+264462	sub-CL
+V-O
+DetNP
+NPofNP
+264467	Conj-CL
+V-O
+NP-CL
+NpAdjp
+S-V-O
+V-O-ADV
+All-NP
+DetNP
+PrepNp
+NpAdjp
+264478	Conj-CL
+V-S-ADV
+DetNP
+NPofNP
+Conj2Pp
+PrepNp
+DetNP
+264486	PrepNp
+DetNP
+NPofNP
+264490	Conj-CL
+264492	DetNP
+PrepNp
+NP-CL
+DetAdj
+ADV-V-ADV-O
+NpAdjp
+V-ADV
+PrepNp
+DetNP
+sub-CL
+ADV-V-O-ADV
+NpNump
+NumpNumpNump3
+264506	Conj-CL
+ClCl
+V-S-ADV
+PrepNp
+DetNP
+S-ADV
+NpaNp
+DetNP
+264515	DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+264522	Conj-CL
+CLaCL
+V-S
+NpaNp
+DetNP
+264528	DetNP
+NPofNP
+264531	ClCl
+ADV-V
+ADV-S-V-ADV-ADV
+NPofNP
+PrepNp
+DetNP
+264538	Conj-CL
+264540	Np-Appos
+Np-Appos
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+DetNP
+NPDetAdj
+DetAdj
+DetCL
+VC-P
+NpaNp
+264553	DetNP
+DetCL
+V-O
+NP-all
+DetNP
+CLaCL
+V-ADV
+PrepNp
+DetNP
+264563	S-ADV-V
+DetNP
+NPofNP
+PrepNp
+264568	Conj-CL
+V-O
+264571	NpAdjp
+PrepNp
+DetNP
+ClCl
+ADV-V-S
+Conj4Np
+DetNP
+264579	DetNP
+264581	DetNP
+NPofNP
+DetNP
+NPofNP
+264586	DetNP
+NPofNP
+DetNP
+NPofNP
+sub-CL
+V-S
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetCL
+V-O-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+NpaNp
+264605	Conj-CL
+CLaCL
+S-V-O-ADV
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+264614	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+264620	ADV-V-O-ADV
+DetNP
+NPofNP
+PrepNp
+264626	PrepNp
+Np2CL
+NpaNp
+264630	DetCL
+ADV-V
+PrepNp
+264634	ClCl
+S-ADV
+NpaNp
+DetNP
+264639	DetNP
+sub-CL
+V-S-ADV-ADV-ADV
+DetAdj
+PrepNp
+V-O
+NpAdjp
+264647	that-VP
+O-V
+AdjpNp
+264651	Conj-CL
+264653	sub-CL
+264655	DetNP
+that-VP
+V-ADV
+PrepNp
+DetNP
+DetNP
+NP-CL
+S-V-O
+DetAdj
+264665	Conj-CL
+264667	DetNP
+DetNP
+NumpNP
+NPofNP
+DetNP
+NPofNP
+DetAdj
+sub-CL
+V-ADV-ADV
+PrepNp
+DetAdj
+PrepNp
+NP-CL
+DetNP
+NPofNP
+ADV-V-ADV-ADV-ADV
+Conj3Np
+264686	NPofNP
+PrepNp
+NPofNP
+DetNP
+264691	Conj-CL
+264693	DetNP
+PrepNp
+DetNP
+NPofNP
+PrepNp
+DetNP
+sub-CL
+O2CL
+sub-CL
+O-O2-V
+264704	Conj-CL
+CLaCL
+V-S-O
+DetNP
+DetNP
+264710	CLaCL
+V-S-O
+DetNP
+DetNP
+NPofNP
+264716	V-O
+DetNP
+NP-CL
+O-V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+264725	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+264732	V-ADV
+V-O-ADV
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetCL
+CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+264747	V-O
+DetNP
+NPofNP
+264751	Conj-CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+264758	Conj-CL
+CLaCL
+V-O
+ADV-S-V-ADV
+PrepNp
+DetNP
+V-O
+NpaNp
+NpNump
+264768	NpNump
+264770	CLaCL
+P-S
+PrepNp
+DetNP
+NPofNP
+NumpNP
+264777	P-S
+PrepNp
+DetNP
+NPofNP
+NPofNP
+264783	Conj-CL
+CLaCL
+S-VC-P-ADV
+DetNP
+NP-CL
+O-V
+264790	CLaCL
+S-P
+DetNP
+NPofNP
+PrepNp
+264796	S-P
+DetNP
+NPofNP
+PrepNp
+NPofNP
+264802	Conj-CL
+V-IO-S-O
+DetNP
+Conj3Np
+DetNP
+NPofNP
+264809	DetNP
+NPofNP
+264812	NpAdjp
+264814	Conj-CL
+CLaCL
+O-O2
+NpPp
+PrepNp
+DetNP
+NPofNP
+sub-CL
+V-ADV
+PrepNp
+264825	S-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+264831	Conj-CL
+CLaCL
+CLaCL
+V-S-ADV
+All-NP
+DetNP
+PrepNp
+DetNP
+264841	DetNP
+sub-CL
+V-O-IO
+DetNP
+DetNP
+264847	V-O-ADV
+DetNP
+264850	CLaCL
+S-P-ADV
+DetNP
+264854	S-V-O
+V-ADV
+PrepNp
+264858	Conj-CL
+CLaCL
+V-IO-S
+NpAdjp
+V-O
+NpaNp
+264866	V-IO-S-ADV
+V-ADV
+NpNump
+NumpNump
+264871	Conj-CL
+V-O-ADV-ADV
+DetNP
+NPofNP
+PrepNp
+NpPp
+PrepNp
+DetNP
+V-O
+NpaNp
+DetNP
+NPofNP
+264884	Np-Appos
+DetNP
+NPofNP
+DetCL
+ADV-V
+PrepNp
+DetNP
+264892	Conj-CL
+CLaCL
+V-IO-S
+CLaCL
+V-O-ADV
+PrepNp
+DetAdj
+264900	V-O
+264902	V-IO-S-ADV
+PrepNp
+All-NP
+Conj4Np
+264910	Conj-CL
+V-O-S
+All-NP
+NP-CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+ADV-V-S-ADV-ADV
+ofNPNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V2CL
+PrepNp
+NPofNP
+264934	ClCl2
+sub-CL
+S-V-O
+V2CL
+264940	sub-CL
+S-ADV
+PrepNp
+PrepNp
+264946	sub-CL
+S-ADV-V
+PrepNp
+S-ADV-V
+PrepNp
+264952	P-VC-S
+NPofNP
+NpaNp
+DetNP
+264957	DetNP
+DetAdj
+264960	Conj-CL
+CLaCL
+V-O
+S-V-ADV
+AdjpNp
+PrepNp
+DetNP
+264968	CLaCL
+V-O-O2
+NpNump
+AdjpAdvp
+264974	sub-CL
+S2CL
+264977	Conj-CL
+O-V-ADV
+NP-all
+DetNP
+NPofNP
+DetNP
+AdjpNp
+PrepNp
+264986	Conj-CL
+264988	NpaNp
+DetNP
+264991	DetCL
+ADV-V
+PrepNp
+sub-CL
+V-O
+NP-CL
+DetNP
+NPDetAdj
+DetAdj
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+265006	Conj-CL
+265008	NpAdjp
+sub-CL
+ADV-V-O
+S-ADV-V-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+265019	Conj-CL
+V-O-ADV-ADV
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NP-CL
+S-V-IO-ADV
+V-ADV
+PrepNp
+DetNP
+V-IO-O
+DetCL
+V-ADV
+PrepNp
+DetNP
+V-O-IO
+DetNP
+NP-CL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+265046	V2CL
+265048	Conj-CL
+ClCl
+V-IO-S
+V-O-IO
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+ADV-V-S
+DetNP
+NPofNP
+DetNP
+265062	ClCl
+V2CL
+sub-CL
+S-V
+PtclCL
+S-ADV-V-O
+DetNP
+NPofNP
+DetNP
+265072	Conj-CL
+ClCl
+V-O
+Np-Appos
+Conj3Np
+NpaNp
+DetAdj
+265080	DetAdj
+265082	NpaNp
+DetAdj
+265085	DetAdj
+265087	NpaNp
+DetAdj
+265090	DetNP
+CLaCL
+sub-CL
+V-IO-O-ADV
+Conj2Pp
+PrepNp
+DetNP
+NPDetAdj
+NPofNP
+DetAdj
+265101	PrepNp
+DetNP
+NPofNP
+265105	sub-CL
+ClCl
+ADV-S-V-O
+CLaCL
+V2CL
+265111	V2CL
+sub-CL
+ADV-S
+DetCL
+V-O
+Np-Appos
+DetNP
+NpaNp
+DetNP
+NPofNP
+DetNP
+265123	DetNP
+NPofNP
+DetNP
+NPofNP
+265128	P-S-VC
+DetNP
+265132	DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+sub-CL
+P-VC
+NPofNP
+265141	Conj-CL
+S-P
+DetNP
+NPofNP
+NumpNumpNump2
+265147	Conj-CL
+CLaCL
+V2CL
+265152	S-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+265158	P-S
+PrepNp
+NpAdjp
+NumpNP
+NumpNumpNump
+V-O
+S-V-ADV
+NpaNp
+DetNP
+NPofNP
+265169	DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+265177	Conj-CL
+CLaCL
+265180	PrepNp
+DetNP
+CLaCL
+sub-CL
+O2CL
+NPofNP
+NpAdjp
+265188	sub-CL
+O2CL
+NPofNP
+NpAdjp
+265193	S-P
+DetNP
+NP-CL
+O-V
+PrepNp
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+265203	Conj-CL
+V-O-ADV
+NpAdjp
+Conj2Pp
+PrepNp
+DetNP
+265210	PrepNp
+NpaNp
+DetNP
+AdjpNp
+265215	DetAdj
+265217	Conj-CL
+265219	V-O
+DetNP
+sub-CL
+ADV-S
+Np-Appos
+DetNP
+NumpNP
+NumpNumpNump
+DetCL
+V-ADV
+PrepNp
+DetNP
+265232	ClCl2
+S-VC-P
+S-ADV-ADV-V
+PrepNp
+sub-CL
+P-VC
+265239	S-P
+DetCL
+V-O-ADV
+DetNP
+PtclCL
+ADV-V
+265246	CLaCL
+S-V-ADV-ADV
+PrepNp
+DetNP
+NpAdvp
+NpaNp
+DetNP
+265254	DetNP
+265256	ADV-ADV-V-S
+PrepNp
+DetNP
+NPofNP
+265261	P-VC
+265263	Conj-CL
+V-O
+S-V-ADV-ADV-ADV
+AdjpNp
+PrepNp
+V-O-ADV
+NpAdjp
+V-ADV
+Conj2Pp
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+265278	PrepNp
+All-NP
+Conj4Np
+265285	PrepNp
+NpAdjp
+CLaCL
+ClCl
+CLaCL
+V-O
+DetNP
+265293	V-IO-O
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+NPofNP
+265301	V-O
+DetCL
+V-O
+Conj4Np
+DetNP
+265307	DetNP
+265310	NPofNP
+265312	Conj-CL
+S-V-ADV
+Np-Appos
+AdjpNp
+265317	ClCl
+V2CL
+V-S
+NP-CL
+NPDetAdj
+DetAdj
+S-ADV-V-O
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+All-NP
+DetNP
+265334	Conj-CL
+S-V-O-ADV
+Np-Appos
+AdjpNp
+265339	PrepNp
+NpAdjp
+ClCl2
+sub-CL
+CLaCL
+S-V-O
+NpaNp
+DetNP
+265348	DetNP
+NPofNP
+265351	V-O-ADV
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+265357	PrepNp
+DetNP
+NPofNP
+CLaCL
+S-V-ADV
+AdvpNp
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+DetCL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+265378	V-ADV-ADV
+PrepNp
+NpaNp
+265382	Conj2Pp
+PrepNp
+NpAdjp
+265386	PrepNp
+DetNP
+265389	Conj-CL
+CLaCL
+S-ADV-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+265399	ADV-V-O-ADV-S
+NpaNp
+265402	NpaNp
+DetCL
+V-O
+NpaNp
+DetNP
+265408	DetNP
+NPofNP
+265411	sub-CL
+S-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+265418	P-VC-S
+DetNP
+NPofNP
+Np-Appos
+DetAdj
+DetCL
+V-O
+NpaNp
+DetNP
+NPofNP
+DetNP
+265430	DetNP
+NPofNP
+265433	Conj-CL
+V-O
+265436	PrepNp
+DetNP
+265439	P-S
+Np-Appos
+DetAdj
+DetCL
+ADV-V-ADV
+PrepNp
+265447	Intj2CL
+DetNP
+that-VP
+ClCl
+V-ADV
+PrepNp
+DetNP
+NPofNP
+sub-CL
+S-V-ADV
+DetNP
+NPofNP
+PrepNp
+265461	Conj-CL
+CLaCL
+V2CL
+265466	S2CL
+NpAdjp
+265470	PrepNp
+DetNP
+AdjpNp
+NPofNP
+CLaCL
+V-ADV-O
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+265481	ADV-O
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+265487	Conj-CL
+S-V-ADV-ADV
+AdjpNp
+PrepNp
+DetNP
+265493	PrepNp
+NpAdjp
+DetCL
+V-ADV
+PrepNp
+DetNP
+ClCl
+CLaCL
+V-O
+DetNP
+NPofNP
+265505	V2CL
+sub-CL
+265508	DetNP
+V2CL
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+265516	Conj-CL
+CLaCL
+V-S-O-ADV
+DetCL
+V-ADV
+PrepNp
+DetNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+265528	V-S
+DetNP
+265531	Conj-CL
+S-V-ADV-ADV
+AdjpNp
+PrepNp
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+V-S-O
+AdvpNp
+NpAdjp
+265544	Conj-CL
+CLaCL
+S-V-ADV
+Np-Appos
+AdjpNp
+PrepNp
+DetNP
+DetCL
+V-O-ADV
+PrepNp
+DetNP
+265556	V-ADV-IO-ADV
+NpAdjp
+DetCL
+V-O
+DetNP
+NPDetAdj
+DetAdj
+265564	ClCl
+CLaCL
+V-O
+ofNPNP
+DetNP
+NPDetAdj
+DetAdj
+265572	V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-S
+DetNP
+NPofNP
+265583	Conj-CL
+CLaCL
+V-S-O-ADV
+DetNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+265592	CLaCL
+V-O
+DetNP
+NPofNP
+DetNP
+265598	V-ADV
+PrepNp
+DetNP
+NPDetAdj
+NPofNP
+DetNP
+NPofNP
+DetNP
+DetAdj
+265608	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+265615	V-S-ADV-ADV-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NpAdjp
+AdjpAdjp
+265626	Conj-CL
+V-O
+Np-Appos
+NpAdjp
+AdjpNp
+NpPp
+PrepNp
+DetNP
+AdjpaAdjp
+265637	NpNump
+NPDetAdj
+NpNump
+DetAdj
+sub-CL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+265648	Conj-CL
+ClCl
+V2CL
+CLaCL
+S-V-ADV
+PrepNp
+NpAdjp
+265656	S-V-ADV-ADV
+DetCL
+V-ADV
+Conj3Pp
+PrepNp
+DetNP
+265663	PrepNp
+DetNP
+NPofNP
+265667	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+V-O
+NPofNP
+DetNP
+265680	Conj-CL
+V-O-ADV
+NpaNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NPofNP
+DetNP
+265690	DetNP
+NPofNP
+DetNP
+265695	AdjpaAdjp
+265697	DetNP
+NPofNP
+Np2CL
+Np-Appos
+Np-Appos
+DetNP
+DetNP
+265706	AdjpaAdjp
+265708	DetNP
+NPofNP
+Np2CL
+DetNP
+NPofNP
+DetNP
+265715	ClCl
+CLaCL
+265718	2Advp_h1
+Np2CL
+265721	V-O
+DetNP
+NPofNP
+sub-CL
+265726	sub-CL
+265728	S-V
+All-NP
+DetNP
+265732	V-ADV
+PrepNp
+sub-CL
+S-V
+DetNP
+NPofNP
+265739	Conj-CL
+CLaCL
+ADV-V
+PrepNp
+265744	CLaCL
+V-S
+DetNP
+NpPp
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+265755	V-S-ADV-ADV
+Np-Appos
+DetNP
+NumpNP
+DetCL
+V-O
+DetNP
+NumpNP
+PrepNp
+DetNP
+CLaCL
+V-O
+NpAdjp
+NpAdjp
+265770	V-ADV-O
+PrepNp
+DetNP
+NpAdjp
+265775	Conj-CL
+S-V-IO-O
+NpPp
+PrepNp
+DetNP
+AdjpNp
+DetNP
+NumpNP
+NumpNP
+NpAdjp
+NpAdjp
+V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+265798	Conj-CL
+CLaCL
+V-S-ADV-ADV
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+265808	PrepNp
+DetNP
+NPofNP
+265813	V-ADV
+PrepNp
+DetNP
+sub-CL
+V-S
+DetNP
+NumpNP
+NPofNP
+DetNP
+NumpNP
+265824	Conj-CL
+V-O
+265827	AdjpNp
+PrepNp
+DetNP
+DetNP
+NumpNP
+CLaCL
+V2CL
+265835	V-O-ADV
+DetNP
+NumpNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+265845	Conj-CL
+CLaCL
+V-S
+DetAdj
+265850	V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+265856	Conj-CL
+V-S-ADV
+NpAdjp
+AdjpaAdjp
+265861	PrepNp
+Np-Appos
+DetNP
+NpaNp
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+265871	DetCL
+V-O
+DetNP
+NPofNP
+265876	Conj-CL
+S-V-O-ADV
+DetAdj
+DetNP
+NPofNP
+PrepNp
+DetNP
+265884	Conj-CL
+CLaCL
+VC-P
+NpPp
+PrepNp
+265890	S-V
+Np-Appos
+All-NP
+NPofNP
+NpPp
+PrepNp
+DetNP
+265898	Conj-CL
+S-V-O-ADV
+DetAdj
+DetNP
+NPofNP
+PrepNp
+NpaNp
+DetNP
+265907	DetNP
+NPofNP
+DetNP
+265911	Conj-CL
+VC-P
+265914	Conj-CL
+V-O
+265917	DetNP
+NPofNP
+DetNP
+ClCl
+265922	Np2CL
+Np-Appos
+NpaNp
+DetCL
+V2CL
+265928	DetCL
+V2CL
+DetAdj
+sub-CL
+265933	sub-CL
+CLaCL
+O-V
+NPofNP
+NpaNp
+265940	O-IO-V-ADV
+V2CL
+265943	P-VC
+265945	Conj-CL
+V-O
+265948	DetNP
+265950	Intj2CL
+Np2CL
+Np-Appos
+Np-Appos
+DetNP
+DetNP
+AdjpaAdjp
+265958	DetNP
+NPofNP
+265961	Conj-CL
+S-V-O-ADV
+DetAdj
+DetNP
+NPofNP
+PrepNp
+DetNP
+265969	Conj-CL
+V-IO-S
+V-O-ADV
+DetNP
+PrepNp
+265975	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+NpAdjp
+265981	CLaCL
+V-O
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V-O-ADV
+DetNP
+PrepNp
+NP-Demo
+DetNP
+265994	ADV-V-ADV
+V-IO-O
+265997	Conj-CL
+S-V-O-ADV
+DetAdj
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+266007	Conj-CL
+CLaCL
+VC-S-P
+DetNP
+NPofNP
+V2CL
+266014	CLaCL
+CLaCL
+V-O-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+266022	V-O-ADV
+DetNP
+NPofNP
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+266031	PrepNp
+DetNP
+NPofNP
+266035	ADV-V-ADV
+PrepNp
+DetNP
+NPofNP
+266040	Conj-CL
+S-V-O-ADV
+DetAdj
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+DetNP
+DetNP
+AdjpNp
+266051	Conj-CL
+266053	DetNP
+NPofNP
+sub-CL
+V-S
+DetNP
+NPofNP
+Np-Appos
+DetNP
+NpPp
+PrepNp
+NPofNP
+266065	Conj-CL
+V-O
+ADV-S
+Conj3Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+266074	PrepNp
+DetNP
+NPofNP
+DetNP
+266079	PrepNp
+DetNP
+NPofNP
+DetNP
+NpPp
+NpAdjp
+NpAdjp
+PrepNp
+266088	Conj-CL
+VC-P
+NP-CL
+NpAdjp
+NPofNP
+V-O
+S-V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+NP-all
+DetNP
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+NPDetAdj
+DetAdj
+Np-Appos
+DetNP
+DetNP
+266113	V2CL
+sub-CL
+S2CL
+266118	DetCL
+CLaCL
+V2CL
+266122	V-O
+DetNP
+NPofNP
+sub-CL
+CLaCL
+ADV-ADV-V
+266129	V-O
+DetNP
+NPofNP
+266133	Conj-CL
+V-O-ADV
+PrepNp
+Np-Appos
+DetNP
+DetCL
+VC-ADV-P
+266141	Conj-CL
+S-V-O-ADV
+DetAdj
+DetNP
+NPofNP
+PrepNp
+DetNP
+266149	Conj-CL
+V-S-ADV-ADV-ADV
+NpAdjp
+PrepNp
+DetNP
+PrepNp
+DetNP
+266157	V2CL
+266159	Conj-CL
+CLaCL
+V-S
+Conj3Np
+266166	ClCl
+266168	NpAdjp
+S-ADV-V-ADV
+PrepNp
+ADV-S-V-ADV
+PrepNp
+DetNP
+S-ADV-P
+AdjpNp
+266177	Conj-CL
+CLaCL
+V-S-ADV
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+AdjpNp
+266186	S-V
+DetNP
+NPofNP
+DetNP
+266191	Conj-CL
+S-V-ADV-ADV
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+V-IO-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+266207	Conj-CL
+CLaCL
+S-V
+All-NP
+266212	S-ADV-V
+266214	Conj-CL
+S-V-ADV-ADV
+NpAdjp
+NpAdjp
+AdvpAdjp
+PrepNp
+DetNP
+PrepNp
+DetNP
+266224	Conj-CL
+266226	DetNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+sub-CL
+P-VC-S-ADV
+DetNP
+NPofNP
+266237	Conj-CL
+CLaCL
+V-S
+NpPp
+PrepNp
+Np-Appos
+DetNP
+NumpNP
+DetCL
+V-O
+DetNP
+NumpNP
+266250	V-ADV-ADV
+PrepNp
+266253	ClCl2
+V2CL
+266256	DetNP
+NPofNP
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+DetCL
+V-ADV
+PrepNp
+NpAdjp
+CLaCL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+266273	V-S-ADV
+DetCL
+V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+266283	Conj-CL
+V-O-ADV-ADV
+PrepNp
+PrepNp
+266288	Conj-CL
+V-O
+S-V-ADV
+PrepNp
+NpAdjp
+NpAdjp
+NpAdjp
+V-O
+NPofNP
+V-O
+NpaNp
+NpNump
+266301	NpNump
+266303	Conj-CL
+ClCl
+S-VC-P
+DetNP
+CLaCL
+V-O
+AdjpaAdjp
+266312	V-ADV
+Conj3Np
+266315	NpAdjp
+266317	CLaCL
+V-ADV-O
+NpAdjp
+NpAdjp
+PrepNp
+DetNP
+NPofNP
+V-O
+NpaNp
+266327	DetNP
+NPofNP
+DetNP
+NPofNP
+266332	ADV-V-S
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+Np-Appos
+Np-Appos
+NPDetAdj
+DetAdj
+DetNP
+NPofNP
+NpaNp
+DetNP
+266346	DetNP
+NPofNP
+DetNP
+266350	Conj-CL
+V-O
+S-V-ADV
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetAdj
+266360	PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+266366	Conj-CL
+V-ADV-O
+V-O
+NpAdjp
+266371	Conj-CL
+266373	DetNP
+ADV-V
+PrepNp
+266377	S-V-IO-O
+DetNP
+NPofNP
+NpaNp
+DetNP
+266383	Np-Appos
+Np-Appos
+DetNP
+DetCL
+V-O
+DetCL
+V-O
+NpaNp
+DetNP
+NumpNP
+266394	DetNP
+NumpNP
+266397	CLaCL
+CLaCL
+S-V
+DetNP
+NP-CL
+O-V
+266404	ADV-V
+266406	CLaCL
+V-O
+V-ADV
+PrepNp
+DetNP
+266412	ADV-V
+PrepNp
+266415	Conj-CL
+V-S-ADV
+NP-CL
+DetCL
+V-ADV
+PrepNp
+DetNP
+S-ADV-V-ADV-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+266432	DetNP
+that-VP
+Conj3CL
+V2CL
+266437	ADV-V
+266439	V2CL
+266441	P-S
+Np-Appos
+DetNP
+DetCL
+V-O
+266447	ClCl
+S-P-VC
+DetNP
+NumpNP
+NumpNP
+ADV-S-V-ADV
+DetNP
+PrepNp
+266456	Conj-CL
+P-VC
+NpNump
+266460	ClClCl
+S-V
+DetNump
+S-V
+DetAdj
+CLaCL
+S-ADV-V
+DetAdj
+266470	sub-CL
+V2CL
+ADV-S-V
+266474	Conj-CL
+266476	Np2CL
+DetNP
+NP-CL
+CLaCL
+S-V
+266482	ADV-V
+CLaCL
+S-P-VC
+AdvpNp
+266487	P-VC
+PrepNp
+DetNump
+266491	ADV-V
+PrepNp
+266494	Conj-CL
+S-VC-P
+DetNP
+NP-CL
+NumpNP
+O-V
+NP-CL
+NumpNP
+CLaCL
+S-O-ADV-V
+266505	O-ADV-ADV-V-ADV
+PrepNp
+AdjpNp
+PrepNp
+DetNP
+266511	CLaCL
+S-O-V
+AdjpNp
+266515	O-IO-V
+DetNP
+NPofNP
+NpaNp
+266520	DetNP
+266522	CLaCL
+S-ADV-V
+PrepNp
+DetNP
+266527	ClCl
+S-V-O
+DetNP
+sub-CL
+CLaCL
+VC-P
+NpaNp
+NPofNP
+266536	NPofNP
+266538	S-P
+NpPp
+PrepNp
+Conj3Adjp
+266545	Conj-CL
+266547	S-VC-P
+DetNP
+NP-CL
+NP-CL
+O-V
+ADV-S-V
+DetNP
+Conj4Np
+266559	Conj-CL
+266561	Np2CL
+NpaNp
+DetNP
+NP-CL
+NumpNP
+O-V
+266568	DetNP
+S-V-O
+DetNP
+266572	CLaCL
+V-O-O2
+AdjpaAdjp
+V2CL
+266578	CLaCL
+O-V
+DetNP
+NPofNP
+266583	O-V-ADV
+PrepNp
+266586	Conj-CL
+266588	DetNP
+PrepNp
+DetNP
+NPofNP
+Conj3CL
+V-O
+DetNP
+NPofNP
+266597	V-O
+AdjpNp
+266600	V-O-IO
+DetNP
+NPofNP
+DetNP
+sub-CL
+V-S
+DetNP
+NPofNP
+DetNP
+266610	Conj-CL
+S-VC-P
+DetNP
+NP-CL
+O-V
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+DetCL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+266626	CLaCL
+ADV-V-O
+PrepNp
+S-V-ADV-ADV
+AdjpNp
+PrepNp
+DetNP
+V-O
+NpAdjp
+266636	S-V-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+266642	Conj-CL
+V-ADV-ADV
+PrepNp
+AdjpNp
+266647	CLaCL
+ClCl
+V2CL
+V-S
+NPDetAdj
+DetAdj
+266655	Conj3Np
+NPofNP
+266658	NPofNP
+All-NP
+NpAdjp
+266662	NPofNP
+All-NP
+NpAdjp
+AdjpaAdjp
+266667	V2CL
+sub-CL
+Conj3CL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+All-NP
+DetNP
+266681	S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+266687	S-ADV-V
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+266697	Conj-CL
+V-O
+266700	AdjpNp
+PrepNp
+DetNP
+266704	Np2CL
+DetNP
+NPofNP
+PrepNp
+CLaCL
+sub-CL
+ADV-V-ADV
+DetNP
+NPofNP
+266714	sub-CL
+ADV-ADV-V
+PrepNp
+DetNP
+NPofNP
+sub-CL
+CLaCL
+V-S-ADV
+ofNPNP
+DetNP
+PrepNp
+DetNP
+266727	V-S-O
+DetNP
+DetNP
+NPofNP
+266732	CLaCL
+266734	sub-CL
+S-V
+AdvpNp
+266738	V-O-ADV
+DetAdj
+PrepNp
+DetNP
+NPofNP
+266744	ADV-V-IO-O
+PrepNp
+DetNP
+NP-CL
+ADV-V
+266752	CLaCL
+ADV-V-O
+266755	V2CL
+AdjpNp
+NpaNp
+266760	PrepNp
+DetNP
+NPofNP
+that-VP
+CLaCL
+V-ADV
+266767	CLaCL
+P-ADV-VC
+266770	O-ADV-V
+2Advp_h1
+266774	ADV-ADV-V-S
+PrepNp
+PrepNp
+AdjpNp
+Np-Appos
+DetNP
+NPofNP
+Conj3Np
+266785	ADV-V
+PrepNp
+sub-CL
+P-S
+Np-Appos
+Np-Appos
+DetNP
+DetCL
+V-O
+266795	Conj-CL
+ClCl
+V-ADV-S
+Conj2VP
+266800	PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetNP
+DetCL
+ADV-V
+PrepNp
+Conj2VP
+266810	sub-CL
+V-O-ADV-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+ADV-V-ADV
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+266824	ClCl
+266826	Intj2CL
+Np2CL
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+sub-CL
+ADV-V-S
+AdjpNp
+DetNP
+NPofNP
+266842	Conj-CL
+266844	DetNP
+NPofNP
+DetNP
+Conj2VP
+266849	PrepNp
+sub-CL
+S-V-ADV-O
+Np-Appos
+DetNP
+NPofNP
+Conj5Np
+NPofNP
+Conj8Np
+266860	NpAdjp
+266867	Conj3Np
+All-NP
+NpAdjp
+266871	All-NP
+NpAdjp
+266874	All-NP
+NpPp
+PrepNp
+Conj4Np
+NpAdjp
+266883	Conj5Np
+266889	Conj4Np
+266894	Conj6Np
+266900	NPofNP
+266902	Conj-CL
+CLaCL
+CLaCL
+S-V-ADV
+DetNP
+NPofNP
+ofNPNP
+DetNP
+NPofNP
+DetNP
+PrepNp
+266914	S-V-ADV
+All-NP
+NpaNp
+DetAdj
+266919	DetAdj
+PrepNp
+266922	ADV-ADV-O-V
+2Advp_h1
+266925	S-ADV-V-ADV-ADV-ADV
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+PrepNp
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+CLaCL
+V2CL
+266941	V2CL
+266943	ClCl
+266945	Intj2CL
+Np2CL
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+DetCL
+CLaCL
+V-O
+Conj3Np
+266958	V-ADV
+PrepNp
+Conj3Np
+266962	NpAdjp
+266964	sub-CL
+ADV-V-S
+AdjpNp
+DetNP
+AdjpNp
+266970	Conj-CL
+CLaCL
+S-ADV-V
+Conj4Np
+All-NP
+266976	All-NP
+DetCL
+ADV-V
+PrepNp
+266982	S-ADV-V
+DetNP
+PrepNp
+266986	V-ADV-ADV
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+266993	S-P-ADV
+DetNP
+NPDetAdj
+DetAdj
+266998	Conj-CL
+CLaCL
+V-O-ADV
+PrepNp
+DetNP
+NPofNP
+267005	V-ADV-ADV
+CLaCL
+V2CL
+267009	V2CL
+267011	ClCl
+267013	Intj2CL
+Np2CL
+NP-CL
+DetNP
+NPDetAdj
+DetAdj
+ADV-V-S-ADV
+PrepNp
+All-NP
+DetCL
+V-O-ADV
+DetNP
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+sub-CL
+ADV-V
+AdjpNp
+267035	PrepNp
+Np2CL
+NpaNp
+267039	Conj3Np
+DetAdj
+267042	DetNP
+267044	DetNP
+sub-CL
+V-S-O-ADV
+DetNP
+DetNP
+NPofNP
+PrepNp
+267052	Conj-CL
+CLaCL
+V-S-O
+AdjpNp
+NpAdjp
+NpPp
+PrepNp
+NpAdjp
+267061	V-ADV-ADV
+PrepNp
+DetNP
+267065	CLaCL
+ADV-ADV-V-S
+Np-Appos
+DetNP
+AdjpNp
+267071	ADV-V-ADV
+2Advp_h1
+267074	Conj-CL
+ClCl
+Conj5CL
+S-ADV-V-ADV-ADV
+NPofNP
+Conj4Np
+267083	2Advp_h1
+PrepNp
+267086	S-ADV-V-ADV-ADV
+All-NP
+NPofNP
+All-NP
+2Advp_h1
+PrepNp
+267093	S-ADV-V-ADV-ADV
+NPofNP
+2Advp_h1
+PrepNp
+267098	S-ADV-V-ADV-ADV
+NPofNP
+2Advp_h1
+PrepNp
+267103	S-ADV-V-ADV-ADV
+NPofNP
+NpaNp
+267107	2Advp_h1
+PrepNp
+sub-CL
+ClCl
+S-VC-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+sub-CL
+CLaCL
+ADV-V-S
+PrepNp
+DetNP
+NPofNP
+All-NP
+DetNP
+267126	ADV-V-S
+PrepNp
+NPofNP
+Conj3Np
+267132	All-NP
+DetCL
+V-ADV
+PrepNp
+DetNP
+267138	ADV-V-O
+PrepNp
+267141	PrepNp
+NPofNP
+NpAdjp
+NpAdjp
+PrepNp
+DetNP
+267148	ClCl
+S-P
+Conj3Np
+DetNP
+267153	DetNP
+267155	DetNP
+DetNP
+NPofNP
+sub-CL
+267160	AdjpaAdjp
+267162	DetNP
+NPofNP
+sub-CL
+CLaCL
+V-O
+DetNP
+NP-CL
+NPDetAdj
+DetAdj
+S-V-O-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+267177	V-O-ADV
+DetNP
+NPofNP
+DetNP
+NPofNP
+PrepNp
+NPofNP
+267185	Conj-CL
+267187	CLaCL
+Intj2CL
+267190	S-V-ADV
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+267198	Conj-CL
+CLaCL
+V-S
+NpaNp
+DetNP
+NPDetAdj
+DetNP
+NumpNP
+267207	DetNP
+AdjpNp
+267210	V-O-ADV
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+267219	Intj2CL
+267221	Conj-CL
+S-ADV-V-ADV
+PrepNp
+DetNP
+267227	DetNP
+NPofNP
+Np2CL
+Np-Appos
+Np-Appos
+All-NP
+DetNP
+NPofNP
+DetCL
+V-O
+NpaNp
+DetAdj
+267240	DetAdj
+267242	Conj-CL
+V-O
+267245	Conj3Pp
+PrepNp
+NPofNP
+NpAdjp
+267250	PrepNp
+NPofNP
+NpAdjp
+267254	PrepNp
+NPofNP
+NpAdjp
+267258	Intj2CL
+V-S
+Np-Appos
+Np-Appos
+DetNP
+NPofNP
+DetNP
+267266	ClCl
+CLaCL
+CLaCL
+V2CL
+267271	V2CL
+267273	V-O-IO
+DetNP
+sub-CL
+CLaCL
+V-S
+DetNP
+NPofNP
+DetNP
+267282	S-V-O
+DetNP
+NPofNP
+267286	Conj-CL
+ClCl
+V-IO-S
+that-VP
+V-O
+NpAdjp
+AdjpAdjp
+sub-CL
+S-P-VC
+DetAdj
+DetNP
+NPofNP
+DetAdj
+267300	Conj-CL
+267303	P-S
+DetCL
+ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+267313	Conj-CL
+267315	S-P-VC
+DetNP
+NPofNP
+NpAdjp
+DetNP
+267321	Conj-CL
+V-ADV-ADV
+PrepNp
+DetNP
+NPofNP
+V-O
+267328	Conj-CL
+267330	ClCl
+ClCl
+ClCl
+V-O
+ADV2CL
+VC-P
+NPofNP
+NpaNp
+267339	Np-Appos
+DetNP
+NPofNP
+DetCL
+V-O
+DetNP
+NPofNP
+O-V
+DetNP
+sub-CL
+S-VC-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+267356	Conj-CL
+CLaCL
+V-O
+S-V
+DetNP
+267362	CLaCL
+267364	V2CL
+NpAdjp
+267367	CLaCL
+S-VC-P
+DetCL
+V-ADV
+PrepNp
+AdjpaAdjp
+267375	ADV-V
+PrepNp
+Conj2VP
+267380	Conj-CL
+CLaCL
+CLaCL
+S-P
+DetNP
+NPofNP
+NPofNP
+267388	P-S-ADV
+PrepNp
+DetNP
+NPofNP
+NpAdjp
+CLaCL
+V-O
+NP-CL
+NpAdjp
+V2CL
+267399	O-S-V
+ADV-S
+267402	V-O
+NpAdjp
+V-ADV
+267406	VC-S-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+267413	Conj-CL
+S-V-O-ADV-ADV
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+PrepNp
+NpAdjp
+V-O
+NpAdjp
+NpAdjp
+267426	Conj-CL
+CLaCL
+267429	PrepNp
+DetNP
+NPofNP
+NpAdjp
+sub-CL
+ADV-V-O
+PrepNp
+DetNP
+267438	S-V-O-ADV
+PrepNp
+NpAdjp
+267442	Conj-CL
+S-V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetNP
+267456	Conj-CL
+V-ADV-O
+Conj2Pp
+PrepNp
+DetNP
+267462	PrepNp
+DetNP
+NPofNP
+Np-Appos
+NpAdjp
+V2CL
+NpaNp
+NPofNP
+267471	NPofNP
+267473	Conj-CL
+V-O
+CLaCL
+S-V-ADV
+AdjpNp
+PrepNp
+DetNP
+267481	V-ADV-ADV
+PrepNp
+NpAdjp
+267485	All-NP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+ClCl
+ClCl2
+V2CL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+NPDetAdj
+DetAdj
+DetNP
+sub-CL
+V-O
+Conj5Np
+NPofNP
+267506	NPofNP
+267508	NPofNP
+267510	NPofNP
+NpaNp
+267513	DetCL
+V-ADV
+PrepNp
+267517	NPofNP
+All-NP
+NpaNp
+aNpaNp
+267524	NpaNp
+267527	Conj-CL
+V-O
+S-V-ADV
+Conj3Np
+DetNP
+267533	DetNP
+NPofNP
+DetNP
+267537	DetNP
+NPofNP
+V-O-ADV
+DetNP
+Conj2Pp
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+267548	PrepNp
+DetNP
+NPofNP
+267552	Conj-CL
+CLaCL
+V-S
+DetNP
+267558	PrepNp
+Np-Appos
+DetNP
+DetCL
+V-O-ADV
+DetNP
+PrepNp
+ADV-V-O
+PrepNp
+NpaNp
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+267574	DetCL
+V-O
+DetNP
+NPofNP
+267579	ADV-V-S-ADV
+V2CL
+DetNump
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+267591	Conj-CL
+CLaCL
+S-V-ADV
+DetAdj
+PrepNp
+Np-Appos
+DetNP
+NPofNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+267609	S-V-ADV
+All-NP
+DetNP
+PrepNp
+DetNP
+NPofNP
+267616	Conj-CL
+V-O
+S-V-ADV-ADV
+PrepNp
+DetNP
+V-O-ADV
+NpaNp
+DetNP
+NPofNP
+DetNP
+267627	NpAdjp
+PrepNp
+DetNP
+NPofNP
+267632	Conj-CL
+ClCl
+ClCl
+CLaCL
+CLaCL
+V-O
+NP-CL
+Np-Appos
+DetNP
+DetNP
+NPDetAdj
+DetAdj
+S-VC-P
+NpaNp
+267647	DetNP
+267649	V-O-ADV
+AdjpNp
+267652	CLaCL
+V-O-ADV
+PrepNp
+DetNP
+267657	CLaCL
+V2CL
+267660	V-ADV
+PrepNp
+sub-CL
+ADV-V-ADV-O
+DetNP
+sub-CL
+V-S
+DetNP
+AdjpNp
+267670	ADV-V-S
+PrepNp
+V-S-ADV
+AdjpNp
+267675	Conj-CL
+CLaCL
+CLaCL
+CLaCL
+V-O
+267681	CLaCL
+V-ADV
+PrepNp
+267685	S-V-IO
+267687	O2CL
+DetNP
+NPofNP
+DetCL
+V-ADV
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+267697	PrepNp
+DetNP
+NPofNP
+DetNP
+267702	CLaCL
+S-ADV-V-O
+NpaNp
+DetNP
+267707	DetNP
+NPofNP
+267710	ADV-V-O-ADV
+DetNP
+Conj2Pp
+PrepNp
+DetNP
+267716	PrepNp
+DetNP
+NPofNP
+267720	Conj-CL
+CLaCL
+V2CL
+267724	V-ADV-ADV
+PrepNp
+DetNP
+AdjpNp
+267730	DetNP
+NPofNP
+DetAdj
+sub-CL
+V-S
+DetNP
+AdjpNp
+267738	S-P
+DetNP
+NPDetAdj
+DetAdj
+267743	P-S
+AdjpaAdjp
+267746	DetCL
+V-O-ADV
+PrepNp
+DetNP
+NPDetAdj
+DetAdj
+267753	CLaCL
+ADV-S-ADV-V-O
+PrepNp
+DetNP
+AdjpNp
+267759	CLaCL
+VC-P
+NPofNP
+NpaNp
+DetNP
+267765	DetNP
+267767	V-ADV-ADV
+PrepNp
+DetNP
+AdjpNp
+267772	Conj-CL
+ClCl2
+sub-CL
+V-S
+DetNP
+AdjpNp
+CLaCL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+267786	V-O
+Np-Appos
+Np-Appos
+DetNP
+NpPp
+PrepNp
+DetNP
+AdjpNp
+NPofNP
+DetNP
+DetNP
+NpaNp
+267799	V-O-ADV
+PrepNp
+DetNP
+S-P
+ofNPNP
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+267811	Conj-CL
+CLaCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+267819	V-O
+NpaNp
+DetNP
+NPofNP
+DetAdj
+267825	Np-Appos
+DetNP
+DetCL
+V2CL
+267830	Conj-CL
+CLaCL
+V-S-ADV
+PrepNp
+DetNP
+267836	V-O
+267838	Conj-CL
+CLaCL
+S-V-ADV
+Np-Appos
+DetAdj
+DetCL
+V-O
+PrepNp
+DetNP
+NP-CL
+NPofNP
+DetNP
+NpaNp
+267852	P-S
+notNPbutNP
+DetNP
+DetNP
+267857	V-ADV-ADV
+NpaNp
+267860	PrepNp
+DetNP
+NPofNP
+DetNP
+267865	Conj-CL
+V-O
+NpaNp
+NpAdjp
+NpAdjp
+267871	NP-CL
+DetCL
+V-ADV
+PrepNp
+CLaCL
+ADV-V-S
+PrepNp
+ofNPNP
+DetNP
+NpaNp
+DetNP
+267883	DetNP
+267885	S-ADV-V-IO
+267887	Conj-CL
+CLaCL
+V-O
+S-V-ADV
+Np-Appos
+DetAdj
+NpaNp
+DetAdj
+267896	DetAdj
+PrepNp
+DetNP
+267900	S-V
+267902	Conj-CL
+267904	AdjpNp
+S-VC-P
+DetNP
+267908	Conj-CL
+V-S-ADV-ADV
+DetAdj
+PrepNp
+DetCL
+V-ADV
+PrepNp
+DetNP
+PrepNp
+DetNP
+NPofNP
+267920	Conj-CL
+CLaCL
+CLaCL
+V-S-O
+DetNP
+Np-Appos
+DetAdj
+NpPp
+PrepNp
+267930	S-V-O
+NpaNp
+DetNP
+267934	DetNP
+Np-Appos
+DetAdj
+NpPp
+PrepNp
+267940	V-S-ADV
+PrepNp
+DetNP
+NPofNP
+267945	Conj-CL
+S-V-ADV
+NpaNp
+DetNP
+267950	DetNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+267956	S-P-VC
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+DetNP
+NPofNP
+DetNP
+267965	Conj-CL
+ClCl2
+sub-CL
+S-ADV-V-O
+ADV-V
+PrepNp
+DetNP
+NPofNP
+DetNP
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+267980	Conj-CL
+ClCl
+V-O
+NpaNp
+NpAdjp
+267986	NpAdjp
+sub-CL
+CLaCL
+S-V
+NpaNp
+DetNP
+AdjpNp
+267994	DetNP
+AdjpNp
+267997	S-ADV-V-ADV
+DetNP
+268000	Conj-CL
+V-O
+S-V-ADV-ADV-ADV
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+NpAdjp
+PrepNp
+DetNP
+PrepNp
+DetNP
+V-ADV
+PrepNp
+NpAdjp
+V-IO
+DetNP
+NPofNP
+268019	Conj-CL
+V-O
+268022	NpAdjp
+PrepNp
+DetNP
+268026	CLaCL
+CLaCL
+S-P
+DetNP
+NPofNP
+DetNP
+PrepNp
+DetNP
+268035	V-ADV
+PrepNp
+268038	CLaCL
+S-P-VC
+NPofNP
+268042	S-P-VC
+PronNP
+DetNP
+PrepNp
+268047	CLaCL
+V-O-ADV
+All-NP
+PrepNp
+DetNP
+NPofNP
+268054	CLaCL
+S-ADV-V-ADV
+DetNP
+268058	S-ADV-V-ADV
+Conj3Np
+268063	that-VP
+S-V
+DetAdj
+268067	Conj-CL
+268069	DetCL
+V-ADV
+PrepNp
+DetNP
+268075	Conj-CL
+268078	sub-CL
+S-P-VC
+Demo-NP
+DetNP
+AdjpaAdjp
+268085	Conj-CL
+268087	V2CL
+268089	S-P
+Np-Appos
+NpaNp
+DetNP
+268094	DetNP
+NpaNp
+DetNP
+268098	DetNP
+268100	S-IO-V-ADV-ADV
+DetCL
+V2CL
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+268110	CLaCL
+S-V-O
+DetCL
+V2CL
+268115	CLaCL
+VC-ADV-P
+268118	S-VC-ADV-P
+268120	Conj-CL
+268122	Np2CL
+Conj8Np
+DetAdj
+268127	V2CL
+268133	All-NP
+DetAdj
+DetNP
+NPofNP
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+NpaNp
+268144	S-VC-P
+DetNP
+NPDetAdj
+DetAdj
+268149	Conj-CL
+CLaCL
+V-S
+NpPp
+PrepNp
+Np-Appos
+DetNP
+NumpNP
+DetCL
+V-O
+Np-Appos
+DetNP
+NumpNP
+DetCL
+V-O
+DetNP
+NumpNP
+NPofNP
+DetAdj
+268169	V-ADV-ADV
+PrepNp
+268172	ClCl2
+V2CL
+V-IO-O
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+268181	Conj-CL
+CLaCL
+V-O-ADV-ADV
+PrepNp
+PrepNp
+NpAdjp
+AdjpaAdjp
+268190	V-IO-O
+S-V-ADV-ADV-ADV
+Np-Appos
+DetNP
+NPDetAdj
+DetAdj
+PrepNp
+DetNP
+PrepNp
+DetNP
+V-O
+DetNP
+NPofNP
+DetNP
+268206	DetNP
+NPofNP
+NpAdjp
+sub-CL
+ADV2CL
+NpAdjp
+Np-Appos
+V2CL
+268215	ClCl
+V-O
+NpAdjp
+AdjpaAdjp
+268220	CLaCL
+V-O
+NpNump
+268224	CLaCL
+P-S
+PrepNp
+DetNP
+NpNump
+268230	V-S
+NP-CL
+S-VC-P
+DetNP
+NumpNP
+NPofNP
+NPofNP
+268238	Conj4CL
+P-S
+PrepNp
+NpAdjp
+268243	P-S
+PrepNp
+NpAdjp
+268247	P-S
+PrepNp
+NpAdjp
+268251	P-S
+PrepNp
+NpAdjp
+268255	Conj-CL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+NpNump
+268263	P-S
+PrepNp
+NumpNP
+NPofNP
+DetNP
+NumpNP
+NPofNP
+DetNP
+268272	Conj-CL
+268274	DetCL
+V-ADV
+PrepNp
+Np-Appos
+NpAdjp
+sub-CL
+V-O
+Conj3Np
+DetNP
+268284	DetNP
+NPofNP
+268287	DetNP
+NPofNP
+268290	Conj-CL
+CLaCL
+S-P-VC
+DetNP
+268296	DetNP
+NPofNP
+P-S
+DetNP
+268301	Conj-CL
+V-O-ADV-ADV
+DetNP
+DetNP
+PrepNp
+Np-Appos
+NumpNP
+268309	S-P-VC
+NPofNP
+Conj3Np
+DetNP
+268314	DetNP
+268316	DetNP
+268318	Conj-CL
+V-O-ADV-ADV
+DetNP
+NPofNP
+NumpNP
+NumpNumpNump
+NP-CL
+NPofNP
+S-VC-P
+268328	Conj-CL
+CLaCL
+S-P
+DetNP
+NPofNP
+DetNP
+NPofNP
+268336	ClCl
+S-P
+DetNP
+NpAdjp
+P-ADV
+NpAdjp
+268343	S-ADV-V
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+All-NP
+NpAdjp
+268352	ClClClClClClClClClClClCl
+S-P
+DetNP
+NPDetAdj
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+S-P
+DetAdj
+268380	Conj-CL
+ClCl
+S-P
+DetNP
+NumpNP
+NumpNP
+ADV-S-VC-P
+AdjpNp
+NPofNP
+DetNP
+PrepNp
+AdjpNp
+268393	Conj-CL
+S-P-ADV
+DetNP
+NPofNP
+DetNP
+NpAdjp
+PrepNp
+NpAdjp
+268402	Conj-CL
+ClCl
+O-ADV-V-ADV
+PrepNp
+sub-CL
+S-P-VC
+NpaNp
+Np-Appos
+DetNP
+Np-Appos
+DetNP
+DetNP
+NPofNP
+268416	DetNP
+268418	Conj-CL
+ClCl
+268421	DetNP
+NPofNP
+NpaNp
+DetNP
+268426	DetNP
+sub-CL
+V-ADV
+sub-CL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+DetNP
+268436	S-P
+DetNP
+NPofNP
+DetNP
+268441	Conj-CL
+V-S-ADV
+DetNP
+PrepNp
+DetNP
+NPofNP
+268448	Conj-CL
+S-V-O-ADV
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+PrepNp
+268457	Conj-CL
+ClCl
+S-ADV-V-ADV
+DetNP
+NPofNP
+2Advp_h1
+sub-CL
+S-ADV-VC-P
+268466	Conj-CL
+V-O-ADV
+NPofNP
+NpaNp
+DetNP
+268472	DetNP
+DetNP
+PrepNp
+268476	Conj-CL
+268478	2Advp_h1
+PrepNp
+All-NP
+NpaNp
+268483	DetCL
+V-O
+NpaNp
+268487	sub-CL
+ADV-S
+DetCL
+V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+268498	Conj-CL
+V-IO-O
+S-V-ADV
+NpAdjp
+NPofNP
+NPofNP
+AdjpPp
+PrepNp
+PrepNp
+DetNP
+NPofNP
+NpaNp
+DetNP
+268512	DetNP
+268514	CLaCL
+P-ADV-S
+PrepNp
+NPofNP
+NpaNp
+DetNP
+NPofNP
+268522	DetNP
+AdvpaAdvp
+268525	NpAdjp
+NpAdjp
+NPofNP
+V-O
+NpNump
+ADV-V-O
+PrepNp
+NpAdjp
+DetNP
+NPofNP
+268536	S-P
+DetNP
+NPofNP
+DetNP
+PrepNp
+NPofNP
+DetNP
+268544	Conj-CL
+S-ADV-V-ADV
+All-NP
+268548	Conj-CL
+CLaCL
+S-P-VC
+DetNP
+NPofNP
+NpaNp
+DetNP
+268556	DetNP
+PrepNp
+268559	CLaCL
+CLaCL
+S-V-O
+DetNP
+NPofNP
+268565	V-O
+DetNP
+NPofNP
+268569	S-P
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+268576	Conj-CL
+CLaCL
+CLaCL
+S-ADV-V-ADV
+268582	NPofNP
+NpaNp
+NPofNP
+268586	NPofNP
+sub-CL
+S-V-ADV
+Np-Appos
+DetNP
+PrepNp
+268593	V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+268599	Conj-CL
+268601	CLaCL
+S-P
+Demo-NP
+DetNP
+AdjpaAdjp
+268608	S-V-O-ADV
+Np-Appos
+DetNP
+DetNP
+NPofNP
+DetNP
+NPofNP
+DetNP
+DetNP
+NPofNP
+V-IO-O
+DetNP
+NPofNP
+S-V
+S-V-ADV
+PrepNp
+268625	Conj-CL
+268628	P-S
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+NP-Demo
+DetNP
+268638	S-P
+Np-Appos
+DetCL
+V-O
+Conj2VP
+268645	Conj-CL
+ClCl2
+sub-CL
+CLaCL
+V2CL
+268651	V2CL
+V-ADV
+V-ADV
+PrepNp
+DetNP
+NPofNP
+Np-Appos
+DetNP
+DetCL
+V-IO-O
+268662	Conj-CL
+268664	ClCl
+ClCl
+V-O
+ADV2CL
+VC-P
+NPofNP
+Conj3Np
+268672	Np-Appos
+DetNP
+NPofNP
+DetNP
+268677	DetCL
+V-O
+DetNP
+NPofNP
+NP-Demo
+DetNP
+O-V
+DetNP
+268686	Conj-CL
+268689	DetNP
+NPofNP
+DetNP
+NPofNP
+NP-Demo
+DetNP
+sub-CL
+S-P-VC
+DetNP
+268699	CLaCL
+CLaCL
+S-V-ADV
+DetCL
+V2CL
+268705	S-V-ADV
+DetAdj
+268708	CLaCL
+S-O-V-ADV
+DetAdj
+268712	S-V-ADV
+DetAdj
+268715	CLaCL
+268718	S-P-ADV
+DetNP
+NPofNP
+PrepNp
+268723	sub-CL
+S-V
+DetNP
+NPofNP
+268728	S-P
+NpNpNp
+NpaNp
+DetNP
+268733	DetNP
+NpaNp
+DetAdj
+268737	DetAdj
+NpaNp
+DetNP
+268741	DetNP
+268743	P-S
+DetCL
+ClCl
+V-O
+DetNP
+NPofNP
+sub-CL
+CLaCL
+VC-S-P
+DetNP
+NPofNP
+PrepNp
+DetNP
+NPofNP
+DetNP
+268759	ADV-V-ADV
+DetNP
+PrepNp
+DetNP
+268764	P-S
+Conj6Np
+DetNP
+268768	DetNP
+268770	DetNP
+268772	DetNP
+268774	DetNP
+268776	All-NP
+V-O
+Conj2VP
+268781	S-V-O-ADV
+Np-Appos
+DetNP
+NPofNP
+V-IO-O-ADV
+PrepNp
+DetNP
+268789	S-VC-P
+NPofNP
+NPofNP
+NpaNp
+DetNP
+268795	DetNP
+DetNP
+NPDetAdj
+NPDetAdj
+DetAdj
+DetAdj
+268802	Conj-CL
+268804	NpaNp
+DetNP
+268807	DetNP
+V2CL
+268810	Conj-CL
+268812	DetCL
+V2CL
+V2CL
+268816	Conj-CL
+ClCl
+S-V
+DetCL
+V2CL
+S-V-O-ADV
+DetCL
+V2CL
+NPofNP
+268826	V-S-IO
+All-NP
+DetCL
+V-O
+DetNP
+NPofNP
+DetNP
+NPofNP
+NPofNP
+DetNP
+268837	ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+V-S-ADV-O
+DetNP
+PrepNp
+Np-Appos
+DetNP
+DetCL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+268852	Conj-CL
+ClCl2
+sub-CL
+S-V-ADV
+PrepNp
+DetNP
+NPofNP
+DetNP
+NPofNP
+NP-Demo
+DetNP
+V-S-O-ADV
+DetNP
+DetNP
+NPofNP
+Np-Appos
+Conj2Pp
+PrepNp
+DetNP
+NPofNP
+DetNP
+268874	PrepNp
+DetNP
+NPDetAdj
+DetAdj
+DetCL
+V-ADV
+PrepNp
+NP-Demo
+DetNP
+268885	DetCL
+V-O
+268888	Intj2CL
+268891	Intj2CL
+Np2CL
+Np-Appos
+268895	S-P
+DetNP
+NPofNP
+Np-Appos
+DetNP
+PrepNp

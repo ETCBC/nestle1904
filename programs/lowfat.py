@@ -5,7 +5,7 @@ from io import BytesIO
 from tf.core.helpers import console
 from tf.core.files import initTree, unexpanduser as ux
 
-from tf.convert.helpers import ZWSP, NEST
+from tf.convert.helpers import NEST
 
 
 def convertTaskCustom(self):
@@ -213,15 +213,15 @@ def getDirector(self):
         atts = {etree.QName(k).localname: v for (k, v) in node.attrib.items()}
 
         if tag == "w":
-            atts["text"] = atts["unicode"]
-            del atts["unicode"]
+            # atts["text"] = atts["unicode"]
+            atts["text"] = node.text
 
             ref = atts["ref"]
-            (b, ch, v, w) = SPLIT_REF.split(ref)
-            atts["book"] = b
-            atts["chapter"] = ch
-            atts["verse"] = v
-            atts["word_num"] = w
+            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(ref)
+            atts["book"] = bRef
+            atts["chapter"] = chRef
+            atts["verse"] = vRef
+            atts["word_num"] = wRef
             thisChapterNum = atts["chapter"]
             thisVerseNum = atts["verse"]
             if thisChapterNum != cv.get("chapter", cur["chapter"]):
@@ -246,7 +246,8 @@ def getDirector(self):
                 cur["verse"] = curVerse
                 cv.feature(curVerse, verse=thisVerseNum)
 
-            s = cv.slot()
+            key = f"B{cur['bookNum']:>03}-C{chRef:>03}-V{vRef:>03}-W{wRef:>04}"
+            s = cv.slot(key=key)
             cv.feature(s, **atts)
 
         else:
@@ -291,10 +292,6 @@ def getDirector(self):
             if tag != "w":
                 curNode = cur["elems"].pop()
 
-                if not cv.linked(curNode):
-                    s = cv.slot()
-                    cv.feature(s, ch=ZWSP, empty=1)
-
                 cv.terminate(curNode)
 
     def afterTag(cv, cur, node, tag):
@@ -336,6 +333,8 @@ def getDirector(self):
         cur = {}
 
         i = 0
+        cur["bookNum"] = 0
+
         for (xmlFolder, xmlFiles) in self.getXML():
             for xmlFile in xmlFiles:
                 i += 1
@@ -350,7 +349,6 @@ def getDirector(self):
                     cur["elems"] = []
                     cur["chapter"] = None
                     cur["verse"] = None
-                    cur["bookNum"] = 0
                     cur["sentNum"] = 0
                     walkNode(cv, cur, root)
 

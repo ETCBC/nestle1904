@@ -1,4 +1,6 @@
 typeDisplay:
+  w:
+    featuresBare: word_num
   sentence:
     condense: true
 writing: 'grc'

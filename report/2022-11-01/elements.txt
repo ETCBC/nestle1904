@@ -14,7 +14,7 @@ Keyword Attributes
 	                   "                  19515x genitive
 	                   "                  24197x nominative
 	                   "                    649x vocative
-	                   class=              8452x adj
+	                   cls (was class)=    8452x adj
 	                   "                   6147x adv
 	                   "                  18227x conj
 	                   "                  19786x det
@@ -69,7 +69,7 @@ Keyword Attributes
 	                   "                   1714x middlepassive
 	                   "                   3493x passive
 
-	<wg>               class=               168x adjp
+	<wg>               cls (was class)=     168x adjp
 	                   "                      7x adv
 	                   "                    166x advp
 	                   "                  30152x cl
@@ -132,7 +132,7 @@ Remaining Attributes and Elements
 	                   "                    200x superlative
 	                   discontinuous=      6034x true
 	                   domain=            126879x X
-	                   frame=             25493x X
+	                   framespec (was frame)= 25493x X
 	                   gloss=             137779x X
 	                   id=                137779x X
 	                   lemma=             137779x X
@@ -143,7 +143,7 @@ Remaining Attributes and Elements
 	                   ref=               137779x X
 	                   referent=          14471x X
 	                   strong=            137779x X
-	                   subjref=           16575x X
+	                   subjrefspec (was subjref)= 16575x X
 	                   unicode=           137779x X
 
 	<wg>                                   8011x 

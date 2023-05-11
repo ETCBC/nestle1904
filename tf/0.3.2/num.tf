@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @converters=Tony Jorg, Saulo Oliveira de Cantanhêde, Dirk Roorda
-@description=generated number (not in xml): book: (Matthew=1, Mark=2, ..., Revelation=27); sentence: numbered per chapter; word: numbered per verse.
+@description=generated number (not in xml):  book: (Matthew=1, Mark=2, ..., Revelation=27);  sentence: numbered per chapter;  word: numbered per verse.
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
 @sourceDescription=Nestle 1904 edition
 @sourceFormat=XML
@@ -10,7 +10,7 @@
 @version=0.3.2
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-10T21:46:51Z
+@dateWritten=2023-05-11T12:55:48Z
 
 1
 2
@@ -137818,7 +137818,7 @@
 25
 26
 27
-138067	1
+210855	1
 2
 3
 4

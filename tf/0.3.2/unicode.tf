@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @converters=Tony Jorg, Saulo Oliveira de Cantanhêde, Dirk Roorda
-@description=word in unicode characters plus material after it
+@description=surface greek form of the word in unicode, contains material after it
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
 @sourceDescription=Nestle 1904 edition
 @sourceFormat=XML
@@ -10,7 +10,7 @@
 @version=0.3.2
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-10T21:46:52Z
+@dateWritten=2023-05-11T12:55:48Z
 
 Βίβλος
 γενέσεως

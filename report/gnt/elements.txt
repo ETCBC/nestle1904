@@ -1,7 +1,0 @@
-Inventory of tags and attributes in the source XML file(s).
-Contains the following sections:
-	Remaining Attributes and Elements
-
-
-
-Remaining Attributes and Elements

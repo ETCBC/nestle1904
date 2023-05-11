@@ -5,7 +5,7 @@ from io import BytesIO
 from tf.core.helpers import console
 from tf.core.files import initTree, unexpanduser as ux
 
-from tf.convert.helpers import NEST
+from tf.convert.helpers import XNEST, TNEST, TSIB
 
 # set this to true if you want to create demo data on the oldest
 # xml version with the first sentence of Jude twice:
@@ -17,6 +17,32 @@ def convertTaskCustom(self):
     """Implementation of the "convert" task.
 
     It sets up the `tf.convert.walker` machinery and runs it.
+
+    ### Important details
+
+    *   **parents/siblings**
+        We only compute parents and siblings for de `wg` elements and their
+        descendant elements (only `wg` and `w`.
+
+        If we would do siblings between sentences, the sibling feature would grow
+        enormously and take up 40% of the dataset.
+
+    *   The `subjref` attribute contains essentially a link to another node,
+        identified by the `id` attribute. We move this attribute to feature
+        `subjrefspec`, but we also create an edge feature `subjref` with the
+        corresponding information.
+
+    *   The `frame` attribute contains essentially labelled links to other nodes,
+        identified by the `id` attribute. We move this attribute to feature
+        `framespec`, but we also create an edge feature `frame` with the
+        corresponding information.
+
+    *   Clause and phrase nodes have been added, they duplicate some of the `wg`
+        nodes. Only for wg-s with an attribute `class`.
+
+        * clauses are `wg` with `class="cl"`
+        * phrases are `wg` with `class` something else, but not empty
+
 
     Returns
     -------
@@ -39,72 +65,8 @@ def convertTaskCustom(self):
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
     }
-    intFeatures = {
-        "appositioncontainer",
-        "articular",
-        "chapter",
-        "discontinuous",
-        "nodeId",
-        "num",
-        "strong",
-        "verse",
-    }
     monoAtts = {"appositioncontainer", "articular", "discontinuous"}
-    featureMeta = (
-        ("after", "material after the end of the word"),
-        ("appositioncontainer", "1 if it is an apposition container"),
-        ("articular", "1 if the wg has an article"),
-        ("book", "book name (abbreviated), from ref attribute in xml"),
-        ("case", "grammatical case"),
-        ("chapter", "chapter number, from ref attribute in xml"),
-        ("class", "morphological class (on w); syntactical class (on wg)"),
-        ("clauseType", "clause type"),
-        ("cltype", "clause type"),
-        ("crule", "clause rule (from xml attribute Rule)"),
-        ("degree", "grammatical degree"),
-        ("discontinuous", "1 if the word is out of sequence in the xml"),
-        ("domain", "domain"),
-        ("frame", "frame"),
-        ("gender", "grammatical gender"),
-        ("gloss", "short translation"),
-        ("id", "xml id"),
-        ("junction", "type of junction"),
-        ("lang", "language the text is in"),
-        ("lemma", "lexical lemma"),
-        ("ln", "ln"),
-        ("mood", "verbal mood"),
-        ("morph", "morphological code"),
-        ("nodeId", "node id (as in the XML source data"),
-        ("normalized", "lemma normalized"),
-        (
-            "num",
-            (
-                "generated number (not in xml): "
-                "book: (Matthew=1, Mark=2, ..., Revelation=27); "
-                "sentence: numbered per chapter; "
-                "word: numbered per verse."
-            ),
-        ),
-        ("number", "grammatical number"),
-        ("note", "annotation of linguistic nature"),
-        ("person", "grammatical person"),
-        ("ref", "biblical reference with word counting"),
-        ("referent", "number of referent"),
-        ("strong", "strong number"),
-        ("subjref", "number of subject referent"),
-        ("role", "role"),
-        ("rule", "syntactical rule"),
-        ("text", "the text of a word"),
-        ("tense", "verbal tense"),
-        ("type", "morphological type (on w), syntactical type (on wg)"),
-        ("unicode", "word in unicode characters plus material after it"),
-        ("verse", "verse number, from ref attribute in xml"),
-        ("voice", "verbal voice"),
-    )
-    featureMeta = {k: dict(description=v) for (k, v) in featureMeta}
 
-    self.intFeatures = intFeatures
-    self.featureMeta = featureMeta
     self.monoAtts = monoAtts
 
     tfVersion = self.tfVersion
@@ -113,6 +75,8 @@ def convertTaskCustom(self):
     generic["sourceFormat"] = "XML"
     generic["version"] = tfVersion
     generic["xmlVersion"] = xmlVersion
+    intFeatures = self.intFeatures
+    featureMeta = self.featureMeta
 
     initTree(tfPath, fresh=True, gentle=True)
 
@@ -177,7 +141,7 @@ def getDirector(self):
 
     # WALKERS
 
-    def walkNode(cv, cur, node):
+    def walkNode(cv, cur, xnode):
         """Internal function to deal with a single element.
 
         Will be called recursively.
@@ -189,22 +153,53 @@ def getDirector(self):
         cur: dict
             Various pieces of data collected during walking
             and relevant for some next steps in the walk.
-        node: object
+        xnode: object
             An lxml element node.
         """
-        tag = etree.QName(node.tag).localname
-        cur[NEST].append(tag)
+        tag = etree.QName(xnode.tag).localname
+        nestable = tag in {"w", "wg"}
 
-        beforeChildren(cv, cur, node, tag)
+        cur[XNEST].append(tag)
 
-        for child in node.iterchildren(tag=etree.Element):
+        (curNode, extraNode) = beforeChildren(cv, cur, xnode, tag)
+
+        if curNode is not None:
+            if len(cur[TNEST]):
+                if nestable:
+                    parentNode = cur[TNEST][-1]
+                    cv.edge(curNode, parentNode, parent=None)
+
+            cur[TNEST].append(curNode)
+
+            if len(cur[TSIB]):
+                if nestable:
+                    siblings = cur[TSIB][-1]
+
+                    nSiblings = len(siblings)
+                    for (i, sib) in enumerate(siblings):
+                        cv.edge(sib, curNode, sibling=nSiblings - i)
+                    siblings.append(curNode)
+
+            cur[TSIB].append([])
+
+        for child in xnode.iterchildren(tag=etree.Element):
             walkNode(cv, cur, child)
 
-        afterChildren(cv, cur, node, tag)
-        cur[NEST].pop()
-        afterTag(cv, cur, node, tag)
+        afterChildren(cv, cur, xnode, tag)
 
-    def beforeChildren(cv, cur, node, tag):
+        if extraNode is not None:
+            cv.terminate(extraNode)
+
+        if curNode is not None:
+            if len(cur[TNEST]):
+                cur[TNEST].pop()
+            if len(cur[TSIB]):
+                cur[TSIB].pop()
+
+        cur[XNEST].pop()
+        afterTag(cv, cur, xnode, tag)
+
+    def beforeChildren(cv, cur, xnode, tag):
         """Actions before dealing with the element's children.
 
         Parameters
@@ -214,15 +209,20 @@ def getDirector(self):
         cur: dict
             Various pieces of data collected during walking
             and relevant for some next steps in the walk.
-        node: object
+        xnode: object
             An lxml element node.
         tag: string
             The tag of the lxml node.
+
+        Returns
+        -------
+        tuple | void
+            The resulting TF node, if any, else None
         """
         if tag in PASS_THROUGH:
-            return
+            return (None, None)
 
-        atts = {etree.QName(k).localname: v for (k, v) in node.attrib.items()}
+        atts = {etree.QName(k).localname: v for (k, v) in xnode.attrib.items()}
         atts = {renameAtts.get(k, k): v for (k, v) in atts.items()}
         for m in monoAtts:
             if atts.get(m, None) == "true":
@@ -231,9 +231,10 @@ def getDirector(self):
         if tag == "error":
             tag = "wg"
 
+        (curNode, extraNode) = (None, None)
+
         if tag == "w":
-            # atts["text"] = atts["unicode"]
-            atts["text"] = node.text
+            atts["text"] = xnode.text
 
             ref = atts["ref"]
             (bRef, chRef, vRef, wRef) = SPLIT_REF.split(ref)
@@ -271,10 +272,29 @@ def getDirector(self):
                 if cur["sentNum"] == 1:
                     key = None
 
-            s = cv.slot(key=key)
-            cv.feature(s, **atts)
+            curNode = cv.slot(key=key)
+            cv.feature(curNode, **atts)
+
+            xId = atts.get("id", None)
+            if xId is not None:
+                cur["xIdIndex"][xId] = curNode
+
+            subjrefSpec = atts.get("subjrefspec", None)
+            if subjrefSpec is not None:
+                parts = subjrefSpec.split()
+                for xIds in parts:
+                    cur["subjrefEdges"].append((curNode, xIds))
+
+            frameSpec = atts.get("framespec", None)
+            if frameSpec is not None:
+                parts = frameSpec.split()
+                for part in parts:
+                    (label, xIds) = part.split(":")
+                    cur["frameEdges"].append((curNode, xIds, label))
 
         else:
+            extraType = None
+
             if tag == "book":
                 cur["bookNum"] += 1
                 atts["num"] = cur["bookNum"]
@@ -285,12 +305,26 @@ def getDirector(self):
                 cur["sentNum"] += 1
                 atts["num"] = cur["sentNum"]
 
+            elif tag == "wg":
+                cls = atts.get("cls", None)
+                if cls is not None:
+                    if cls == "cl":
+                        extraType = "clause"
+                    else:
+                        extraType = "phrase"
+
             curNode = cv.node(tag)
-            cur["elems"].append(curNode)
             if len(atts):
                 cv.feature(curNode, **atts)
 
-    def afterChildren(cv, cur, node, tag):
+            if extraType is not None:
+                extraNode = cv.node(extraType)
+                if len(atts):
+                    cv.feature(extraNode, **atts)
+
+        return (curNode, extraNode)
+
+    def afterChildren(cv, cur, xnode, tag):
         """Node actions after dealing with the children, but before the end tag.
 
         Here we make sure that the newline elements will get their last slot
@@ -303,7 +337,7 @@ def getDirector(self):
         cur: dict
             Various pieces of data collected during walking
             and relevant for some next steps in the walk.
-        node: object
+        xnode: object
             An lxml element node.
         tag: string
             The tag of the lxml node.
@@ -316,12 +350,11 @@ def getDirector(self):
                 cv.terminate(cur["verse"])
                 cv.terminate(cur["chapter"])
 
-            if tag != "w":
-                curNode = cur["elems"].pop()
-
+            if len(cur[TNEST]):
+                curNode = cur[TNEST][-1]
                 cv.terminate(curNode)
 
-    def afterTag(cv, cur, node, tag):
+    def afterTag(cv, cur, xnode, tag):
         """Node actions after dealing with the children and after the end tag.
 
         This is the place where we proces the `tail` of an lxml node: the
@@ -335,7 +368,7 @@ def getDirector(self):
         cur: dict
             Various pieces of data collected during walking
             and relevant for some next steps in the walk.
-        node: object
+        xnode: object
             An lxml element node.
         tag: string
             The tag of the lxml node.
@@ -362,6 +395,8 @@ def getDirector(self):
         i = 0
         cur["bookNum"] = 0
 
+        brokenRefs = {}
+
         for (xmlFolder, xmlFiles) in self.getXML():
             for xmlFile in xmlFiles:
                 i += 1
@@ -372,14 +407,59 @@ def getDirector(self):
                     text = transformFunc(text)
                     tree = etree.parse(text, parser)
                     root = tree.getroot()
-                    cur[NEST] = []
-                    cur["elems"] = []
+                    cur[XNEST] = []
+                    cur[TNEST] = []
+                    cur[TSIB] = []
                     cur["chapter"] = None
                     cur["verse"] = None
                     cur["sentNum"] = 0
+                    cur["xIdIndex"] = {}
+                    cur["subjrefEdges"] = []
+                    cur["frameEdges"] = []
                     walkNode(cv, cur, root)
 
+                xIdIndex = cur["xIdIndex"]
+                noXId = "n00000000000"
+
+                for (fromNode, xIds) in cur["subjrefEdges"]:
+                    for xId in xIds.split(";"):
+                        toNode = fromNode if xId == noXId else xIdIndex.get(xId, None)
+                        if toNode is None:
+                            brokenRefs.setdefault("subjref", {}).setdefault(
+                                f"{xmlFolder}/{xmlFile}", set()
+                            ).add(xId)
+                        else:
+                            cv.edge(fromNode, toNode, subjref=None)
+
+                for (fromNode, xIds, label) in cur["frameEdges"]:
+                    for xId in xIds.split(";"):
+                        toNode = fromNode if xId == noXId else xIdIndex.get(xId, None)
+                        if toNode is None:
+                            brokenRefs.setdefault("frame", {}).setdefault(
+                                f"{xmlFolder}/{xmlFile}", set()
+                            ).add(xId)
+                        else:
+                            cv.edge(fromNode, toNode, frame=label)
+
             console("")
+            if len(brokenRefs):
+                for kind in ("subjref", "frame"):
+                    if kind in brokenRefs:
+                        brokenLinks = brokenRefs[kind]
+                        nBroken = sum(len(x) for x in brokenLinks.values())
+                        console(f"There are {nBroken} broken {kind} references.")
+                        if verbose >= 0:
+                            for loc in sorted(brokenLinks):
+                                refs = sorted(brokenLinks[loc])
+                                nRefs = len(refs)
+                                refStr = ", ".join(refs[0:3])
+                                if nRefs > 3:
+                                    refStr += f" ... ({nRefs - 3} more)"
+                                console(f"{loc:<30}: {refStr}")
+                    else:
+                        console(f"There are no broken {kind} references.")
+            else:
+                console("There are no broken references.")
 
         for fName in featureMeta:
             if not cv.occurs(fName):

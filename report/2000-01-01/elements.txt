@@ -1,347 +1,77 @@
 Inventory of tags and attributes in the source XML file(s).
 Contains the following sections:
+	Keyword Attributes
 	Remaining Attributes and Elements
 
 
+
+Keyword Attributes
+
+	<w>                case=                 16x dative
+	                   "                      6x genitive
+	                   "                      6x nominative
+	                   class=                 2x adj
+	                   "                      4x conj
+	                   "                      2x det
+	                   "                     20x noun
+	                   "                      2x prep
+	                   "                      4x verb
+	                   gender=               28x masculine
+	                   mood=                  4x participle
+	                   number=                8x plural
+	                   "                     20x singular
+	                   role=                  4x v
+	                   tense=                 4x perfect
+	                   type=                  8x common
+	                   "                     12x proper
+	                   voice=                 4x passive
+
+	<wg>               class=                 6x cl
+	                   "                      8x np
+	                   "                      2x pp
+	                   role=                  4x adv
+	                   "                      2x apposition
+	                   "                      2x io
+	                   "                      2x s
+	                   type=                  4x conjuncted-wg
+	                   "                      8x group
+	                   "                      4x modifier-clause-scope
+	                   "                      4x modifier-scope
+	                   "                      2x wrapper-scope
 
 Remaining Attributes and Elements
 
 	<book>             id=                    1x X
 	                   lang=                  1x el
 
-	<milestone>        id=                   12x X
-	                   unit=                 12x verse
+	<milestone>        id=                    2x X
+	                   unit=                  2x verse
 
-	<p>                                       3x 
+	<p>                                       2x 
 
-	<sentence>                                3x 
+	<sentence>                                2x 
 
-	<w>                after=               144x  
-	                          "                     25x ,
-	                          "                      3x .
-	                   case=                 62x accusative
-	                          "                     21x genitive
-	                          "                     28x nominative
-	                   class=                29x conj
-	                          "                     37x det
-	                          "                     72x noun
-	                          "                      5x prep
-	                          "                      2x pron
-	                          "                     27x verb
-	                   discontinuous=        26x true
-	                   domain=              171x NNNNNN
-	                          "                      1x NNNNNN NNNNNN
-	                   frame=                24x AN:nNNNNNNNNNNN AN:nNNNNNNNNNNN
-	                          "                      3x AN:nNNNNNNNNNNN AN:nNNNNNNNNNNN;nNNNNNNNNNNN
-	                   gender=               12x feminine
-	                          "                     99x masculine
-	                   gloss=                32x -
-	                          "                      2x Abijah
-	                          "                      1x Abraham
-	                          "                      2x Ahaz
-	                          "                      2x Amminadab
-	                          "                      2x Amos
-	                          "                      2x Asa
-	                          "                      2x Boaz
-	                          "                      1x Christ
-	                          "                      2x David
-	                          "                      2x Hezekiah
-	                          "                      2x Hezron
-	                          "                      2x Isaac
-	                          "                      2x Jacob
-	                          "                      1x Jechoniah
-	                          "                      2x Jehoshaphat
-	                          "                      2x Jesse
-	                          "                      2x Joram
-	                          "                      2x Josiah
-	                          "                      2x Jotham
-	                          "                      2x Judah
-	                          "                      2x Manasseh
-	                          "                      2x Nahshon
-	                          "                      2x Obed
-	                          "                      2x Perez
-	                          "                      1x Rahab
-	                          "                      2x Ram
-	                          "                      2x Rehoboam
-	                          "                      1x Ruth
-	                          "                      2x Salmon
-	                          "                      2x Solomon
-	                          "                      1x Tamar
-	                          "                      2x Uzziah
-	                          "                      1x Zerah
-	                          "                      1x [The] book
-	                          "                      3x and
-	                          "                      1x at [the time]
-	                          "                     27x begat
-	                          "                      2x brothers
-	                          "                      1x carrying away
-	                          "                      1x king
-	                          "                      1x of Abraham
-	                          "                      1x of David
-	                          "                      1x of Jesus
-	                          "                      1x of Uriah
-	                          "                      1x of [the] genealogy
-	                          "                      2x of him
-	                          "                      1x of the
-	                          "                      4x out of
-	                          "                      2x son
-	                          "                      3x the
-	                          "                      1x the [wife]
-	                          "                     26x then
-	                          "                      1x to Babylon
-	                   id=                  172x X
-	                   lemma=                 1x Βαβυλών
-	                          "                      2x Βόες
-	                          "                      3x Δαυίδ
-	                          "                      1x Ζάρα
-	                          "                      1x Θαμάρ
-	                          "                      2x Μανασσῆ
-	                          "                      2x Ναασσών
-	                          "                      1x Οὐρίας
-	                          "                      2x Σαλμών
-	                          "                      2x Σολομών
-	                          "                      2x Φάρες
-	                          "                      1x Χριστός
-	                          "                      2x αὐτός
-	                          "                      1x βίβλος
-	                          "                      1x βασιλεύς
-	                          "                      1x γένεσις
-	                          "                     27x γεννάω
-	                          "                     26x δέ
-	                          "                      3x καί
-	                          "                      1x μετοικεσία
-	                          "                      2x υἱός
-	                          "                      2x ἀδελφός
-	                          "                      2x Ἀβιά
-	                          "                      2x Ἀβραάμ
-	                          "                      2x Ἀμιναδάβ
-	                          "                      2x Ἀμώς
-	                          "                      2x Ἀράμ
-	                          "                      2x Ἀσάφ
-	                          "                      2x Ἀχάζ
-	                          "                      4x ἐκ
-	                          "                      1x ἐπί
-	                          "                      2x Ἑζεκίας
-	                          "                      2x Ἑσρώμ
-	                          "                      2x Ἰακώβ
-	                          "                      2x Ἰεσσαί
-	                          "                      1x Ἰεχονίας
-	                          "                      1x Ἰησοῦς
-	                          "                      2x Ἰούδας
-	                          "                      2x Ἰσαάκ
-	                          "                      2x Ἰωαθάμ
-	                          "                      2x Ἰωβήδ
-	                          "                      2x Ἰωράμ
-	                          "                      2x Ἰωσίας
-	                          "                      2x Ἰωσαφάτ
-	                          "                     37x ὁ
-	                          "                      2x Ὀζίας
-	                          "                      1x Ῥαχάβ
-	                          "                      2x Ῥοβοάμ
-	                          "                      1x Ῥούθ
-	                   ln=                    6x NN.N
-	                          "                    116x NN.NN
-	                          "                      1x NN.NN NN.NN
-	                          "                     38x NN.NNN
-	                          "                      3x NN.NNNa
-	                          "                      2x NN.NNNb
-	                          "                      2x NN.NNNh
-	                          "                      2x NN.NNa
-	                          "                      2x NN.Na
-	                   mood=                 27x indicative
-	                   morph=                29x CONJ
-	                          "                      2x N-APM
-	                          "                      8x N-ASM
-	                          "                      3x N-GSF
-	                          "                      5x N-GSM
-	                          "                      1x N-NSF
-	                          "                      6x N-NSM
-	                          "                     47x N-PRI
-	                          "                      2x P-GSM
-	                          "                      5x PREP
-	                          "                      2x T-APM
-	                          "                     29x T-ASM
-	                          "                      5x T-GSF
-	                          "                      1x T-GSM
-	                          "                     27x V-AAI-NS
-	                   normalized=            1x Βίβλος
-	                          "                      1x Βαβυλῶνος
-	                          "                      2x Βόες
-	                          "                      3x Δαυείδ
-	                          "                      1x Ζαρά
-	                          "                      1x Θάμαρ
-	                          "                      1x Μανασσῆ
-	                          "                      1x Μανασσῆς
-	                          "                      2x Ναασσών
-	                          "                      1x Οὐρίου
-	                          "                      2x Σαλμών
-	                          "                      1x Σολομών
-	                          "                      1x Σολομῶνα
-	                          "                      2x Φαρές
-	                          "                      1x Χριστοῦ
-	                          "                      2x αὐτοῦ
-	                          "                      1x βασιλέα
-	                          "                      1x γενέσεως
-	                          "                     26x δέ
-	                          "                      3x καί
-	                          "                      1x μετοικεσίας
-	                          "                      2x τούς
-	                          "                      1x τοῦ
-	                          "                     29x τόν
-	                          "                      5x τῆς
-	                          "                      2x υἱοῦ
-	                          "                      2x ἀδελφούς
-	                          "                      2x Ἀβιά
-	                          "                      2x Ἀβραάμ
-	                          "                      2x Ἀμιναδάβ
-	                          "                      2x Ἀμώς
-	                          "                      2x Ἀράμ
-	                          "                      2x Ἀσάφ
-	                          "                      2x Ἄχαζ
-	                          "                     27x ἐγέννησεν
-	                          "                      4x ἐκ
-	                          "                      1x ἐπί
-	                          "                      1x Ἐζεκίαν
-	                          "                      1x Ἐζεκίας
-	                          "                      2x Ἐσρώμ
-	                          "                      2x Ἰακώβ
-	                          "                      2x Ἰεσσαί
-	                          "                      1x Ἰεχονίαν
-	                          "                      1x Ἰησοῦ
-	                          "                      1x Ἰούδαν
-	                          "                      1x Ἰούδας
-	                          "                      2x Ἰσαάκ
-	                          "                      2x Ἰωαθάμ
-	                          "                      2x Ἰωβήδ
-	                          "                      2x Ἰωράμ
-	                          "                      2x Ἰωσαφάτ
-	                          "                      1x Ἰωσείαν
-	                          "                      1x Ἰωσείας
-	                          "                      1x Ὀζείαν
-	                          "                      1x Ὀζείας
-	                          "                      1x Ῥαχάβ
-	                          "                      2x Ῥοβοάμ
-	                          "                      1x Ῥούθ
-	                   number=                4x plural
-	                          "                    134x singular
-	                   person=               27x third
-	                   ref=                  80x MAT N:N!N
-	                          "                     64x MAT N:N!NN
-	                          "                     18x MAT N:NN!N
-	                          "                     10x MAT N:NN!NN
-	                   referent=              2x nNNNNNNNNNNN
-	                   role=                 27x s
-	                          "                     27x v
-	                   strong=                2x N
-	                          "                      4x NN
-	                          "                     15x NNN
-	                          "                    151x NNNN
-	                   tense=                27x aorist
-	                   type=                  8x common
-	                          "                      2x personal
-	                          "                     64x proper
-	                   unicode=               1x Βίβλος
-	                          "                      1x Βαβυλῶνος.
-	                          "                      2x Βόες
-	                          "                      3x Δαυεὶδ
-	                          "                      1x Ζαρὰ
-	                          "                      1x Θάμαρ,
-	                          "                      1x Μανασσῆ,
-	                          "                      1x Μανασσῆς
-	                          "                      1x Ναασσών,
-	                          "                      1x Ναασσὼν
-	                          "                      1x Οὐρίου,
-	                          "                      1x Σαλμών,
-	                          "                      1x Σαλμὼν
-	                          "                      1x Σολομὼν
-	                          "                      1x Σολομῶνα
-	                          "                      2x Φαρὲς
-	                          "                      1x Χριστοῦ
-	                          "                      1x αὐτοῦ
-	                          "                      1x αὐτοῦ,
-	                          "                      1x βασιλέα.
-	                          "                      1x γενέσεως
-	                          "                     26x δὲ
-	                          "                      3x καὶ
-	                          "                      1x μετοικεσίας
-	                          "                      2x τοὺς
-	                          "                      1x τοῦ
-	                          "                     29x τὸν
-	                          "                      5x τῆς
-	                          "                      2x υἱοῦ
-	                          "                      2x ἀδελφοὺς
-	                          "                      1x Ἀβιά,
-	                          "                      1x Ἀβιὰ
-	                          "                      1x Ἀβραάμ.
-	                          "                      1x Ἀβραὰμ
-	                          "                      1x Ἀμιναδάβ,
-	                          "                      1x Ἀμιναδὰβ
-	                          "                      1x Ἀμώς,
-	                          "                      1x Ἀμὼς
-	                          "                      1x Ἀράμ,
-	                          "                      1x Ἀρὰμ
-	                          "                      1x Ἀσάφ,
-	                          "                      1x Ἀσὰφ
-	                          "                      1x Ἄχαζ
-	                          "                      1x Ἄχαζ,
-	                          "                     27x ἐγέννησεν
-	                          "                      4x ἐκ
-	                          "                      1x ἐπὶ
-	                          "                      1x Ἐζεκίαν,
-	                          "                      1x Ἐζεκίας
-	                          "                      1x Ἐσρώμ,
-	                          "                      1x Ἐσρὼμ
-	                          "                      1x Ἰακώβ,
-	                          "                      1x Ἰακὼβ
-	                          "                      1x Ἰεσσαί,
-	                          "                      1x Ἰεσσαὶ
-	                          "                      1x Ἰεχονίαν
-	                          "                      1x Ἰησοῦ
-	                          "                      1x Ἰούδαν
-	                          "                      1x Ἰούδας
-	                          "                      1x Ἰσαάκ,
-	                          "                      1x Ἰσαὰκ
-	                          "                      1x Ἰωαθάμ,
-	                          "                      1x Ἰωαθὰμ
-	                          "                      2x Ἰωβὴδ
-	                          "                      1x Ἰωράμ,
-	                          "                      1x Ἰωρὰμ
-	                          "                      1x Ἰωσαφάτ,
-	                          "                      1x Ἰωσαφὰτ
-	                          "                      1x Ἰωσείαν,
-	                          "                      1x Ἰωσείας
-	                          "                      1x Ὀζείαν,
-	                          "                      1x Ὀζείας
-	                          "                      1x Ῥαχάβ,
-	                          "                      1x Ῥοβοάμ,
-	                          "                      1x Ῥοβοὰμ
-	                          "                      1x Ῥούθ,
-	                   voice=                27x active
+	<w>                after=                28x  
+	                   "                      4x ,
+	                   "                      2x .
+	                   discontinuous=         2x true
+	                   domain=               28x X
+	                   frame=                 4x X
+	                   gloss=                34x X
+	                   lemma=                34x X
+	                   ln=                   28x X
+	                   morph=                34x X
+	                   normalized=           34x X
+	                   ref=                  34x X
+	                   strong=               34x X
+	                   subjref=               4x X
+	                   unicode=              34x X
 
-	<wg>                                      3x 
-	                   appositioncontainer=     4x true
-	                   articular=            44x true
-	                   class=                28x cl
-	                          "                     44x np
-	                          "                      5x pp
-	                   cltype=                1x Verbless
-	                   junction=             27x coordinate
-	                   role=                  5x adv
-	                          "                      3x apposition
-	                          "                     27x o
-	                          "                      1x p
-	                   rule=                  1x Conj-CL
-	                          "                      2x ConjNNCL
-	                          "                     36x DetNP
-	                          "                      8x NPofNP
-	                          "                      4x Np-Appos
-	                          "                      3x NpaNp
-	                          "                      1x PNCL
-	                          "                      5x PrepNp
-	                          "                     22x S-V-O
-	                          "                      5x S-V-O-ADV
-	                   type=                 28x conjuncted-wg
-	                          "                      4x group
-	                          "                     44x modifier-scope
-	                          "                      1x wrapper-clause-scope
-	                          "                      5x wrapper-scope
+	<wg>                                      2x 
+	                   appositioncontainer=     8x true
+	                   articular=             2x true
+	                   clauseType=            2x nominalized
+	                   cltype=                2x VerbElided
+	                   junction=              4x coordinate
+	                   "                      2x subordinate
+	                   rule=                 28x X

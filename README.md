@@ -1,3 +1,5 @@
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
 # nestle1904
 Experiment with XML to TF conversion for lowfat trees of Nestle 1904 edition of Greek New Testament
 

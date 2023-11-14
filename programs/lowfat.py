@@ -38,7 +38,7 @@ def convertTaskCustom(self):
         corresponding information.
 
     *   Clause and phrase nodes have been added, they duplicate some of the `wg`
-        nodes. Only for wg-s with an attribute `class`.
+        nodes. Only for `wg`-s with an attribute `class`.
 
         * clauses are `wg` with `class="cl"`
         * phrases are `wg` with `class` something else, but not empty
@@ -154,7 +154,7 @@ def getDirector(self):
             Various pieces of data collected during walking
             and relevant for some next steps in the walk.
         xnode: object
-            An lxml element node.
+            An LXML element node.
         """
         tag = etree.QName(xnode.tag).localname
         nestable = tag in {"w", "wg"}
@@ -213,11 +213,11 @@ def getDirector(self):
             Various pieces of data collected during walking
             and relevant for some next steps in the walk.
         xnode: object
-            An lxml element node.
+            An LXML element node.
         tag: string
-            The tag of the lxml node.
+            The tag of the LXML node.
         atts: dict
-            The attributes of the lxml node, possibly renamed.
+            The attributes of the LXML node, possibly renamed.
 
         Returns
         -------
@@ -341,11 +341,11 @@ def getDirector(self):
             Various pieces of data collected during walking
             and relevant for some next steps in the walk.
         xnode: object
-            An lxml element node.
+            An LXML element node.
         tag: string
-            The tag of the lxml node.
+            The tag of the LXML node.
         atts: dict
-            The attributes of the lxml node, possibly renamed.
+            The attributes of the LXML node, possibly renamed.
         """
         if tag == "error":
             tag = "wg"
@@ -362,7 +362,7 @@ def getDirector(self):
     def afterTag(cv, cur, xnode, tag, atts):
         """Node actions after dealing with the children and after the end tag.
 
-        This is the place where we proces the `tail` of an lxml node: the
+        This is the place where we process the `tail` of an LXML node: the
         text material after the element and before the next open/close
         tag of any element.
 
@@ -374,11 +374,11 @@ def getDirector(self):
             Various pieces of data collected during walking
             and relevant for some next steps in the walk.
         xnode: object
-            An lxml element node.
+            An LXML element node.
         tag: string
-            The tag of the lxml node.
+            The tag of the LXML node.
         atts: dict
-            The attributes of the lxml node, possibly renamed.
+            The attributes of the LXML node, possibly renamed.
         """
         pass
 

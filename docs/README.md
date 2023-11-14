@@ -1,4 +1,4 @@
-# Nestle 1904 GNT TextFabric
+# Nestle 1904 GNT in TF format
 
 This is were the feature documentation will be stored.
 
